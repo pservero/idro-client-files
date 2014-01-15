@@ -1,0 +1,3463 @@
+// 하치원 
+quest {
+	quest_info (1000, "Transcendent")
+}
+
+quest {
+	quest_info (1001, "Job Changes to Acolyte")
+}
+
+quest {
+	quest_info (1002, "Job Changes to Acolyte")
+}
+
+quest {
+	quest_info (1003, "Job Changes to Acolyte")
+}
+
+quest {
+	quest_info (1004, "Job Changes to Archer")
+}
+
+quest {
+	quest_info (1005, "Job Changes to Mage")
+}
+
+quest {
+	quest_info (1006, "Job Changes to Mage")
+}
+
+quest {
+	quest_info (1007, "Job Changes to Mage")
+}
+
+quest {
+	quest_info (1008, "Job Changes to Mage")
+}
+
+quest {
+	quest_info (1009, "Job Changes to Merchant")
+}
+
+quest {
+	quest_info (1010, "Job Changes to Merchant")
+}
+
+quest {
+	quest_info (1011, "Job Changes to Merchant")
+}
+
+quest {
+	quest_info (1012, "Job Changes to Merchant")
+}
+
+quest {
+	quest_info (1013, "Job Changes to Thief")
+}
+
+quest {
+	quest_info (1014, "Job Changes to Swordman")
+}
+// 조미정 
+quest {
+	quest_info (2000, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2001, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2002, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2003, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2004, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2005, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2006, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2007, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2008, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2009, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2010, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2011, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2012, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2013, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2014, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2015, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2016, "Job Changes to Blacksmith")
+}
+
+quest {
+	quest_info (2017, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2018, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2019, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2020, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2021, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2022, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2023, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2024, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2025, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2026, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2027, "Job Changes to Rogue")
+}
+
+quest {
+	quest_info (2028, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2029, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2030, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2031, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2032, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2033, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2034, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2035, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2036, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2037, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2038, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2039, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2040, "Job Changes to Alchemist")
+}
+
+quest {
+	quest_info (2041, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2042, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2043, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2044, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2045, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2046, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2047, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2048, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2049, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2050, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2051, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2052, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2053, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2054, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2055, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2056, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2057, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2058, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2059, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2060, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2061, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2062, "Job Changes to Sage")
+}
+
+quest {
+	quest_info (2063, "The Crow of the Fate")
+}
+
+quest {
+	quest_info (2064, "The Crow of the Fate")
+}
+
+quest {
+	quest_info (2065, "The Crow of the Fate")
+}
+
+quest {
+	quest_info (2066, "The Crow of the Fate")
+}
+
+quest {
+	quest_info (2067, "The Crow of the Fate")
+}
+
+quest {
+	quest_info (2068, "The Crow of the Fate")
+}
+//==================== Cursed Expectation ======================== 
+quest {
+	quest_info (2071, "Cursed Expectation")
+}
+
+quest {
+	quest_info (2072, "Cursed Expectation")
+}
+
+quest {
+	quest_info (2073, "Cursed Expectation")
+}
+
+quest {
+	quest_info (2074, "Cursed Expectation")
+}
+
+quest {
+	quest_info (2075, "Cursed Expectation")
+}
+
+quest {
+	quest_info (2076, "Cursed Expectation")
+}
+
+quest {
+	quest_info (2077, "Cursed Expectation")
+}
+
+quest {
+	quest_info (2078, "Cursed Expectation")
+}
+//==================== Past Clashed ======================== 
+quest {
+	quest_info (2079, "Past Clashed")
+}
+
+quest {
+	quest_info (2080, "Past Clashed")
+}
+
+quest {
+	quest_info (2081, "Past Clashed")
+}
+
+quest {
+	quest_info (2082, "Past Clashed")
+}
+
+quest {
+	quest_info (2083, "Past Clashed")
+}
+
+quest {
+	quest_info (2084, "Past Clashed")
+}
+
+quest {
+	quest_info (2085, "Past Clashed")
+}
+//==================== Enterprise ======================== 
+quest {
+	quest_info (2086, "Enterprise")
+}
+
+quest {
+	quest_info (2087, "Enterprise")
+}
+
+quest {
+	quest_info (2088, "Enterprise")
+}
+
+quest {
+	quest_info (2089, "Enterprise")
+}
+
+quest {
+	quest_info (2090, "Enterprise")
+}
+
+quest {
+	quest_info (2091, "Enterprise")
+}
+
+quest {
+	quest_info (2092, "Enterprise")
+}
+
+quest {
+	quest_info (2093, "Enterprise")
+}
+
+quest {
+	quest_info (2094, "Enterprise")
+}
+
+quest {
+	quest_info (2095, "Enterprise")
+}
+//==================== A mage in the ice dungeon ======================== 
+quest {
+	quest_info (2109, "A mage in the ice dungeon")
+}
+
+quest {
+	quest_info (2110, "A mage in the ice dungeon")
+}
+
+quest {
+	quest_info (2111, "A mage in the ice dungeon")
+}
+
+quest {
+	quest_info (2112, "A mage in the ice dungeon")
+}
+
+quest {
+	quest_info (2113, "A mage in the ice dungeon")
+}
+//==================== 토르화산의 기지 ======================== 
+quest {
+	quest_info (2114, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2115, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2116, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2117, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2118, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2119, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2120, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2121, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2122, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2123, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2124, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2125, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2126, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2127, "A camp in the Tohr Volcano")
+}
+
+quest {
+	quest_info (2128, "A camp in the Tohr Volcano")
+}
+//길드 던전 
+quest {
+	quest_info (2143, "Guild Dungeon Event")
+	time(50) 
+}
+
+quest {
+	quest_info (2144, "Guild Dungeon Event")
+}
+//EP13 
+//quest {
+//	quest_info (2147,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2148,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2149,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2149,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2150,"Attitude to the new")
+//	hunt("PINGUICULA", 30) 
+//}
+
+//quest {
+//	quest_info (2151,"Attitude to the new")
+//	hunt("CORNUS", 10) 
+//}
+
+//quest {
+//	quest_info (2152,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2153,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2154,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2155,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2156,"Attitude to the new")
+//}
+
+//quest {
+//	quest_info (2157,"Attitude to the new")
+//	hunt("TATACHO", 10) 
+//}
+
+//quest {
+//	quest_info (2158,"Find a fairy")
+//}
+
+//quest {
+//	quest_info (2159,"Find a giant")
+//}
+
+//---------------------------
+quest {
+	quest_info (2160, "Broken Sword")
+}
+
+quest {
+	quest_info (2161, "Broken Sword")
+}
+
+quest {
+	quest_info (2162, "Broken Sword")
+}
+
+quest {
+	quest_info (2163, "Broken Sword")
+}
+
+quest {
+	quest_info (2164, "Broken Sword")
+}
+
+quest {
+	quest_info (2165, "Broken Sword")
+}
+
+quest {
+	quest_info (2166, "Broken Sword")
+}
+
+quest {
+	quest_info (2167, "Broken Sword")
+}
+
+quest {
+	quest_info (2168, "Broken Sword")
+}
+
+quest {
+	quest_info (2169, "Broken Sword")
+}
+
+quest {
+	quest_info (2170, "Broken Sword")
+}
+
+quest {
+	quest_info (2171, "Broken Sword")
+}
+
+quest {
+	quest_info (2172, "Broken Sword")
+}
+
+quest {
+	quest_info (2173, "Broken Sword")
+}
+
+quest {
+	quest_info (2174, "Broken Sword")
+}
+
+quest {
+	quest_info (2175, "Broken Sword")
+}
+
+quest {
+	quest_info (2176, "Broken Sword")
+}
+
+quest {
+	quest_info (2177, "Broken Sword")
+}
+
+quest {
+	quest_info (2178, "Broken Sword")
+}
+
+// 김은동 
+quest {
+	quest_info (3000, "Job Changes to Bard - Beautiful Song")
+}
+
+quest {
+	quest_info (3001, "Job Changes to Bard - Pay by Flower?")
+}
+
+quest {
+	quest_info (3002, "Job Changes to Bard - The first step of becoming a Bard")
+}
+
+quest {
+	quest_info (3003, "Job Changes to Bard - Following a song.")
+}
+
+quest {
+	quest_info (3004, "Job Changes to Bard - Final test.")
+}
+
+quest {
+	quest_info (3005, "Job Changes to Bard - Final test.")
+}
+
+quest {
+	quest_info (3006, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3007, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3008, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3009, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3010, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3011, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3012, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3013, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3014, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3015, "Job Changes to Crusader")
+}
+
+quest {
+	quest_info (3016, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3017, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3018, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3019, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3020, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3021, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3022, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3023, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3024, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3025, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3026, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3027, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3028, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3029, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3030, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3031, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3032, "Job Changes to Monk")
+}
+
+quest {
+	quest_info (3050, "Resurrection of Satan Morocc - News about Morocc Village")
+}
+
+quest {
+	quest_info (3051, "Resurrection of Satan Morocc - Test of Quealification")
+}
+
+quest {
+	quest_info (3052, "Resurrection of Satan Morocc - Test of Quealification2")
+}
+
+quest {
+	quest_info (3053, "Resurrection of Satan Morocc - Joining Continental Guard")
+}
+
+quest {
+	quest_info (3054, "Resurrection of Satan Morocc - Defeating Satan Morocc!")
+}
+
+quest {
+	quest_info (3055, "Resurrection of Satan Morocc - Time-Space Gap")
+}
+
+quest {
+	quest_info (3056, "Resurrection of Satan Morocc - Rewards")
+}
+
+quest {
+	quest_info (3040, "The curse of Baphomet - Fatigue of Grave")
+	time(43200) 
+}
+
+quest {
+	quest_info (3041, "The curse of Baphomet - Dearth of magical power")
+	time(180) 
+}
+
+quest {
+	quest_info (3042, "The identity of the Cursed Baphomet Doll - Finding Rust Blackhand...")
+}
+
+quest {
+	quest_info (3043, "The identity of the Cursed Baphomet Doll - The true Gigantic Magestic Goat?")
+}
+
+quest {
+	quest_info (3060, "Kids in Veins - Where's the Little Sis?")
+}
+
+quest {
+	quest_info (3061, "Kids in Veins - Find a way to unlock the shackles?")
+}
+
+quest {
+	quest_info (3062, "Kids in Veins - Find the Locksmith")
+}
+
+quest {
+	quest_info (3063, "Kids in Veins - Mr. Lockenlock?")
+}
+
+quest {
+	quest_info (3064, "Kids in Veins - Organic Chamelepu Soap")
+}
+
+quest {
+	quest_info (3065, "Kids in Veins - Soap Ingredients")
+}
+
+quest {
+	quest_info (3066, "Kids in Veins - To make a Chamelepu Soap...")
+}
+
+quest {
+	quest_info (3067, "Kids in Veins - Camel Appetite Stimulants")
+}
+
+quest {
+	quest_info (3068, "Kids in Veins - Getting the Camel Dung")
+}
+
+quest {
+	quest_info (3069, "Kids in Veins - Where's the Silk Sand Camel?")
+}
+
+quest {
+	quest_info (3070, "Kids in Veins - Silk Sand Camel is gone")
+}
+
+quest {
+	quest_info (3071, "Kids in Veins - Silk Sand Camel is found!")
+}
+
+quest {
+	quest_info (3072, "Kids in Veins - 1 lump of Camel dung obtained")
+}
+
+quest {
+	quest_info (3073, "Kids in Veins - 2 lumps of Camel dung obtained")
+}
+
+quest {
+	quest_info (3074, "Kids in Veins - 3 lumps of Camel dung obtained")
+}
+
+quest {
+	quest_info (3075, "Kids in Veins - 4 lumps of Camel dung obtained")
+}
+
+quest {
+	quest_info (3076, "Kids in Veins - 5 lumps of Camel dung obtained")
+}
+
+quest {
+	quest_info (3077, "Kids in Veins - Go to Ms. Ivory")
+}
+
+quest {
+	quest_info (3078, "Kids in Veins - Chamalepu Soap is completed")
+}
+
+quest {
+	quest_info (3079, "Kids in Veins - Making the key mold")
+}
+
+quest {
+	quest_info (3080, "Kids in Veins - Bringing the key mold")
+}
+
+quest {
+	quest_info (3081, "Kids in Veins - All you need is Steel")
+}
+
+quest {
+	quest_info (3082, "Kids in Veins - The Key is Made")
+}
+
+quest {
+	quest_info (3083, "Kids in Veins - Mr. Lockenlock's key")
+}
+
+quest {
+	quest_info (3085, "A report to the continent - Call from the commander")
+}
+
+quest {
+	quest_info (3086, "A report to the continent - The commander's mission")
+}
+
+quest {
+	quest_info (3087, "A report to the continent - The commander's mission")
+}
+
+quest {
+	quest_info (3088, "A report to the continent - 사고발생!")
+}
+
+quest {
+	quest_info (3089, "A report to the continent - 복구방법")
+}
+
+quest {
+	quest_info (3090, "A report to the continent - 보고서들의 행방")
+}
+
+quest {
+	quest_info (3091, "A report to the continent - 보고서들의 행방")
+	time(1800)
+}
+
+quest {
+	quest_info (3092, "A report to the continent - 복구 성공!")
+}
+
+quest {
+	quest_info (3093, "A report to the continent - 대륙의로의 보고")
+}
+
+quest {
+	quest_info (3094, "A report to the continent - 원정대로 복귀")
+}
+
+quest {
+	quest_info (3100, "Consolidating Heavy Debt - Lost Bond of Debt")
+}
+
+quest {
+	quest_info (3101, "Consolidating Heavy Debt - Strange Heap of Earth")
+}
+
+quest {
+	quest_info (3102, "Consolidating Heavy Debt - Bond of Debt Found, but...")
+}
+
+quest {
+	quest_info (3103, "Consolidating Heavy Debt - Inventor Dorian")
+}
+
+quest {
+	quest_info (3104, "Consolidating Heavy Debt - Repair Materials of Magic Dryer")
+}
+
+quest {
+	quest_info (3105, "Consolidating Heavy Debt - Repairing Magic Dryer")
+}
+
+quest {
+	quest_info (3106, "Consolidating Heavy Debt - Repairing Magic Dryer Failed")
+}
+
+quest {
+	quest_info (3107, "Consolidating Heavy Debt - Repairing Magic Dryer Successful")
+}
+
+quest {
+	quest_info (3108, "Consolidating Heavy Debt - Let's Run the Magic Dryer")
+}
+
+quest {
+	quest_info (3109, "Consolidating Heavy Debt - Restoring the Bond of Debt")
+}
+
+quest {
+	quest_info (3110, "Stolen Diamond - Tracking the Diamond")
+}
+
+quest {
+	quest_info (3111, "Stolen Diamond - Leblo's Favor")
+}
+
+quest {
+	quest_info (3112, "Stolen Diamond - Wola the Doctor")
+}
+
+quest {
+	quest_info (3113, "Stolen Diamond - Wola the Doctor")
+}
+
+quest {
+	quest_info (3114, "Stolen Diamond - Wola the Doctor")
+}
+
+quest {
+	quest_info (3115, "Stolen Diamond - Leblo's Information")
+}
+
+quest {
+	quest_info (3116, "Stolen Diamond - Information from Rogue Investigator")
+}
+
+quest {
+	quest_info (3117, "Stolen Diamond - Odd Switches")
+}
+
+quest {
+	quest_info (3118, "Stolen Diamond - Diamond Found!")
+}
+
+quest {
+	quest_info (3119, "Z Gang Wanted - Wanted Notice")
+}
+
+quest {
+	quest_info (3120, "Z Gang Wanted - About Z Gang")
+}
+
+quest {
+	quest_info (3121, "Z Gang Wanted - Valdes's Favor")
+}
+
+quest {
+	quest_info (3122, "Z Gang Wanted - Information from Valdes")
+}
+
+quest {
+	quest_info (3123, "Z Gang Wanted - Marybell's Test")
+}
+
+quest {
+	quest_info (3124, "Z Gang Wanted - Challenging Moonho Ahn")
+}
+
+quest {
+	quest_info (3125, "Z Gang Wanted - Challenging Moonho Ahn")
+}
+
+quest {
+	quest_info (3126, "Z Gang Wanted - Information from Marybell")
+}
+
+quest {
+	quest_info (3127, "Z Gang Wanted - Z Gang's Attack")
+}
+
+quest {
+	quest_info (3128, "Z Gang Wanted - Z Gang's Attack")
+}
+
+quest {
+	quest_info (3129, "Z Gang Wanted - Strange Letter")
+}
+
+quest {
+	quest_info (3130, "Z Gang Wanted - Decrypting the letter...")
+}
+
+quest {
+	quest_info (3131, "Z Gang Wanted - Code's Broken!")
+}
+
+quest {
+	quest_info (3132, "Z Gang Wanted - Find the Z Gang's Agit")
+}
+
+quest {
+	quest_info (3133, "Z Gang Wanted - Agit Found!")
+}
+
+quest {
+	quest_info (3134, "Z Gang Wanted - Clean Sweep of Z Gang")
+}
+// 오남경 
+quest {
+	quest_info (4000, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4001, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4002, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4003, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4004, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4005, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4006, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4007, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4008, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4009, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4010, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4011, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4012, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4013, "Job Chages to Hunter")
+}
+
+quest {
+	quest_info (4015, "Election of the King")
+}
+
+quest {
+	quest_info (4016, "Election of the King")
+}
+
+quest {
+	quest_info (4017, "Election of the King")
+}
+
+quest {
+	quest_info (4018, "Election of the King")
+}
+
+quest {
+	quest_info (4019, "Election of the King")
+}
+
+quest {
+	quest_info (4020, "Election of the King")
+}
+
+quest {
+	quest_info (4021, "Election of the King")
+}
+
+quest {
+	quest_info (4022, "Election of the King")
+}
+
+quest {
+	quest_info (4023, "Election of the King")
+}
+
+quest {
+	quest_info (4024, "Election of the King")
+}
+
+quest {
+	quest_info (4025, "Election of the King")
+}
+
+quest {
+	quest_info (4026, "Election of the King")
+}
+
+quest {
+	quest_info (4027, "Election of the King")
+}
+
+quest {
+	quest_info (4028, "Election of the King")
+}
+
+quest {
+	quest_info (4029, "Election of the King")
+}
+
+quest {
+	quest_info (4030, "Election of the King")
+}
+
+quest {
+	quest_info (4031, "Election of the King")
+}
+
+quest {
+	quest_info (4032, "Election of the King")
+}
+
+quest {
+	quest_info (4033, "Election of the King")
+}
+// 권오민 //태권 
+quest {
+	quest_info (6000, "Job Changes to Taekwon")
+}
+
+quest {
+	quest_info (6001, "Job Changes to Taekwon")
+}
+
+quest {
+	quest_info (6002, "Job Changes to Taekwon")
+}
+//소울링커 
+quest {
+	quest_info (6005, "Job Changes to Soul-Linker")
+}
+
+quest {
+	quest_info (6006, "Job Changes to Soul-Linker")
+}
+
+quest {
+	quest_info (6007, "Job Changes to Soul-Linker")
+}
+
+quest {
+	quest_info (6008, "Job Changes to Soul-Linker")
+}
+//슈노 
+quest {
+	quest_info (6010, "Job Changes to Super Novice")
+}
+//닌자 
+quest {
+	quest_info (6015, "A favor from Couga")
+}
+
+quest {
+	quest_info (6016, "A favor from a Suspicious Man")
+}
+
+quest {
+	quest_info (6017, "Red Leopard Joe's Reply")
+}
+
+quest {
+	quest_info (6018, "Cougar's Madness")
+}
+//건슬링거 
+quest {
+	quest_info (6020, "Master Miller's Letter")
+}
+
+quest {
+	quest_info (6021, "Wise Bull Horn's voucher")
+}
+
+quest {
+	quest_info (6022, "Making a voucher")
+}
+
+quest {
+	quest_info (6023, "Wise Bull Horn's Favor")
+}
+
+quest {
+	quest_info (6024, "Job Changes to Gunslinger!")
+}
+
+quest {
+	quest_info (6025, "KVM Approval")
+	time(300) 
+}
+// 배혜령 
+quest {
+	quest_info (7000, "Job Changes to Dancer!")
+}
+
+quest {
+	quest_info (7001, "Job Changes to Dancer!")
+}
+
+quest {
+	quest_info (7002, "Job Changes to Dancer!")
+}
+
+quest {
+	quest_info (7003, "Job Changes to Dancer!")
+}
+
+quest {
+	quest_info (7004, "Job Changes to Dancer!")
+}
+
+quest {
+	quest_info (7005, "Job Changes to Dancer!")
+}
+
+quest {
+	quest_info (7006, "Job Changes to Dancer!")
+}
+//---권성 전직 퀘스트------------------ 
+quest {
+	quest_info (7007, "Warrior of the Sun, the Moon, and the Stars")
+}
+
+quest {
+	quest_info (7008, "Warrior of the Sun, the Moon, and the Stars")
+}
+
+quest {
+	quest_info (7009, "Warrior of the Sun, the Moon, and the Stars")
+}
+
+quest {
+	quest_info (7010, "Warrior of the Sun, the Moon, and the Stars")
+}
+
+quest {
+	quest_info (7011, "Warrior of the Sun, the Moon, and the Stars")
+}
+//-- 에피소드 13.1 단델리온의 의뢰 2부 모로크추적 
+quest {
+	quest_info (7012, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7013, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7014, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7015, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7016, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7017, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7018, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7019, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7020, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7021, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7022, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7023, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7024, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7025, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7026, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7027, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7028, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7029, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7030, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7031, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7032, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7033, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7034, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7035, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7036, "모로크 그리고 단델리온")
+}
+
+quest {
+	quest_info (7037, "단델리온...")
+}
+
+quest {
+	quest_info (7038, "단델리온...")
+}
+
+quest {
+	quest_info (7039, "단델리온...")
+}
+
+quest {
+	quest_info (7040, "단델리온...")
+}
+
+quest {
+	quest_info (7041, "단델리온...")
+}
+//---- 사육사 보조 일일퀘 
+quest {
+	quest_info (7042, "캠프의 사육사")
+}
+
+quest {
+	quest_info (7043, "캠프의 사육사")
+}
+
+quest {
+	quest_info (7044, "캠프의 사육사")
+}
+
+quest {
+	quest_info (7045, "캠프의 사육사")
+}
+
+quest {
+	quest_info (7046, "캠프의 사육사")
+}
+
+quest {
+	quest_info (7047, "캠프의 사육사")
+	time(18000) 
+}
+//-타나토스타워 080702 
+quest {
+	quest_info (7048, "타나토스 타워")
+}
+
+quest {
+	quest_info (7049, "타나토스 타워")
+}
+
+quest {
+	quest_info (7050, "타나토스 타워")
+}
+
+quest {
+	quest_info (7051, "타나토스 타워")
+}
+
+quest {
+	quest_info (7052, "타나토스 타워")
+}
+
+quest {
+	quest_info (7053, "타나토스 타워")
+}
+// 이경숙 
+quest {
+	quest_info (8000, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8001, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8002, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8003, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8004, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8005, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8006, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8007, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8008, "Job Changes to Assassin")
+}
+
+quest {
+	quest_info (8009, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8010, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8011, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8012, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8013, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8014, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8015, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8016, "Job Change to Priest")
+}
+
+quest {
+	quest_info (8017, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8018, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8019, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8020, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8021, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8022, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8023, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8024, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8025, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8026, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8027, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8028, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8029, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8030, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8031, "Einbroch Factory")
+}
+
+quest {
+	quest_info (8032, "Lighthalzen Airship")
+}
+
+quest {
+	quest_info (8033, "Lighthalzen Airship")
+}
+
+quest {
+	quest_info (8034, "Lighthalzen Airship")
+}
+
+quest {
+	quest_info (8035, "Lighthalzen Airship")
+}
+
+quest {
+	quest_info (8036, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8037, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8038, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8039, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8040, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8041, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8042, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8043, "Ymir's Heart Piece")
+}
+
+quest {
+	quest_info (8044, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8045, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8046, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8047, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8048, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8049, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8050, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8051, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8052, "Hugel: Getting Medicine")
+}
+
+quest {
+	quest_info (8053, "Hugel: Herb")
+}
+
+quest {
+	quest_info (8054, "Hugel: Herb")
+}
+
+quest {
+	quest_info (8055, "Hugel: Herb")
+}
+
+quest {
+	quest_info (8056, "Hugel: Herb")
+}
+
+quest {
+	quest_info (8057, "Hugel: Memories")
+}
+
+quest {
+	quest_info (8058, "Hugel: Memories")
+}
+
+quest {
+	quest_info (8059, "Hugel: Memories")
+}
+
+quest {
+	quest_info (8060, "Hugel: Memories")
+}
+
+quest {
+	quest_info (8061, "Hugel: Memories")
+}
+
+quest {
+	quest_info (8062, "Hugel: Memories")
+}
+
+quest {
+	quest_info (8063, "Hugel: Memories")
+}
+
+quest {
+	quest_info (8064, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8065, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8066, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8067, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8068, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8069, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8070, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8071, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8072, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8073, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8074, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8075, "Hugel: Fish Cake Soup")
+}
+
+quest {
+	quest_info (8076, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8077, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8078, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8079, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8080, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8081, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8082, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8083, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8084, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8085, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8086, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8087, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8088, "Lovers in Einbroch")
+}
+
+quest {
+	quest_info (8089, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8090, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8091, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8092, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8093, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8094, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8095, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8096, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8097, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8098, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8099, "Stolen Gemstone")
+}
+
+quest {
+	quest_info (8100, "Recommendation from High Priest Zhed")
+}
+
+quest {
+	quest_info (8101, "Recommendation from High Priest Zhed")
+}
+
+quest {
+	quest_info (8102, "Recommendation from High Priest Zhed")
+}
+
+quest {
+	quest_info (8103, "Recommendation from High Priest Zhed")
+}
+
+quest {
+	quest_info (8104, "Recommendation from High Priest Zhed")
+}
+
+quest {
+	quest_info (8105, "Recommendation from High Priest Zhed")
+}
+
+quest {
+	quest_info (8106, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8107, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8108, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8109, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8110, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8111, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8112, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8113, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8114, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8115, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8116, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8117, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8118, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8119, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8120, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8121, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8122, "Rachel: Tragic Destiny")
+}
+
+quest {
+	quest_info (8123, "Ayotaya's world famous dish, Tom Yum Goong")
+}
+
+quest {
+	quest_info (8124, "Ayotaya's world famous dish, Tom Yum Goong")
+}
+
+quest {
+	quest_info (8125, "Ayotaya's world famous dish, Tom Yum Goong")
+}
+
+quest {
+	quest_info (8126, "Ayotaya's world famous dish, Tom Yum Goong")
+}
+
+quest {
+	quest_info (8127, "Momotaro Field Trip")
+}
+
+quest {
+	quest_info (8128, "Momotaro Field Trip")
+}
+
+quest {
+	quest_info (8129, "Momotaro Field Trip")
+}
+
+quest {
+	quest_info (8130, "Momotaro Field Trip")
+}
+
+quest {
+	quest_info (8131, "Amatsu Dungeon Quest")
+}
+
+quest {
+	quest_info (8132, "Amatsu Dungeon Quest")
+}
+
+quest {
+	quest_info (8133, "Amatsu Dungeon Quest")
+}
+
+quest {
+	quest_info (8134, "Amatsu Dungeon Quest")
+}
+
+quest {
+	quest_info (8135, "Amatsu Dungeon Quest")
+}
+
+quest {
+	quest_info (8136, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8137, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8138, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8139, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8140, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8141, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8142, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8143, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8144, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8145, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8146, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8147, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8148, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8149, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8150, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8151, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8152, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8153, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8155, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8156, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8157, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8158, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8159, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8160, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8161, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8162, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8163, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8164, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8165, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8166, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8167, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8168, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8169, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8170, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8171, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8172, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8173, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8174, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8175, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8176, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8177, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8178, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8179, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8180, "Koshei, the Immortal Evil of Moscovia")
+}
+
+quest {
+	quest_info (8181, "Quest Skill, Wizard")
+}
+
+quest {
+	quest_info (8182, "Quest Skill, Wizard")
+}
+
+quest {
+	quest_info (8183, "Quest Skill, Wizard")
+}
+
+quest {
+	quest_info (8184, "Quest Skill, Sage")
+}
+
+quest {
+	quest_info (8185, "Quest Skill, Sage")
+}
+
+quest {
+	quest_info (8186, "Quest Skill, Sage")
+}
+
+quest {
+	quest_info (8187, "Quest Skill, Sage")
+}
+
+quest {
+	quest_info (8188, "Quest Skill, Sage")
+}
+
+quest {
+	quest_info (8189, "Quest Skill, Sage")
+}
+
+quest {
+	quest_info (8190, "Quest Skill, Dancer")
+}
+
+quest {
+	quest_info (8191, "Quest Skill, Dancer")
+}
+
+quest {
+	quest_info (8192, "Quest Skill, Dancer")
+}
+
+quest {
+	quest_info (8193, "Quest Skill, Dancer")
+}
+
+quest {
+	quest_info (8194, "Quest Skill, Dancer")
+}
+
+quest {
+	quest_info (8195, "Quest Skill, Dancer")
+}
+
+quest {
+	quest_info (8196, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8197, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8198, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8199, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8200, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8201, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8202, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8203, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8204, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8205, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8206, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8207, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8208, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8209, "삼국 연합 조사단의 갈등")
+}
+
+quest {
+	quest_info (8210, "삼국 연합 조사단의 갈등")
+}
+// 박선구 // ===================== 나이트 ======================== 
+quest {
+	quest_info (9000, "Job Changes to Knight")
+}
+
+quest {
+	quest_info (9001, "Loyalty of a Knight")
+}
+
+quest {
+	quest_info (9002, "Loyalty of a Knight")
+}
+
+quest {
+	quest_info (9003, "The Honor of a Knight")
+}
+
+quest {
+	quest_info (9004, "The Honor of a Knight")
+}
+
+quest {
+	quest_info (9005, "Tenacity of a Knight")
+}
+
+quest {
+	quest_info (9006, "The Honor of a Knight")
+}
+
+quest {
+	quest_info (9007, "The Honor of a Knight")
+}
+
+quest {
+	quest_info (9008, "Etiquette as a Knight")
+}
+
+quest {
+	quest_info (9009, "The Honor of a Knight")
+}
+
+quest {
+	quest_info (9010, "Quality of reverence")
+}
+
+quest {
+	quest_info (9011, "The Honor of a Knight")
+}
+
+quest {
+	quest_info (9012, "Glory of a Knight!")
+}
+// ===================== 위자드 ======================== 
+quest {
+	quest_info (9013, "Let's become a Wizard!")
+}
+
+quest {
+	quest_info (9014, "Let's become a Wizard!")
+}
+
+quest {
+	quest_info (9015, "Gloomy Wizard?")
+}
+
+quest {
+	quest_info (9016, "Understanding of Magic and Matter")
+}
+
+quest {
+	quest_info (9017, "Application of the Magic")
+}
+
+quest {
+	quest_info (9018, "Certified as a Wizard!")
+}
+// ===================== 전장 ======================== 
+quest {
+	quest_info (2069, "Tierra Gorge Battle")
+	time(300) 
+}
+
+quest {
+	quest_info (2070, "Flavius Battle")
+	time(300) 
+}
+//==================== 102층인던 ======================== 
+quest {
+	quest_info (12000, "Infiltrating Endless tower")
+}
+
+quest {
+	quest_info (12001, "Defeat Nacht Sieger")
+}
+
+quest {
+	quest_info (12002, "The Curse of Endless tower")
+}
+// 곽동언 //==================== 왕위조례 ======================== 
+quest {
+	quest_info (10000, "To the Prontera Royal Court")
+}
+
+quest {
+	quest_info (10001, "Qualification Test")
+}
+
+quest {
+	quest_info (10002, "Qualification Review")
+}
+
+quest {
+	quest_info (10003, "Instruction on what to do")
+}
+
+quest {
+	quest_info (10004, "Interim Report")
+}
+
+quest {
+	quest_info (10005, "Prince Eigen Ahrum")
+}
+
+quest {
+	quest_info (10006, "Prince Ernst")
+}
+
+quest {
+	quest_info (10007, "Prince Poe")
+}
+
+quest {
+	quest_info (10008, "Prince Peter")
+}
+
+quest {
+	quest_info (10009, "Prince Urugen")
+}
+
+quest {
+	quest_info (10010, "Prince Helmut")
+}
+
+quest {
+	quest_info (10011, "Prince Erich")
+}
+
+quest {
+	quest_info (10012, "Conversation of two princes")
+}
+
+quest {
+	quest_info (10013, "Searching for the unknown girl")
+}
+
+quest {
+	quest_info (10014, "Back to Peter")
+}
+
+quest {
+	quest_info (10015, "Test 15")
+}
+
+quest {
+	quest_info (10016, "A man of Walter Family")
+}
+
+quest {
+	quest_info (10017, "Conspiracy")
+}
+
+quest {
+	quest_info (10018, "Villainous Ahrum - Poe")
+}
+
+quest {
+	quest_info (10019, "Villainous Ahrum - Peter")
+}
+
+quest {
+	quest_info (10020, "Villainous Ahrum - Erich")
+}
+
+quest {
+	quest_info (10021, "Villainous Ahrum - Urugen")
+}
+
+quest {
+	quest_info (10022, "Villainous Ahrum - Helmut")
+}
+
+quest {
+	quest_info (10023, "Eigen Ahrum and Ernst -Former-")
+}
+
+quest {
+	quest_info (10024, "Eigen Ahrum and Ernst -Latter-")
+}
+
+quest {
+	quest_info (10025, "Good-bye, dear")
+}
+//==================== 유노 메토 퀘 ======================== 
+quest {
+	quest_info (10026, "Reforming Meto")
+}
+
+quest {
+	quest_info (10027, "Reforming Meto")
+}
+
+quest {
+	quest_info (10028, "Reforming Meto")
+}
+
+quest {
+	quest_info (10029, "Reforming Meto")
+}
+
+quest {
+	quest_info (10030, "Reforming Meto")
+}
+
+quest {
+	quest_info (10031, "Reforming Meto")
+}
+
+quest {
+	quest_info (10032, "Reforming Meto-Final")
+}
+
+quest {
+	quest_info (10033, "Reforming Meto-Back to Weigon")
+}
+//==================== 곤륜 착한 인간 ======================== 
+quest {
+	quest_info (10034, "Knife Searching")
+}
+
+quest {
+	quest_info (10035, "Delivering the knife")
+}
+//========== 스시! 와사비! 스시! 와사비! 스시! ============== 
+quest {
+	quest_info (10036, "Material Supply-Candy")
+}
+
+quest {
+	quest_info (10037, "Material Supply-Crap Shells")
+}
+
+quest {
+	quest_info (10038, "Material Supply-Conch")
+}
+
+quest {
+	quest_info (10039, "Material Supply-Fish Tail")
+}
+
+quest {
+	quest_info (10040, "Material Supply-White_Platter")
+}
+
+quest {
+	quest_info (10041, "Material Supply-?")
+}
+//=================== 건반을 찾아라 ======================= 
+quest {
+	quest_info (10042, "Find the Piano Keys-5 remained")
+}
+
+quest {
+	quest_info (10043, "Find the Piano Keys-5 remained")
+}
+
+quest {
+	quest_info (10044, "Find the Piano Keys-4 remained")
+}
+
+quest {
+	quest_info (10045, "Find the Piano Keys-4 remained")
+}
+
+quest {
+	quest_info (10046, "Find the Piano Keyboard-3 remained")
+}
+
+quest {
+	quest_info (10047, "Find the Piano Keyboard-3 remained")
+}
+
+quest {
+	quest_info (10048, "Find the Piano Keyboard-2 remained")
+}
+
+quest {
+	quest_info (10049, "Find the Piano Keyboard-2 remained")
+}
+
+quest {
+	quest_info (10050, "Find the Piano Keyboard-1 remained")
+}
+
+quest {
+	quest_info (10051, "Find the Piano Keyboard-1 remained")
+}
+
+quest {
+	quest_info (10052, "Find the Piano Keyboard-To the piano")
+}
+
+quest {
+	quest_info (10053, "Find the Piano Keyboard-Fill the empty spot")
+}
+
+quest {
+	quest_info (10054, "On the Verge of the Escape-Clint Kana")
+}
+//=================== 번역 서비스 ======================= 
+quest {
+	quest_info (10055, "Understanding the culture of Utan")
+}
+
+quest {
+	quest_info (10056, "Learning Utan Language")
+}
+
+quest {
+	quest_info (10057, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10058, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10059, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10060, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10061, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10062, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10063, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10064, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10065, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10066, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10067, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10068, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10069, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10070, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10071, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10072, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10073, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10074, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10075, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10076, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10077, "그리고 인간은 이계로")
+}
+
+quest {
+	quest_info (10078, "그리고 인간은 이계로")
+}
+// 송송이 
+quest {
+	quest_info (11000, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11001, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11002, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11003, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11004, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11005, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11006, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11007, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11008, "Inspection of Odin Shrine")
+}
+
+quest {
+	quest_info (11009, "Bio-researcher")
+}
+
+quest {
+	quest_info (11010, "Bio-researcher")
+}
+
+quest {
+	quest_info (11011, "Bio-researcher")
+}
+
+quest {
+	quest_info (11012, "Bio-researcher")
+}
+
+quest {
+	quest_info (11013, "Bio-researcher")
+}
+
+quest {
+	quest_info (11014, "Bio-researcher")
+}
+
+quest {
+	quest_info (11015, "Bio-researcher")
+}
+
+quest {
+	quest_info (11016, "Bio-researcher")
+}
+
+quest {
+	quest_info (11017, "Exploring Juperos")
+}
+
+quest {
+	quest_info (11018, "Exploring Juperos")
+}
+
+quest {
+	quest_info (11019, "Exploring Juperos")
+}
+
+quest {
+	quest_info (11020, "Exploring Juperos")
+}
+
+quest {
+	quest_info (11021, "Exploring Juperos")
+}
+
+quest {
+	quest_info (11022, "Exploring Juperos")
+}
+
+quest {
+	quest_info (11023, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11024, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11025, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11026, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11027, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11028, "Wincing Old Man")
+}
+
+quest {
+	quest_info (11029, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11030, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11031, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11032, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11033, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11034, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11035, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11036, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11037, "Going to the Turtle Island..")
+}
+
+quest {
+	quest_info (11038, "Meet the Dead")
+}
+
+quest {
+	quest_info (11039, "Meet the Dead")
+}
+
+quest {
+	quest_info (11040, "Meet the Dead")
+}
+
+quest {
+	quest_info (11041, "Meet the Dead")
+}
+
+quest {
+	quest_info (11042, "Meet the Dead")
+}
+
+quest {
+	quest_info (11043, "Meet the Dead")
+}
+
+quest {
+	quest_info (11044, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11045, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11046, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11047, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11048, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11049, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11050, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11051, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11052, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11053, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11054, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11055, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11056, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11057, "Herb Medicine - Being a Doctor's Assistance")
+}
+
+quest {
+	quest_info (11058, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11059, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11060, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11061, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11062, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11063, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11064, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11065, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11066, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11067, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11068, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11069, "Coward Mikhail")
+}
+
+quest {
+	quest_info (11070, "Poison King")
+}
+
+quest {
+	quest_info (11071, "Poison King")
+}
+
+quest {
+	quest_info (11072, "Poison King")
+}
+
+quest {
+	quest_info (11073, "Poison King")
+}
+
+quest {
+	quest_info (11074, "Poison King")
+}
+
+quest {
+	quest_info (11075, "Poison King")
+}
+
+quest {
+	quest_info (11076, "Poison King")
+}
+
+quest {
+	quest_info (11077, "Poison King")
+}
+
+quest {
+	quest_info (11078, "Poison King")
+}
+
+quest {
+	quest_info (11079, "Poison King")
+}
+
+quest {
+	quest_info (11080, "Poison King")
+}
+
+quest {
+	quest_info (11081, "Poison King")
+}
+
+quest {
+	quest_info (11082, "Poison King")
+}
+
+quest {
+	quest_info (11083, "Poison King")
+}
+
+quest {
+	quest_info (11084, "새로운 환경에 적응하는 법")
+}
+
+quest {
+	quest_info (11085, "새로운 환경에 적응하는 법")
+}
+
+quest {
+	quest_info (11086, "새로운 환경에 적응하는 법")
+}
+
+quest {
+	quest_info (11087, "막사 수리하기")
+}
+
+quest {
+	quest_info (11088, "막사 수리하기")
+}
+
+quest {
+	quest_info (11089, "막사 수리하기")
+}
+
+quest {
+	quest_info (11090, "막사 수리하기")
+}
+
+quest {
+	quest_info (11091, "배급품 전달")
+}
+
+quest {
+	quest_info (11092, "배급품 전달")
+}
+
+quest {
+	quest_info (11093, "배급품 전달")
+}
+
+quest {
+	quest_info (11094, "배급품 전달")
+}
+
+quest {
+	quest_info (11095, "배급품 전달")
+}
+
+quest {
+	quest_info (11096, "배급품 전달")
+}
+
+quest {
+	quest_info (11097, "배급품 전달")
+}
+
+quest {
+	quest_info (11098, "배급품 전달")
+}
+
+quest {
+	quest_info (11099, "친구에게...")
+}
+
+quest {
+	quest_info (11100, "친구에게...")
+}
+// 박일용 
+quest {
+	quest_info (12000,Friends:Dissonant) 
+}
+
+quest {
+	quest_info (12001,Friends:So close, yet far off…) 
+}
+
+quest {
+	quest_info (12002,Friends:Messanger of Friendship) 
+}
+
+quest {
+	quest_info (12003,Friends:Another friend) 
+}
+
+quest {
+	quest_info (12004,Friends:Journal) 
+}
+
+quest {
+	quest_info (12005,Friends:Deep down in the heart) 
+}
+
+quest {
+	quest_info (12006,Friends:Eternal Secret) 
+}
+
+quest {
+	quest_info (12007,Weapon Supply-1) 
+}
+
+quest {
+	quest_info (12008,Weapon Supply-2) 
+}
+
+quest {
+	quest_info (12009,Weapon Supply-Failed) 
+}
+
+quest {
+	quest_info (12010,Weapon Supply-3) 
+}
+
+quest {
+	quest_info (12011,Weapon Supply-4) 
+}
+
+quest {
+	quest_info (12012,Weapon Supply-5) 
+}
+
+quest {
+	quest_info (12013,Weapon Supply-6) 
+}
+
+quest {
+	quest_info (12014,"Sneaking into the Rekenber Corporation")
+}
+
+quest {
+	quest_info (12015,"The President - 1")
+}
+
+quest {
+	quest_info (12016,"The President - 2")
+}
+
+quest {
+	quest_info (12017,"The President - 3")
+}
+
+quest {
+	quest_info (12018,"The President - 4")
+}
+
+quest {
+	quest_info (12019,"The President - 5")
+}
+
+quest {
+	quest_info (12020,"The President - 6")
+}
+
+quest {
+	quest_info (12021,"The President - 7")
+}
+
+quest {
+	quest_info (12022,"The President - 8")
+}
+
+quest {
+	quest_info (12023,"The President - 9")
+}
+
+quest {
+	quest_info (12024,"The President - 10")
+}
+
+quest {
+	quest_info (12025,"The President - 11")
+}
+
+quest {
+	quest_info (12026,"The President - 12")
+}
+
+quest {
+	quest_info (12027,"The President - 13")
+}
+
+quest {
+	quest_info (12028,"The President - 14")
+}
+
+quest {
+	quest_info (12029,"The Engagement Ring - 1")
+}
+
+quest {
+	quest_info (12030,"The Engagement Ring - 2")
+}
+
+quest {
+	quest_info (12031,"The Engagement Ring - 3")
+}
+
+quest {
+	quest_info (12032,"The Engagement Ring - 4")
+}
+
+quest {
+	quest_info (12033,"The Engagement Ring - 5")
+}
+
+quest {
+	quest_info (12034,"The Engagement Ring - 6")
+}
+
+quest {
+	quest_info (12035,"The Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12036,"The Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12037,"The Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12038,"The Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12039,"The Sa-mhing Tiger")
+}
+
+quest {
+	quest_info (12040,"Milking Cow 1")
+}
+
+quest {
+	quest_info (12041,"Milking Cow 2")
+}
+
+quest {
+	quest_info (12042,"Milking Cow 3")
+}
+
+quest {
+	quest_info (12043,"Milking Cow 4")
+}
+
+quest {
+	quest_info (12044,"Soothing a crying child 1")
+}
+
+quest {
+	quest_info (12045,"Soothing a crying child 2")
+}
+
+quest {
+	quest_info (12046,"Soothing a crying child 3")
+}
+
+quest {
+	quest_info (12047,"Soothing a crying child 4")
+}
+
+quest {
+	quest_info (12048,"Soothing a crying child 5")
+}
+
+quest {
+	quest_info (12049,"Job Quest 1 - Rogue")
+}
+
+quest {
+	quest_info (12050,"Job Quest 2 - Rogue")
+}
+
+quest {
+	quest_info (12051,"Job Quest 3 - Rogue")
+}
+
+quest {
+	quest_info (12052,"Job Quest 4 - Rogue")
+}
+
+quest {
+	quest_info (12053,"Job Quest 5 - Rogue")
+}
+
+quest {
+	quest_info (12054,"Job Quest 6 - Rogue")
+}
+
+quest {
+	quest_info (12055,"Job Quest - Assassin")
+}
+
+quest {
+	quest_info (12056,"Job Quest - Assassin")
+}
+
+quest {
+	quest_info (12057,"Pass to the Lab")
+}
+
+quest {
+	quest_info (12058,"Admission Restricted to the 102 Tower")
+	time(604800) 
+}
+
+quest {
+	quest_info (12059,"Admission Restricted to the Memory of Orc")
+	time(7200) 
+}
+
+quest {
+	quest_info (12060,"Today's Fishing Closed")
+	time(86400) 
+}
+
+quest {
+	quest_info (12061,"Concentration")
+	time(10) 
+}
+
+quest {
+	quest_info (12062,"Today's Lighting Closed")
+	time(86400) 
+}
+
+quest {
+        quest_info (13000, "Susun kata RWC2011")
+}
+
+quest {
+        quest_info (13001, "Susun kata RWC2011 - Hold")
+        time(82800)
+}

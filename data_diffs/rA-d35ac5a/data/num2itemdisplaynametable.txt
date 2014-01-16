@@ -77,3 +77,11 @@
 1673#Half_BF_Staff4#
 17402#Half_BF_Staff4_Box_1day#
 17403#Half_BF_Staff4_Box_7days#
+
+18729#MVP_Basketball_Hat#
+2177#Shield_Of_Death#
+5388#Snake_Hat#
+5385#Yoyo_Hat#
+5478#Classic_Hat#
+5563#Dolor_Hat#
+5558#Saci_Hat#

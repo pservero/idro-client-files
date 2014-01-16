@@ -963,3 +963,69 @@ Profesi : Magician/AcolyteJenis/Soul Linker
 ^ff0000As soon as you open it, this item can't be refunded. .^000000
 Berat : ^7777771^000000
 #
+
+18729#
+Pemakainya akan membuktinya kegunaannya suatu saat. Orang-orang akan antusias dengannya.
+Mengurangi 10% serangan manusia.
+30% tambahan penyembuhan ketika menggunakan Maste Fruit.
+Mengurangi 3% delay casting.
+Jika ditempa lebih dari +12, mengurangi 1% delay casting. Jika ditempa lebih dari +14, mengurangi 1% delay casting(Total 5%).
+Class : ^777777Headgear^000000 Def : ^7777776^000000
+Lokasi : ^777777Upper ^000000 Berat : ^77777715^000000
+Level Persyaratan : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
+2177#
+Perisai besar malaikat maut.
+Meningkatkan serangan ke boss monster sebesar 2%.
+Serangan ke monster normal + 10%.
+Jika dipakai bersamaan dengan Lord Of Death(headgear), meningkatkan serangan ke boss monster sebesar 5%.
+Jika headgear ditempa lebih dari +7,  5% serangan ke bos monster akan ditambahkan.
+Jenis : ^777777Shield^000000 Def : ^777777150^000000
+Berat : ^777777200^000000
+Level Persyaratan. : ^77777790^000000
+Job : ^777777Semua Job^000000
+#
+5388#
+Sebuah topi tampak seperti ular di atasnya. Anda mungkin jatuh cinta dengan wanita muda yang cantik saat anda memakainya.
+Dapat mengunakan skill Double Attack lv 5.
+Jenis:  ^777777Headgear^000000    Def : ^7777771^000000
+Dikenakan di: ^777777Atas^000000    Berat: ^77777720^000000
+Minimum Level: ^77777730^000000
+Job: ^777777Semua Job^000000
+#
+ 
+5385#
+Sebuah topi yang dibuat menyerupai monster kera, Yoyo.
+Memungkinkan pemakainya untuk menggunakan skill Hiding Lv1.
+Jenis : ^777777Headgear^000000    Tk Def : ^7777771^000000
+Dipakai di : ^777777Atas^000000    Berat : ^77777730^000000
+Level Persyaratan : ^77777720^000000
+Untuk Profesi : ^777777Semua^000000
+#
+ 
+5478#
+Sebuah topi klasik.
+STR + 2, Maks HP + 300
+Jenis : ^777777Headgear^000000    Tk Def : ^7777774^000000
+Dipakai di : ^777777Atas^000000    Berat : ^77777750^000000
+Untuk Profesi : ^777777Semua^000000
+#
+
+5563#
+Headgear yang menyerupai 'Dolor of Thanatos'. Orang mengatakan bahwa boneka ini dapat berbicara.
+Tidak dapat hancur.
+Jenis : ^777777Headgear^000000 Tk Def : ^7777773^000000
+Dipakai di : ^777777Atas ^000000 Berat : ^77777710^000000
+Level Persyaratan : ^7777770^000000
+Profesi : ^777777Semua^000000
+#
+ 
+5558#
+Topi ini adalah legenda bagi orang-orang dari dunia festival.
+Terdapat kemungkinan untuk mendapatkan 'Blue Herb' saat berburu monster tipe Plant.
+Jenis : ^777777Headgear^000000 Tk Def : ^7777776^000000
+Dikenakan di : ^777777Atas ^000000 Berat : ^77777710^000000
+Level Persyaratan : ^77777730^000000
+Untuk Profesi : ^777777Semua Profesi^000000
+#

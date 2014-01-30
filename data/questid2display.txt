@@ -8926,3 +8926,15 @@ Jee telah bergabung dengan perkumpulan Solo#
 15064#Christmas : Marty telah bergabung dengan perkumpulan Solo#SG_FEEL#QUE_NOIMAGE#
 Marty telah bergabung dengan perkumpulan Solo#
 Marty telah bergabung dengan perkumpulan Solo#
+
+7347#Takoyaki Yang Enak#SG_FEEL#QUE_NOIMAGE#
+Kamu sudah memiliki terlalu banyak takoyaki. Ini adalah saat nya kita istirahat !#
+Ayo istirahat sejenak! #
+
+7630#Legenday Blue Unicorn#SG_FEEL#QUE_NOIMAGE#
+Rumor mengatakan ada seekor kuda poni berwarna biru mengamuk di hutan terdekat kota Payon! seseorang membantu saya mencari kebenaran tentang hal tersebut!#
+kalahkan dan laporkan kembali kepada Fury#
+
+7631#Hunting Limit#SG_FEEL#QUE_NOIMAGE#
+Misi akan selalu tersedia selama periode event berlangsung . silakan kamu menunggu 1 hari untuk mengdapatkan misi itu kembali!#
+#

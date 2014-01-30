@@ -509,3 +509,5 @@
 4493#Half Highly Dangerous#
 4495#Of Half Protective's#
 4503#Of Half Vision#
+4539#Half Arrorgant#
+4487#Half Inferno#

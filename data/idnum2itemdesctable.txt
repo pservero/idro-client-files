@@ -18821,15 +18821,6 @@ cover it. Restore
 ^ffffff_^000000
 Berat: ^77777710^000000
 #
-668#
-A small red packet, 
-seemingly containing 
-some exciting gift, 
-that is given by 
-adults to children.
-^ffffff_^000000
-Berat: ^7777772^000000
-#
 7770#
 Steamed glutinous 
 rice that is used  
@@ -39111,3 +39102,156 @@ Dibutuhkan Lv : ^7777771^000000
 Profesi : ^777777Gunslinger^000000
 #
 
+13085#
+Pisau dengan properti ketahanan.
+AGI +2, MaxHP -2%.
+Ketahanan terhadap elemen api +2%
+Ketahanan terhadap elemen air -5%
+Ketika upgrade +7 , MaxHP +1%, add resistance against Fire attack +3%
+Upgrade diatas +7, Menambahkan MaxHP +1% dari setiap level tempa.
+Class : ^777777Dagger^000000 Attack : ^77777780^000000
+Weight : ^77777720^000000
+Weapon Lv : ^7777774^000000
+Required Lv : ^77777760^000000
+Job : ^777777Knight / Magician / Merchant / Theif / Soul Linker / Ninja^000000
+#
+19677#
+Cincin misterius di atas kepala. Ini mungkin terasa seperti kamu tidak memiliki jiwa saat kamu memakainya.
+Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
+18856#
+Topi yang bermodelkan harimau dengan cerutu. Tampaknya sangat tua.
+STR + 2, DEX + 2.
+Menambahkan 10% serangan ke monster type Animal.
+Ketika kamu menyerang atau diserang, kesempatan bisa berubah menjadi Eddga, Raja Harimau. Ketika kamu berubah menjadi Eddga, 
+kehilangan 5SP per detik atau mendapatkan beast power untuk beberapa detik. Kekuatan dan kemungkinan akan meningkat berdasarkan tingkat tempa.
+Class : ^777777Helm^000000 Defense : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
+18865#
+Mahkota untuk pejuang yang menguasai semua senjata.
+Di atas Lv 50,  add ATK +5.
+Di atas Lv 100, add ATK +10 
+Di atas Lv 150, add ATK +15
+Jika level Sword Mastery 10, HIT +10.
+Jika level Two Handed Sword Mastery 10, Konsumsi SP berkurang sebesar 5%.
+Jika level of Spear Mastery 10, delay setelah menggunakan skill berkurang sebesar 10%.
+Jika level 'Sword and Axe Mastery' atau 'Axe mastery' 10, waktu casting skill berkurang sebesar 15%
+Jika level Katar Mastery 10, critical damage meningkat sebesar 20%.
+Jika level Mace Mastery is 10, attack speed meningkat sebesar 10%.
+Ketika memakai kartu antara Mysteltainn card, Tirfing_Cardor Executioner_Card, serangan kepada monsters untuk ukuran masing masing meningkat sebesar 5%.
+Class : ^777777Helm^000000 Defense : ^77777730^000000
+Location : ^777777Upper ^000000Weight : ^777777100^000000
+Required Lv : ^77777750^000000
+Job : ^777777All Jobs^000000
+#
+22042#
+Sepatu ajaib yang dikenal telah dipakai oleh Hermes saat memeriksa Perseus sebelum hermes pergi ke Medusa
+AGI + 2.
+ASPD + 1.
+Tidak dapat dihancurkan.
+Class : ^777777Shoes^000000 Defense : ^77777715^000000
+Weight : ^77777730^000000
+Required Lv : ^77777750^000000
+Job : ^777777Semua Job^000000
+#
+18918#
+Balon Octopus merah yang lucu.
+VIT +1, INT +1.
+MSP +30.
+Tidak bisa di upgrade dan dihancurkan.
+Class : ^777777Helm^000000 Defense : ^7777775^000000
+Location : ^777777Lower ^000000Berat : ^77777720^000000
+Required Lv : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
+5874#
+Sesuatu yang telah dipakai oleh perempuan pemberani. Ketika memakai ini, Kamu merasa seperti kamu benar-benar berani karena kekuatan dari mahkota itu.
+Resistance against Non attack increases by 5%
+Resistance against Dragon type enemy increases by 5%
+When being physical attacked, Kyrie Eleison level 9 is activated with a certain probability 
+All State + 5. Consume 400 HP per 4 seconds
+Not able to destroy
+Class : ^777777Helm^000000 Defense : ^7777776^000000
+Location : ^777777Upper ^000000Weight : ^77777760^000000
+Required Lv : ^77777760^000000
+Job : ^777777Upgraded Archer / Thief^000000
+#
+17471#
+Sebuah lucky Egg yang yang menarik jika di bukan kamu akan mendapatkan kesempatan mendapatkan Blessed Ore Armor dan Weapon,Boitata Armor,Talaria Shoes,W King Tiger Doll Hat,Combat Knife,C Soulless Wing,Long Octopus Balloon,Sword Master Crown,Guarantee Weapon 9Up,Guarantee Armor 9Up,Guarantee Weapon 11Up,Guarantee Armor 11Up,Sealed F Bishop Card,Sealed Ifrit Card dan Incant Samurai Card
+Berat : ^7777771^000000
+#
+4539#
+MATK + 5%, mengurangi MaxSP -50%
+Menambahkan serangan magic terhadap Human dan Monster type Angel sebesar 25%
+Upgrade di atas level 15
+MATK + 8%, mengurangi MaxSP -50%
+Menambahkan serangan magic terhadap Human dan Monster type Angel sebesar 33%
+Class : ^777777card^000000
+Type: ^777777Shoes^000000
+Berat : ^7777771^000000
+#
+5483#
+Penutup Mata yang di berikan oleh dewa Odin.
+jika digunakan akan memberikan effect Hit- 10,Meningkatkan serangan pada musuh jenis Demihuman monster sebesar 6 %
+Jenis : ^777777Pelindung Kepala^000000    Def : ^7777771^000000
+Location : ^777777Tengah,Bawah^000000    Berat : ^77777710^000000
+Digunakan Lv. : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+
+6834#
+Bulu dari Unicorn Biru yang legendaris!
+Texture yang lembur dan hangat..
+Berat : ^7777771^000000
+#
+6835#
+Rambut dari Unicorn biru yang legendaris
+Sangat lembut!
+Berat : ^7777771^000000
+#
+19996#
+^ff0000Tidak bisa di transaksikan.^000000
+Masker rambut unicorn biru yang dibuat untuk 2014 tahun kuda biru. Hal ini terlihat sangat keren, tetapi sangat sulit untuk bernapas dengan itu.
+Dapat mengurangi skill yang tersedia.
+Efek pemulihan wortel * 100% (Pilihan ini hanya tersedia selama periode peristiwa.)
+Jenis : ^777777Costume^000000 Def : ^7777770^000000
+Di gunakan di  : ^777777UpperMiddleLower ^000000Berat : ^7777770^000000
+Digunakan Lv : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+12536#
+Kue beras rebus yang sehat! Banyak tako di dalamnya!
+Tako yang lezat banyak disekitarnya
+Perhatian : Very hot.
+Berat : ^77777710^000000
+#
+22538#
+Sutra untuk membuat pakaian tradisional Korea
+ni memiliki struktur yang sangat halus, membutuhkan banyak perawatan.
+Sangat bagus sebagai pakaian musim.
+Berat : ^7777771^000000
+#
+12646#
+Tako baik dimasak untuk perayaan tahun baru.
+LUK + 10, ATK + 20, MATK + 20 untuk 10 menit.
+^ff0000Item pilihan bisa hilang ketika menerima buff yang lebih tinggi. Barang akan menghilang setelah periode event.^000000
+Berat : ^7777773^000000
+#
+12647#
+Bola kecil yang dibuat dengan tinta gurita.
+Perlu untuk menghapus tinta ini untuk mencari tahu apa itu.
+^ff0000Barang akan menghilang setelah periode event.^000000
+Berat : ^7777773^000000
+#
+11538#
+Kaki Octopus segar. Sangat segar jadi menggeliat sendiri. Sangat lezat bila hanya dimakan mentah-mentah.
+Menyembukan sedikit HP, SP.
+^ff0000Barang akan menghilang setelah periode event.^000000
+Berat : ^7777773^000000
+#

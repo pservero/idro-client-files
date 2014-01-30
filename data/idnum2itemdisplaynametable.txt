@@ -1223,7 +1223,6 @@
 5053#Sphinx_Helm#
 
 //±¸Á¤_ÀÌº¥Æ®_2005_Ãß°¡_¾ÆÀÌÅÛ_(»õºªµ·,ÆøÁ×)
-668#Angpao#
 12018#Kembang_Api#
 
 //_----_For_2005_Valentine_Day_Event_-------
@@ -1492,7 +1491,6 @@
 7268#Baby_Ghost_Sprit#
 7269#Baby_Bib#
 7270#Baby_Milk_Bottle#
-668#Angpao#
 
 //_Episode_8.2
 684#Durian#
@@ -3192,8 +3190,7 @@
 9038#New_Year_Doll_Egg#				
 7869#Rice_Pouch#				
 554#Mojji#				
-663#Korean_Rice_Cake#				
-668#Red_Envelope#				
+663#Korean_Rice_Cake#								
 7770#Sweet_Rice#				
 12195#Plain_Rice_Cake#				
 12196#Hearty_Rice_Cake#				
@@ -6026,3 +6023,23 @@
 17427#Half_BF_Shotgun1_Box_7days#
 28203#Half_BF_Rifle1#
 28204#Half_BF_Shotgun1#
+13085#Volcano_Knife#
+19677#C_Soulless_Wing#
+18856#W_King_Tiger_Doll_Hat#
+18865#Sword_Master_Crown#
+22042#Talaria_Shoes#
+18918#Long_Octopus_Balloon#
+5874#Circlet_Of_Kriemhild#
+17471#Spring_Festival_Lucky_Egg#
+4539#Sealed_F_Bishop_Card#
+5483#Odin_Mask#
+4487#Sealed_Ifrit_Card#
+6834#Legendary_Fur#
+6835#Legendary_Mane#
+19996#Horse_King#
+12536#Tako_Rice_Cake_Soup#
+22538#Hanbok_bag#
+12646#Takoyaki#
+12647#Ink_Ball#
+11538#Fresh_Octopus_Leg#
+668#New_Year_Pocket_Money#

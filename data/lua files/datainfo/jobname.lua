@@ -3072,8 +3072,13 @@ JobNameTable = {
 	[jobtbl.JT_DR815] = "DR815",
 	[jobtbl.JT_SYS_MSG] = "SYS_MSG",
 	[jobtbl.JT_T_W_O] = "T_W_O",
+	[jobtbl.JT_ZOMBIE_H] = "ZOMBIE_H",
+	[jobtbl.JT_GHOUL_H] = "GHOUL_H",
 	[jobtbl.JT_MALE_PORING] = "MALE_PORING",
 	[jobtbl.JT_FEMALE_PORING] = "FEMALE_PORING",
 	[jobtbl.JT_4_S_KADOMATSU] = "4_S_KADOMATSU",
-	[jobtbl.JT_4_B_KADOMATSU] = "4_B_KADOMATSU"
+	[jobtbl.JT_4_B_KADOMATSU] = "4_B_KADOMATSU",
+	[jobtbl.JT_FANTASTIC_B_UNICORN] = "FANTASTIC_B_UNICORN",
+	[jobtbl.JT_LITTLE_BLUE_UNICORN] = "LITTLE_BLUE_UNICORN",
+	[jobtbl.JT_BLUE_UNICORN] = "BLUE_UNICORN"
 }

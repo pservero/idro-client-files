@@ -1158,5 +1158,7 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Roundly_Woolly_Hat] = "_둥글둥글털모자",
 	[ACCESSORY_IDs.ACCESSORY_Exosrcist_Glass] = "_퇴마의글래스",
 	[ACCESSORY_IDs.ACCESSORY_Yellow_Scarf] = "_노란스카프",
-	[ACCESSORY_IDs.ACCESSORY_saLUsalo_Cap] = "_saLUsalo기념모자"
+	[ACCESSORY_IDs.ACCESSORY_saLUsalo_Cap] = "_saLUsalo기념모자",
+	[ACCESSORY_IDs.ACCESSORY_Horse_King] = "_마왕",
+	[ACCESSORY_IDs.ACCESSORY_Riot_Chip] = "_폭주하는칩"
 }

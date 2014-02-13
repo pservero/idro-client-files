@@ -1163,4 +1163,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Exosrcist_Glass = 1169,
 	ACCESSORY_Yellow_Scarf = 1170,
 	ACCESSORY_saLUsalo_Cap = 1171
+	ACCESSORY_Horse_King = 1189,
+	ACCESSORY_Riot_Chip = 1201
 }

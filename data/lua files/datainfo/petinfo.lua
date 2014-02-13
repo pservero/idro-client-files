@@ -37,9 +37,7 @@ PetIllustNameTable = {
 	[jobtbl.JT_GOBLIN_4] = "Æê_°íºí¸°_ÇØ¸Ó.bmp",
 	[jobtbl.JT_DELETER_] = "Æê_Áö»óµô¸®ÅÍ.bmp",
 	[jobtbl.JT_DIABOLIC] = "Æê_µð¾Æº¼¸¯.bmp",
-	[jobtbl.JT_WANDER_MAN] = "Æê_¹èÈ¸ÇÏ´ÂÀÚ.bmp"
-}
-PetIllustNameTable_Eng = {
+	[jobtbl.JT_WANDER_MAN] = "Æê_¹èÈ¸ÇÏ´ÂÀÚ.bmp",
 	[jobtbl.JT_BACSOJIN_] = "Æê_BACSOJIN.bmp",
 	[jobtbl.JT_CIVIL_SERVANT] = "Æê_CIVIL_SERVANT.bmp",
 	[jobtbl.JT_LEAF_CAT] = "Æê_LEAF_CAT.bmp",
@@ -60,7 +58,10 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_WICKED_NYMPH] = "Æê_WICKED_NYMPH.bmp",
 	[jobtbl.JT_J_TAINI] = "Æê_j_taini.bmp",
 	[jobtbl.JT_XMAS_LUNATIC] = "Æê_Å©¸®½º¸¶½º_´«Åä³¢.bmp",
-	[jobtbl.JT_TIKBALANG] = "Æê_Æ½¹ö··.bmp",
+	[jobtbl.JT_TIKBALANG] = "Æê_Æ½¹ö··.bmp"
+}
+
+PetIllustNameTable_Eng = {
 	[jobtbl.JT_BAPHOMET_] = "PET_BAPHOMET.bmp",
 	[jobtbl.JT_PECOPECO] = "PET_PECOPECO.bmp",
 	[jobtbl.JT_CHONCHON] = "PET_CHONCHON.bmp",
@@ -122,6 +123,7 @@ PetIllustNameTable_Eng = {
 	[jobtbl.JT_XMAS_LUNATIC] = "PET_XMAS_LUNATIC.bmp",
 	[jobtbl.JT_TIKBALANG] = "PET_TIKBALANG.bmp"
 }
+
 PetAccIDs = {
 	ACC_FIRST = 10000,
 	ACC_BAPHOMET = 10001,
@@ -164,6 +166,7 @@ PetAccIDs = {
 	ACC_IMP = 10038,
 	ACC_LAST = 10039
 }
+
 PetAccActNameTable = {
 	[PetAccIDs.ACC_BAPHOMET] = "BAPHOMET_»Á´Ù±¸¸ðÀÚ.act",
 	[PetAccIDs.ACC_CHOCHO] = "chocho_¹æµ¶¸é.act",
@@ -204,6 +207,7 @@ PetAccActNameTable = {
 	[PetAccIDs.ACC_SUCCUBUS] = "SUCCUBUS_°ËÀº³ªºñ°¡¸é.act",
 	[PetAccIDs.ACC_IMP] = "IMP_»Ôº¸È£´ë.act"
 }
+
 PetAccActNameTable_Eng = {
 	[PetAccIDs.ACC_BAPHOMET] = "ACC_BAPHOMET.act",
 	[PetAccIDs.ACC_CHOCHO] = "ACC_CHOCHO.act",

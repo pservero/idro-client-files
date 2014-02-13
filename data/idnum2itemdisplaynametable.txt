@@ -6043,3 +6043,11 @@
 12647#Ink_Ball#
 11538#Fresh_Octopus_Leg#
 668#New_Year_Pocket_Money#
+18857#Curupira_Hat#
+18900#Weisswurst#
+18901#Seppl_Hat#
+18882#Kannam_On_Head#
+18917#LoveLove_Balloon#
+18930#Gorilla_Model_Hat#
+18931#Lion_Model_Hat#
+

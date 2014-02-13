@@ -39255,3 +39255,71 @@ Menyembukan sedikit HP, SP.
 ^ff0000Barang akan menghilang setelah periode event.^000000
 Berat : ^7777773^000000
 #
+18857#
+Topi yang meniru Curupira, penjaga hutan dan hewan
+DEX + 3
+ketika melakukan serangan fisik kemungkinan akan mengeluarkan skill confusion kepada musuh.
+Jenis : ^777777Helm^000000 Defense : ^77777720^000000
+Digunakan di : ^777777Upper ^000000Berat : ^77777710^000000
+Dibutuhkan Lv : ^7777771^000000
+Job : ^777777All^000000
+#
+18900#
+Sosis standar yang akan lebih lezat dengan saus mustard manis
+MaxHP + 50
+Jenis : ^777777Helm^000000 Defense : ^7777771^000000
+Digunakan di : ^777777Upper ^000000Berat : ^77777710^000000
+Dibutuhkan Lv : ^77777760^000000
+Job : ^777777All^000000
+#
+18901#
+Hat tradisional Jerman yang biasa di gunakan untuk menghadiri festival 
+VIT + 3, pemulihan HP meningkat sebesar 10% 
+Jika digunakan bersamaan dengan item  Weisswurst akan menambahkan effek pemulihan SP sebesar 10%
+Jenis : ^777777Helm^000000 Defense : ^7777775^000000
+Digunakan di : ^777777Upper ^000000Berat : ^77777750^000000
+Dibutuhkan Lv : ^77777760^000000
+Job : ^777777All^000000
+#
+18882#
+Helm untuk menempatkan air jernih dan air suci. 
+kerika menerima serangan fisik, kemungkinan akan mengaktifkan skill Deluge level 1 dengan intensitas tertentu,
+ketika ditempa mencapai +3, akan mendapatkan effek waterball lv1 ketika menerima serangan dengan kemngkinan tertentu 
+Setiap tingkat upgrade +3, level skill waterball akan mengingkat sebesar 1 lv.
+Jenis : ^777777Helm^000000 Defense : ^7777775^000000
+Digunakan di : ^777777Upper ^000000Berat : ^77777720^000000
+Dibutuhkan Lv : ^77777720^000000
+Job : ^777777All^000000
+#
+
+18917#
+Salah satu cara untuk menunjukkan cinta Anda. Ini membuat kamu merasa dicintai 
+all status + 1. 
+tidak dapat di hancurkan atau di tempa
+Jenis : ^777777Helm^000000 Defense : ^7777775^000000
+Digunakan di : ^777777Lower ^000000Berat : ^77777720^000000
+Dibutuhkan Lv : ^7777771^000000
+Job : ^777777All^000000
+#
+18930#
+Topi yang meniru primata yang merupakan terbesar dalam hutan di Afrika 
+STR + 2. 
+ketika melakukan serangan, kemungkinan akan mengeluarkan skill Bowling Bash level 1 dengan kesempatan tertentu
+jika di tempa sampai +11, akan menambahkan status STR +3
+Jenis : ^777777Helm^000000 Defense : ^77777710^000000
+Digunakan di : ^777777Upper ^000000Berat : ^77777730^000000
+Dibutuhkan Lv : ^77777730^000000
+Job : ^777777All^000000
+#
+18931#
+Topi yang meniru mamalia yang milik kucing rumahan.
+INT + 2. 
+ketika menerima serangan , kemungkinan akan mengeluarkan skill  Meteor Storm lv 5 dengan kemungkinan tertentu.
+ketika di tempa ke + 8, tambahkan INT + 1 
+setelah + 8 menambahkan int+2 setiap 2 tingkat tempa.
+Jenis : ^777777Helm^000000 Defense : ^77777710^000000
+Digunakan di : ^777777Upper ^000000Berat : ^77777730^000000
+Dibutuhkan Lv : ^77777730^000000
+Job : ^777777All^000000
+#
+

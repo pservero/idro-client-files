@@ -14097,7 +14097,15 @@ cover it. Restore
 ^ffffff_^000000 
 Berat: ^77777710^000000 
 # 
-
+668# 
+A small red packet, 
+seemingly containing 
+some exciting gift, 
+that is given by 
+adults to children. 
+^ffffff_^000000 
+Berat: ^7777772^000000 
+# 
 7770# 
 Steamed glutinous 
 rice that is used  
@@ -29964,5 +29972,659 @@ Jenis : ^777777Helm^000000 Defense : ^77777710^000000
 Digunakan di : ^777777Upper ^000000Berat : ^77777730^000000
 Dibutuhkan Lv : ^77777730^000000
 Job : ^777777All^000000
+#
+
+//낙원단 상급수련
+
+1197#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1289#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1391#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1434#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1583#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1658#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1831#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1931#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+1986#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+2473#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+2571#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+13066#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+13114#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+13310#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+13434#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+15031#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+16014#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+18106#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+18514#
+Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
+#
+
+4863#
+Critical damage + 4%, CRI + 1.
+#
+4864#
+Critical damage + 6%, CRI + 2.
+#
+4865#
+Critical damage + 8%, CRI + 3.
+#
+4866#
+Critical damage + 10%, CRI + 4.
+#
+4870#
+SP + 25
+#
+4871#
+SP + 75
+#
+4861#
+MHP + 1%.
+#
+4862#
+MHP + 2%.
+#
+4867#
+MHP + 3%.
+#
+4868#
+MHP + 4%.
+#
+4900#
+MHP + 5%.
+#
+4869#
+Menambahkan kecepatan serangan.(Mengurangi penundaan skill setelah menyerang sebesar 4%)
+#
+4872#
+Menambahkan kecepatan serangan.(Mengurangi penundaan skill setelah menyerang sebesar 6%)
+#
+4873#
+Menambahkan kecepatan serangan.(Mengurangi penundaan skill setelah menyerang sebesar 8%)
+#
+4881#
+Menambahkan kecepatan serangan.(Mengurangi penundaan skill setelah menyerang sebesar 10%)
+#
+
+22508#
+^ff0000Tidak dapat di transakian.^000000
+Tanda yang menyatakan anggota dari Eden Group. Ini dibuat untuk menjadi sangat portabel. 
+Fitur ini telah ditingkatkan sehingga ketika Anda menggunakannya, Anda dapat kembali ke kota
+dapat digunakan kembali setelah : 120 minutes
+Weight : ^7777770^000000
+#
+
+6839#
+^ff0000Tidak dapat di transaksikan.^000000
+Koin cokelat yang dibungkus  kertas berwarna emas. Tolong jangan mencoba untuk memakan ini. 
+Berat: ^7777770^000000
+#
+6840#
+^ff0000Tidak dapat di transaksikan.^000000
+Koin cokelat yang dibungkus  kertas berwarna silver. Tolong jangan mencoba untuk memakan ini. 
+Berat: ^7777770^000000
+#
+6841#
+^ff0000Tidak dapat di transaksikan.^000000
+Koin cokelat yang dibungkus  kertas berwarna perungu. Tolong jangan mencoba untuk memakan ini. 
+Berat: ^7777770^000000
+#
+22708#
+^ff0000Tidak dapat di transaksikan.^000000
+Sesuatu hadiah acak akan keluar dari kotak ini!. Mari kita berharap untuk mendapat item yang menarik!
+Berat: ^77777710^000000
+#
+
+6842#
+^ff0000Tidak dapat di transaksikan.^000000
+Sebuah permata dibuat dengan hati pematung. Ukuran yang besar menunjukkan bagaimana dia sangat bersyukur.
+Berat: ^7777770^000000
+#
+6843#
+^ff0000Tidak dapat di transaksikan.^000000
+Cincin sederhana dibuat dengan aliran bunga.
+Berat: ^7777770^000000
+#
+11598#
+Sebuah biji kakao mentah. Hanya rasa pahit tanpa rasa manis.
+Berat: ^7777770^000000
+#
+6844#
+^ff0000Tidak dapat di transaksikan.^000000
+Batu berwarna-warni dengan tekstur ringan. Digunakan sebagai bahan untuk berbagai jenis jewery.
+Berat: ^7777770^000000
+#
+6845#
+^ff0000Tidak dapat di transaksikan.^000000
+sebuah pupuk alami yang dapat menyuburkan tanaman.
+Berat: ^7777770^000000
+#
+28332#
+Sebuah cincin tipis dengan permata besar di dalamnya. Ini membuat kamu merasa penuh cinta dan bersemangat
+Class : ^777777Accessary^000000 Def : ^7777770^000000
+Berat: ^77777710^000000
+Required Level : ^7777771^000000
+Job : ^777777All^000000
+#
+18855#
+Sebuah topi yang berasal dari Brazil yang digunakan oleh Santos-Dumont .
+AGI + 3, INT + 3.
+Dapat menambahkan Atribut Angin pada senjata selama 3 menit saat menyerang fisik.
+Class : ^777777HeadGear^000000 Def : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^77777710^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18856#
+Sebuah topi yang berbentuk seperti harimau dengan sakkat di kepalanya dan pipa di mulutnya. Yang berasal dari Korea, harimau merokok identik dengan zaman kuno, seperti, "Seperti dulu ketika harimau merokok ..."
+STR + 2, DEX + 2.
+Menambahkan kerusakan 10% pada monster Animal.
+Dapat mengubah kamu menjadi Eddga, saat menyerang atau pada saat menerima serangan .pada saat berubah kamu akan kehilangan SP sebesar 5 pada setiap detik. Kesempatan transformasi dan peningkatan daya secara proporsional dengan level upgrade barang
+Class : ^777777HeadGear^000000 Def : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18857#
+Sebuah topi yang berbentuk seperti Curupira, penjaga hutan dan hewan. suara peluitnya dapat menusuk pemburu dan penebang liar, menyebabkan mereka tersesat di hutan. 
+DEX 3.
+Dapat menyebabkan musuh kebingungan pada saat kamu menyerang.
+Class : ^777777HeadGear^000000 Def : ^77777720^000000
+Location : ^777777Upper ^000000Weight : ^77777710^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+15105#
+Sebuah gaun yang pernah dipakai oleh seorang santo dari sebuah kerajaan yang jauh. Ketika robek, menyebabkan sensasi terbakar pada kulit.
+MDEF +3.
+Kerusakan -5% dari monster Undead dan Demon.
+Class : ^777777Armour^000000 Def : ^77777713^000000
+Weight : ^77777740^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+13444#
+Menambahkan kecepatan serangn. ( -8% pengurangan setelah-serangan)
+Class : ^777777Sword^000000 Atk : ^777777190^000000
+Weight : ^77777770^000000
+Weapon Lev : ^7777773^000000
+Req Lev : ^7777771^000000
+Job : ^777777Swordman/Merchant/Thief^000000
+#
+5873#
+Setelah dipakai oleh budak naga legendaris, tutup kepala ini terbuat dari sayap dan kulit naga. Jika memakai tutup kepala ini kamu akan merasa seperti seorang petualang yang kuat.
+Menambahkan perlawanan sebesar 5% terhadap elemen Netral.
+Menambahkan perlawanan sebesar 5% terhadap monster dragon.
+Dapat menciptakan skill Assumptio level 5 ketika kamu menerima serangan fisik.
+All stats + 5. Membutuhkan 600 HP setiap 4 detik.
+Indestructible.
+Class : ^777777HeadGear^000000 Def : ^7777777^000000
+Location : ^777777Upper ^000000Weight : ^77777760^000000
+Req Lev : ^77777760^000000
+Job : ^777777Jobchanged Swordman/Merchant Class^000000
+#
+5874#
+Sebuah mahkota elang emas yang melambangkan takdir dan melindungi pemakainya terhadap monster demon.
+Menambahkan perlawanan sebesar 5% terhadap elemen Netral.
+Menambahkan perlawanan sebesar 5% terhadap monster dragon.
+Dapat menciptakan skill Kyrie Eleison level 9 ketika kamu menerima serangan fisik.
+All stats + 5. Membutuhkan 400 HP setiap 4 detik.
+Indestructible.
+Class : ^777777HeadGear^000000 Def : ^7777776^000000
+Location : ^777777Upper ^000000Weight : ^77777760^000000
+Req Lev : ^77777760^000000
+Job : ^777777Jobchanged Archer/Thief Class^000000
+#
+5875#
+Jika  kamu memakai mahkota ini kamu akan merasa mempunyai kekuatan supranatural. Kamu akan merasakan kekuatan sihir yang sangan kuat berada didalam diri kamu.
+Menambahkan perlawanan sebesar 5% terhadap elemen Netral.
+Menambahkan perlawanan sebesar 5% terhadap monster dragon.
+Dapat menciptakan skill Endure level 8 ketika kamu menerima seranga fisik.
+All stats + +5. membutuhkan 300 HP setiap 4 detik.
+Indestructible.
+Class : ^777777HeadGear^000000 Def : ^7777776^000000
+Location : ^777777Upper ^000000Weight : ^77777760^000000
+Req Lev : ^77777760^000000
+Job : ^777777Jobchanged Magician/Acolyte Class^000000
+#
+18900#
+Sosis tradisional yang sangat lezat jika dimakan dengan saus mustard.
+Max HP +50.
+Class : ^777777HeadGear^000000 Def : ^7777771^000000
+Location : ^777777Upper ^000000Weight : ^77777710^000000
+Req Lev : ^77777760^000000
+Job : ^777777All^000000
+#
+18901#
+Sebuah topi tradisional  yang berasal dari jerman yang digunakan pada saat Festival rakyat.
+VIT +3. +10% HP Recovery.
+Set Bonus: Jika digunakan dengan Weisswurst akan menambahkan 10% SP Recovery.
+Class : ^777777HeadGear^000000 Def : ^7777775^000000
+Location : ^777777Upper ^000000Weight : ^77777750^000000
+Req Lev : ^77777760^000000
+Job : ^777777All^000000
+#
+18882#
+Sebuah tutup kepala yang berbentuk seperti mangkuk labu yang digunakan untuk mengambil air.
+Dapat menciptakan skill deluge level 12 ketika kamu menerima serangan fisik.
+Ketika di tempa +3 atau lebih ,dapat mengeluarka skill Waterball level 1 secara random ketika kamu menerima serangan fisik.
+Skill Waterball akan meningkat 1 setiap ditempat +3 atau lebih.
+MDEF +5.
+Class : ^777777HeadGear^000000 Def : ^7777775^000000
+Location : ^777777Upper ^000000Weight : ^77777720^000000
+Req Lev : ^77777720^000000
+Job : ^777777All^000000
+#
+18908#
+Sebuah topi Isabella berwarna merah yang sangat disukai oleh anak-anak.
+STR +5.
+Max HP +5%.
+Mengurangi kerusakan sebesar 10% dari monster berelemen Api.
+ASPD +1 ketika ditempa +9.
+Menambahkan ASPD +1 jika ditempa +9 atau lebih.
+Class : ^777777HeadGear^000000 Def : ^7777778^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18909#
+Sebuah topi isabella berwarna coklat yang sangat disukai oleh anak-anak.
+Max HP +10%.
+Mengurangi kerusakan sebesar 5% dari monster manusia.
+MATK +2 setiap di tempat.
+Class : ^777777HeadGear^000000 Def : ^7777778^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18910#
+Sebuah topi isabella berwarna biru yang sangat disukai oleh anak-anak.
+Mengurangi kerusakan sebesar 5% dari monster manusia.
+Menambahkan kerusakan sebesar 10% dari monster sedang.
+Ketika ditempat +12 When upgraded to +12, reflek sebesar 5% terhadap serangan fisik.
+Class : ^777777HeadGear^000000 Def : ^7777778^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18917#
+Ini adalah cara untuk mengekspresikan Cinta.ini mengisi anda dengan kegembiraan dan hanya dapat dirasakan oleh para pencinta.
+All stats +1.
+Tidak dapat ditempa. Indestructible.
+Class : ^777777HeadGear^000000 Def : ^7777775^000000
+Location : ^777777Lower ^000000Weight : ^77777720^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18918#
+Sebuah balon lucu yang berbentuk seperti gurita dan pemakainya seperti dihisap olehnya.
+VIT +1. INT +1.
+MSP +30.
+Tidak bisa ditempa. Indestructible.
+Class : ^777777HeadGear^000000 Def : ^7777775^000000
+Location : ^777777Lower ^000000Weight : ^77777720^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18929#
+Sebuah topi yang berbentuk seperti Mamalia besar.
+DEX +2.
+Dapat menciptakan skill Strom Gust level 5 ketika kamu menerima serangan fisik.
+Menambahkan DEX +1 setiap ditempa +8.
+DEX +1 jika ditempa dari +2 hingga +8.
+Class : ^777777HeadGear^000000 Def : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Req Lev : ^77777730^000000
+Job : ^777777All^000000
+#
+18930#
+Sebuah topi yang berbentuk seperi primata besar di Afrika.
+STR +2.
+Dapat menciptakan skill Bowling Bash level 1 ketika kamu menyerang .
+Menambahkan STR +3 ketika ditempa +11.
+Class : ^777777HeadGear^000000 Def : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Req Lev : ^77777730^000000
+Job : ^777777All^000000
+#
+18931#
+Sebuah topi yang berbentuk seperti Predator Kucing besar yang dikenal sebagai raja binatang.
+INT +2.
+Dapat menciptakan skill Meteor Strom level 5 ketika kamu menerima serangan fisik.
+Menambahkan INT +1 ketika ditempa +8.
+INT +1 jika ditempa dari +2 hingga +8.
+Class : ^777777HeadGear^000000 Def : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Req Lev : ^77777730^000000
+Job : ^777777All^000000
+#
+18932#
+Sebuah topi yang berbentuk kuda dan secara alami dipersenjatai dengan kulit tembal dan kuat serta bertanduk..
+VIT 2.
+Dapat menciptakan skill Lord Of Vermelion ketika kamu menerima serangan fisik.
+Menambahkan VIT +1 setiap ditempa hingga +11 atau lebih.
+Weight : ^77777730^000000
+#
+19689#
+Sebuah tutup kepala besar yang terbuat dari cincin dan berbagai macam atribut.
+Class : ^777777HeadGear^000000 Def : ^7777770^000000
+Location : ^777777UpperMiddleLower ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19690#
+Sebuah topi Dark Snake Lord yang berwibawa.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19695#
+Sebuah ketel dengan pertahanan yang kuat yang dipakai diatas kepala.airnya akan tumpah jika kamu bergerak terlalu cepat.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19709#
+Sebuah pita yang terbuat dari bendera tua. Ini dipakai di sisi kepala kamu.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19721#
+Sebuah tutup kepala dengan sayap gelap yang membentang di sisi kanan dan kiri nya mengintensifkan kemampuan tertentu.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19724#
+Sebuah tutup kepala yang berbentuk seperti karyawan Kafra.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19729#
+Sebuah kombinasi yang sempurna dari Kafra band dan Kitty Band.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19696#
+Sebuah topi yang berbentuk Rice Cake.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19718#
+Sebuah bandana rambut dengan embel-embel Gothic.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19728#
+Sebuah simulasi topi dari Npc Zonda.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+18676#
+Sepasang kacamata yang dipakai oleh etomologi terkenal.
+Menambahkan kerusakan sebesar 4% Magic pada monster serangga.
+Menambahkan perlawanan sebesar 5% terhadap monster serangga.
+Tidak bisa ditempa. Dihancurkan
+Class : ^777777HeadGear^000000 Def : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^77777720^000000
+Req Lev : ^77777710^000000
+Job : ^777777All^000000
+#
+18878#
+Sebuah topi yang dipakai oleh para penjaga yang akan bertarung tanpa rasa takut.
+Menambahkan perlawanan sebesar 5% terhadap elemen Netral.
+Menambahkan perlawanan sebesar 5% terhadap serangan jarak jauh.
+Setiap ditempa +6 atau lebih akan menambahkan perlawanan terhadap elemen netral sebesar 1%.
+Setiap ditempa +6 atau lebih akan menambahkan perlawanan terhadap serangan jarak jauh sebesar 1%.
+Indestructible.
+Class : ^777777HeadGear^000000 Def : ^77777715^000000
+Location : ^777777Upper ^000000Weight : ^777777100^000000
+Req Lev : ^77777750^000000
+Job : ^777777All^000000
+#
+1596#
+Sebuah buku yang disegel dengan kekuatan Bumi.
+MATK +130.
+INT 3.
+Menambahkan kekuatan Majic sebesar 5% jika menggunakan skill Earth Spike/Heaven's Drive.
+Kekuaran skill  Earth Spike/Heaven's Drive akan bertambah +1% setiap ditempal.
+Indestructible.
+Class : ^777777Book^000000 Atk : ^77777790^000000
+Weight : ^77777740^000000
+Weapon Lev : ^7777774^000000
+Req Lev : ^77777727^000000
+Job : ^777777Priest Class/Sage Class/Taekwon Master^000000
+#
+2188#
+Nama perisai ini dikelilingi oleh energi dingin dan dingin berarti "membeku."
+Menambahkan perlawanan sebesar 10% terhadap serangan berelemen Air.
+Setiap ditempa +3 akan menambahkan Max HP sebesar 1% dan perlawanan terhadap elemen Air sebesar 5%.
+MDEF +5.
+Class : ^777777Shield^000000 Def : ^77777780^000000
+Weight : ^77777750^000000
+Req Lev : ^77777765^000000
+Job : ^777777All^000000
+#
+18861#
+Topi Zaha yang tampak hebat dari siapapun.
+Heal, Coluseo Heal, Highness Heal, Sanctuary, dan Aid Potion effectiveness akan bertambah sebesar 15%
+Konsumsi SP +15%.
+Indestructible.
+Class : ^777777HeadGear^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^77777710^000000
+Req Lev : ^77777750^000000
+Job : ^777777All^000000
+#
+18863#
+Jubah ini dipakai oleh para pengusir roh jahat, dan meningkatkan ketahan terhadap makhluk jahat.
+Setiap ditempa +3 akan menambahkan perlawanan terhadap Undead sebesar 5%.
+Untuk Job Acolyte akan mendapatkan bonus perlawanan sampai 10%.
+MDEF +5.
+Class : ^777777Armour^000000 Def : ^77777757^000000
+Weight : ^777777170^000000
+Req Lev : ^77777760^000000
+Job : ^777777All^000000
+#
+18864#
+Sebuah hiasan bungan yang di berkahi oleh Dewi Bumi melindungi pemakainnya dari serangan berelemen Tanah.
+Menambahkan perlawanan sebesar 15% terhadap serangan berelemen Tanah.
+Akan mendapatkan tambahan sebesar 5% jika ditempa +8 atau lebih.
+Memungkinkan kamu menggunakan Earth Spike level 5.
+VIT +2.
+Class : ^777777HeadGear^000000 Def : ^7777776^000000
+Location : ^777777Upper ^000000Weight : ^77777725^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+1837#
+Sebuah sarung tangan panjang dengan cakar raksasa yang melekat padanya. Cakarnya dapat menembus apapun.
+Ignores the enemy's Physical Defense.
+Mengurangi kecepatan menyerang sebesar 5% . Kecepatan menyerang bertambah sebesar 1% setiap ditempa 2 level.
+Pelajari Level 5 Raging Quadruple Blow untuk mendapatkan ATK +20.
+Pelajari Level 5 Raging Thrust untuk mendapatkan ATK +20.
+Pelajari Level 5 Glacier Fist untuk mendapatkan ATK +20.
+Pelajari Level 5 Chain Rush Combo untuk mendapatkan ATK 40
+Class : ^777777Knuckle^000000 Atk : ^777777100^000000
+Weight : ^777777150^000000
+Weapon Lev : ^7777773^000000
+Req Lev : ^77777750^000000
+Job : ^777777Priest/Monk^000000
+#
+2985#
+Sebuah cincin yang memiliki kemampuan untuk membuat pemakainya tak terlihat.
+INT 3.
+MATK 30.
+Memungkinkan kamu menggunakan Hiding level 1
+Class : ^777777Accessary^000000 Def : ^7777770^000000
+Weight : ^77777710^000000
+Req Lev : ^77777750^000000
+Job : ^777777All^000000
+#
+18868#
+Sebuah topeng yang digunakan oleh kelompok pembunuh bayaran.topeng ini seperti berbentuk tengkorak untuk memberitahu korban nya bahwa kematian mendekati mereka.
+CRI +5.
+Class : ^777777HeadGear^000000 Def : ^7777772^000000
+Location : ^777777MiddleLow ^000000Weight : ^77777750^000000
+Req Lev : ^77777770^000000
+Job : ^777777All^000000
+#
+
+17479#
+Sebuah Lucky Egg legendaris di dunia rune midgard jika membukanya kemungkinan akan mendapatkan Blesed Ore Armor,Seagod Anger,C Darkness Helm,Palace Guard Cap,Hervor,Rhino Model Hat,Isabella Red Ear,Helmet Of Siegfried,C Tare Zonda,Guarantee Weapon 9Up,Guarantee Armor 9Up,Guarantee Weapon 11Up,Guarantee Armor 11Up,Sealed Tao Card,Sealed Samurai Card dab Berzebub Card.
+Weight : ^7777771^000000
+#
+18891#
+TK + 5%, MATK +5%. Ketika melakukan serangan fisik, Wind Walk lv.5 akan aktif dengan kemungkinan tertentu. Kemungkinan untuk mengaktifkan Wind Walk akan bertambah sesuai dengan tingkat tempa.
+Jenis : ^777777Helm^000000 Defense : ^7777775^000000
+Location : ^777777Upper ^000000Weight : ^77777750^000000
+Required Lv : ^77777770^000000
+Job : ^777777All jobs^000000
+#
+
+
+2565#
+Handuk pantai yang berwarna-warni. Ini dipakai untuk melindungimu dari sinar matahari. MDEF +3, FLEE +7.Ketahan terhadap Elemen netral meningkat sebesar 7 %.
+Jenis : ^777777jubah^000000 Defense : ^7777772^000000
+Weight : ^77777710^000000
+Required Lv : ^7777771^000000
+Job : ^777777All jobs^000000
+#
+17482#
+Sebuah Lucky Egg legendari didunia Rune Midgard jika membukanya kamu akan berkesempatan mendapatkan Kiel Card,Sealed ifrit Card,Sealed Fallen Bishop Card,Certificate Armor dan Weapon +11,Certificate Armor dan Weapon +9,Beach Towel[1],Exorcist Robe[1],Husky Hat[1],Outfit Neko Mini Kafra(Costume item),Japan White Lady Doll,Pala,Svalin dan item menarik lainya.
+Weight : ^7777771^000000
+#
+5269#
+
+Angel Wing ajaib dimana sayapnya dapat bergerak.
+Membuat pemakainya sedikit pusing tetapi juga membuat tubuh menjadi ringan ketika memakainya.
+Meningkatkan attack speed sebesar 3% dan mengurangi waktu casting sebesar 3%. Int dan agi +1 
+Jenis : ^777777Pelindung kepala^000000    Def : ^7777773^000000
+Dipakai di : ^777777Atas^000000    Beratt : ^77777730^000000
+Level Persyaratan : ^77777710^000000
+Untuk profesi : ^777777Semua Profesi^000000
+#
+
+2190#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18885#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18887#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18888#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18889#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18890#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18891#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18892#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18893#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18894#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18895#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18896#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18897#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+18898#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifer.
+#
+2959#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+18754#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+18756#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+18832#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+19589#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+19607#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+19649#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+19661#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+19685#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+
+17490#
+Sebuah Lucky Egg legendari didunia Rune Midgard jika membukanya kamu akan berkesempatan mendapatkan Berzebub Card,Sealed dark lord Card,Sealed Lady Tanee Card,Certificate Armor dan Weapon +11,Certificate Armor dan Weapon +9,Ancient Shield Of Aeon,Costume Sweet Bonnet,Costume White Baby Cat Ears,Love Chick Hat,Rolf Von Gigue 666,Blood Sucker dan item menarik lainya.
+Weight : ^7777771^000000
 #
 

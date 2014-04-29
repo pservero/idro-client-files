@@ -8938,3 +8938,117 @@ kalahkan dan laporkan kembali kepada Fury#
 7631#Hunting Limit#SG_FEEL#QUE_NOIMAGE#
 Misi akan selalu tersedia selama periode event berlangsung . silakan kamu menunggu 1 hari untuk mengdapatkan misi itu kembali!#
 #
+
+//-------- Paradise group equipment upgrade 7214 - 7241
+7214#Tahap Pertama Pelatiahan Tingkat lanjut - Penyerangan Kota Comodo#SG_FEEL#QUE_NOIMAGE#
+Di depan gua utara comodo, terdapat seorang pekerja 'Romeo' untuk menunggu trainee.#
+Berbicaralah kepada Romeo#
+
+7215#Langkah pertama dari tingkat pertama - penyerangan#SG_FEEL#QUE_NOIMAGE#
+Romeo meminta kamu untuk berburu Stalactic Golem untuk meneliti situasi yang terjadi. Hati-hati dengan monster lain di sekitar kamu.#
+Kalahkan 3 Stalactic Golem#
+
+7216#langkah kedua dari tingkat pertama - Menerobos gua utara#SG_FEEL#QUE_NOIMAGE#
+Setelah kamu mengetahui situasi gua dan musuh, kamu harus pergi melalui gua sambil mengalahkan musuh. Romeo akan menungu ada di ujung gua.#
+Teroboslah gua sambil mengalahkan Golem. kalahkan 10 Stalactic Golem.#
+
+7217#langkah ketiga dari tingkat pertama - Perencanaan Strategi#SG_FEEL#QUE_NOIMAGE#
+Romeo memuji keterampilan kamu karena telah menerobos gua dan ia akan memberimu quest berikutnya. burulah Wootan Fighter dan Dryad dan membuat perdamaian di kota ini.#
+Kumpulkan 5 Shoulder Protection dan 7 Sharp Leaf#
+
+7218#Laporkan ke Instruktur Uru#SG_FEEL#QUE_NOIMAGE#
+Kamu sudah melakukan semua tugas untuk Tahap Pertama Pelatiahan Tingkat lanjut - Penyerangan Kota Comodo . Sekarang Anda harus kembali ke paradise group dan melaporkannya.#
+Laporkan ke Instruktur Uru#
+
+7219#Tahap kedua Pelatiahan Tingkat lanjut - Glast Heim#SG_FEEL#QUE_NOIMAGE#
+Tahap 2 pelatihan lanjutan akan dimulai di Glast Heim. Bertemu 'Johan' di depan Glast Heim St.Abbey.#
+bertemu dengan Johan#
+
+7220#langkah pertama dari tingkat kedua - dewa palsu#SG_FEEL#QUE_NOIMAGE#
+Johan meminta kamu untuk berburu Wraith tinggal di lantai pertama St.Abbey.#
+Burulah 20 Wraith#
+
+7221#langkah kedua dari tingkat kedua - pendeta sesat#SG_FEEL#QUE_NOIMAGE#
+Biasanya seorang pendeta hanya berada di dalam sebuah biara,tetapi pendeta ini tidak dapat menyelamatkan orang,ayo kalahkan mereka dan halangi agar mereka tidak bangkit kembali.#
+kalahkan 10 Evil Druid#
+
+7222#Laporkan ke Instruktur Uru#SG_FEEL#QUE_NOIMAGE#
+Ada sesuatu yang tidak jelas, tetapi Johan mengatakan itu cukup dan semua tugas selesai. Kembali ke paradise group dan laporkan kepada Uru.#
+Laporkan ke Instruktur Uru#
+
+7223#Tahap ketiga Pelatiahan Tingkat lanjut - Einbroch#SG_FEEL#QUE_NOIMAGE#
+Girhen akan menunggu kamu di Selatan Einbroch.#
+Berbicaralah kepada Girhen#
+
+7224#Langkah pertama dari tingkat ke tiga - Porcellio#SG_FEEL#QUE_NOIMAGE#
+Girhen meminta kamu untuk berburu Porcellio. Tampaknya menjadi permintaan dari tetangga terdekat.#
+kalahkan 30 Porcellio#
+
+7225#Langkah ke dua dari tingkat ketiga - Nightmare (1)#SG_FEEL#QUE_NOIMAGE#
+Quest ini, berburu Noxious, diminta dari penduduk lokal Einbroch tapi Girhen menolaknya#
+kamu tidak perlu untuk berburu Noxious.#
+
+7226#langkah kedua dari tingkat ketiga - Nightmare (2)#SG_FEEL#QUE_NOIMAGE#
+Pencarian ini diminta dari penduduk lokal Einbroch.#
+burulah 30 VENOMOUS#
+
+7227#langkah kedua dari tingkat ketiga - Nightmare (3)#SG_FEEL#QUE_NOIMAGE#
+Sebuah masalah besar bagi warga setempat. Berburu beruang Teddy yang ditinggalkan. dia cukup kuat jadi hati-hati#
+kalahkan 5 Teddy bear#
+
+7228#Laporkan ke Instruktur Uru#SG_FEEL#QUE_NOIMAGE#
+Semua pelatihan dan permintaan dari penduduk setempat lakukan. Kembali ke paradise grup dan melaporkan kepada Uru.#
+Laporkan ke Instruktur Uru#
+
+7229#Tahap 4 - Ice cave#SG_FEEL#QUE_NOIMAGE#
+Tempat pelatihan fianl adalah gua es yang terletak di East-Selatan Rachel. Di pintu masuk, 'Neomi' akan menunggu.#
+Bicaralah Neomi#
+
+7230#Langkah pertama dari tahap ke-4 - Siroma#SG_FEEL#QUE_NOIMAGE#
+Permintaan dari warga setempat telah menunggu. Burulah Siroma.#
+Burulah 30 Siroma#
+
+7231#Langkah kedua 4th stage - Es!#SG_FEEL#QUE_NOIMAGE#
+Sebagai tingkat pertumbuhan Siroma sangatlah cepat, maka diputuskan memburu mereka. dan juga Neomi meminta kamu untuk mengumpulkan 30 Ice Piece, 1 Sweet sauce, 1 Milk.#
+Burulah 30 Siroma dan cari item yang dibutuhkan Neomi#
+
+7232#Laporkan ke Instruktur Uru#SG_FEEL#QUE_NOIMAGE#
+Apapun itu, Berburu siroma mengganggu dilakukan! Kembali ke paradise grup dan Laporkan ke Instruktur Uru.#
+#
+
+7233#Tahap ke-4 superior, ke dunia lain#SG_FEEL#QUE_NOIMAGE#
+Uru meminta kamu untuk bertemu Magret yang pergi ke Ash Vacuum ekspedisi dan membantunya.#
+bicaralah kepada Magret#
+
+7234#Keinginan Magret#SG_FEEL#QUE_NOIMAGE#
+Magret khawatir karena rekan-rekan Miru dan Mineh tidak datang kembali. Temui mereka dan mencari tahu apa yang terjadi. Miru terletak di Timur, Mineh terletak di Barat. Bertemu Miru pertama kemudian bertemu Mineh.#
+bicaralah kepada Miru dan Mineh.#
+
+7235#Tahap 4 - cerita Miru ini#SG_FEEL#QUE_NOIMAGE#
+Mengganggu Twin, Miru dan Mineh telah berjuang dan mengintai di tempat yang berbeda. Miru meminta Anda untuk membantu dia untuk berburu Nepenthes.#
+burulah 1 NEPENTHES#
+
+
+7236#Tahap 4 - cerita Mineh#SG_FEEL#QUE_NOIMAGE#
+Karena konflik dengan Miru, Mineh harus berburu Pinguicula sendiri. Bantu dia untuk menemukan cara untuk berburu Pinguicula.#
+Burulah 5 PINGUICULA#
+
+7237#Laporkan ke Instruktur Uru#SG_FEEL#QUE_NOIMAGE#
+Magret mengatakan dia puas Anda memecahkan masalahnya. Kembali ke paradise grup dan melaporkan kepada Uru.#
+Report to Instructor Uru#
+
+7238#Tugas dari Torhen (Mudah)#SG_FEEL#QUE_NOIMAGE#
+Permintaan dari Torhen, pandai besi dari paradise. Kumpulkan apa yang perlu Torhen.#
+20 Iron Ore, 10 Iron#
+
+7239#Tugas dari Torhen (Sulit)#SG_FEEL#QUE_NOIMAGE#
+Permintaan dari Torhen, pandai besi dari paradise. Kumpulkan apa yang perlu Torhen.#
+20 Old Steel Plate#
+
+7240#Torhen's weapon Enchant#SG_FEEL#QUE_NOIMAGE#
+Sebagai hadiah, Anda menerima penguatan kupon senjata. Anda dapat memperkuat antara Para Team Manteau2, Para Team Armor, Para Team Boots4.#
+#
+
+7241#Tugas dari Torhen - lagi besok #SG_FEEL#QUE_NOIMAGE#
+Tampaknya semuanya cukup untuk Torhen saat ini. Kembali padanya lagi besok.#
+#

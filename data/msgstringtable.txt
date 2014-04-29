@@ -1856,7 +1856,7 @@ harga#
 jumlah#
 sejumlah#
 Bebas biaya : %s C#
-Uang yang dimiliki : %s C#
+Koin : %s Koin#
 Tidak bisa memanggil monster ditempat ini#
 melebihi total bebas biaya#
 set info akan disimpan di [SaveData_ExMacro%d]#
@@ -1991,7 +1991,7 @@ Ada nama file yang sama#
 Record Start#
  telah disimpan.#
 Berat : %3d / %3d#
-Total : %s C#
+Total : %s Koin#
 Kamu harus memakai [Shuriken] untuk menggunakan skill ini.#
 Base Lv. %d#
 Job Lv. %d#
@@ -2069,7 +2069,7 @@ Hal ini tidak mungkin untuk memanggil di lokasi pemimpin grup saat ini.#
 Panggilan ditolak.#
 Hal ini tidak mungkin untuk memanggil.#
 Undangan grup hanya tersedia bagi ketua grup saja.#
-Masukkan nama item yang ingin anda cari :#
+Masukan Nama Item :#
 Kamu harus memasukkan nama karakter.#
 Kamu harus memasukkan nama grup.#
 Guild helper#

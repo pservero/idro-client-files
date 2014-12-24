@@ -21680,7 +21680,7 @@ Maks HP +50. Meningkatkan kecepatan serangan (mengurangi delay setelah menyerang
 Jenis : ^777777Aksesoris^000000
 Tk Def ^7777770^000000      Berat: ^7777775^000000
 Level Persyaratan : ^77777780^000000
-Profesi: ^777777Semua job 3 kecuali Novice^000000
+Profesi: ^777777Semua job kecuali Novice^000000
 #
 2731#
 Salah satu hadiah kerajaan kepada anggota Morocc Dispatches.
@@ -21688,14 +21688,14 @@ Maks SP +50, mengurangi waktu delay skill sebesar 1%.
 Jenis : ^777777Aksesoris^000000
 Tk Def ^7777770^000000      Berat: ^7777775^000000
 Level Persyaratan : ^77777780^000000
-Profesi: ^777777Semua job 3 Jobs kecuali Novice^000000
+Profesi: ^777777Semua job kecuali Novice^000000
 #
 2732#
 Salah satu hadiah kerajaan kepada anggota Morocc Dispatches. CRIT +5.
 Jenis : ^777777Aksesoris^000000
 Tk Def ^7777770^000000      Berat: ^7777775^000000
 Level Persyaratan : ^77777780^000000
-Profesi: ^777777Semua job 3 Jobs kecuali Novice^000000
+Profesi: ^777777Semua job kecuali Novice^000000
 #
 5808#
 Sebuah mahkota kuat yang terdapat ukiran wajah Satan Morroc.
@@ -38380,7 +38380,7 @@ Job : ^777777Rogue and Archer^000000
 
 11550#
 Kue manis yang terbuat dari labu.
-^ 000088Recover 5% dari HP dan SP ^ 000000 bila digunakan
+^000088 memulihkan HP dan SP sebesar 5%^000000.
 ^ffffff_^000000
 Berat : ^7777774^000000
 #
@@ -40758,4 +40758,756 @@ weight : ^7777770^000000
 14701#
 Sebuah telur keberuntungan yang sangat menakjubkan jika dibuka kemngkinan akan mendapatkan hadiah Tao Gunka Card,Sealed Knight WS Card,Hervor,Gorila Model Hat,Strawberry Decoration,Black Musang Hat,Blue Pajamas Hat,MVP Basketball, dan Item Lainya.
 Berat : ^7777770^000000
+#
+19689#
+Sebuah Headgear besar, digunakan untuk menutup kepala, terbuat dari beberapa cincin berbagai atributnya.
+Class : ^777777HeadGear^000000 Def : ^7777770^000000
+Location : ^777777UpperMiddleLower ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19690#
+Dark Snake Lord's hat akan terlihat berwibawa jika kamu mengunakannya.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19695#
+Sebuah teko dengan tekanan tinggi yang dikenakan di atas kepala kamu. airnya akan tumpah jika kamu bergerak terlalu cepat.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19709#
+Sebuah pita yang terbuat dari bendera tua. Ini dipakai di sisi kepala kamu.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+
+1596#
+Sebuah buku yang disegel dengan kekuatan alam.
+MATK +130.
+INT 3.
+Earth Spike/Heaven's Drive damages +5%.
+Menambahkan serangan Earth Spike/Heaven's Drive sebanyak 1% per upgrade level.
+Tidak dapat dihancurkan.
+Class : ^777777Book^000000 Atk : ^77777790^000000
+Weight : ^77777740^000000
+Weapon Lev : ^7777774^000000
+Req Lev : ^77777727^000000
+Job : ^777777Priest Class/Sage Class/Taekwon Master^000000
+#
+
+14741#
+Sebuah Telur legendaris yang dicari oleh seluruh petualang Rune Midgard,Jika di buka kami akan mendapatkan Berzebub Card,Sealed Samurai Card,Sealed Tao Card,Guarantee Armor 11Up,Guarantee Weapon 11Up,Guarantee Armor 9Up,Guarantee Weapon 9Up,Immuned Shield,Tare Pope ,C World Star,RJC Katusa,Cool FB Hat,Glory FB Hat,Blessed Ore Armor,Blessed Ore Weapon,LUK Biscuit Stick,HE Battle Manual,DEX Biscuit Stick,Insurance Package,STR Biscuit Stick,VIT Biscuit Stick,Megaphone
+Berat : ^7777771^000000
+#
+
+1562#
+Sebuah buku yang berisi sejarah perang dan impian para ahli strategi yang mengambil bagian di dalamnya.
+Terdapat kemungkinan 1% mengeluarkan skill Blessing Level 3 pada pengguna ketika menyerang.
+Jika pengguna memiliki skill Blessing, maka level skill Blessing yang digunakan akan disesuaikan dengan skill Blessing yang sudah dipelajari.
+Int +3
+Jenis : ^777777Book^000000 Serangan : ^777777110^000000
+Berat : ^77777770^000000
+Senjata lv : ^7777774^000000
+Minimum Lv: ^77777780^000000
+Job : ^777777Priest/Sage/Taekwon Master^000000
+#
+
+//--------------- Update Hero Midgard Lucky Egg 20140903 ---------------
+18827#
+Sebuah circlet suci  yang melambangkan murid Valkyrie yang menghukum orang-orang jahat.
+STR + 1.
+Tambahan serangan fisih sebesar 10% terhadap monster tipe Darkness dan Demon.
+Jenis : ^777777Headgear^000000 Tk Def : ^77777710^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^77777730^000000
+Minimum LV : ^77777750^000000
+Job : ^777777semua^000000
+#
+18803#
+Topi berend untuk berburu. Yang paling menonjol dari topi ini adalah hiasan mawar.
+Saat menggunakan Skill, konsumsi SP berkurang 5%.
+Jika DEX murni lebih dari 100, maka konsumsi SP akan berkurang lagi sebesar 5%. 
+Jika DEX murni lebih dari 120, maka konsumsi SP akan berkurang lagi sebesar 5%. 
+Jenis : ^777777Headgear^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Atas ^000000 Berat : ^77777750^000000
+Minimum Lv : ^77777710^000000
+Job : ^777777semua^000000
+#
+14753#
+Hero midgard lucky egg. Kamu bisa mendapatkan item berharga jika membukanya. 
+Berat : ^7777771^000000
+#
+5664#
+Sebuah topi lucu yang dibuat seperti sayap Filir, yang merupakan salah satu homunclus terpopuler.
+Aspd +2%. Mengurangi delay setelah menyerang sebesar 2%.
+Jenis : ^777777Headgear^000000
+Tk Def : ^7777771^000000
+Dikenakan di : ^777777Tengah ^000000
+Berat : ^77777710^000000
+Minimum Level : ^77777770^000000
+Job : ^777777Semua^000000
+#
+5422#
+Berisi semua informasi mengenai bahasa. Bila kamu meletakannya diatas kepalamu, sesuatu yang hebat akan terjadi.
+Int+1 , Mdef +2
+Jenis : ^777777Headgear^000000
+Tk Def : ^7777771^000000
+Dikenakan di : ^777777Atas^000000    Berat : ^7777777^000000
+Job : ^777777Semua^000000
+#
+
+//--------------- Update Cashitem 20140917 ---------------
+5918#
+Gambler Seal yang luar biasa. Hanya orang-orang yang sangat beruntung yang bisa mendapatkannya.
+CRI +3.
+Serangan kritikal meningkat 3%. Serangan yang diterima dari skill Arrow Storm  dan Gate Of Hell berkurang sebesar 10%.
+Setiap 10 poin murni DEX, akan menurunkan serangan kritikal sebesar 2%
+Setiap 10 poin murni LUK, maka CRI +1, ATK +2, MATK +2.
+Ketika poin murni LUK lebih dari 108, maka CRI +5, serangan kritikal meningkat 10%
+Ketika poin murni LUK lebih dari 120, maka CRI +10, serangan kritikal meningkat 10%, serangan yang diterima dari skill Arrow Storm dan Gate Of Hell berkurang 30%.
+Jenis : ^777777Helm^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Tengah ^000000Berat : ^77777750^000000
+Minimum Lv : ^77777770^000000
+Job : ^777777Semua^000000
+#
+5920#
+Sepatu yang meningkatkan kemampuan peyembuhan
+Saat menggunakan [Heal], [Sanctuary], [Potion Pitcher], [Highness Heal], [Coluseo Heal], tingkat penyembuhan meningkat 10%.
+setiap 2 tingkat upgrade Medical Boots, akan menambah tingkat penyembuhan skill [Heal], [Sanctuary], [Potion Pitcher], [Highness Heal], [Coluseo Heal] sebesar 2%.
+Setiap 1 tingkat upgrade penggunaan SP untuk skill Coluseo Heal berkurang 5.
+Jika dipakai bersamaan dengan Benevolent Guardian, maka setiap 2 tingkat upgrade dari item Benevolent Guardian, akan meningkatkan tingkat penyembuhan skill [Heal], [Sanctuary], [Potion Pitcher], [Highness Heal], [Coluseo Heal] sebesar 2%.
+Jika mengenakan Recovery Light, maka setiap 1 tingkat upgrade dari Recovery Light akan mengurangi kunsumsi SP dari skill Heal sebesar 6, Coluseo Heal sebesar 10, dan Highness Heal sebesar 14.
+Jenis : ^777777Shoes^000000 Tk Def : ^77777710^000000
+Berat : ^77777730^000000
+Minimum Lv : ^77777710^000000
+Job : ^777777Semua^000000
+#
+18934#
+Tampak seperti telinga rubah.
+AGI + 2.
+Kecepatan serangan meningkat (delay setelah menyerang berkurang sebesar 10%)
+Saat melakukan serangan fisik, terdapat kemungkinan kecil untuk berubah menjadi Moonlight Flower selama 5 detik.
+Saat berubah wujud maka CRI + 100, serangan fisik jarak jaug meningkat sebesar 5%.
+Setiap 1 tingkat upgrade, sedikit menambah kemungkinan untuk berubah wujud menjadi Moonlight flower.
+Jika tingkat upgrade lebih dari 6, maka 1 tingkat upgrade akan meningkatkan serangan fisik jarak jauh sebesar 1 % saat berubah menjadi Moonlight flower.
+Jenis : ^777777Helm^000000 Tk Def : ^7777774^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^77777740^000000
+Minimum Lv : ^77777750^000000
+Job : ^777777Semua^000000
+#
+2597#
+Item ini seperti dilumuri dengan darah.
+Garment dengan tambahan kerudung untuk menyembunyikan wajahmu dari orang lain.
+Serangan kritikal meningkat 3%.
+Saat dikenakan bersamaan dengan Critical Ring, maka serangan kritikal meningkat 5%, dan CRI +10.
+Jika tingkat upgrade lebih dari 5, maka serangan kritikal meningkat sebesar 3%.
+Jika tingkat upgrade lebih dari 7, maka serangan kritikal meningkat sebesar 4%.
+Jenis : ^777777Kostum^000000 Tk Def : ^77777710^000000
+Berat : ^77777750^000000
+Minimum Lv : ^77777750^000000
+Job : ^777777Semua^000000
+#
+2481#
+Sepatu kulit berwarna hitah yang terdapat tulisan rune.
+Tidak dapat dihancurkan.
+Jika poin murni STR mencapai 90 atau lebih, maka ATK + 10. Jika poin murni STR mencapai 120 atau lebih, maka ATK + 10.
+Jika poin murni INT mencapai 90 atau lebih, maka MATK + 3%. Jika poin murni INT mencapai 120 atau lebih, makan MATK + 2%.
+Jenis : ^777777Shoes^000000 Tk Def : ^7777775^000000
+Berat : ^77777710^000000
+Minimum Lv : ^7777771^000000
+Job : ^777777Semua^000000
+#
+17076#
+^ff0000 Tidak dapat ditransaksikan dengan ID lain.^000000
+Kotak yang berisi 500 empty bottle. Hati-hati dalam menanganinya.
+^ff0000tidak dapat dikembalikan.^000000
+Berat : ^7777771^000000
+#
+2943#
+Critical Ring
+CRI + 5
+Jenis : ^777777Aksesoris^000000
+Tk Def : ^7777770^000000 Berat : ^77777710^000000
+Minimum Lv : ^77777740^000000
+Job : ^777777Semua kecuali Novice^000000
+#
+
+//------ ½É¿¬ÀÇÈ¸¶û Abyss gate
+1293#
+*Status berlaku selama WoE & PVP
+Meningkatkan DEF/MDEF untuk 5 detik ketika diaktifkan tetapi tidak mempengaruhi serangan skill.
+Meningkatkan Attack speed (after-attack delay) sebanyak 4% and meningkat 1% setiap tingkat tempa.
+Jenis : ^777777Katar^000000
+Serangan : ^777777170^000000
+Berat : ^777777120^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Assassin^000000
+#
+1294#
+*Status berlaku selama WoE & PVP
+Mengurangi 10% SP musuh setiap melakukan serangan fisik. (Serangan dari skill tidak berpengaruh dengan item ini).
+Jenis : ^777777Katar^000000
+Serangan : ^77777750^000000
+Berat : ^777777120^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Assassin^000000
+#
+1395#
+*Status berlaku selama WoE & PVP
+Lifesteal 10% dari serangan fisik yang diberikan ke musuh. (Serangan dari skill tidak berpengaruh dengan item ini.)
+Jenis : ^777777Two-handed Axe^000000
+Serangan : ^77777750^000000
+Berat : ^777777250^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Swordman dan Merchant^000000
+#
+1396#
+*Status berlaku selama WoE & PVP
+serangan ke musuh meningkat sebesar 40% dan mengabaikan pertahanan fisik dari player lain sebesar 30%.
+Jika ditempa +6 atau lebih, Meningkatkan serangan Axe Boomerang dan Power Swing sebesar 80%
+Jika di tempa +9 atau lebih, meningkatkan serangan ke musuh sebesar 60%.
+Jenis : ^777777Two-handed Axe^000000
+Serangan : ^777777300^000000
+Berat : ^777777550^000000 
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Swordman dan Merchant^000000
+#
+1436#
+*Status berlaku selama WoE & PVP
+Meningkatkan serangan ke pemain lain sebesar 60%.
+Jika ditempa +6 atau lebih, meningkatkan serangan Pinpoint Attack and Hundred Spears sebesar 80%.
+Jika ditempa +9 atau lebih, meningkatkan serangan ke musuh sebesar 30%.
+Jenis : ^777777Spear^000000
+Serangan : ^777777150^000000
+Berat : ^77777785^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Swordman^000000
+#
+1492#
+*Status berlaku selama WoE & PVP
+Meningkatkan serangan ke musuh sebesar 80%.
+Jika ditempa +6 atau lebih, meningkatkan serangan dari  Clashing Spiral sebesar 100% and serangan Overbrand sebesar 50%.
+Jika ditempa +9 atau lebih, memiliki kesempatan untuk mereflek serangan magic and serangan fisik kepada musuh yang menyerang.
+Jenis : ^777777Spear^000000
+Serangan : ^777777250^000000
+Berat : ^777777450^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Swordman^000000
+#
+1586#
+Matk +125.
+*Status berlaku selama WoE & PVP
+Meningkatkan skill penyembuhan berdasarkan base level.
+Jika ditempa +6 atau lebih, mengurangi delay skill dari Lauda Agnus, Lauda Ramus, dan Clearance sementara meningkatkan konsumsi SP dari skill tersebut sebesar 60.
+Jenis : ^777777Book^000000
+Serangan : ^777777110^000000
+Berat : ^77777760^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Priest / Sage / Taekwon Master^000000
+#
+1587#
+*Status berlaku selama WoE & PVP
+Meningkatkan serangan ke musuh sebesar 80% dan meningkat 1% di setiap level tempa.
+Meningkatkan pertahanan fisik dari pemain lain sebesar 30%.
+Jika ditempa +9 atau lebih, memiliki kesempatan meningkatkan attack power sebesar 200 untuk 3 detik.
+Jenis : ^777777Book^000000
+Serangan : ^777777130^000000
+Berat : ^777777100^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Priest Class / Sage Class / Taekwon Master^000000
+#
+1661#
+Mengurangi 5% SP dari musuh ketika menyerang. (Serangan dari skill tidak berpengaruh dengan item ini.)
+Meningkatkan konsumsi SP dari skill sebesar 100
+Int +10, Matk +50, Mdef +20.
+Jika di tempa +6 atau lebih, meningkatkan kemampuan mengurangi SP lawan.
+Jenis : ^777777One-handed staff^000000
+Serangan : ^777777100^000000
+Berat : ^777777140^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777High wizard^000000
+#
+1775#
+Anak panah yang diproduksi massal untuk War of Emperium.
+*Status berlaku selama WoE & PVP
+Ketika digunakan dengan Vellum Crossbow, meningkatkan serangan jarak jauh sebesar 70%
+Jenis : ^777777Arrow^000000
+Serangan : ^77777745^000000
+Berat : ^7777770.1^000000
+Elemen : ^777777Neutral^000000
+Minimum Level : ^777777130^000000
+#
+1776#
+Anak panah yang diproduksi massal untuk War of Emperium.
+*Status berlaku selama WoE & PVP
+Ketika digunakan dengan Vellum Crossbow, meningkatkan serangan jarak sebesar 40%
+Jenis : ^777777Arrow^000000
+Serangan : ^77777730^000000
+Berat : ^7777770.1^000000
+Elemen : ^777777Neutral^000000
+Minimum Level : ^77777795^000000
+#
+1832#
+*Status berlaku selama WoE & PVP
+Meningkatkan serangan ke musuh sebesar 100%
+Jika di tempa +8 atau lebih, meningkatkan serangan ke musuh sebesar 20%.
+Jika di tempa +10 atau lebih, mengurangi casting dari Guillotine Fist, ketika menggunakan Fury dan auto-casts Lv. 1 Zen sementara mengurangi 500 HP setiap 3 detik.
+Jenis : ^777777Claw^000000
+Serangan : ^777777160^000000
+Berat : ^77777765^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Priest / Monk^000000
+#
+2016#
+Matk +220.
+*Status berlaku selama WoE & PVP
+Meningkatkan serangan dari serangan magic sebesar 25% dan meningkatkan pertahanan magic sebesar 25%.
+Jika di tempa +6 atau lebih, meningkatkan serangan magic sebesar 15%.
+Jika di tempa +9 atau lebih, mengurangi Casting Time sebesar 20% and mengurangi waktu casting tetap sebesar 0.2 seconds
+Jenis : ^777777Rod^000000
+Serangan : ^777777110^000000
+Berat : ^77777780^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Mage, Acolyte, dan Soul Linker^000000
+#
+2483#
+Mdef +1.
+*Status berlaku selama WoE & PVP
+Mengurangi serangan dari musuh sebesar 2%.
+Jenis : ^777777Shoes^000000
+Tk Def : ^77777730^000000
+Berat : ^77777775^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Swordman / Merchant^000000
+#
+2484#
+Mdef +5.
+*Status berlaku selama WoE & PVP
+Mengurangi serangan dari musuh sebesar 1%.
+Jenis : ^777777Shoes^000000
+Tk Def : ^77777720^000000
+Berat : ^77777750^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Swordman / Merchant / Thief / Archer / Taekwon / Taekwon Master / Ninja^000000
+#
+2485#
+Mdef +10.
+*Status berlaku selama WoE & PVP
+Mengurangi serangan dari musuh sebesar 1%.
+Jenis : ^777777Shoes^000000
+Tk Def : ^77777715^000000
+Berat : ^77777735^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Novice / Wizard / Acolyte / Soul Linker^000000
+#
+2586#
+Mdef +1.
+*Status berlaku selama WoE & PVP
+Mengurangi serangan dari musuh sebesar 2%.
+Jenis : ^777777Garment^000000
+Tk Def : ^77777732^000000
+Berat : ^77777760^0000000 
+Minimum Level : ^77777795^000000
+Jobs : ^777777Semua kecuali Novice^000000
+#
+2587#
+Mdef +10.
+*Status berlaku selama WoE & PVP
+Mengurangi serangan dari musuh sebesar 1%.
+Jenis : ^777777Garment^000000
+Tk Def : ^77777715^000000
+Berat : ^77777740^0000000 
+Minimum Level : ^77777795^000000
+Jobs : ^777777Semua^00000000
+#
+2894#
+Tampak seperti sarung tangan yang di buat oleh dewa kehancuran
+Jika Str murni adalah 120, meningkatkan kekuatan serangan sebesar 30.
+Str +5, MaxSP +6%, MaxHP - 6%.
+Jenis : ^777777Aksesoris^000000
+Tk Def : ^7777771^000000
+Berat : ^77777740^000000
+Minimum Level : ^777777130^000000
+Jobs : ^777777Gladiator^000000
+#
+2898#
+Sebuah rosary hitam yang dibuat dari ore murni yang langka
+Mdef +15.
+Jenis : ^777777Aksesoris^000000
+Tk Def : ^7777770^000000
+Berat : ^77777710^000000
+Minimum Level : ^77777790^000000
+Jobs : ^777777Semua^000000
+#
+2899#
+Meningkatkan serangan dari Metallic Sound sebesar 150%.
+Meningkatkan konsumsi SP dari Metallic Sound sebesar 60.
+Mengurangi Waktu casting tetap sebesar 50%.
+Jenis : ^777777Aksesoris^000000
+Tk Def : ^7777770^000000
+Berat : ^77777710^000000
+Minimum Level : ^77777790^000000
+Jobs : ^777777Hunter / Bard / Dancer^000000
+#
+6488#
+^ff0000Ini adalah item terikat.^000000
+Sebuah tiket yang bisa ditukar dengan berbagai barang.
+Berat : ^7777771^000000
+#
+6489#
+^ff0000Ini adalah item terikat.^000000
+Sebuah sertifikat yang diberikan oleh para pedagang kaki lima untuk berinvestasi dalam fasilitas tertentu.
+Berat : ^7777771^000000
+#
+11547#
+*Status berlaku selama WoE & PVP
+^000088Memulihkan minimal 500 HP dan minimal 60 SP^000000
+Berat : ^7777778^000000
+#
+11548#
+*Status berlaku selama WoE & PVP
+Daun termuda ramuan organik putih digunakan untuk membuat ramuan ini.
+^000088Memulihkan 10% HP^000000
+Berat : ^7777778^000000
+#
+11549#
+*Status berlaku selama WoE & PVP
+Herbal organik biru yang menyegarkan digunakan untuk membuat ramuan ini.
+^000088Recovers 10% SP^000000
+Berat : ^7777778^000000
+#
+12674#
+Kecil, padat, dengan kotak yang telah dipernis hitam yang berisi beberapa bahan.
+Berat : ^77777750^000000
+#
+12675#
+Sebuah kotak persediaan dengan berbagai senjata dicap dengan segel dari sebuah Guild yang terlupakan.
+Berat : ^77777750^000000
+#
+12676#
+Sebuah kotak berisi 50 ramuan yang berbeda dan studi teori untuk senjata mahal.
+(*Item tidak akan berfungsi selain di map WOE, PVP dan kota) 
+Berat : ^77777720^000000
+#
+12677#
+Sebuah quiver yang berisi 200 Siege Arrow S.
+Minimum Level : ^777777130^000000.
+Berat : ^77777710^000000
+#
+12678#
+Sebuah quiver yang berisi 200 Siege Arrow A.
+Minimum Level : ^77777795^000000
+Berat : ^77777710^000000
+#
+12679#
+Sebuah kotak yang berisi WoE White Potions
+(*Item tidak akan berfungsi selain di map WOE, PVP dan kota) 
+Berat : ^77777720^000000
+#
+12680#
+Sebuah kotak yang berisi WoE Blue Potions
+(*Item tidak akan berfungsi selain di map WOE, PVP dan kota) 
+Berat : ^77777720^000000
+#
+12683#
+Sebuah kotak yang berisi WoE Violet Potions (200 potion)
+(*Item tidak akan berfungsi selain di map WOE, PVP dan kota) 
+Berat : ^77777720^000000
+#
+13072#
+*Status berlaku selama WoE & PVP
+Membuat DEF/MDEF lawan menjadi 1 selama 5 detik. Tidak berpengaruh pada skill menyerang.
+Meningkatkan ASPD sesuai dengan level tempa.
+Jenis : ^777777Dagger^000000
+Serangan : ^777777180^000000
+Berat : ^777777100^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker, dan Ninja^000000
+#
+15046#
+Mdef +5.
+*Status berlaku selama WoE & PVP
+Meningkatkan defense dari serangan musuh sebesar 2%.
+Jika di tempa +6 atau lebih, meningkatkan healing sebesar 12%.
+Jika di tempa +9 atau lebih, MaxHP +25%
+Jika dikenakan bersamaan dengan Siege Greave dan Siege Manteau, maka VIT +5 dan mengurangi serangan yang diterima sebesar 15%. 
+Jenis : ^777777Armor^000000
+Tk Def : ^77777785^000000
+Berat : ^777777330^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Swordman, Merchant, Taekwon Boy/Girl, Taekwon Master^000000
+#
+15047#
+MDEF + 10.
+*Status berlaku selama WoE & PVP
+Meningkatkan pertahanan dari serangan musuh sebesar 2%.
+Jika di tempa +6 atau lebih, mengurangi pertahanan dari serangan jarak jauh sebesar 20% tetapi meningkatkan flee sebesar 5
+Jika ditempa +9 atau lebih, MaxHP +15%
+Jika digunakan bersamaan dengan Siege Boots dan Seige Manteau, maka DEX +5, dan mengurangi serangan yang diterima sebesar 15%. 
+Jenis : ^777777Armor^000000
+Tk Def : ^77777750^000000
+Berat : ^77777775^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Swordman / Merchant / Thief / Archer / Taekwon / Taekwon Master / Ninja^000000
+#
+15048#
+MDEF + 20.
+*Status berlaku selama WoE & PVP
+Meningkatkan pertahanan dari serangan musuh sebesar 2%.
+Jika di tempa +6 atau lebih, mengurangi ranged attack defense sebesar 15% tetapi meningkatkan flee sebesar 5
+Jika di tempa +9 atau lebih, MaxHP +1000 MaxSP +100
+Jika dikenakan bersamaan dengan Siege shoes dan Seige muffler, maka INT +5, MDEF +10, dan mengurangi serangan yang diterima sebesar 15%.
+Jenis : ^777777Armor^000000
+Tk Def : ^77777740^000000
+Berat : ^77777750^000000
+Minimum Level : ^77777795^000000
+Jobs : ^777777Novice / Wizard / Acolyte / Soul Linker^000000
+#
+16020#
+*Status berlaku selama WoE & PVP
+Memiliki kesempatan untuk menimbulkan status Stun saat sedang diserang secara fisik.
+Meningkatkan prosentase kecepatan serangan sesuai denagn level upgrade.
+Mengurangi DEF/MDEF lawab menjadi 1 selama 5 detik, tapi tidak berpengaruh jika menggunakan pada skill.
+Jenis : ^777777Mace^000000
+Serangan : ^777777170^000000
+Berat : ^777777150^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Novice, Swordman, Acolyte, dan Merchant^000000
+#
+16021#
+*Status berlaku selama WoE & PVP
+Membuat DEF dan MDEF lawal menjadi 1 serta tidak dapat melakukan penyembuhan. Tidak berfungsi jika menggunakan skill.
+HIT dan CRI akan bertambah sesuai dengan tingkat upgrade.
+Item tidak dapat hancur kecuali ditempa.
+Jenis : ^777777Mace^000000
+Serangan : ^777777170^000000
+Berat : ^777777150^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Novice, Swordman, Acolyte, and Merchant Classes^000000
+#
+18113#
+*Status berlaku selama WoE & PVP
+Setiap serangan fisik akan mengurangi 4% SP dari musuh.
+ASPD - 5.
+Jenis : ^777777Bow^000000
+Serangan : ^77777750^000000
+Berat : ^777777110^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Archer Class, Thief and Rogue Jobs^000000
+#
+18114#
+*Status berlaku selama WoE & PVP
+Meningkatkan serangan fisik sebesar 30%, dan mengabaikan Pertahanan fisik sebesar 30%
+Meningkatkan serangan ke musuh sebesar 30% dan meningkatkan sesuai dengan tingkat upgrade.
+Jenis : ^777777Bow^000000
+Serangan : ^777777110^000000
+Berat : ^777777110^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Archer, Thief dan Rogue^000000
+#
+21001#
+*Status berlaku selama WoE & PVP
+Meningkatkan serangan ke musuh sebesar 80%
+Meningkatkan defense dari musuh sebesar 30%
+Jika di tempa +6 atau lebih, meningkatkan serangan ke musuh sebesar 40%.
+Jika di tempa +9 atau lebih, memiliki kesempatan mereflek serangan fisik dan serangan magic.
+Jenis : ^777777Two-handed Sword^000000
+Serangan : ^777777260^000000
+Berat : ^777777350^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Swordman^000000
+#
+21002#
+*Status berlaku selama WoE & PVP
+Mengurangi 8% HP lawan, tidak berfungsi jika menggunakan skill.
+Jenis : ^777777Two-handed Sword^000000
+Serangan : ^777777100^000000
+Berat : ^777777250^000000
+Level Senjata : ^7777774^000000
+Minimum Level : ^77777795^000000
+Jobs: ^777777Swordman^000000
+#
+
+//--------------- Update Epic Heroes Egg 20141022 ---------------
+17519#
+Epic Heroes Egg
+Berat : ^7777771^000000
+#
+19020#
+Aksesoris rambut yang biasa dipakai oleh peserta latihan. Tampak nya ada sebuah kekuatan untuk memunculkan kekuatan magic
+INT +3.
+MATK +4%.
+Setiap 2 level tempa akan menambah INT +1.
+Ketika Base Level lebih dari 130, pada setiap tingkat tempa ,tambahan INT +1.
+Ketika digunakan bersamaan dengan Survivor's Rod ,MATK akan bertambah +10 pada setiap tingkat level tempanya.
+Pada tingkat tempa +10, ketika menggunakan serangan magic, akan mengurangi waktu casting sebesar 50% untuk 5 detik dengan kesempatan tertentu.
+Jenis : ^777777Helm^000000 Tk Def : ^77777710^000000
+Letak : ^777777Atas ^000000Berat : ^77777750^000000
+Minimum Level : ^77777750^000000
+Job : ^777777Semua job^000000
+#
+19021#
+Sebuah Helm tiruan dari penjaga kuil kuno. Menunjukkan kemampuan yang sangat kuat sesuai dengan penggunanya.
+STR +3.
+ATK +4%.
+Ketika Base Level lebih dari 130, pada setiap tingkat tempa ,tambahan ,tambahan STR +1
+Ketika digunakan bersamaan dengan Giant Shield ,kerusakan yang didapat dari Monster Besar akan berkurang sebesar 5%.
+Setiap tingkat tempa Giant Shield +1, kerusakan dari Monster Besar akan bertambah 2%.
+Ketika memakai Giant Axe, High Speed Cart Ram akan bertambah sebesar 15%
+Setiap tingkat tempa Giant Axe +1, High Speed Cart Ram bertambah sebesar 5%
+Ketika menggunakan Giant Lance, Saat menggunakan skill Vital Strike , skill Clashing Spiral Level 1 akan aktif (akan aktif sesuai dengan level nya)
+Setiap tingkat level dari Vital Strike, kesempatan untuk mengaktifkan Clashing Spiral akan bertambah.
+Setiap tingkat tempa Giant Lance +1,kerusakan Clashing Spiral akan bertambah sebesar 5%.
+Jenis : ^777777Helm^000000 Tk Def : ^77777710^000000
+Letak : ^777777Atas ^000000Berat : ^77777750^000000
+Minimum Level : ^77777750^000000
+Job : ^777777semua job^000000
+#
+19019#
+Mahkota yang diberkahi oleh roh, orang yang memakainya dapat membaca aliran alam.
+DEX +3.
+Menambahkan serangan jarak jauh sebesar 4%.
+Setiap 2 level tempa akan menambahkan DEX +1
+Ketika Base Level lebih dari 130, DEX akan bertambah +1 pada setiap tingkat tempa nya.
+Ketika digunakan bersamaan dengan Burning Bow, Frozen Bow, Earth Bow atau Gust Bow serangan jarak jauh akan bertambah sebesar 45%.
+Jenis : ^777777Helm^000000 Tk Def : ^77777710^000000
+Letak : ^777777Atas ^000000Berat : ^77777750^000000
+Minimum Level : ^77777750^000000
+Job : ^777777semua job^000000
+#
+5366#
+Hiasan kepala yang dipakai untuk ulang tahun Raja, Anda akan terlihat seperti orang baik ketika memakainya.
+ALL STATUS + 5.
+Jenis : ^777777Helm^000000 Tk Def : ^7777775^000000
+Letak : ^777777Atas ^000000Berat : ^77777720^000000
+Minimum Level : ^77777770^000000
+Job : ^777777semua job^000000
+#
+
+//--------------Halloween 20141022--------------//
+11592#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika digunakan, akan berubah menjadi Bloody Murder selamat 10 Menit .MHP +1000 pada saat berubah.
+Berat : ^7777773^000000
+#
+11593#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika digunakan, akan berubah menjadi Bathory selama 10 menit.  MSP + 100 pada saat berubah.
+Berat : ^7777773^000000
+#
+11594#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika Digunakan, akan berubah menjadi Jack selama 10 minutes. Efek pemulihan meningkat sebesar 2000% saat mengkonsumsi "Pumpkin". Pada saat berubah bentuk.
+Berat : ^7777773^000000
+#
+11595#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika digunakan, akan berubah menjadi Cube selama 10 menit.  HIT + 10, FLEE + 20 pada saat berubah.
+Berat : ^7777773^000000
+#
+22067#
+Sepasang sepatu penyihir dengan kucing diatas nya.
+Ketika dipakai selama periode event, dapat menggunakan skill `Monster`s Cry`.
+Jenis : ^777777Sepatu^000000    Defense : ^77777710^000000
+Berat : ^77777740^000000
+Job : ^777777semua job kecuali Novice^000000
+#
+20183#
+Meskipun tidak merubah apapun, jika memakai ini akan memberirikan perasaan menyeramkan.
+Jenis : ^777777Defense : ^7777770^000000
+Location : ^777777tengah-bawah ^000000Berat : ^7777770^000000
+Digunakan Level : ^7777771^000000
+Job : ^777777semua job^000000
+#
+6913#
+^ff0000Item ini tidak dapat ditrande kepada orang lain.^000000
+Sebuah Rosary yang diberkati, dapat membedakan apakah itu hidup atau mati. 
+(Item akan menghilang setelah periode event)
+Berat : ^7777770^000000
+#
+6914#
+^ff0000Item ini tidak dapat ditrande kepada orang lain.^000000
+Jiwa yang jahat yang ditangkap saat melarikan diri dari Niflheim. Satu-satu nya tempat untuknya adalah Niflheim. Dan akan kembali ke Niflheim setelah periode event berakhir.
+(Item akan menghilang setelah periode event)
+Berat : ^7777770^000000
+#
+6915#
+^ff0000Item ini tidak dapat ditrande kepada orang lain.^000000
+Jiwa yang bebas berkeliaran yang ditangkap saat melarikan dri dari Niflheim. Satu-satu nya tempat untuknya adalah Niflheim. Dan akan kembali ke Niflheim setelah periode event berakhir.
+(Item akan menghilang setelah periode event)
+Berat : ^7777770^000000
+#
+22838#
+Sebuah keranjang untuk permen Halloween, ketika dibuka. Berbagai barang-barang lama akan ditemukan.
+Berat : ^7777771^000000
+#
+
+//--------------- Update Majestic Egg 20141126 ---------------
+5409#
+Topi yang merupakan simbol penjelah diarea barat. Ciri khasnya merupakan bulu yang terdapat pada topi ini.
+INT + 2 , VIT + 2 , SP + 50
+Jenis : ^777777Helm^000000    Tk Def : ^7777778^000000
+Dipakai di : ^777777Atas^000000    Berat : ^77777750^000000
+Job : ^777777Semua Job^000000
+#
+15145#
+Terbuat dari sisik naga, yang ditakuti oleh banyak orang. Memiliki kekuatan untuk menyerap semua energi.
+Jika ditempa lebih dari +8, maka terdapat kemungkinan kecil bahwa 3% dari serangan yang diberikan pada musuh akan menambah HP, dan 2% serangan akan menambah SP.
+Jika ditempa lebih dari +9, maka terdapat kemungkinan kecil bahwa 4% dari serangan yang diberikan pada musuh akan menambah HP, dan 3% serangan akan menambah SP.
+Jika ditempa lebih dari +10, maka terdapat kemungkinan kecil bahwa 6% dari serangan yang diberikan pada musuh akan menambah HP, dan 5% serangan akan menambah SP.
+Jika dikenakan bersamaan dengan Rideword, Vanargandr Helm atau Piece Of Angent Skin, maka efek diatas tidak akan berfungsi.
+Jenis : ^777777Armor^000000 Tk Def : ^77777760^000000
+Berat : ^777777400^000000
+Minimum Lv : ^77777799^000000
+Job : ^777777Semua Job^000000
+#
+19031#
+Rumornya item ini merupakan item yang tercipta saat malaikan diusir dari surga. Saat memakainya, kamu akan merasa benci pada malaikat yang lain.
+Serangan fisik terhadap monster jenis Angel akan meningkat 5%
+Serangan yang diterima dari monster jenis Angel akan berkurang 5%
+Jenis : ^777777Helm^000000 Tk Def : ^7777771^000000
+Dipakai di : ^777777Tengah ^000000Berat : ^77777720^000000
+Minimum Lv : ^77777710^000000
+Job : ^777777Semua Job^000000
+#
+22064#
+Sepatu yang memiliki duri-duri yang tajam
+Setiap 2 tingkat upgrade, serangan fisik yang diterima akan dikembalikan sebesar 1%
+Ketika dikenakan bersama dengan Thorny Buckler, kecepatan serangan akan meningkat sesuai dengan 3 tingkat upgrade dari Thorny Buckler (Mengurangi delay setelah menyerang)
+Jika mengenakan Bison Horn dan base AGI murni lebih dari 120, maka akan menambah sedikit kecepatan serangan.
+Jenis : ^777777Shoes^000000 Tk Def : ^77777725^000000
+Berat : ^777777100^000000
+Minimum Lv : ^77777770^000000
+Job : ^777777Semua Job^000000
+#
+17526#
+Majestic Lucky Egg
+Berat : ^7777771^000000
 #

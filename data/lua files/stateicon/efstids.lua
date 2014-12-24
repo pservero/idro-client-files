@@ -694,9 +694,5 @@ EFST_IDs = {
 	EFST_GEFFEN_MAGIC3 = 704,
 	EFST_QUEST_BUFF1 = 705,
 	EFST_QUEST_BUFF2 = 706,
-	EFST_QUEST_BUFF3 = 707,
-  __newindex = function()
-    error("unknown state")
-  end
+	EFST_QUEST_BUFF3 = 707
 }
-setmetatable(EFST_IDs, EFST_IDs)

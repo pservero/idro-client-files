@@ -30964,3 +30964,332 @@ weight : ^7777770^000000
 Sebuah telur keberuntungan yang sangat menakjubkan jika dibuka kemngkinan akan mendapatkan hadiah Tao Gunka Card,Sealed Knight WS Card,Hervor,Gorila Model Hat,Strawberry Decoration,Black Musang Hat,Blue Pajamas Hat,MVP Basketball, dan Item Lainya.
 Berat : ^7777770^000000
 #
+19689#
+Sebuah Headgear besar, digunakan untuk menutup kepala, terbuat dari beberapa cincin berbagai atributnya.
+Class : ^777777HeadGear^000000 Def : ^7777770^000000
+Location : ^777777UpperMiddleLower ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19690#
+Dark Snake Lord's hat akan terlihat berwibawa jika kamu mengunakannya.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19695#
+Sebuah teko dengan tekanan tinggi yang dikenakan di atas kepala kamu. airnya akan tumpah jika kamu bergerak terlalu cepat.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+19709#
+Sebuah pita yang terbuat dari bendera tua. Ini dipakai di sisi kepala kamu.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Req Lev : ^7777771^000000
+Job : ^777777All^000000
+#
+
+1596#
+Sebuah buku yang disegel dengan kekuatan alam.
+MATK +130.
+INT 3.
+Earth Spike/Heaven's Drive damages +5%.
+Menambahkan serangan Earth Spike/Heaven's Drive sebanyak 1% per upgrade level.
+Tidak dapat dihancurkan.
+Class : ^777777Book^000000 Atk : ^77777790^000000
+Weight : ^77777740^000000
+Weapon Lev : ^7777774^000000
+Req Lev : ^77777727^000000
+Job : ^777777Priest Class/Sage Class/Taekwon Master^000000
+#
+
+14741#
+Sebuah Telur legendaris yang dicari oleh seluruh petualang Rune Midgard,Jika di buka kami akan mendapatkan Berzebub Card,Sealed Samurai Card,Sealed Tao Card,Guarantee Armor 11Up,Guarantee Weapon 11Up,Guarantee Armor 9Up,Guarantee Weapon 9Up,Immuned Shield,Tare Pope ,C World Star,RJC Katusa,Cool FB Hat,Glory FB Hat,Blessed Ore Armor,Blessed Ore Weapon,LUK Biscuit Stick,HE Battle Manual,DEX Biscuit Stick,Insurance Package,STR Biscuit Stick,VIT Biscuit Stick,Megaphone
+Berat : ^7777771^000000
+#
+
+1562#
+Item tidak diketahui. Dapat diidentifikasi menggunakan [Magnifier].
+#
+
+//--------------- Update Hero Midgard Lucky Egg 20140903 ---------------
+18827#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+18803#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+14753#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+5664#
+Item tidak diketahui. Dapat diidentifikasi menggunakan [Magnifier] 
+#
+5422#
+Item tidak diketahui. Dapat diidentifikasi menggunakan [Magnifier] 
+#
+
+//--------------- Update Cashitem 20140917 ---------------
+5918#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+5920#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+18934#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+2597#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+2481#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+17076#
+^ff0000 Tidaka dapat ditransaksikan dengan ID lain.^000000
+Kotak yang berisi 500 empty bottle. Hati-hati dalam menanganinya.
+^ff0000tidak dapat dikembalikan.^000000
+Berat : ^7777771^000000
+#
+2943#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+
+//--- ½É¿¬ÀÇ È¸¶û abyss gate
+1293#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1294#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1395#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1396#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1436#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1492#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1586#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1587#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1661#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1775#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1776#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+1832#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2016#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2483#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2484#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2485#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2586#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2587#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2894#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2898#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+2899#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+6488#
+^ff0000Ini adalah item terikat.^000000
+Sebuah tiket yang dapat ditukarkan dengan berbagai item.
+Berat : ^7777771^000000
+#
+6489#
+^ff0000Ini adalah item bound.^000000
+Sebuah sertifikat yang diberikan oleh cats paw merchants untuk investasi.
+Berat : ^7777771^000000
+#
+11547#
+*Status berlaku selama WoE & PVP
+^000088emulihkan minimal 500 HP dan minimal 60 SP^000000
+Berat : ^7777778^000000
+#
+11548#
+*Status berlaku selama WoE & PVP
+Daun termuda ramuan organik putih digunakan untuk membuat ramuan ini.
+^000088Memulihkan 10% HP^000000
+Berat : ^7777778^000000
+#
+11549#
+*Status berlaku selama WoE & PVP
+Herbal organik biru yang menyegarkan digunakan untuk membuat ramuan ini.
+^000088Recovers 10% SP^000000
+Berat : ^7777778^000000
+#
+12674#
+Kecil, padat, dengan kotak yang telah dipernis hitam yang berisi beberapa bahan.
+Berat : ^77777750^000000
+#
+12675#
+Sebuah kotak persediaan dengan berbagai senjata dicap dengan segel dari sebuah Guild yang terlupakan.
+Berat : ^77777750^000000
+#
+12676#
+Sebuah kotak berisi 50 ramuan yang berbeda dan studi teori untuk senjata mahal.
+Berat : ^77777720^000000
+#
+12677#
+Sebuah quiver yang berisi 200 Siege Arrow S.
+Minimum Level : ^777777130^000000.
+Berat : ^77777710^00000000
+#
+12678#
+Sebuah quiver yang berisi 200 Siege Arrow A.
+Minimum Level : ^77777795^000000
+Berat : ^77777710^00000000
+#
+12679#
+Sebuah kotak yang berisi WoE White Potions
+Berat : ^77777720^000000
+#
+12680#
+Sebuah kotak yang berisi WoE Blue Potions
+Berat : ^77777720^000000
+#
+12683#
+Sebuah kotak yang berisi WoE Violet Potions
+Berat : ^77777720^000000
+#
+13072#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+15046#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+15047#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+15048#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+16020#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+16021#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+18113#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+18114#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+21001#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+21002#
+Item tidak diketahui, bisa di identifikasikan dengan Magnifer
+#
+
+//--------------- Update Epic Heroes Egg 20141022 ---------------
+17519#
+Item yang tidak diketahui. membutuhkan Appraisal. Dapat diidentifikasi dengan menggunakan Magnifier.
+#
+19020#
+Item yang tidak diketahui. membutuhkan Appraisal. Dapat diidentifikasi dengan menggunakan Magnifier.
+#
+19021#
+Item yang tidak diketahui. membutuhkan Appraisal. Dapat diidentifikasi dengan menggunakan Magnifier.
+#
+19019#
+Item yang tidak diketahui. membutuhkan Appraisal. Dapat diidentifikasi dengan menggunakan Magnifier.
+#
+5366#
+Item yang tidak diketahui. membutuhkan Appraisal. Dapat diidentifikasi dengan menggunakan Magnifier.
+#
+
+//--------------- Halloween 20141022 ---------------
+11592#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika digunakan, akan berubah menjadi Bloody Murder selamat 10 Menit .MHP +1000 pada saat berubah.
+Berat : ^7777773^000000
+#
+11593#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika digunakan, akan berubah menjadi Bathory selama 10 menit.  MSP + 100 pada saat berubah.
+Berat : ^7777773^000000
+#
+11594#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika Digunakan, akan berubah menjadi Jack selama 10 minutes. Efek pemulihan meningkat sebesar 2000% saat mengkonsumsi "Pumpkin". Pada saat berubah bentuk.
+Berat : ^7777773^000000
+#
+11595#
+Memulihkan HP sebesar 45
+[Effect hanya tersedia selama periode event]
+Ketika digunakan, akan berubah menjadi Cube selama 10 menit.  HIT + 10, FLEE + 20 pada saat berubah.
+Berat : ^7777773^000000
+#
+22067#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+20183#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+6913#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+6914#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+6915#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+22838#
+Sebuah keranjang untuk permen Halloween, ketika dibuka. Berbagai barang-barang lama akan ditemukan.
+Berat : ^7777771^000000
+#
+
+//--------------- Update Majestic Egg 20141126 ---------------
+5409#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+15145#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+19031#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+22064#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+17526#
+Majestic Lucky Egg
+#

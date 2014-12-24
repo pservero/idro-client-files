@@ -7,8 +7,8 @@ SKILL_DESCRIPT = {
 		"^777777Bisa bertansaksi dengan pemain lain.^000000",
 		"^990000Klik kanan pada karakter lain untuk bertransaksi.^000000",
 		"[Lv 2]: Bisa berekspresi",
-		"^777777Use Alt+(0~9) dan tombol Ctrl+(1,-,=.) untuk mengeluarkan ekspresi. Alt+L akan menampilkan ikon ekspresi yang lainnya.^000000",
-		"[Lv 3]: Bisa duduk",
+		"^777777Alt+(0~9) and Ctrl+(1,-,=.), Alt+L opens additional Emotion icons.^000000",
+		"[Lv 3]: Enables Sitting",
 		"^777777Memerintahkan karakter untuk duduk, regenerasi HP/SP akan meningkat 2 kali lipat.",
 		"^990000Untuk duduk, tekan tombol Insert atau mengetikan /sit di Chat Window.^000000",
 		"[Lv 4]: Bisa membuat ruang chating sendiri",
@@ -445,7 +445,7 @@ SKILL_DESCRIPT = {
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Bisa mengidentifikasi barang yang belum diidentifikasi.^000000"
 	},
-	[SKID.MC_VENDING] = {
+	[SKID.MC_PUSHCART] = {
 		"Vending",
 		"Lv Maksimum : 10",
 		"^777777Syarat Skill : Pushcart 3^000000",
@@ -1089,7 +1089,7 @@ SKILL_DESCRIPT = {
 		"Keterangan : ^777777Meningkatkan serangan senjata. Skill ini terus memakan Sp selama digunakan, Harus mengaktifkan kembali jika sudah membatalkannya.^000000"
 	},
 	[SKID.HT_SKIDTRAP] = {
-		"Skid Trap",
+		" Trap",
 		"Lv Maksimum : 5",
 		"Jenis skill : ^000099Perangkap tersembunyi^000000",
 		"Target: ^777777Tanah^000000",
@@ -1115,7 +1115,7 @@ SKILL_DESCRIPT = {
 	[SKID.HT_ANKLESNARE] = {
 		"Anklesnare",
 		"MAX lv : 5",
-		"^777777Syarat Skill : Skid Trap 1^000000",
+		"^777777Syarat Skill :  Trap 1^000000",
 		"Jenis skill : ^000099Perangkap tersembunyi^000000",
 		"Target: ^777777Tanah^000000",
 		"Keterangan : ^777777Memasang perangkap yang membuat musuh yang menginjaknya tidak bisa bergerak untuk sementara, tergantung dari AGI yang dimilikinya. Diperlukan ^00bb001 Trap^777777.^000000"
@@ -1150,11 +1150,11 @@ SKILL_DESCRIPT = {
 	[SKID.HT_FLASHER] = {
 		"Flasher",
 		"MAX lv : 5",
-		"^777777Syarat Skill : Skid Trap 1^000000",
+		"^777777Syarat Skill :  Trap 1^000000",
 		"Jenis skill : ^000099Perangkap tersembunyi^000000",
 		"Target: ^777777Tanah^000000",
 		"Keterangan : ^777777Memasang perangkap yang membuat musuh `Blind' dengan mengeluarkan sinar.Diperlukan ^00bb001 Trap^777777.^000000",
-		"[Level 1] : ^777777Selama 30 Detik^000000\t",
+		"[Level 1] : ^777777Selama 30 Detik^000000",
 		"[Level 2] : ^777777Selama 60 Detik^000000",
 		"[Level 3] : ^777777Selama 90 Detik^000000",
 		"[Level 4] : ^777777Selama 120 Detik^000000",
@@ -1404,7 +1404,7 @@ SKILL_DESCRIPT = {
 		"Keterangan : ^777777Membuat musuh stun dengan kemungkinan, jika menggunakan skill Bash. Kemungkinan stun berpengaruh pada skill level bash yang di gunakan dan level karaktermu.^000000"
 	},
 	[SKID.SM_AUTOBERSERK] = {
-		"AuBerserk",
+		"Auto Berserk",
 		"^777777Syarat Skill : Quest^000000",
 		"Jenis skill : ^000099Pasif^000000",
 		"Keterangan : ^777777Menjadikan pemilik skill mengamuk. Pada saat itu, status karakter akan menjadi sama dengan yang diserang oleh 'Provoke Lv 10'.",
@@ -1739,7 +1739,7 @@ SKILL_DESCRIPT = {
 		"Jenis skill : ^000099Pasif^000000",
 		"Keterangan : ^777777Skill ini tidak ada kegunaan khusus. Ini dibutuhkan untuk skill menciptakan Homunculus (Monster yang diciptakan Alchemist). Tapi skill ini sangatah penting bagi orang yang ingin menciptakan makhluk hidup.^000000"
 	},
-	[SKID.AM_BIOTECHNOLOGY] = {
+	[SKID.AM_BIOETHICS] = {
 		"Biotechnology",
 		"Jenis skill : ^000099Pasif^000000",
 		"Keterangan : ^777777Mempelajari teori dasar tentang penciptaan makhluk hidup. Meningkatkan kemungkinan keberhasilan penciptaan homunculus dan meningkatkan MHP homunculus tersebut.^000000"
@@ -1809,7 +1809,7 @@ SKILL_DESCRIPT = {
 		"Keterangan : ^777777Meningkatkan maximum HP dan meningkatkan toleransi terhadap serangan holy.^000000"
 	},
 	[SKID.CR_AUTOGUARD] = {
-		"AuGuard",
+		"Auto Guard",
 		"Lv Maksimum : 5",
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Tikngkat defense terhadap serangan fisik pada saat digunakan skill ini akan tetap. Kamu akan kaku selama 0,3 detik setelah menggunakan skill ini.^000000",
@@ -1818,7 +1818,7 @@ SKILL_DESCRIPT = {
 	[SKID.CR_SHIELDCHARGE] = {
 		"Shield Charge",
 		"Lv Maksimum : 5",
-		"^777777Syarat Skill : AuGuard 5^000000",
+		"^777777Syarat Skill : Auto Guard 5^000000",
 		"Jenis skill : ^777777Ofensif^000000",
 		"Target: ^777777Musuh^000000",
 		"Keterangan : ^777777Menyerang musuh dengan perisaimu. Musuhmu akan terdorong beberapa kotak dan akan terkena stun.^000000",
@@ -2075,7 +2075,7 @@ SKILL_DESCRIPT = {
 		"Keterangan : ^777777Kamu bisa menyerang dan bergerak di saat kamu sedang melakukan proses magic. Kecepatan gerakan dan serangan dipengaruhi oleh level skill.^000000"
 	},
 	[SKID.SA_AUTOSPELL] = {
-		"AuSpell",
+		"Auto Spell",
 		"Lv Maksimum : 10",
 		"^777777Syarat Skill : Free Cast 4^000000",
 		"Jenis skill : ^777777Suportif^000000",
@@ -2092,6 +2092,7 @@ SKILL_DESCRIPT = {
 		"[Level 9] : ^777777Fire Ball ^000099level 2^000000",
 		"[Level 10] : ^777777Frost Diver ^000099level 1^000000",
 		"^777777Level dari skill akan dipilih secara ^000099random^777777.^000000"
+	7
 	},
 	[SKID.SA_FLAMELAUNCHER] = {
 		"Flame Launcher",
@@ -2184,7 +2185,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_ABRACADABRA] = {
 		"Abracadabra",
 		"Lv Maksimum : 10",
-		"^777777Syarat Skill : AuSpell 5, Dispell 1, Land Protector 1^000000",
+		"^777777Syarat Skill : Auto Spell 5, Dispell 1, Land Protector 1^000000",
 		"Jenis skill : ^777777Tidak diketahui^000000",
 		"Target: ^777777Tidak diketahui^000000",
 		"Keterangan : ^777777Random skill bisa digunakan. Tingkat acaknya dipengaruhi oleh level Skill.^000000",
@@ -2343,7 +2344,7 @@ SKILL_DESCRIPT = {
 		"Keterangan : ^777777Semua yang berada di area ini tidak bisa menggunakan skill dan magicnya. Tidak berfungsi terhadap boss monster.^000000"
 	},
 	[SKID.BD_INTOABYSS] = {
-		"InAbyss",
+		"Into Abyss",
 		"Lv Maksimum : 1",
 		"^777777Syarat Skill : Lullaby 1^000000",
 		"Jenis skill : ^000099Skill gabungan^000000",
@@ -2616,7 +2617,7 @@ SKILL_DESCRIPT = {
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Memblok semua serangan yang ada didalam area ini termasuk serangan jarak jauh.",
 		"dibutuhkan 1 Blue Gemstone, 1 Yellow Gemstone, 1 Red Gemstone dan 1 Holy Water.",
-		"Tidak bisa digunakan pada MVP monster dan sewaktu WOE. Skill ini tidak bisa dilakukan jika diarea itu ada skill lain yang sedang berjalan.",
+		"Tidak bisa digunakan pada MVP monster dan sewaktu WOE. Skill ini tidak bisa dilakkan jika diarea itu ada skill lain yang sedang berjalan.",
 		"mencast ulang basilica pada saat masih aktif akan membuat efek skill ini hilang^000000",
 		"[Level 1] : ^77777720 Sec Durasi^000000",
 		"[Level 2] : ^77777725 Sec Durasi^000000",
@@ -2763,6 +2764,7 @@ SKILL_DESCRIPT = {
 		"[Level 8] : ^777777ATK +1200^000000",
 		"[Level 9] : ^777777ATK +1300^000000",
 		"[Level 10] : ^777777ATK +1400^000000"
+	7
 	},
 	[SKID.PF_HPCONVERSION] = {
 		"Indulge",
@@ -2891,9 +2893,7 @@ SKILL_DESCRIPT = {
 		"[Level 10] : ^777777Durasi waktunya 60 detik^000000"
 	},
 	[SKID.WS_CREATECOIN] = {
-	},
 	[SKID.WS_CREATENUGGET] = {
-	},
 	[SKID.WS_CARTBOOST] = {
 		"Cart Boost",
 		"Lv Maksimum : 1",
@@ -2903,7 +2903,6 @@ SKILL_DESCRIPT = {
 		"Semua skill yang berefek menurunkan kecepatan akan hilang jika memakai skill ini.^000000"
 	},
 	[SKID.WS_SYSTEMCREATE] = {
-	},
 	[SKID.ST_CHASEWALK] = {
 		"Stealth",
 		"Lv Maksimum : 5",
@@ -2935,11 +2934,8 @@ SKILL_DESCRIPT = {
 		"[Level 5] : ^777777Kemungkinan mengembalikan serangan 75%^000000"
 	},
 	[SKID.ST_STEALBACKPACK] = {
-	},
 	[SKID.CR_ALCHEMY] = {
-	},
 	[SKID.CR_SYNTHESISPOTION] = {
-	},
 	[SKID.CG_ARROWVULCAN] = {
 		"Arrow Vulcan",
 		"Lv Maksimum : 10",
@@ -3054,7 +3050,7 @@ SKILL_DESCRIPT = {
 	[SKID.PF_MEMORIZE] = {
 		"Foresight",
 		"Lv Maksimum : 1",
-		"^777777Syarat Skill : Advanced Book 5, AuSpell 1, Free Cast 5^000000",
+		"^777777Syarat Skill : Advanced Book 5, Auto Spell 1, Free Cast 5^000000",
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Mengurangi waktu casting time sebanyak 5 kali penggunaan.",
 		"Hanya bisa dilakukan dalam 5 kali penggunaan skill. lalu waktu casting selanjutnya tidak akan mengalami perubahan.",
@@ -3118,7 +3114,7 @@ SKILL_DESCRIPT = {
 		"Keterangan : ^777777Skill ini untuk memanggil orang tuanya kesamping anak itu berada.^000000"
 	},
 	[SKID.WE_CALLBABY] = {
-		"Come me, honey~",
+		"Come to me, honey~",
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Skill ini untuk memanggil anaknya kesamping orang tua itu berada.^000000"
 	},
@@ -3140,6 +3136,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8] ^7777770 detik  casting, 30 SP^000000",
 		"[Lv 9] ^7777770 detik  casting, 20 SP^000000",
 		"[Lv 10] ^7777770 detik  casting, 10 SP^000000"
+	7
 	},
 	[SKID.TK_READYSTORM] = {
 		"Tornado Stance",
@@ -3172,6 +3169,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^7777776 SP, 260% ATK^000000",
 		"[Lv 6] ^7777774 SP, 280% ATK^000000",
 		"[Lv 7] ^7777772 SP, 300% ATK^000000"
+	8
 	},
 	[SKID.TK_READYDOWN] = {
 		"Heel Drop Stance",
@@ -3203,6 +3201,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^7777776 SP, 260% ATK^000000",
 		"[Lv 6] ^7777774 SP, 280% ATK^000000",
 		"[Lv 7] ^7777772 SP, 300% ATK^000000"
+	7
 	},
 	[SKID.TK_READYTURN] = {
 		"Roundhouse Stance",
@@ -3238,6 +3237,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^7777776 SP, 340% ATK^000000",
 		"[Lv 6] ^7777774 SP, 370% ATK^000000",
 		"[Lv 7] ^7777772 SP, 400% ATK^000000"
+	0
 	},
 	[SKID.TK_READYCOUNTER] = {
 		"Counter Kick Stance",
@@ -3280,7 +3280,7 @@ SKILL_DESCRIPT = {
 		"jarak jauh.",
 		"Saat pemakai skill dalam Spurt",
 		"status (setelah menggunakan",
-		"Lv 7 Sprint atau lebih),",
+		"Lv 7 Sprint atau lebih",
 		"Tumbling juga akan memblok",
 		"serangan yang lain.^000000",
 		"[Lv 1] ^7777770 Sec Cast Time, 1 SP^000000"
@@ -3314,6 +3314,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^77777730 SP, 80%^000000",
 		"[Lv 6] ^77777720 SP, 90%^000000",
 		"[Lv 7] ^77777710 SP, 100%^000000"
+	8
 	},
 	[SKID.TK_HPTIME] = {
 		"Peaceful Break",
@@ -3338,6 +3339,7 @@ SKILL_DESCRIPT = {
 		" [Lv 8] ^777777HP +240^000000",
 		" [Lv 9] ^777777HP +270^000000",
 		"[Lv 10] ^777777HP +300^000000"
+	2
 	},
 	[SKID.TK_SPTIME] = {
 		"Happy Break",
@@ -3369,6 +3371,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8] ^777777SP +24^000000",
 		"[Lv 9] ^777777SP +27^000000",
 		"[Lv 10] ^777777SP +30^000000"
+	9
 	},
 	[SKID.TK_POWER] = {
 		"Kihop",
@@ -3405,6 +3408,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^777777Ghost (50 SP)^000000",
 		"[Lv 6] ^777777Shadow (50 SP)^000000",
 		"[Lv 7] ^777777Holy (50 SP)^000000"
+	7
 	},
 	[SKID.TK_HIGHJUMP] = {
 		"Leap",
@@ -3468,6 +3472,7 @@ SKILL_DESCRIPT = {
 		"[Lv 1] ^77777720 SP, 10 detik^000000",
 		"[Lv 2] ^77777720 SP, 20 detik^000000",
 		"[Lv 3] ^77777710 SP, 60 detik^000000"
+	7
 	},
 	[SKID.SG_MOON_WARM] = {
 		"Lunar Heat",
@@ -3487,6 +3492,7 @@ SKILL_DESCRIPT = {
 		"[Lv 1] ^77777720 SP, 10 detik^000000",
 		"[Lv 2] ^77777720 SP, 20 detik^000000",
 		"[Lv 3] ^77777710 SP, 60 detik^000000"
+	7
 	},
 	[SKID.SG_STAR_WARM] = {
 		"Stellar Heat",
@@ -3506,6 +3512,7 @@ SKILL_DESCRIPT = {
 		"[Lv 1] ^77777720 SP, 10 sec^000000",
 		"[Lv 2] ^77777720 SP, 20 sec^000000",
 		"[Lv 3] ^77777710 SP, 60 sec^000000"
+	7
 	},
 	[SKID.SG_SUN_COMFORT] = {
 		"Solar Protection",
@@ -3547,7 +3554,7 @@ SKILL_DESCRIPT = {
 		"[Lv 3] ^77777750 SP, 240 detik^000000",
 		"[Lv 4] ^77777740 SP, 320 detik^000000"
 	},
-	[SKID.SG_STAR_COMFORT] = {
+	[SKID.SG_MOON_COMFORT] = {
 		"Stellar Protection",
 		"Lv Maksimum : 4",
 		"^777777Syarat Skill : Solar, Lunar and Stellar Perception 3^000000",
@@ -3566,6 +3573,7 @@ SKILL_DESCRIPT = {
 		"[Lv 2] ^77777760 SP, 160 detik^000000",
 		"[Lv 3] ^77777750 SP, 240 detik^000000",
 		"[Lv 4] ^77777740 SP, 320 detik^000000"
+	8
 	},
 	[SKID.SG_HATE] = {
 		"Solar, Lunar and Stellar Opposition",
@@ -3691,6 +3699,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8] ^777777Aspd +24%^000000",
 		"[Lv 9] ^777777Aspd +27%^000000",
 		"[Lv 10] ^777777Aspd +30%^000000"
+	7
 	},
 	[SKID.SG_FRIEND] = {
 		"Solar, Lunar and Stellar Team-Up",
@@ -3734,6 +3743,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8] ^777777Berat Maksimum +80%^000000",
 		"[Lv 9] ^777777Berat Maksimum +90%^000000",
 		"[Lv 10] ^777777Berat Maksimum +100%^000000"
+	6
 	},
 	[SKID.SG_FUSION] = {
 		"Solar, Lunar and Stellar Union ",
@@ -3837,7 +3847,7 @@ SKILL_DESCRIPT = {
 		"semangar arwah Sage legenda",
 		"dan sementara memberkati",
 		"dengan kemampuannya ke Sage yang dituju, meningkatkan",
-		"AuSpell skill Sage jadi mengeluarkan^FFFFFF.^777777level Bolt skill tertinggi.^000000",
+		"Auto Spell skill Sage jadi mengeluarkan^FFFFFF.^777777level Bolt skill tertinggi.^000000",
 		"^FFFFFF_^000000",
 		"SP yang dibutuhkan",
 		"& durasi berdasarkan Level",
@@ -3960,6 +3970,7 @@ SKILL_DESCRIPT = {
 		"[Lv 3] ^777777260 SP, 250 detik^000000",
 		"[Lv 4] ^777777160 SP, 300 detik^000000",
 		"[Lv 5] ^77777760 SP, 350 detik^000000"
+	2
 	},
 	[SKID.SL_ASSASIN] = {
 		"Assassin Spirit",
@@ -3982,6 +3993,7 @@ SKILL_DESCRIPT = {
 		"[Lv 3] ^777777260 SP, 250 detik^000000",
 		"[Lv 4] ^777777160 SP, 300 detik^000000",
 		"[Lv 5] ^77777760 SP, 350 detik^000000"
+	0
 	},
 	[SKID.SL_BLACKSMITH] = {
 		"Blacksmith Spirit",
@@ -4036,6 +4048,7 @@ SKILL_DESCRIPT = {
 		"[Lv 3] ^777777260 SP, 250 detik^000000",
 		"[Lv 4] ^777777160 SP, 300 detik^000000",
 		"[Lv 5] ^77777760 SP, 350 detik^000000"
+	8
 	},
 	[SKID.SL_SOULLINKER] = {
 		"Soul Linker Spirit",
@@ -4056,6 +4069,7 @@ SKILL_DESCRIPT = {
 		"[Lv 3] ^777777260 SP, 250 detik^000000",
 		"[Lv 4] ^777777160 SP, 300 detik^000000",
 		"[Lv 5] ^77777760 SP, 350 detik^000000"
+	8
 	},
 	[SKID.SL_KAIZEL] = {
 		"Kaizel",
@@ -4138,6 +4152,7 @@ SKILL_DESCRIPT = {
 		"3.5 detik cast, durasi 6 menit^000000",
 		"[Lv 7] ^7777772 Reflections",
 		"3 detik cast, durasi 10 menit^000000"
+	1
 	},
 	[SKID.SL_KAINA] = {
 		"Kaina",
@@ -4165,6 +4180,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5] ^777777H.B. +80% , Max SP +150^000000",
 		"[Lv 6] ^777777H.B. +90% , Max SP +180^000000",
 		"[Lv 7] ^777777H.B. +100% , Max SP +210^000000"
+	5
 	},
 	[SKID.SL_STIN] = {
 		"Estin",
@@ -4238,6 +4254,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8]:^77777764 SP, 8 Ledakan^000000",
 		"[Lv 9]:^77777772 SP, 9 Ledakan^000000",
 		"[Lv 10]:^77777780 SP, 10 Ledakan^000000"
+	8
 	},
 	[SKID.SL_SWOO] = {
 		"Eswoo",
@@ -4308,6 +4325,7 @@ SKILL_DESCRIPT = {
 		"durasi 20 detik^000000",
 		"[Lv 3]:^77777760 SP, 1 detik cast",
 		"durasi 30 detik^000000"
+	8
 	},
 	[SKID.ST_PRESERVE] = {
 		"Preserve",
@@ -4355,6 +4373,7 @@ SKILL_DESCRIPT = {
 		" [Level 8] : ^777777Dapat menempa sampai +8^000000",
 		" [Level 9] : ^777777Dapat menempa sampai +9^000000",
 		"[Level 10] : ^777777Dapat menempa sampai +10^000000"
+	4
 	},
 	[SKID.CR_SLIMPITCHER] = {
 		"Aid Condensed Potion",
@@ -4430,7 +4449,7 @@ SKILL_DESCRIPT = {
 		"Keterangan : ^777777Membatalkan semua Skill yang efeknya ada ditanah. skill ini mempunyai area 3*3 kotak dari area yang sudah ditentukan.",
 		"Membutuhkan 1 Blue Gemstone dan 1 Yellow Gemstone.",
 		"Jika skill ini digunakan pada skill Land protector, maka akan membatalkan skill land protector sebesar 3*3 dari kotak yang ditentukan.",
-		"Skill ini tetap membutuhkan gemstone walaupun mengunakan skill inthe abbys ataupun mistress card.SKill ini mempunyai delay selama 2 detik setelah penggunaan.^000000"
+		"Skill ini tetap membutuhkan gemstone walaupun mengunakan skill into the abbys ataupun mistress card.SKill ini mempunyai delay selama 2 detik setelah penggunaan.^000000"
 	},
 	[SKID.HW_GRAVITATION] = {
 		"Gravitation Field",
@@ -4465,6 +4484,7 @@ SKILL_DESCRIPT = {
 		" [Lv 8] : ^777777Membutuhkan 1,300 z, Kemungkinan Stun 40%^000000",
 		" [Lv 9] : ^777777Membutuhkan 1,400 z, Kemungkinan Stun 45%^000000",
 		"[Lv 10] : ^777777Membutuhkan 1,500 z, Kemungkinan Stun 50%^000000"
+	7
 	},
 	[SKID.WS_OVERTHRUSTMAX] = {
 		"Maximum Power Thrust",
@@ -4532,6 +4552,7 @@ SKILL_DESCRIPT = {
 		" [Lv 8] ^777777Kemungkinan menghancurkan Senjata dan Armor 8%^000000",
 		" [Lv 9] ^777777Kemungkinan menghancurkan Senjata dan Armor 9%^000000",
 		"[Lv 10] ^777777Kemungkinan menghancurkan Senjata dan Armor 10%^000000"
+	7
 	},
 	[SKID.CR_CULTIVATION] = {
 		"Plant Cultivation",
@@ -4683,7 +4704,7 @@ SKILL_DESCRIPT = {
 		"Lv Maksimum : 1",
 		"^777777Syarat Skill : Disarm 5, Flip Coin 4^000000",
 		"Jenis skill :^777777Suportif^000000",
-		"Keterangan : ^777777Menggunakan 2 koin untuk mengaktifkannya. ",
+		"Keterangan : ^777777Menggunakan 2 koin untuk mengaktifkannya.",
 		"Pengguna akan mendapatkan Flee +30 dan mengurangi damage sebesar 20% dari serangan fisik jarak jauh,",
 		"tetapi menjadikan akurasi -30.",
 		"Skill ini mempunyai durasi selama 20 detik,^FFFFFF ^777777dan tidak dapat digunakan ",
@@ -4773,6 +4794,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8]: ^7777771000%, 2.6 sec^000000",
 		"[Lv 9]: ^7777771100%, 2.8 sec^000000",
 		"[Lv 10]: ^7777771200%, 3 sec^000000"
+	7
 	},
 	[SKID.GS_DISARM] = {
 		"Disarm",
@@ -4899,6 +4921,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8]: ^7777771100% Atk, 8 Peluru^000000",
 		"[Lv 9]: ^7777771200% Atk, 10 Peluru^000000",
 		"[Lv 10]: ^7777771300% Atk, 10 Peluru^000000"
+	8
 	},
 	[SKID.GS_SPREADATTACK] = {
 		"Spread Shot",
@@ -4939,6 +4962,7 @@ SKILL_DESCRIPT = {
 		"[Lv 8]: ^777777360% Atk, 24 Sec.^000000",
 		"[Lv 9]: ^777777380% Atk, 27 Sec.^000000",
 		"[Lv 10]: ^777777400% Atk, 30 Sec.^000000"
+	0
 	},
 	[SKID.NJ_TOBIDOUGU] = {
 		"Dagger Throwing Practice",
@@ -5148,7 +5172,7 @@ SKILL_DESCRIPT = {
 	[SKID.NJ_BUNSINJYUTSU] = {
 		"Mirror Image",
 		"Lv Maksimum : 10",
-		"^777777Syarat Skill : Shadow Slash 3, Ninja Aura 1, Cicada Skid Shed 4^000000",
+		"^777777Syarat Skill : Shadow Slash 3, Ninja Aura 1, Cicada  Shed 4^000000",
 		"Jenis skill :^777777Suportif^000000",
 		"Keterangan : ^777777Mirror",
 		"Image hanya dapat dilakukan",
@@ -5301,19 +5325,19 @@ SKILL_DESCRIPT = {
 		"[Lv 6]: ^7777775*5 kotak",
 		"40 Det, AGI - 5^000000",
 		"[Lv 7]: ^7777777*7 kotak",
-		"45 Det, AGI - 5^000000",
+		"45 Det, AGI - 5^000000"
+	},
 		"[Lv 8]: ^7777777*7 kotak",
 		"50 Det, AGI - 8^000000",
 		"[Lv 9]: ^7777777*7 kotak",
 		"55 Det, AGI - 8^000000",
 		"[Lv 10]: ^7777779*9 kotak",
 		"60 Det, AGI - 8^000000"
-index 33 8
 	},
 	[SKID.NJ_HYOUSYOURAKU] = {
 		"Snow Flake Draft",
 		"Lv Maksimum : 5",
-		"^777777Syarat Skill : Ninja Mastery 10, Watery Evasion 7^000000",
+		"^777777Syarat Skill : Ninja Mastery 10, Wat,ery Evasion 7^000000",
 		"Jenis skill :^777777Serangan^0000bb(Air)^000000",
 		"Keterangan : ^777777Memanggil",
 		"sebuah meteor of ice yang akan",
@@ -5421,259 +5445,132 @@ index 33 8
 		"menggunakan skill ini akan ^FFFFFF  ^777777mengurangi HP pengguna skill menjadi 1.^000000"
 	},
 	[SKID.MB_FIGHTING] = {
-	},
 	[SKID.MB_NEUTRAL] = {
-	},
 	[SKID.MB_TAIMING_PUTI] = {
-	},
 	[SKID.MB_WHITEPOTION] = {
-	},
 	[SKID.MB_MENTAL] = {
-	},
 	[SKID.MB_CARDPITCHER] = {
-	},
 	[SKID.MB_PETPITCHER] = {
-	},
 	[SKID.MB_BODYSTUDY] = {
-	},
 	[SKID.MB_BODYALTER] = {
-	},
 	[SKID.MB_PETMEMORY] = {
-	},
 	[SKID.MB_M_TELEPORT] = {
-	},
 	[SKID.MB_B_GAIN] = {
-	},
 	[SKID.MB_M_GAIN] = {
-	},
 	[SKID.MB_MISSION] = {
-	},
 	[SKID.MB_MUNAKKNOWLEDGE] = {
-	},
 	[SKID.MB_MUNAKBALL] = {
-	},
 	[SKID.MB_SCROLL] = {
-	},
 	[SKID.MB_B_GATHERING] = {
-	},
 	[SKID.MB_M_GATHERING] = {
-	},
 	[SKID.MB_B_EXCLUDE] = {
-	},
 	[SKID.MB_B_DRIFT] = {
-	},
 	[SKID.MB_B_WALLRUSH] = {
-	},
 	[SKID.MB_M_WALLRUSH] = {
-	},
 	[SKID.MB_B_WALLSHIFT] = {
-	},
 	[SKID.MB_M_WALLCRASH] = {
-	},
 	[SKID.MB_M_REINCARNATION] = {
-	},
 	[SKID.MB_B_EQUIP] = {
-	},
 	[SKID.SL_DEATHKNIGHT] = {
-	},
 	[SKID.SL_COLLECTOR] = {
-	},
 	[SKID.SL_NINJA] = {
-	},
 	[SKID.SL_GUNNER] = {
-	},
 	[SKID.AM_TWILIGHT4] = {
-	},
 	[SKID.DE_BERSERKAIZER] = {
-	},
 	[SKID.DA_DARKPOWER] = {
-	},
 	[SKID.DE_PASSIVE] = {
-	},
 	[SKID.DE_PATTACK] = {
-	},
 	[SKID.DE_PSPEED] = {
-	},
 	[SKID.DE_PDEFENSE] = {
-	},
 	[SKID.DE_PCRITICAL] = {
-	},
 	[SKID.DE_PHP] = {
-	},
 	[SKID.DE_PSP] = {
-	},
 	[SKID.DE_RESET] = {
-	},
 	[SKID.DE_RANKING] = {
-	},
 	[SKID.DE_PTRIPLE] = {
-	},
 	[SKID.DE_ENERGY] = {
-	},
 	[SKID.DE_NIGHTMARE] = {
-	},
 	[SKID.DE_SLASH] = {
-	},
 	[SKID.DE_COIL] = {
-	},
 	[SKID.DE_WAVE] = {
-	},
 	[SKID.DE_REBIRTH] = {
-	},
 	[SKID.DE_AURA] = {
-	},
 	[SKID.DE_FREEZER] = {
-	},
 	[SKID.DE_CHANGEATTACK] = {
-	},
 	[SKID.DE_PUNISH] = {
-	},
 	[SKID.DE_POISON] = {
-	},
 	[SKID.DE_INSTANT] = {
-	},
 	[SKID.DE_WARNING] = {
-	},
 	[SKID.DE_RANKEDKNIFE] = {
-	},
 	[SKID.DE_RANKEDGRADIUS] = {
-	},
 	[SKID.DE_GAUGE] = {
-	},
 	[SKID.DE_GTIME] = {
-	},
 	[SKID.DE_GPAIN] = {
-	},
 	[SKID.DE_GSKILL] = {
-	},
 	[SKID.DE_GKILL] = {
-	},
 	[SKID.DE_ACCEL] = {
-	},
 	[SKID.DE_BLOCKDOUBLE] = {
-	},
 	[SKID.DE_BLOCKMELEE] = {
-	},
 	[SKID.DE_BLOCKFAR] = {
-	},
 	[SKID.DE_FRONTATTACK] = {
-	},
 	[SKID.DE_DANGERATTACK] = {
-	},
 	[SKID.DE_TWINATTACK] = {
-	},
 	[SKID.DE_WINDATTACK] = {
-	},
 	[SKID.DE_WATERATTACK] = {
-	},
 	[SKID.DA_ENERGY] = {
-	},
 	[SKID.DA_CLOUD] = {
-	},
 	[SKID.DA_FIRSTSLOT] = {
-	},
 	[SKID.DA_HEADDEF] = {
-	},
 	[SKID.DA_SPACE] = {
-	},
 	[SKID.DA_TRANSFORM] = {
-	},
 	[SKID.DA_EXPLOSION] = {
-	},
 	[SKID.DA_REWARD] = {
-	},
 	[SKID.DA_CRUSH] = {
-	},
 	[SKID.DA_ITEMREBUILD] = {
-	},
 	[SKID.DA_ILLUSION] = {
-	},
 	[SKID.DA_NUETRALIZE] = {
-	},
 	[SKID.DA_RUNNER] = {
-	},
 	[SKID.DA_TRANSFER] = {
-	},
 	[SKID.DA_WALL] = {
-	},
 	[SKID.DA_REVENGE] = {
-	},
 	[SKID.DA_EARPLUG] = {
-	},
 	[SKID.DA_CONTRACT] = {
-	},
 	[SKID.DA_BLACK] = {
-	},
 	[SKID.DA_DREAM] = {
-	},
 	[SKID.DA_MAGICCART] = {
-	},
 	[SKID.DA_COPY] = {
-	},
 	[SKID.DA_CRYSTAL] = {
-	},
 	[SKID.DA_EXP] = {
-	},
 	[SKID.DA_CARTSWING] = {
-	},
 	[SKID.DA_REBUILD] = {
-	},
 	[SKID.DA_JOBCHANGE] = {
-	},
 	[SKID.DA_EDARKNESS] = {
-	},
 	[SKID.DA_EGUARDIAN] = {
-	},
 	[SKID.DA_TIMEOUT] = {
-	},
 	[SKID.ALL_TIMEIN] = {
-	},
 	[SKID.DA_ZENYRANK] = {
-	},
 	[SKID.DA_ACCESSORYMIX] = {
-	},
 	[SKID.NPC_EARTHQUAKE] = {
-	},
 	[SKID.NPC_DRAGONFEAR] = {
-	},
 	[SKID.NPC_PULSESTRIKE] = {
-	},
 	[SKID.NPC_HELLJUDGEMENT] = {
-	},
 	[SKID.NPC_WIDESILENCE] = {
-	},
 	[SKID.NPC_WIDEFREEZE] = {
-	},
 	[SKID.NPC_WIDEBLEEDING] = {
-	},
 	[SKID.NPC_WIDESTONE] = {
-	},
 	[SKID.NPC_WIDECONFUSE] = {
-	},
 	[SKID.NPC_WIDESLEEP] = {
-	},
 	[SKID.NPC_EVILLAND] = {
-	},
 	[SKID.NPC_MAGICMIRROR] = {
-	},
 	[SKID.NPC_SLOWCAST] = {
-	},
 	[SKID.NPC_CRITICALWOUND] = {
-	},
 	[SKID.NPC_STONESKIN] = {
-	},
 	[SKID.NPC_ANTIMAGIC] = {
-	},
 	[SKID.NPC_WIDECURSE] = {
-	},
 	[SKID.NPC_WIDESTUN] = {
-	},
 	[SKID.NPC_VAMPIRE_GIFT] = {
-	},
 	[SKID.NPC_WIDESOULDRAIN] = {
-	},
 	[SKID.ALL_INCCARRY] = {
-		"Enlarge Weight Limit",
 		"Jenis skill : ^000099Pasif^000000",
 		"Keterangan : ^777777Meningkatkan batas berat maksimum.^000000",
 		"[Level 1] : ^777777Menambah berat +200^000000",
@@ -5688,9 +5585,7 @@ index 33 8
 		"[Level 10] : ^777777Menambah berat +2000^000000"
 	},
 	[SKID.NPC_HELLPOWER] = {
-	},
 	[SKID.NPC_ALLHEAL] = {
-	},
 	[SKID.GM_SANDMAN] = {
 		"Sleep well, my baby. (LULLABY)",
 		"Jenis skill : ^777777Suportif^000000",
@@ -5712,7 +5607,6 @@ index 33 8
 		"Keterangan : ^777777Merasa seperti sedang bermimpi ditengah musim panas.^000000"
 	},
 	[SKID.ALL_REVERSEORCISH] = {
-	},
 	[SKID.ALL_WEWISH] = {
 		"Oh, Holy Night!",
 		"Keterangan : ^777777Sebuah lagu untuk merayakan hari yang dinantikan semua orang. Sebaiknya kamu tidak menyayikannya sendirian.^000000"
@@ -5752,17 +5646,17 @@ index 33 8
 		"^777777Syarat Skill : Quest^000000",
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Shrink harus",
-		"digunakan bersama skill AuGuard",
+		"digunakan bersama skill Auto Guard",
 		"untuk mendapatkan efek",
-		"skill. Saat monster menyerang^FFFFFF  ^777777dan mengaktifkan efek AuGuard,",
+		"skill. Saat monster menyerang^FFFFFF  ^777777dan mengaktifkan efek Auto Guard,",
 		"skill ini memberikan kemungkinan",
 		"mendorong monster 2 kotak",
 		"kebelakang. Kemungkinan",
 		"mendorong musuh sebesar 5% untuk Lv 1",
-		"AuGuard, dan meningkat sebesar",
+		"Auto Guard, dan meningkat sebesar",
 		"5% setiap kenaikan",
-		"AuGuard Skill Level. Pada Lv 10",
-		"AuGuard, kemungkinan ",
+		"Auto Guard Skill Level. Pada Lv 10",
+		"Auto Guard, kemungkinan ",
 		"mendorong sebesar 50%.",
 		"Shrink mempunyai durasi",
 		"5 menit, dan akan dibatalkan",
@@ -5795,8 +5689,7 @@ index 33 8
 		"Target: ^777777Musuh^000000",
 		"Keterangan : ^777777menghentikan",
 		"musuh selama 15 detik",
-		"dan sebagai gantinya juga menghentikan",
-		"pergerakan dari pengguna skill.",
+		"dan sebagai gantinya juga menghentikan pergerakan dari pengguna skill.",
 		"Dodge Rate dari pengguna skill",
 		"meningkat sebesar 10 saat",
 		"durassi skill. Skill ini dibatalkan jika pengguna skill atau musuh",
@@ -5809,8 +5702,7 @@ index 33 8
 		"Target: ^777777Pengguna^000000",
 		"Keterangan : ^777777Mengeluarkan",
 		"bola api yang melindungi yang",
-		"akan melingkari pemakai skill selama",
-		"2 menit. Saat musuh",
+		"akan melingkari pemakai skill selama 2 menit. Saat musuh",
 		"mendekati pemakai skill, bola",
 		"api akan mengakibatkan damage^FFFFFF   ^777777sesuai dengan MATK, mendorong",
 		"mundur musuh, dan kemudian",
@@ -6108,25 +6000,15 @@ index 33 8
 		"[Level10] : ^777777Meningkatkan tingkat sukses ketika membuat Runs Stones^000000"
 	},
 	[SKID.RK_MILLENNIUMSHIELD] = {
-	},
 	[SKID.RK_CRUSHSTRIKE] = {
-	},
 	[SKID.RK_REFRESH] = {
-	},
 	[SKID.RK_GIANTGROWTH] = {
-	},
 	[SKID.RK_STONEHARDSKIN] = {
-	},
 	[SKID.RK_VITALITYACTIVATION] = {
-	},
 	[SKID.RK_STORMBLAST] = {
-	},
 	[SKID.RK_FIGHTINGSPIRIT] = {
-	},
 	[SKID.RK_ABUNDANCE] = {
-	},
 	[SKID.RK_PHANTOMTHRUST] = {
-		"Phantom Thrust",
 		"MAX Lv :  5",
 		"^777777Syarat skill : Brandish Spear 2^000000",
 		"Skill  : ^777777Aktif^000000",
@@ -6365,7 +6247,7 @@ index 33 8
 	[SKID.AB_CLEMENTIA] = {
 		"Clementia",
 		"MAX Lv :  3",
-		"^777777Syarat Skill : Blessing 1^000000",
+		"^777777Syarat Skill : Blessing 1^,000000",
 		"Skill : ^777777Supportive^000000",
 		"Deskripsi : ^777777Memberikan Skill Blessing kepada semua anggota grup beserta pemakainya dalam jangkauan area tertentu.^000000",
 		"[Level 1] : ^7777773 cells effective / durasi 120 detik ^000000",
@@ -6539,9 +6421,7 @@ index 33 8
 		"[Level10] : ^777777Physical ATK + 200% MATK + 400% / durasi 360 detik ^000000"
 	},
 	[SKID.AB_DUPLELIGHT_MELEE] = {
-	},
 	[SKID.AB_DUPLELIGHT_MAGIC] = {
-	},
 	[SKID.AB_SILENTIUM] = {
 		"Silentium",
 		"MAX Lv : 5 ",
@@ -6581,7 +6461,7 @@ index 33 8
 	[SKID.WL_FROSTMISTY] = {
 		"Frost Misty",
 		"MAX LV 5",
-		"^777777Syarat Skill : Summon Waterball 1  ^000000",
+		"^777777Syarat Skill : S,ummon Waterball 1  ^000000",
 		"Skill : ^777777Debuff ^000000",
 		"Deskripsi : ^777777Menutupi area dalam 1 layar dengan kabut mengakibatkan serangan dan status beku ke target yang memasukinya. Status beku menurunkan pergerakan, Kecepatan serang, tingkat pertahanan dan meningkatkan Waktu casting. ^000000",
 		"[Level 1] : ^777777Tingkat sukses Freezing 30%   / Damage elemen air 300% ^000000",
@@ -6836,7 +6716,7 @@ index 33 8
 		"Fear Breeze",
 		"MAX Lv : 5",
 		"^777777Syrat : Camouflage 1, Arrow Storm 5 ^000000",
-		"Skill : ^777777Aktif toggle / Buff (yourself) ^000000",
+		"Skill : ^777777Aktif toggle / Buff (To yourself) ^000000",
 		"Deskripsi: ^777777Selama pemakaian skill mampu menambah jumlah serangan. Ketika jumlah serangan bertambah, penggunaan panah juga akan bertambah. ^000000",
 		"[Level 1] : ^777777Jumlah serangan +1 / Memiliki kesempatan 12 % untuk aktif / Durasi 60 detik.  ^000000",
 		"[Level 2] : ^777777Jumlah serangan +1 / Memiliki kesempatan 12 % untuk aktif / Durasi 90 detik.  ^000000",
@@ -6977,17 +6857,17 @@ index 33 8
 		"^777777Syarat Skill : Wug Teeth 3 ^000000",
 		"Skill : ^777777Aktif / Detect  ^000000",
 		"Deskripsi : ^777777Serigala menggunakan inderanya untuk mendeteksi perangkap tersembunyi juga pemain lain dengan jarak jangkauan sebesar 7x7 kotak sekaligus memberikan serangan. Terdapat kemungkinan untuk mengeluarkan skill 'Wug Bite' dalam area jangkauan.  ^000000",
-		"[Level 1] : ^777777Range 7 x 7 / Damage 150% / kesempatan untuk aucast wug bite 8% ^000000",
-		"[Level 2] : ^777777Range 9 x 9 / Damage 200% / kesempatan untuk aucast wug bite 16%^000000",
-		"[Level 3] : ^777777Range 11 x11 / Damage 250% / kesempatan untuk aucast wug bite 24% ^000000",
-		"[Level 4] : ^777777Range 13 x13 / Damage 300% / kesempatan untuk aucast wug bite 32% ^000000",
-		"[Level 5] : ^777777Range 15 x15 / Damage 350% / kesempatan untuk aucast wug bite 40% ^000000"
+		"[Level 1] : ^777777Range 7 x 7 / Damage 150% / kesempatan untuk auto cast wug bite 8% ^000000",
+		"[Level 2] : ^777777Range 9 x 9 / Damage 200% / kesempatan untuk auto cast wug bite 16%^000000",
+		"[Level 3] : ^777777Range 11 x11 / Damage 250% / kesempatan untuk auto cast wug bite 24% ^000000",
+		"[Level 4] : ^777777Range 13 x13 / Damage 300% / kesempatan untuk auto cast wug bite 32% ^000000",
+		"[Level 5] : ^777777Range 15 x15 / Damage 350% / kesempatan untuk auto cast wug bite 40% ^000000"
 	},
 	[SKID.RA_CAMOUFLAGE] = {
 		"Camouflage",
 		"MAX Lv : 5",
-		"^777777Syarat Skill : Main Ranger 1 ^000000",
-		"Skill  : ^777777Aktif / Buff (yourself)  ^000000",
+		"^777777Syarat Skill : Main, Ranger 1 ^000000",
+		"Skill  : ^777777Aktif / Buff (To yourself)  ^000000",
 		"Deskripsi : ^777777Menyembunyikan diri dari pandangan ketika berada didekat dinding dan rintangan (Kecuali monster Jenis Demon dan Serangga). Karakter akan terlihat transparan serta kesempatan kritikal dan kekuatan serang meningkat namun menurunkan pertahanan. Selama menghilang akan memakan SP dan semakin tinggi level skill bisa dilakukan tanpa harus didekat dinding atau rintangan. ^000000",
 		"[Level 1] : ^777777Konsumsi 6 SP setiap detiknya / Tidak bisa bergerak ^000000",
 		"[Level 2] : ^777777Konsumsi 5 SP setiap detiknya / Tidak bisa bergerak ^000000",
@@ -7360,7 +7240,6 @@ index 33 8
 		"Deskripsi : ^777777Melepaskan target FAW. Skill ini juga bisa dipakai terhadap FAW pemain lain. ^000000"
 	},
 	[SKID.SC_FATALMENACE] = {
-		"Fatal Manace",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Intimidation 5 ^000000",
 		"Skill  : ^777777Aktif / Damage ^000000",
@@ -7648,7 +7527,7 @@ index 33 8
 		"Reflect Damage",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Shield Reflect 5 ^000000",
-		"Skill : ^777777Aktif / Buff (yourself) ^000000",
+		"Skill : ^777777Aktif / Buff (To yourself) ^000000",
 		"Deskripsi : ^777777Skill perisai spesial. Ketika terkena serangan fisik atau sihir sebagian serangan dikembalikan dalam jarak area disekitar pemakai. mengurangi SP tiap detiknya dan tidak bisa dipakai bersamaan dengan Shield Reflect. ^000000",
 		"[Level 1] : ^777777Memantulkan serangan sebesar 20% / Kemungkinan berhasil 40% / Memantul 30 kali. ^000000",
 		"[Level 2] : ^777777Memantulkan serangan sebesar 25% / Kemungkinan berhasil 50% / Memantul 35 kali. ^000000",
@@ -7672,7 +7551,7 @@ index 33 8
 		"Force Of Vanguard",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Royal Guard Basic ^000000",
-		"Skill : ^777777Aktif / Buff (yourself) ^000000",
+		"Skill : ^777777Aktif / Buff (To yourself) ^000000",
 		"Deskripsi : ^777777Ketika menerima serangan fisik meningkatkan kemampuan serangan rage counter. Rage Counter bisa dipakai untuk skill Rage Burst. Ketika memakai Rage Burst, skill Force Of Vanguard dibatalkan. Mengurangi SP tiap waktu selama memakainya. ^000000",
 		"[Level 1] : ^777777Ketika karakter menerima serangan, mendapatkan maximum 7 kali Counter wrath dengan kemungkinan 20% ^000000",
 		"[Level 2] : ^777777Ketika karakter menerima serangan, mendapatkan maximum 9 kali Counter wrath dengan kemungkinan 32% ^000000",
@@ -7725,7 +7604,7 @@ index 33 8
 		"Prestige",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Trample 3  ^000000",
-		"Skill : ^777777Aktif / Buff (yourself) ^000000",
+		"Skill : ^777777Aktif / Buff (To yourself) ^000000",
 		"Deskripsi : ^777777Memberikan kemungkinan menghindari serangan sihir dan meningkatkan pertahanan fisik. Status pemakai mempengaruhi kemungkinan hindaran dan ketika berhasil menghindari serangan maka sepenuhnya mengabaikan semua serangan.^000000",
 		"[Level 1] : ^777777Durasi Skill 30 detik. ^000000",
 		"[Level 2] : ^777777Durasi Skill 45 detik.  ^000000",
@@ -7737,7 +7616,7 @@ index 33 8
 		"Alliance",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Pinpoint Attack 3 / Rage Burst 1  ^000000",
-		"Skill : ^777777Aktif / Buff (yourself) ^000000",
+		"Skill : ^777777Aktif / Buff (To yourself) ^000000",
 		"Deskripsi : ^777777Ketika terdapat Royal Guard dalam grup mengaktifkan Alliance dan cukup dekat, serangan dan pertahanan meningkat, serta berbagi HP. Memakai SP tiap waktunya saat skill aktif, menggunakan skill kedua kali membatalkan pemakaian skill. Efek skill akan meningkat berdasarkan jumlah anggota grupnya. ^000000"
 	},
 	[SKID.LG_MOONSLASHER] = {
@@ -7804,7 +7683,7 @@ index 33 8
 		"Inspiration",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Shield Spell 3 / Ray Of Genesis 4 / Piety 5 ^000000",
-		"Skill : ^777777Aktif / Buff (yourself) ^000000",
+		"Skill : ^777777Aktif / Buff (To yourself) ^000000",
 		"Deskripsi : ^777777Meningkatkan Akurasi, Status, Kekuatan Serang dan Maksimal HP. Menurunkan HP dan SP berangsur-angsur serta menerima pengembalian serangan yang dilakukan. Jika SP 0 skill dibatalkan dan jika HP 0 pemakai skill mati. Memakai 0.1% Exp dan tidak bisa dicegah serta tidak bisa memakai skill Alliance dan Prestige saat memakai skill ini. ^000000",
 		"[Level 1] : ^777777Durasi Skill 30 detik. ^000000",
 		"[Level 2] : ^777777Durasi Skill 45 detik.  ^000000",
@@ -8005,7 +7884,7 @@ index 33 8
 		"Gentle Touch-Energy",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Gentle Touch-Quiet 3 ^000000",
-		"Skill : ^777777Aktif / Buff (yourself) ^000000",
+		"Skill : ^777777Aktif / Buff (To yourself) ^000000",
 		"Deskripsi : ^777777Meningkatkan semangat bertarung, bisa mendapatkan Spirit Sphere ketika menyerang dan menerima serangan fisik. Memakai beberapa HP ketika digunakan, tidak bisa dipakai bersamaan dengan skill Gentle Touch - Change dan Gentle Touch - Revitalize. ^000000",
 		"[Level 1] : ^777777Mengkonsumsi HP 1% / berkemungkinan membuat Spirit Sphere 15% ^000000",
 		"[Level 2] : ^777777Mengkonsumsi HP 2% / berkemungkinan membuat Spirit Sphere 20% ^000000",
@@ -8193,7 +8072,7 @@ index 33 8
 		"[Level 4] : ^777777Area Skill 11 x 11  / Durasi Skill 24 detik. ^000000",
 		"[Level 5] : ^777777Area Skill 13 x 13  / Durasi Skill 27 detik. ^000000"
 	},
-	[SKID.WM_DEADHILLHERE] = {
+	[SKID.WM_LULLABY_DEEPSLEEP] = {
 		"On The Hill Of Dead",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Cycling Nature's Voice LV 3 ^000000",
@@ -8388,7 +8267,7 @@ index 33 8
 	[SKID.SO_SPELLFIST] = {
 		"Fist Spell",
 		"MAX Lv : 5",
-		"^777777Syarat Skill : AuSpell 4 ^000000",
+		"^777777Syarat Skill : Auto Spell 4 ^000000",
 		"Skill : ^777777Aktif / Spesial / Damage ^000000",
 		"Deskripsi : ^777777Dapat digunakan ketika menggunakan skill jenis Bolt (Fire bolt, Cold Bolt, Lightning Bolt. Casting skill bolt akan berhenti dan Kekuatan magicnya akan menyatu ditangan pengguna skill. Ketika dalam keadaan ini, serangan fisik akan menghasilkan damage magic dari skill bolt. Semakin tinggi level skill, semakin tinggi serangan yang dihasilkan. Skill selesai ketika durasi telah habis atau jumlah pukulan efektif habis. ^000000",
 		"[Level 1] : ^777777Durasi Skill 20 detik. / Maximum 2 Serangan ^000000",
@@ -8684,7 +8563,7 @@ index 33 8
 		"Cart Boost",
 		"MAX Lv : 5",
 		"^777777Syarat Skill : Cart Remodeling 3^000000",
-		"Skill : ^777777Buff (yourself)  ^000000",
+		"Skill : ^777777Buff (To yourself)  ^000000",
 		"Deskripsi : ^777777Meningkatkan kecepatan gerak dan kekuatan serang pemain selama 90 detik. Dibutuhkan Cart untuk menggunakannya.^000000",
 		"[Level 1] : ^777777Kecepatan gerak bertambah  50% / menambah ATK 10 ^000000",
 		"[Level 2] : ^777777Kecepatan gerak bertambah  50% / menambah ATK 20 ^000000",
@@ -8877,9 +8756,8 @@ index 33 8
 		"[Level 5] : ^777777Area 9 x 9  / Menggunakan 5 Spirit Spheres ^000000"
 	},
 	[SKID.ALL_ODINS_RECALL] = {
-	},
 	[SKID.RETURN_TO_ELDICASTES] = {
-		"El Dicastes",
+		"To El Dicastes",
 		"MAX LV : 1",
 		"Skill dari : ^777777Supportive^bb0000(Kembali)^000000",
 		"Deskripsi : ^777777Kembali ke El Dicastes, Ibukota dari Sapha. Dapat digunakan kembali setelah 5 menit.^000000"
@@ -9159,7 +9037,6 @@ index 33 8
 		"Keterangan : ^777777Menyerang musuh dengan kekuatan yang mennyebabkan musuh jatuh dan melukai musuh lain^000000"
 	},
 	[SKID.MS_PARRYING] = {
-		" ",
 		"Parry",
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Menahan serangan musuh, Ketika berhasil menahannya, serangan kamu akan terhenti 1 pukulan.",
@@ -9201,7 +9078,7 @@ index 33 8
 		"Keterangan : ^777777Menyerang musuh dengan 9 tembakan yang memberikan serangan berpencar di sekitarnya di waktu yang sama.^000000"
 	},
 	[SKID.MA_SKIDTRAP] = {
-		"Skid Trap",
+		" Trap",
 		"Jenis skill : ^000099Perangkap tersembunyi^000000",
 		"Target: ^777777Tanah^000000",
 		"Keterangan : ^777777Memasang perangkap untuk membuat musuh terpeleset ke arah tertentu. Diperlukan ^00bb001 Trap^777777.^000000",
@@ -9297,7 +9174,7 @@ index 33 8
 		"Defending Aura status.^000000"
 	},
 	[SKID.ML_AUTOGUARD] = {
-		"AuGuard",
+		"Auto Guard",
 		"Jenis skill : ^777777Suportif^000000",
 		"Keterangan : ^777777Tikngkat defense terhadap serangan fisik pada saat digunakan skill ini akan tetap. Kamu akan kaku selama 0,3 detik setelah menggunakan skill ini.^000000",
 		"^777777Kamu bisa menggunakan skill ini jika kamu menggunakan perisai dan jika kamu melepaskan perisaimu, maka efek skill ini akan langsung dibatalkan. Jika kamu menggunakan skill ini lagi saat kamu mengaktifkannya, maka skill ini dibatalkan.^000000"
@@ -9340,9 +9217,9 @@ index 33 8
 		"Crash",
 		"Jenis skill : ^000099Serangan^000000",
 		"Target: ^777777Musuh^000000",
-		"Keterangan : ^777777Meningkatkan damage serangan, dan terdapat kemungkinan menyebabkan stun.^000000     ",
+		"Keterangan : ^777777Meningkatkan damage serangan, dan terdapat kemungkinan menyebabkan stun.^000000",
 		"[Lv.1]: ^777777Atk 110%, 6% Kemungkinan Stun Rate^000000",
-		"[Lv.2]: ^777777Atk 120%, 12% Kemungkinan Stun Rate^000000 ",
+		"[Lv.2]: ^777777Atk 120%, 12% Kemungkinan Stun Rate^000000",
 		"[Lv.3]: ^777777Atk 130%, 18% Kemungkinan Stun Rate^000000",
 		"[Lv.4]: ^777777Atk 140%, 24% Kemungkinan Stun Rate^000000 ",
 		"[Lv.5]: ^777777Atk 150%, 30% Kemungkinan Stun Rate^000000"
@@ -9411,7 +9288,7 @@ index 33 8
 		"[Lv.10]: ^777777+32% Atk, -55% DEF^000000"
 	},
 	[SKID.MER_AUTOBERSERK] = {
-		"AuBerserk",
+		"Auto Berserk",
 		"Jenis skill : ^000099Pasif^000000",
 		"Keterangan : ^777777Menjadikan pemilik skill mengamuk. Pada saat itu, status karakter akan menjadi sama dengan yang diserang oleh 'Provoke Lv 10'.",
 		"Skill ini dapat diaktifkan atau dimatikan kapan saja^000000"
@@ -9441,11 +9318,8 @@ index 33 8
 		"Keterangan : ^777777Memperlihatkan informasi detail monster.^000000"
 	},
 	[SKID.MER_KYRIE] = {
-	},
 	[SKID.MER_BLESSING] = {
-	},
 	[SKID.MER_INCAGI] = {
-	},
 	[SKID.GD_APPROVAL] = {
 		"Official Guild Approval",
 		"Jenis skill : ^777777Pasif^000000",
@@ -9492,7 +9366,6 @@ index 33 8
 		"[Level 10] : ^777777+60 Pemain^000000"
 	},
 	[SKID.GD_GLORYGUILD] = {
-	},
 	[SKID.GD_LEADERSHIP] = {
 		"Great Leadership",
 		"Jenis skill : ^000099Pasif^000000",
@@ -9565,7 +9438,6 @@ index 33 8
 		"^777777Ketika kamu melakukan investasi seharusnya hanya menaikkan 1 point level saja, tetapi dengan skill ini akan memberikan kemungkinan kamu mendapatkan bonus 1 point level tambahan ketika melakukan investasi kastil.^000000"
 	},
 	[SKID.GD_ITEMEMERGENCYCALL] = {
-	},
 	[SKID.MH_SUMMON_LEGION] = {
 		"Call Legion",
 		"MAX Lv : 5",
@@ -9867,5 +9739,414 @@ index 33 8
 		" [Lv 3] ^777777Durasi: 24 detik ^000000",
 		" [Lv 4] ^777777Durasi: 32 detik ^000000",
 		" [Lv 5] ^777777Durasi: 40 detik ^000000"
+	},
+	[SKID.MC_CARTDECORATE] = {
+		"Pushcart Decoration",
+		"^777777Requirement : Complete quest^000000",
+		"Series : ^777777 Special ^000000",
+		"Content : ^777777 Can choose new pushcart ^000000"
+	},
+	[SKID.KO_YAMIKUMO] = {
+		"Shadow Hiding",
+		"MAX Lv : 1",
+		"^777777Dibutuhkan Skill: Shadow Slash 5 ^000000",
+		"Description : ^777777kamu menyembunyikan diri dengan menggunakan Skill ini.",
+		"Pada dasar nya skill ini sama seperti Skill hiding Rogue.",
+		"Skill akan berakhir Jika SP habis atau skill tidak digunakan lagi",
+		"Mengkonsumsi.",
+		"akan terus mengkonsumsi beberapa SP selama Skill aktif^000000"
+	},
+	[SKID.KO_RIGHT] = {
+		"Righthand Mastery",
+		"MAX Lv : 5  (Passive)",
+		"Description : ^777777 Menguatkan serangan dari tangan kanan ketika kedua tangan dilengkapi senjata",
+		"Serangan akan lebih meningkat pada",
+		"tingkat 4 dan 5 Jika dibandingkan.",
+		"saat kamu menggunakan ",
+		"senjata 1 tangan.^000000",
+		"[LV 1] ^777777Atk 80% ^000000",
+		"[LV 2] ^777777Atk 90% ^000000",
+		"[LV 3] ^777777Atk 100% ^000000",
+		"[LV 4] ^777777Atk 110% ^000000",
+		"[LV 5] ^777777Atk 120% ^000000"
+	},
+	[SKID.KO_LEFT] = {
+		"Lefthand Mastery",
+		"MAX Lv : 5 (Passive)",
+		"Description : ^777777 Menguatkan serangan dari tangan",
+		"kiri ketika kedua tangan",
+		"dilengkapi senjata . ^000000",
+		"[LV 1] ^777777Atk 60% ^000000",
+		"[LV 2] ^777777Atk 70% ^000000",
+		"[LV 3] ^777777Atk 80% ^000000",
+		"[LV 4] ^777777Atk 90% ^000000",
+		"[LV 5] ^777777Atk 100% ^000000"
+	},
+	[SKID.KO_JYUMONJIKIRI] = {
+		"Cross Slash ",
+		"MAX Lv : 5",
+		"^777777Dibutuhkan Skill: Shadow Hiding 1 ^000000",
+		"Description :  Skill kombinasi dari Kagerou dan Oboro",
+		" Musuh yang terkena Skill cross impact akan menerima",
+		"status <cross wound>  selama 3 detik..",
+		"Musuh akan menerima damage yang lebih kuat jika ",
+		"cross wound dilakukan bersamaan dengan cross impact",
+		"Semakin tinggi base lvl dari pengguna Skill. ",
+		"Semakin tinggi juga kerusakan",
+		"yang ditimbulkan akan. ^000000",
+		"[LV 1] ^777777Atk 150% / Range 3 cells ^000000",
+		"[LV 2] ^777777Atk 300% / Range 4 cells ^000000",
+		"[LV 3] ^777777Atk 450% / Range 5 cells ^000000",
+		"[LV 4] ^777777Atk 600% / Range 6 cells ^000000",
+		"[LV 5] ^777777Atk 750% / Range 7 cells ^000000"
+	},
+	[SKID.KO_SETSUDAN] = {
+		"Soul Cutter",
+		"MAX Lv : 5",
+		"^777777Dibutuhkan Skill: Cross 2  ^000000",
+		"Description : Akan memberika damage tambahan jika musuh yang ",
+		"diserang menggunakan Soul Linker Spirit.",
+		"Membatalkan skill Spirit secara paksa Semakin tinggi",
+		"lvl Soul Spirit, semakin banyak kerusakan yang diberikan. ^000000",
+		"[LV 1] ^777777Atk 100% ^000000",
+		"[LV 2] ^777777Atk 200% ^000000",
+		"[LV 3] ^777777Atk 300% ^000000",
+		"[LV 4] ^777777Atk 400% ^000000",
+		"[LV 5] ^777777Atk 500% ^000000"
+	},
+	[SKID.KO_BAKURETSU] = {
+		"Kunai Explosion ",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Throw Kunai 5 ^000000",
+		"Description : Melemparkan Kunai peledak dan menimbulkan kerusakan pada area sekitar nya.",
+		"Ketika menggunakan skill ini,",
+		"akan mnegkonsumsi 1 Explosive Kunai.",
+		"Mengkonsumsi seluruh .",
+		"Explosive Kunai yang ada di inventory^000000",
+		"[LV 1] ^777777Range 7 cells / AOE 3 x 3  cells ^000000",
+		"[LV 2] ^777777Range 8 cells / AOE 3 x 3  cells ^000000",
+		"[LV 3] ^777777Range 9 cells  / AOE 3 x 3  cells ^000000",
+		"[LV 4] ^777777Range 10 cells / AOE 3 x 3  cells ^000000",
+		"[LV 5] ^777777Range 11 cells / AOE 3 x 3  cells ^000000"
+	},
+	[SKID.KO_HAPPOKUNAI] = {
+		"Kunai Splash",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Kunai Explosion 1 ^000000",
+		"Description : Menimbulkan kerusakan dengan Kunai ",
+		"kepada semua musuh yang ada di sekitar kamu .",
+		"Menggunakan skill ini akan mengkonsumsi 8 Kunai. ^000000",
+		"[LV 1] ^777777Range 9 x 9 cells ^000000",
+		"[LV 2] ^777777Range 9 x 9 cells ^000000",
+		"[LV 3] ^777777Range 9 x 9 cells ^000000",
+		"[LV 4] ^777777Range 9 x 9 cells ^000000",
+		"[LV 5] ^777777Range 11 x 11 cells ^000000"
+	},
+	[SKID.KO_MUCHANAGE] = {
+		"Rapid Throw",
+		"MAX Lv : 10 ",
+		"^777777Dibutuhkan Skill: Makibishi 3 ^000000",
+		"Description : Versi PowerUp dari skill Ninja",
+		"[Throw Coins]. Melemparkan 100.000 Zeny untuk ",
+		"menimbulkan kerusakan slash secara",
+		"acak yang mengabaikan semua pertahanan musuh",
+		"Skill akan memberikan setengah.",
+		"dari total damage ke",
+		"Boss monsters.",
+		"[LV 1] ^77777710,000 zeny Consumption",
+		"         5,000 ~ 10,000 Random Damage^000000",
+		"[LV 2] ^77777720,000 zeny Consumption",
+		"         10,000 ~ 20,000 Random Damage^000000",
+		"[LV 3] ^77777730,000 zeny Consumption",
+		"         15,000 ~ 30,000 Random Damage^000000",
+		"[LV 4] ^77777740,000 zeny Consumption",
+		"         20,000 ~ 40,000 Random Damage^000000",
+		"[LV 5] ^77777750,000 zeny Consumption",
+		"         25,000 ~ 50,000 Random Damage^000000",
+		"[LV 6] ^77777760,000 zeny Consumption",
+		"         30,000 ~ 60,000 Random Damage^000000",
+		"[LV 7] ^77777770,000 zeny Consumption",
+		"         35,000 ~ 70,000 Random Damage^000000",
+		"[LV 8] ^77777780,000 zeny Consumption",
+		"         40,000 ~ 80,000 Random Damage^000000",
+		"[LV 9] ^77777790,000 zeny Consumption",
+		"         45,000 ~ 90,000 Random Damage^000000",
+		"[LV 10] ^777777100,000 zeny Consumption",
+		"         50,000 ~ 100,000 Random Damage^000000"
+	},
+	[SKID.KO_HUUMARANKA] = {
+		"Swirling Petal",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Throw Huuma Shuriken 5 ^000000",
+		"Description : Lempar Shuriken dan menimbulkan kerusakan",
+		"pada semua musuh yang di dalam 7 x 7 cells.",
+		"Semakin tinggi tingkat ",
+		"[Skill Ninja: Throw  Huuma Shuriken] dan DEX / AGI pengguna",
+		"semakin banyak serangan",
+		"yangdapat terjadi",
+		"[LV 1] ^777777 Atk 150 % / Range 9 cells  ^000000",
+		"[LV 2] ^777777 Atk 300 % / Range 10 cells  ^000000",
+		"[LV 3] ^777777 Atk 450 % / Range 11 cells  ^000000",
+		"[LV 4] ^777777 Atk 600 % / Range 12 cells  ^000000",
+		"[LV 5] ^777777 Atk 750 % / Range 13 cells  ^000000"
+	},
+	[SKID.KO_MAKIBISHI] = {
+		"Makibishi",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Throw Coins 1 ^000000",
+		"Description : Menyebar berlian berbentuk potongan logam dengan jarum runcing",
+		" jika mengenai musuh, maka musuh tidak dapat bergerak atau jatuh ke dalam keadaan stun.",
+		"Semakin tinggi lvl skill ini, samakin banyak potongan logam yang kamu ",
+		"sebarkan di tanah dan juga dapat menggunakan skill ini saat kamu tidak berjalan.",
+		"[LV 1] ^777777Consumes 3 Makibishi/Caltrop^000000",
+		"[LV 2] ^777777Consumes 4 Makibishi/Caltrop^000000",
+		"[LV 3] ^777777Consumes 5 Makibishi/Caltrop^000000",
+		"[LV 4] ^777777Consumes 6 Makibishi/Caltrop^000000",
+		"[LV 5] ^777777Consumes 7 Makibishi/Caltrop^000000"
+	},
+	[SKID.KO_MEIKYOUSISUI] = {
+		"Pure Soul ",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Ninja Mastery 10 ^000000",
+		"Description : okuskan pikiran kamu selama 10 detik untuk ",
+		"memulihkan HP dan SP dengan cepat.",
+		"Kamu tidak bisa bergerak saat menggunakan skill ini.",
+		"saat menggunakan skill ini berkemungkinan",
+		"kamu tidak akan dapat di serang.",
+		"[LV 1] ^777777Recovers 2% HP/1% SP per second^000000",
+		"[LV 2] ^777777Recovers 4% HP/2% SP per second^000000",
+		"[LV 3] ^777777Recovers 6% HP/3% SP per second^000000",
+		"[LV 4] ^777777Recovers 8% HP/4% SP per second^000000",
+		"[LV 5] ^777777Recovers 10% HP/5% SP per second^000000"
+	},
+	[SKID.KO_ZANZOU] = {
+		"Illusion - Shadow",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Cicada Skin Shed 1 ^000000",
+		"Description : Membuat clone dengan ilusi.",
+		"Clone ini memiliki HP dan akan hilang setelah HP nya habis. ",
+		"The higher the caster¡¯s MSP, Semakin besar HP clone nya.",
+		"[LV 1] ^777777 Afterimage HP 6000  ^000000",
+		"[LV 2] ^777777 Afterimage HP 9000   ^000000",
+		"[LV 3] ^777777 Afterimage HP 12000   ^000000",
+		"[LV 4] ^777777 Afterimage HP 15000   ^000000",
+		"[LV 5] ^777777 Afterimage HP 18000   ^000000"
+	},
+	[SKID.KO_KYOUGAKU] = {
+		"Illusion - Shock",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Illusion - Bewitch 2 ^000000",
+		"Description : Menggunakan serangan ilusi ke musuh untuk mengurangi",
+		"semua stat musuh dan mengubah",
+		"target menjadi monster.",
+		"Musuh yang menirima skill ini tidak dapat memakai",
+		"dan melepas equipment nya.",
+		"Skill ini tidak dapat menyerang.",
+		" teman atau monster.",
+		"[LV 1] ^777777 All Stats 2 ~ 3 Reduction  ^000000",
+		"[LV 2] ^777777 All Stats 4 ~ 6 Reduction  ^000000",
+		"[LV 3] ^777777 All Stats 6 ~ 9 Reduction  ^000000",
+		"[LV 4] ^777777 All Stats 8 ~ 12 Reduction  ^000000",
+		"[LV 5] ^777777 All Stats 10 ~ 15 Reduction  ^000000"
+	},
+	[SKID.KO_JYUSATSU] = {
+		"Illusion - Death",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Illusion - Shock 3 ^000000",
+		"Description : Menggunakan serangan ilusi ke musuh untuk ",
+		"mengurangi jumlah HP dan seluruh stat ",
+		"musuh, dan memberikan nya status Curse.",
+		"Kemungkinan kecil akan membrikan musuh status [Coma] ",
+		"Tapi hanya dapat digunakan untuk musuh yang mempunyai lvl yang randah dari kamu,",
+		"tidak dapat di gunakan untuk menyerang monster."
+	},
+	[SKID.KO_GENWAKU] = {
+		"Illusion - Bewitch",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Cicada Skin Shed 1 ^000000",
+		"Description : Menukar lokasi antara mush dan pengguna skill",
+		"Kemungkinan kecil Pengguna",
+		"skill dan musuh akan terkena ",
+		"Status [Confusion]."
+	},
+	[SKID.KO_IZAYOI] = {
+		"16th Night ",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Ninja Mastery 5 ^000000",
+		"Description : Semua fixed casting dar semua skill ninja",
+		"aka menghilang saat kamu menggunakan skill ini.",
+		"Variable casting time akan berkurang setengah,",
+		"dan akan meningkatkan MATK. "
+	},
+	[SKID.KO_KAHU_ENTEN] = {
+		"Fire Charm",
+		"MAX Lv : 1 ",
+		"Description :Memanggil Roh Api menggunakan Fire Charm untuk",
+		"meningkatkan serangan skill Berelement Api.",
+		"Dapat memanggil hingga. ",
+		"10 Roh Api,",
+		"setelah berhasil memanggil 10 Roh Api ",
+		"enjata mu akan berelement Api.",
+		"Menggunakan skill akan mengkonsumsi 1 Fire Charm."
+	},
+	[SKID.KO_HYOUHU_HUBUKI] = {
+		"Ice Charm",
+		"MAX Lv : 1 ",
+		"Description : Memanggil Roh Es menggunakan Ice Charm untuk",
+		" meningkatkan serangan skill Berelement",
+		"Air. ",
+		"Dapat memanggil hingga 10 Roh Es, ",
+		"setelah berhasil memanggil 10 Roh Es  Senjata mu akan berelement Air",
+		"Menggunakan skill akan ",
+		"mengkonsumsi 1 Ice Charm."
+	},
+	[SKID.KO_KAZEHU_SEIRAN] = {
+		"Wind Charm",
+		"MAX Lv : 1 ",
+		"Description : Memanggil Roh Angin menggunakan Wind Charm ",
+		"untuk meningkatkan serangan skill ",
+		"Berelement Angin. ",
+		"Dapat memanggil hingga 10 Roh Angin,",
+		"etelah berhasil memanggil 10 Roh Angin  Senjata mu akan berelement Angin.",
+		"Menggunakan skill akan",
+		"mengkonsumsi 1 Wind Charm."
+	},
+	[SKID.KO_DOHU_KOUKAI] = {
+		"Earth Charm",
+		"MAX Lv : 1 ",
+		"Description : Memanggil Roh Tanah menggunakan Earth Charm untuk ",
+		"meningkatkan serangan dan pertahanan si",
+		"pengguna skill. ",
+		"Dapat memanggil hingga 10 Roh Tanah,",
+		"changes to Earth Property once you succeed",
+		"setelah berhasil memanggil 10 Roh Tanah  Senjata mu akan berelement Tanah. ",
+		"Menggunakan skill akan mengkonsumsi 1 Earth Charm."
+	},
+	[SKID.KO_KAIHOU] = {
+		"Release Ninja Spell",
+		"MAX Lv : 1 ",
+		"^777777Dibutuhkan Skill: Fire Charm 1, Ice Charm 1,",
+		"Wind Charm 1, Earth Charm 1  ^000000",
+		"Description : Melepaskan energi spiritual dari target",
+		"untuk menimbulkan kerusakan.",
+		"Kerusakan properti tergantung ",
+		"pada Roh yang dipanggil."
+	},
+	[SKID.KO_ZENKAI] = {
+		"Cast Ninja Spell",
+		"MAX Lv : 1 ",
+		"^777777Dibutuhkan Skill: Release Ninja Spell 1,",
+		"16th Night 1 ^000000",
+		"Description : Mentransfer energi spiritual kamu ke bumi untuk",
+		"membuat sebuah portal yang menghasilkan",
+		"berbagai efek. ",
+		"^FF0000Fire Property Spirit - Meberikan status Burn kepada semua ",
+		"Meningkatkan serangan jika kamu ",
+		"menggunakan senjata berelement Api.^000000",
+		"^0000FFWater Property Spirit - Memberikan status Freezing/",
+		"Deep Freeze/Congeal kepada semua musuh di jarak tertentu.",
+		"Meningkatkan serangan jika kamu",
+		"menggunakan senjata berelement Air. ^000000",
+		"^00FF00Wind Property Spirit - Memberikan status Silence/",
+		"Sleep/Deep Sleep kepada semua musuh di jarak tertentu.",
+		" Meningkatkan serangan jika kamu menggunakan",
+		"senjata berelement Angin. ^000000",
+		"^FD6202Earth Property Spirit - Memberikan status Stone Curse",
+		"/Poison kepada semua musuh di jarak tertentu.",
+		"Meningkatkan serangan jika kamu menggunakan ",
+		"senjata berelement Tanah. ^000000"
+	},
+	[SKID.KG_KAGEHUMI] = {
+		"Shadow Trampling",
+		"MAX Lv : 5 ",
+		"^777777Dibutuhkan Skill: Illusion - Afterimage 1 ^000000",
+		"Description : Hentikan musuh untuk menggunakan",
+		"skill Hiding untuk sementara dan memaksa ",
+		"musuh membatalkan skill.",
+		"[LV 1] ^777777AoE 5 x 5 cells^000000",
+		"[LV 2] ^777777AoE 7 x 7 cells^000000",
+		"[LV 3] ^777777AoE 9 x 9 cells^000000",
+		"[LV 4] ^777777AoE 11 x 11 cells^000000",
+		"[LV 5] ^777777AoE 13 x 13 cells^000000"
+	},
+	[SKID.KG_KYOMU] = {
+		"Empty Shadow",
+		"MAX Lv : 5",
+		"^777777Dibutuhkan Skill: Shadow Trampling 2 ^000000",
+		"Description :Menghalau efek refflection dari target untuk ",
+		" jangka waktu tertentu.",
+		"disaat kamu menggunakan skill memungkinkan untuk",
+		"menggagalkan skill musuh kepda mu. Menggunakan skill ini akan ",
+		"mengkonsumsi 1 buah Shadow Orb.. ",
+		"[LV 1] ^777777Duration 10 seconds^000000",
+		"[LV 2] ^777777Duration 15 seconds^000000",
+		"[LV 3] ^777777Duration 20 seconds^000000",
+		"[LV 4] ^777777Duration 25 seconds^000000",
+		"[LV 5] ^777777Duration 30 seconds^000000"
+	},
+	[SKID.KG_KAGEMUSYA] = {
+		"Shadow Warrior",
+		"MAX Lv : 5",
+		"^777777Dibutuhkan Skill: Empty Shadow 3 ^000000",
+		"Description : Memungkinkan pengguna untuk mengunakan ",
+		"[Skill: Double Attack] untuk jangka waktu tertentu.",
+		"Selama menggunakan skill ini akan mengkonsumsi 1 SP terus menerus.",
+		"Menggunakan skill ini akan mengkonsumsi 1 buah Shadow Orb.",
+		"[LV 1] ^777777Duration 60 seconds^000000",
+		"[LV 2] ^777777Duration 90 seconds^000000",
+		"[LV 3] ^777777Duration 120 seconds^000000",
+		"[LV 4] ^777777Duration 150 seconds^000000",
+		"[LV 5] ^777777Duration 180 seconds^000000"
+	},
+	[SKID.OB_ZANGETSU] = {
+		"Distorted Crescent",
+		"MAX Lv : 5",
+		"^777777Dibutuhkan Skill: Illusion - Bewitch 1 ^000000",
+		"Description : Merubah MATK atau ATK target sesuai",
+		"dengan HP dan SP target saat ini. ",
+		"[LV 1] ^777777 Duration 60 seconds  ^000000",
+		"[LV 2] ^777777 Duration 75 seconds   ^000000",
+		"[LV 3] ^777777 Duration 90 seconds   ^000000",
+		"[LV 4] ^777777 Duration 105 seconds   ^000000",
+		"[LV 5] ^777777 Duration 120 seconds   ^000000"
+	},
+	[SKID.OB_OBOROGENSOU] = {
+		"Moonlight Fantasy",
+		"MAX Lv : 5",
+		"^777777Dibutuhkan Skill: Distorted Crescent 2 ^000000",
+		"Description :  meningkatkan atau mengurangi HP dan SP ",
+		"tergantung pada target saat HP dan SP secara acak.",
+		"Musuh yang terkena Moonlight Fantasy . ",
+		"akan menyebarkan kerusakan yang mereka terima ke ",
+		"musuh yang berada di sekitarnya. Skill ini tidak berlaku untuk ",
+		"monsters.",
+		"[LV 1] ^777777Duration 10 seconds^000000",
+		"[LV 2] ^777777Duration 15 seconds^000000",
+		"[LV 3] ^777777Duration 20 seconds^000000",
+		"[LV 4] ^777777Duration 25 seconds^000000",
+		"[LV 5] ^777777Duration 30 seconds^000000"
+	},
+	[SKID.OB_AKAITSUKI] = {
+		"Ominous Moonlight",
+		"MAX Lv : 5",
+		"^777777Dibutuhkan Skill: Ominous Moonlight 3 ^000000",
+		"Description :  Jika target yang terkena oleh skill ini menerima ",
+		"skill penyembuhan HP",
+		"maka penyembuhan akan berganti menjadi damage. ",
+		"skill ini tidak bisa di di gunakan di luar area pvp,",
+		"dan Skill ini tidak dapat menyerang",
+		"teman atau Boss monster..",
+		"This skill does not apply to monsters. ",
+		"[LV 1] ^777777 Duration 10 seconds  ^000000",
+		"[LV 2] ^777777 Duration 15 seconds   ^000000",
+		"[LV 3] ^777777 Duration 20 seconds   ^000000",
+		"[LV 4] ^777777 Duration 25 seconds   ^000000",
+		"[LV 5] ^777777 Duration 30 seconds   ^000000"
+	},
+	[SKID.ECLAGE_RECALL] = {
+		"Move to Eclage",
+		"MAX LV : 1",
+		"Skill Form : ^777777Supportive^bb0000^000000",
+		"Description : ^777777Warp to Eclage Town. 3 seconds of fixed casting. 5 minute reuse time.^000000"
 	}
 }

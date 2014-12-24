@@ -9119,3 +9119,73 @@ Bawa contoh senjata yang berhasil di enchant ke Red Leopard Joe.#
 5146#Ujian Bertarung#SG_FEEL#QUE_NOIMAGE#
 Sekarang kamu akan menjalani ujian Bertarung.#
 Bunuh target 'Family Secret'!!#
+
+//-- 아지트 투자전 추가투표 참가abyss gate
+7349#Vote#SG_FEEL#QUE_NOIMAGE#
+Kamu telah memvote Pemilihan Guild War. Kamu tidak dapat mengulang Kembali.#
+#
+
+// 14년 할로윈 - halloween 20141029
+14450#Mari kita bantu pendeta yang miskin#SG_FEEL#QUE_NOIMAGE#
+Banyak jiwa tersesat berkeliaran yang seharusnya tidak berada disini. Tolong tangkap Wandering Soul dan Dark Soul. ketika kamu menangkap mereka, pisahkan Wandering Soul dengan Dark Soul. jadi bawa mereka. Saya ingin mempunyai 3 Wandering Soul dan 1 Dark Soul.#
+Bekerja paruh waktu untuk berburu jiwa#
+
+14451#Ke Gereja#SG_FEEL#QUE_NOIMAGE#
+Tidak ada cara untuk membedakan yang hidup dan yang mati. Namun, saya berpikir bahwa ada seseorang yang dapat melakukannya di Gereja Prontera#
+Ke Gereja#
+
+14452#Barang-barang suci#SG_FEEL#QUE_NOIMAGE#
+Untuk membedakan yang hidup dan yang mati, kamu harus mempersiapkan barang-barang suci. Hanya perlu 1 Rosary dan 6 Holy Water! bukankah itu gampang?#
+Barang-barang suci#
+
+14453#Ke Niflheim#SG_FEEL#QUE_NOIMAGE#
+Kembali ke Niflheim dengan barang-barang suci, dan jelaskan orang-rang yang panik disana.#
+Ke Niflheim#
+
+14454#Ke Lutie#SG_FEEL#QUE_NOIMAGE#
+Saya berfikir bahwa swordman tanpa lengan memiliki banyak cerita, mari kita pergi ke Lutie dimana dulu dia tinggal.#
+Ke Lutie#
+
+14455#Kembali ke Gereja#SG_FEEL#QUE_NOIMAGE#
+Jiwa Richard pergi ketempat yang salah di Niflheim. Mari kita pergi ke gereja dan bertanya pada biarawati tentang apa yang bisa kita lakukan.#
+Kembali ke Gereja#
+
+14456#Bersiap untuk memanggil#SG_FEEL#QUE_NOIMAGE#
+Membakar Leaf Of Yggdrasil dengan bara dapat membantu jiwa Richard untuk mengingat dimana tubuhnya. Pergi ke Lutie dengan 1 Leaf Of Yggdrasil and 1 bara#
+Bersiap untuk memanggil#
+
+14457#Kembali ke Niflheim#SG_FEEL#QUE_NOIMAGE#
+Mari kita pergi ke Niflheim untuk memberitahukan kisah Richard.#
+Kembali ke Niflheim#
+
+14458#Permintaan Loru#SG_FEEL#QUE_NOIMAGE#
+Hey! Jika kamu punya waktu, silakan kunjungi saya sebelum kamu pergi!#
+Ke Loru#
+
+14459#Permintaan Devi#SG_FEEL#QUE_NOIMAGE#
+Silakan kunjungi saya sebelum kamu pergi.#
+Ke Devi#
+
+14460#Permintaan Loru#SG_FEEL#QUE_NOIMAGE#
+Saya ingin mengadakan pesta dengan banyak orang, jadi tolong tangkap mereka yang melarikan diri. aku benar-benar ingin bermain dengan mereka. kamu hanya perlu menangkap 10 Wandering Soul#
+10 Wandering Soul#
+
+14461#Permintaan Loru#SG_FEEL#QUE_NOIMAGE#
+Sayang ingin membuat pesta yang mewah, tolong bawa 10 Red Muffler dan 10 Hanging Doll#
+Dekorasi Pesta#
+
+14462#Permintaan Devi#SG_FEEL#QUE_NOIMAGE#
+Ada beberapa yang sangat menakutkan. Dark Soul..Mereka begitu berbahaya. Tolong tangkap mereka sebanyak 10#
+10 Dark Soul#
+
+14463#Favor of Devi#SG_FEEL#QUE_NOIMAGE#
+Ada beberapa dari mereka yang sangat menakutkan. Hylozoist, Bloody Murderer.. mereka sangat berbahaya, tolong tangkap mereka, masing-masing 20.#
+Orang yang tidak menyenangkan#
+
+14464#Pesta akan dimulai hari ini#SG_FEEL#QUE_NOIMAGE#
+Terima kasih atas bantuannya.! Ketika pesta selesai, Kita perlu mendokorasinya lagi, jadi kembali lagi besok#
+Menginap satu hari#
+
+14465#Mereka sangat sunyi#SG_FEEL#QUE_NOIMAGE#
+Terima kasih telah membersihkannya sampai selesai.tolong bantu saya besok#
+Menginap satu hari#

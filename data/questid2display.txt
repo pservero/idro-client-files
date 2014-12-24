@@ -1267,7 +1267,7 @@ Kembali kepada Cougar dengan membawa surat rekomendasi Red Leopard Joe.#
 #
 
 6018#Kegilaan Cougar#SG_FEEL#QUE_NOIMAGE#
-Cepat bawakan 5 Cyfar dan 1 Phracon kepada Cougar.#
+Cepat bawakan 5 Iron Ore dan 1 Phracon kepada Cougar.#
 #
 
 
@@ -9052,3 +9052,70 @@ Sebagai hadiah, Anda menerima penguatan kupon senjata. Anda dapat memperkuat ant
 7241#Tugas dari Torhen - lagi besok #SG_FEEL#QUE_NOIMAGE#
 Tampaknya semuanya cukup untuk Torhen saat ini. Kembali padanya lagi besok.#
 #
+
+//닌자상위직
+
+//-- 카게로 오보로 전직 퀘스트 20131128
+5131#Percakapan yang aneh#SG_FEEL#QUE_NOIMAGE#
+Percakapan aneh ini. bagian dari ujian? ini tentang apa?#
+tempat tersembunyi? sebuah tembok? bukankah seharusnya saya cek perubahan ninja terlebih dahulu?#
+
+5132#Bisnis keluarga-(1)#SG_FEEL#QUE_NOIMAGE#
+Dengarkan cerita lama keluarga dari orang tua yang aneh#
+#
+
+5133#Bisnis keluarga-(2)#SG_FEEL#QUE_NOIMAGE#
+Tetap dengarkan cerita lama keluarga dari orang tua yang aneh.#
+#
+
+5134#Jalan baru#SG_FEEL#QUE_NOIMAGE#
+Siap untuk menemukan jalan baru? Lalu!#
+Temukan NPC Gion.#
+
+5135#Ujian ke 4#SG_FEEL#QUE_NOIMAGE#
+Untun menemukan jalan baru, kamu harus mengetahui semua pengetahuan, bertahan hidup, senjata, dan bertarung semuanya 4 ujian.#
+harus lewati semuanya.#
+
+5136#Test pengetahuan#SG_FEEL#QUE_NOIMAGE#
+Sekarang kamu akan menjalani ujian pengetahuan.#
+Kamu perku menjawab 9 dari 10 pertanyaan ,untuk melewati ujian ini.#
+
+5137#Ujian Bertahan Hidup#SG_FEEL#QUE_NOIMAGE#
+Sekarang kamu akan menjalani ujian Bertahan Hidup.#
+Kamu  harus mencapai titik akhir sebelum kehilangan semua HP, untuk melewati ujian ini.#
+
+5138#Ujian Senjata#SG_FEEL#QUE_NOIMAGE#
+Sekarang kamu akan menjalani ujian menggunakan senjata.#
+Kamu perlu membuat senjata yang bisa digunakan diri sendiri, untuk melewati ujian ini.#
+
+5139#Orang itu tampak akrab!!#SG_FEEL#QUE_NOIMAGE#
+Kamu sudah bertemu Cougar dari arena ujian Pengetahuan.#
+Biarkan dia melewati ujian test pengetahuan.#
+
+5140#Gugup#SG_FEEL#QUE_NOIMAGE#
+Kamu telah mencapai arena ujian Bertahan Hidup , tiba-tiba sedikit merasa ketakutan.#
+hayo cepat dan selesaikan.#
+
+5141#Mendapat Kutukan!!#SG_FEEL#QUE_NOIMAGE#
+Perasaan buruk tidak pernah hilang, kamu akan mendapat kutukan!!.#
+Kutukan akan berlangsung selama 2 menit.#
+
+5142#Contoh Senjata-(1)#SG_FEEL#QUE_NOIMAGE#
+Buat senjata baru dengan mencampur Iron Ore, Iron, Steel, Phracon, Emveretarcon, Rough Oridecon, and Rough Elunium.#
+Senjata dapat dibuat dengan menggunakan alat tempa.#
+
+5143#Contoh Senjata-(2)#SG_FEEL#QUE_NOIMAGE#
+Kamu telah membuat contoh senjata belati.#
+Bawa senjata ini ke Red Leopard Joe.#
+
+5144#Contoh Senjata-(2)#SG_FEEL#QUE_NOIMAGE#
+Kamu telah membuat contoh senjata Huuma Shuriken.#
+Bawa senjata ini ke Red Leopard Joe.#
+
+5145#Contoh Senjata-(3)#SG_FEEL#QUE_NOIMAGE#
+Perlu mengenchant contoh senjata.#
+Bawa contoh senjata yang berhasil di enchant ke Red Leopard Joe.#
+
+5146#Ujian Bertarung#SG_FEEL#QUE_NOIMAGE#
+Sekarang kamu akan menjalani ujian Bertarung.#
+Bunuh target 'Family Secret'!!#

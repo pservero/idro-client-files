@@ -30627,4 +30627,340 @@ Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
 Sebuah Lucky Egg legendari didunia Rune Midgard jika membukanya kamu akan berkesempatan mendapatkan Berzebub Card,Sealed dark lord Card,Sealed Lady Tanee Card,Certificate Armor dan Weapon +11,Certificate Armor dan Weapon +9,Ancient Shield Of Aeon,Costume Sweet Bonnet,Costume White Baby Cat Ears,Love Chick Hat,Rolf Von Gigue 666,Blood Sucker dan item menarik lainya.
 Weight : ^7777771^000000
 #
+//--- 닌자상위직
+2171#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+2172#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+2173#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+6493#
+Sepotong logam dengan jarum tajam. Akan menyakitkan jika menginjak. Akan berguna untuk menghindari pengejar dengan melemparkan di tanah dalam keadaan darurat.
+Weight : ^7777770.1^000000
+#
+6512#
+Jimat yang dibawa ninja untuk melindungi diri dari bahaya. Ninja terampil dapat menggunakan ini untuk melemparkan berbagai mantra.
+Weight : ^7777770.1^000000
+#
+6513#
+Jimat yang dibawa ninja untuk melindungi diri dari bahaya. Ninja terampil dapat menggunakan ini untuk melemparkan berbagai mantra.
+Weight : ^7777770.1^000000
+#
+6514#
+Jimat yang dibawa ninja untuk melindungi diri dari bahaya. Ninja terampil dapat menggunakan ini untuk melemparkan berbagai mantra.
+Weight : ^7777770.1^000000
+#
+6515#
+Jimat yang dibawa ninja untuk melindungi diri dari bahaya. Ninja terampil dapat menggunakan ini untuk melemparkan berbagai mantra.
+Weight : ^7777770.1^000000
+#
+13074#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13075#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13076#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13077#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13078#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13294#
+Kunai khusus dirancang untuk menahan mesiu dalam menangani ledakan pada target dan sekitarnya. Penanganan hati-hati diperlukan!
+Class : ^777777Throwing Weapon^000000
+Atk : ^77777750^000000
+Weight : ^7777773^000000      Property : ^777777무^000000
+Level Limit : ^777777100^000000
+#
+13311#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13312#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13313#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13314#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13315#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+13316#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+15053#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
 
+#
+15054#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+15055#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+15056#
+Item tidak diketahui. Bisa di identifikasikan dengan Magnifier.
+#
+17155#
+^ff0000Tidak dapat di transaksikan.^000000
+Kotak yang berisikan 1 Refined Shuriken inside.
+^ffffff_^000000
+Shuriken yang berlapiskan dengan Oridecon dan Emas.
+tidak dapat dihancurkan
+Meningkatkan ATK +10 / MATK +5, dan serangan jarak jauh sebesar 1% per tingkat tempat.
+Character Level 70+ : ATK meningkatkan +5 ATK dari setiap 10 Base Lv.
+Class : ^777777Huuma Shuriken^000000 Atk : ^77777755^000000
+Weight : ^777777150^000000
+Weapon lvl : ^7777773^000000
+Require Level : ^7777771^000000
+Applicable Job : ^777777Ninja Class^000000
+^ffffff_^000000
+^ff0000This item will be excluded from refunds once opened.^000000
+Weight : ^7777771^000000
+#
+1322#
+kapak Biru yang mempunyai kekuatan menghancurkan. Str +5, Vit +5.
+Type : ^777777Onehand Axe^000000 Serangan : ^777777180^000000
+Berat : ^777777180^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Generic Type^000000
+#
+1936#
+Violin Biru yang mempunyai kekuatan menghancurkan. Dex +5, Vit +5.
+Type : ^777777instrument ^000000 Serangan : ^777777180^000000
+Berat : ^777777150^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Minstrel Type^000000
+#
+1991#
+Cambuk Biru yang mempunyai kekuatan menghancurkan. Dex +5, Vit +5.
+Type : ^777777Whip^000000 Serangan : ^777777180^000000
+Berat : ^777777150^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Wanderer Type^000000
+#
+13097#
+Belati Biru yang mempunyai kekuatan menghancurkan. Str +5, Int +5.
+Type : ^777777Dagger^000000 Serangan : ^777777160^000000
+Berat : ^777777100^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Shadow Chaser Type^000000
+#
+13098#
+Asura Biru yang mempunyai kekuatan menghancurkan. MATK+120.
+Type : ^777777Dagger^000000 Serangan : ^777777150^000000
+Berat : ^777777100^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Ninja Type^000000
+#
+28103#
+kapak Biru yang mempunyai kekuatan menghancurkan. Str +5, Vit +5.
+Type : ^777777Twohadnd Axe^000000 Serangan : ^777777330^000000
+Berat : ^777777300^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^7777771^000000
+Profesi : ^777777Mechanic Type^000000
+#
+13099#
+Pisau Biru yang mempunyai kekuatan menghancurkan. Str +5, Int +5.
+Type : ^777777Dagger^000000 Serangan : ^777777160^000000
+Berat : ^77777750^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Socerer Type^000000
+#
+1677#
+Tongkat Biru yang mempunyai kekuatan menghancurkan. Str +5, Int +5.
+MATK + 170
+Type : ^777777Onehand Staff^000000 Serangan : ^77777750^000000
+Berat : ^7777770^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Warlock Type^000000
+#
+1441#
+Tombak Biru yang mempunyai kekuatan menghancurkan.  STR +5, AGI +5.
+Type : ^777777Onehand Spear^000000 Serangan : ^777777180^000000
+Berat : ^777777120^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Royal Guard Type^000000
+#
+13451#
+Pedang Biru yang mempunyai kekuatan menghancurkan. Str +5, Agi +5.
+Type : ^777777Sword^000000 Serangan : ^777777190^000000
+Berat : ^777777120^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Rune Knight Type^000000
+#
+18126#
+Busur Biru yang mempunyai kekuatan menghancurkan. Agi +5, Dex +5.
+Type : ^777777Bow^000000 Serangan : ^777777150^000000
+Berat : ^777777120^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Ranger class^000000
+#
+16036#
+Mace Biru yang mempunyai kekuatan menghancurkan. Vit +5, Int +5.
+Type : ^777777blunt^000000 Serangan : ^777777170^000000
+Berat : ^777777150^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Sura Type^000000
+#
+28005#
+Katar Biru yang mempunyai kekuatan menghancurkan. AGI +5, STR +5.
+Type : ^777777Katar^000000 Serangan : ^777777190^000000
+Berat : ^777777120^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Guilontine Cross Type^000000
+#
+#
+28600#
+Busur Biru yang mempunyai kekuatan menghancurkan. Agi +5, Dex +5.
+Type : ^777777Book^000000 Serangan : ^777777160^000000
+Berat : ^77777750^000000
+Senjata Lv. : ^7777773^000000
+Dibutuhkan Lv.: ^777777100^000000
+Profesi : ^777777Archbishop Type^000000
+#
+20014#
+^ff0000It cannot be traded with other accounts.^000000
+Topi hitam tinggi yang di replica dari seorang Emansipator
+Jenis : ^777777Costume^000000
+Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
+Dibutuhkan Lv.. : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+20015#
+^ff0000It cannot be traded with other accounts.^000000
+Kumis yang di replica dari seorang Emansipator
+Jenis : ^777777Costume^000000
+Digunakan di  : ^777777Lower ^000000Berat : ^7777770^000000
+Dibutuhkan Lv.. : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+20016#
+^ff0000It cannot be traded with other accounts.^000000
+Pengalaman makan yang selalu lebih baik dengan lobster.
+Jenis : ^777777Costume^000000
+Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
+Dibutuhkan Lv.. : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+20018#
+^ff0000It cannot be traded with other accounts.^000000
+Sebuah helm aneh yang tampaknya seperti hidup.
+Jenis : ^777777Costume^000000
+Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
+Dibutuhkan Lv.. : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+20038#
+^ff0000It cannot be traded with other accounts.^000000
+Sebuah helm aneh yang tampaknya seperti hidup.
+Jenis : ^777777Costume^000000
+Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
+Dibutuhkan Lv.. : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+20019#
+^ff0000Cannot be traded with other accounts.^000000
+Topi ini adalah untuk Seniman yang berkontribusi kepada masyarakat.
+Jenis : ^777777Costume^000000
+Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
+Dibutuhkan Lv..: ^7777771^000000
+Profesi : ^777777All Profesi^000000
+#
+19929#
+Kostum pita yang di desain klasik.
+Jenis : ^777777Costume^000000 Def : ^7777770^000000
+Digunakan di  : ^777777Upper ^000000Berat : ^7777770^000000
+Rew LvL : ^7777771^000000
+Profesi : ^777777All^000000
+#
+18940#
+Topi yang penuh dengan kekuatan magis
+Type : ^777777Helm^000000 Defense : ^7777770^000000
+Digunakan di  : ^777777Upper ^000000Berat : ^777777100^000000
+Dibutuhkan Lv.: ^77777790^000000
+Profesi : ^777777Semua Profesi^000000
+#
+18940#
+Sebuah Topi yang  Mengandung Kekuatan Sihir
+Jenis : ^777777Helm^000000 Defense : ^7777770^000000
+Deigunakan di  : ^777777Upper ^000000Berat : ^777777100^000000
+Digunakan Lv. : ^77777790^000000
+Job : ^777777All jobs^000000
+#
+17494#
+Sebuah telur keberuntungan yang sangat menakjubkan jika dibuka kemngkinan akan mendapatkan hadiah Randgris Card,Sealed Kiel Card,Sealed Orc Hero Card,Guarantee Armor 11Up,Guarantee Weapon 11Up,Guarantee Armor 9Up,Guarantee Weapon 9Up,Observer,Boitata Armor,Dep Alice Hat,Archangel Wing,Fallen Angel Wing,RTC 2nd Helm,Bakonawa Tattoo, dan Item Lainya
+Weight : ^7777771^000000
+#
+
+18929#
+It is modelled after elephant,which is the biggest animal in the land
+DEX + 2.
+When being physical attack, Storm Gust 5Lv is activated in a certain probability  
+At refine level 8, DEX + 1 will be added 
+After refine level 8, DEX + 1 will be added at each refine level 2
+Class : ^777777Helm^000000 Defense : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^77777730^000000
+Required Lv : ^77777730^000000
+Job : ^777777All Jobs^000000
+#
+
+2979#
+Sebuah Strawberry yang sangat menggiurkan.
+All State +1.
+Ketika menerima serangan, Kemngikinan akan bisa mengunakan Frost Nova lv 3 dengan kemungkinan tertentu
+ketahanan terhadap element api sebesar 10%
+Menaikan Serangan Jarak jauh sebesar 30%
+Jenis : ^777777Accessory^000000 Defense : ^7777771^000000
+Berat : ^77777750^000000
+DiButuhkan Lv : ^7777771^000000
+Profesi : ^777777Semua Profesi kecuali Novice^000000
+#
+
+18613#
+Black Musang's hat Sebuah Topi yang sangat menarik jika digunakan akan memberikan INT + 2, DEX + 2, AGI + 1.
+Jenis : ^777777Helm^000000 Defense : ^7777773^000000
+Digunakan di : ^777777Upper ^000000Berat : ^77777740^000000
+Dibutuhkan Lv : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+
+5506#
+Sebuah topi pajama yang sangat cocok  di gunakan saat karakter ingin beristirahat
+ATK dan MATK meningkat 5%
+Jenis : ^777777Helm^000000        Defense : ^7777774^000000
+Digunakan di : ^777777Upper^000000
+Berat : ^77777710^000000
+Profesi : ^777777Semua Profesi^000000
+#
+
+14700#
+You can get one of items among various items in the box
+weight : ^7777770^000000
+#
+14701#
+Sebuah telur keberuntungan yang sangat menakjubkan jika dibuka kemngkinan akan mendapatkan hadiah Tao Gunka Card,Sealed Knight WS Card,Hervor,Gorila Model Hat,Strawberry Decoration,Black Musang Hat,Blue Pajamas Hat,MVP Basketball, dan Item Lainya.
+Berat : ^7777770^000000
+#

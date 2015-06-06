@@ -14520,14 +14520,6 @@ Posisi : ^777777Atas^000000  Berat : ^77777710^000000
 profesi : ^777777Semua profesi^000000
 #
  
- 
-12200#
-Kue khusus di hari natal yang sangat lezat.
-Kue ini dapat memulihkan sedikit HP dan memberikan skill magnificat lv 3.
- 
-Berat : ^7777775^000000
-#
- 
 12225#
 Sebuah permen yang sangat manis dan mudah dihancur jika dimakan. Permen ini sangat manis sehingga kurang cocok untuk manusia, tetapi dapat digunakan untuk menjinakkan Santa Goblin.
 Jenis : ^777777item penjinak^000000
@@ -26169,13 +26161,7 @@ Berat : ^7777770^000000
 Sebuah Coin yang bisa digunakan di Manuk.
 ^ffffff_^000000
 Berat : ^7777770^000000
-#
- 
-6081#
-Sebuah Coin yang bisa digunakan di Splendide.
-^ffffff_^000000
-Berat : ^7777770^000000
-#
+# 
  
 6082#
 Wewangian yang dibuat dari penyulingan bunga Alfheim. Baunya begitu enak dan nyaman.
@@ -38843,13 +38829,11 @@ Permen ini sama persis dengan kue yang hilang dari gudang persediaan.
 Berat : ^7777771^000000
 #
 19976#
-Sebuah topi penyihir yang biasa di pakai kucing malangdo dalam acara natal.
-Kecepetan Gerak dan Kecepatan menyerang meningkat selama. Event natal berlangsung.
-(delay setelah menyerang berkurang 10%)
-Class : ^777777Head Gear^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Berat : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Kucing Malangdo mengenakan topi ini saat musim Natal.
+Jenis : ^777777Kostum^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
+Minimum Level : ^7777771^000000
+Job : ^777777Semua^000000
 #
 22685#
 Buka jika sedang sendiri
@@ -38883,8 +38867,8 @@ Berat : ^77777710^000000
 Jobs : ^777777All^000000
 #
 12200#
-Kue yang tersedia hanya pada saat natal.
-ketika di gunakan, memulihkan sejumlah HP, dan memberikan efek level 3 magnificat.
+Kue yang tersedia hanya pada saat natal. Ketika digunakan, memulihkan sejumlah HP, dan memberikan efek level 3 magnificat.
+(Saat event natal berakhir, Item ini akan dihapus.)
 Berat : ^7777775^000000
 #
 7908#
@@ -40266,13 +40250,6 @@ Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required LV : ^7777771^000000
 Job : ^777777All^000000
 #
-19685#
-Lucunya Poring shape hat dengan bling bling santa hat.
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
-#
 
 17490#
 Sebuah Lucky Egg legendari didunia Rune Midgard jika membukanya kamu akan berkesempatan mendapatkan Berzebub Card,Sealed dark lord Card,Sealed Lady Tanee Card,Certificate Armor dan Weapon +11,Certificate Armor dan Weapon +9,Ancient Shield Of Aeon,Costume Sweet Bonnet,Costume White Baby Cat Ears,Love Chick Hat,Rolf Von Gigue 666,Blood Sucker dan item menarik lainya.
@@ -40302,11 +40279,11 @@ Required LV : ^7777771^000000
 Job : ^777777All^000000
 #
 19685#
-Lucunya Poring shape hat dengan bling bling santa hat.
-Class : ^777777Costume^000000 Def : ^7777770^000000
-Location : ^777777Upper ^000000Weight : ^7777770^000000
-Required LV : ^7777771^000000
-Job : ^777777All^000000
+Ini adalah poring memakai Topi Santa yang melompat dan berkelip di atas kepala.
+Jenis : ^777777Kostum^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
+Minimum Level : ^7777771^000000
+Job : ^777777Semua^000000
 #
 
 //닌자상위직 아이템
@@ -41510,4 +41487,970 @@ Job : ^777777Semua Job^000000
 17526#
 Majestic Lucky Egg
 Berat : ^7777771^000000
+#
+
+//--------------- Update Xmas Event 20141224 ---------------
+19982#
+Ini adalah topi spesial yang di buat dari kain yang berwarna merah. Beberapa orang tua yang baik hati memakai topi ini.
+Jenis : ^777777Kostum^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
+Minimum Level : ^7777771^000000
+Job : ^777777Semua^000000
+#
+19707#
+Topi natal Raccoon Hooray team "Yang Mereka Pinjam' dari Santa.
+Ini sangat menolong untuk para Raccoons karena dapat membuat mereka merasa hangat karena saat ini mereka tidak mempunya rumah.
+Jenis : ^777777Kostum^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
+Minimum Level : ^7777771^000000
+Job : ^777777Semua^000000
+#
+20222#
+Topi Santa yang lucu diperuntukkan untuk lelaki tampan.
+Jenis : ^777777Kostum^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
+Minimum Level : ^7777771^000000
+Job : ^777777Semua^000000
+#
+19955#
+Pohon natal kecil yang berkelip di atas kepala.
+Jenis : ^777777Kostum^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
+Minimum Level : ^7777771^000000
+Job : ^777777Semua^000000
+#
+19697#
+Topi Santa ini direnovasi agar bisa di pakai oleh para rusa.
+Jenis : ^777777Kostum^000000 Tk Def : ^7777770^000000
+Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
+Minimum Level : ^7777771^000000
+Job : ^777777Semua^000000
+#
+11565#
+^ff0000tidak dapat ditransaksikan.^000000
+Potion penyembuk yang dibuat dari white herb. Menyembuhjkan ^000088325 HP^000000.
+Berat : ^77777715^000000
+#
+11568#
+^ff0000tidak dapat ditransaksikan.^000000
+Red Potion dengan berat yang sangat ringan.
+^ffffff_^000000
+Berat : ^7777772^000000
+#
+11572#
+^ff0000Tidak dapat di transaksikan.^000000
+Minuman yang mebuat kita terasa segar memberikan^000088SP 60^000000 ramuan nya terbuat dibuat dari blue herb yang dihaluskan.
+^ffffff_^000000
+Berat : ^77777715^000000
+#
+11573#
+^ff0000tidak dapat di transaksikan.^000000
+Mempunya effek yang sama dengan White Potion tapi ini mempunya berat yang lebih ringan.
+^ffffff_^000000
+Berat : ^7777775^000000
+#
+11575#
+Kue keberuntungan yg lezat.
+Berat : ^7777773^000000
+#
+11576#
+Permen lolipop keberuntungan.
+^ffffff_^000000
+Berat : ^7777774^000000
+#
+11577#
+Nasi kepal buatan sendiri untuk anak-anak yang baik!
+^ffffff_^000000
+Berat : ^7777773^000000
+#
+11578#
+Permen batangan yang meyembuhkan ^000088105 HP^000000.
+^ffffff_^000000
+Berat : ^7777774^000000
+#
+11579#
+Sebuah permen keberuntungan
+^ffffff_^000000
+Berat : ^7777773^000000
+#
+11580#
+Permen manis dengan rasa yang lezat, menyembuhkan ^00008845 HP^000000.
+^ffffff_^000000
+Berat : ^7777773^000000
+#
+11581#
+Sepotong kue yang bertekstur lembut dan rasanya manis. Menyembuhkan sedikit HP.
+Berat : ^77777710^000000
+#
+11582#
+Kue yang dipanggang pada acara-acara khusus. Meyembuhkan sedikit HP.
+Berat : ^7777773^000000
+#
+11583#
+Minuman ini terbuat dari cokelat dan susu di masak dengan resep rahasia dan bahan yang sangant langka.
+Manajer istana ingin meminumnya secara perlahan tapi sayang nya minuman ini harus dihabiskan dengan satu tegukan.
+^ffffff_^000000
+Berat : ^77777715^000000
+#
+11584#
+Coklat putih yang dibuat bukan dari cacao. Memiliki rasa yang lebih manis dari coklat biasa.
+^ffffff_^000000
+Berat : ^7777778^000000
+#
+11585#
+Coklat buatan tangan yang terkenal dikalangan para wanita.
+^ffffff_^000000
+Berat : ^7777778^000000
+#
+11586#
+Coklat putih yang sangat cocok untuk mengekspresikan rasa sayangmu pada orang yang kamu cintai.
+^ffffff_^000000
+Berat : ^7777778^000000
+#
+11587#
+Sebuah cokelat yang dibuat dari bubuk kakao panggang yang dicampur dengan susu, sebuah kolaborasi menakjubkan.
+^ffffff_^000000
+Berat : ^7777772^000000
+#
+11555#
+Potion penyembuh yag dibuat dari red herb dan sari Yggdrasil. Menyembuhkan ^000088325 HP^000000.
+Berat : ^7777774^000000
+#
+22870#
+^ff0000tidak dapat di transaksikan.^000000
+Anda bisa merasakan suasana Natal dari paket mewah ini.
+(Saat event natal berakhir, Item ini akan di hapus.)
+Berat : ^7777771^000000
+#
+22542#
+^ff0000tidak dapat di transaksikan.^000000
+Sirup ini meningkatkan daya konsentrasi. Jika kamu meminumnya, kecepatan serangan akan meningkat. Semua job dapat menggunakannya.
+Berat : ^77777710^000000
+#
+22543#
+^ff0000tidak dapat di transaksikan.^000000
+Sirup madu ini akan membuat jiwa kesatria mu bangkit. Jika kau menggunakan nya, menambah kecepatan serang. Hanta karakter yang mempunya lvl  85 ke atas yang dapat menggunakan nya(hanya dapat di gunakan job sword man, Rogue, Wizard, merchant)
+Berat : ^77777720^000000
+#
+22544#
+^ff0000tidak dapat di transaksikan.^000000
+Sirup madu ini akan membuatmu bangkit dan meningkatkan kecepatan serang mu. Hanta karakter yang mempunya lvl 40 ke atas yang dapat menggunakan nya(tidak tersedia untuk  Acolyte, Priest, Bard, Dancer)
+Berat : ^77777715^000000
+#
+22550#
+^ff0000tidak dapat di transaksikan.^000000
+This bag is packed with snacks that children favorite.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+22551#
+^ff0000tidak dapat ditransaksikan.^000000
+Cemilan lezat yang dibuat dari gandum asli dan bubuk kenari. Melambangkan berkat dalam budaya Asia.
+Meningkatkan Akurasi sebesar 30 untuk sementara waktu.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+22552#
+^ff0000tidak dapat ditransaksikan.^000000
+Cemilan tradisional yang dibuat dari gandum asli.
+Meningkatkan hindaran sebesar 30 untuk sementara waktu.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+22553#
+^ff0000tidak dapat ditransaksikan.^000000
+Sebuah kue beras yang berwarna-warni. Terkenal di negara-negara timur.
+Meningkatkan 10 ATK dan MATK untuk sementara waktu.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+
+//--------------- Update Blessing Egg 20141224 ---------------
+2196#
+Perisai yang terbuat dari Platinum. Terdengar kabar permukaan perisai ini dapat memantulkan kekuatan sihir. 
+Ketika di serang dengan kekuatan magic, berkesemmpatan untuk memantulkan serangan sihir sebesar 20 % selama 2 detik.
+Jenis : ^777777Shield^000000 Tk Def : ^777777140^000000
+Berat : ^777777180^000000
+Lv Minimum : ^777777100^000000
+Job : ^777777Semua Profesi^000000
+#
+18937#
+Sebuah boneka cyber yang ditinggalkan oleh pencipta nya. 
+boneka ini di penuhi perasaan cinta mereka
+M Def + 7, MaxHP + 2%
+Ketika di gunakan bersama Vesper Core 1, INT + 8, MaxSP + 5%.
+Ketika di gunakan bersama Vesper Core 2, STR + 8, ATK + 20.
+Ketika di gunakan bersama Vesper Core 3, AGI + 8, FLEE + 15.
+Ketika di gunakan bersama Vesper Core 4, DEX + 8, HIT + 10.
+Jenis : ^777777Helm^000000 Tk Def : ^7777770^000000
+Lokasi : ^777777Middle ^000000Berat : ^77777710^000000
+Lv Minimum : ^7777771^000000
+Job : ^777777Semua Profesi^000000
+#
+18938#
+Universe menyebar di atas kepalamu. Anda dapat mengamati bintang bahkan di hari yang kelam
+INT + 1.
+Damage yang diterima dari skill  Meteor Storm dan Crimson Rock berkurang sebesar 20% 
+Damage yang diterima dari skill Comet akan berkurang sebesar 5%
+Ketika di tempa lebih dari +6, damage yang diterima dari skill Meteor Storm dan Crimson Rock akan berkurang sebesar 2% pertingkat lvl tempa.
+Setiap level 3 tingak temap, Serangan yang diterima dari skill Meteor Storm dan Crimson Rock akan meningkat sebesar 5%
+Jenis : ^777777Helm^000000 Tk Def : ^7777771^000000
+Lokasi : ^777777Atas ^000000Berat : ^77777730^000000
+Lv Minimum : ^77777770^000000
+Job : ^777777Semua Profesi^000000
+#
+18925#
+Sebuah benda yang di buat dari angin.Terdengar kabar bahwa dewa angin langsung lah yang menciptakan nya
+Damage Skill Lord of Vermilion dan Chain Lightning akan meningkat sebesar 3%
+Konsumsi SP akan meningkat sebesar 5% saat menggunakan skill
+Not able to refine or destruct
+Jenis : ^777777Helm^000000 Tk Def : ^7777770^000000
+Lokasi : ^777777Lower ^000000Berat : ^77777730^000000
+Lv Minimum : ^77777730^000000
+Job : ^777777Semua Profesi^000000
+#
+17532#
+Blessing Lucky Scroll, kamu bisa mendapatkan item-item yang tidak terduga jika membukanya.
+Berat : ^7777771^000000
+#
+
+//--------------- Update Garnet Egg 20150128 ---------------
+17552#
+Garnet Lucky Egg
+Berat : ^7777771^000000
+#
+
+//--------------- Update Item Mall 20150225 ---------------
+28602#
+Kitab yang diberikan hanya kepada Priest yang terlatih untuk melenyapkan iblis.
+INT +2, DEX +2.
+MATK +170.
+Serangan Magnus Exorcismus bertambah sebesar 30%.
+Setiap 1 INT murni menambahkan serangan Magnus Exorcismus sebesar 1% (Maks 120)
+Ketika digunakan bersamaan denga Spiritual Ring, Casting skill Magnus Exorcismus berkurang 25%.
+Ketika menerima serangan fisik, ada kemungkinan mengabaikan MDEF lawan berdasarkan level refine
+Efek Heal, Sanctuary, Aid Potion, Highness Heal, dan Coluseo Heal meningkat sebesar 10%.
+Efek skill penyembuhan dan Item penyembuh meningkat sebesar 10%.
+Jenis : ^777777Book^000000 Serangan : ^77777730^000000
+Berat : ^77777750^000000
+Lv Senjata: ^7777773^000000
+Lv Minimum : ^777777110^000000
+Profesi: ^777777Archbishop ^000000
+#
+15123#
+Jubah yang digunakan untuk membuat pusing lawan. Terbuat dari benang khusus.
+Ketika melakukan serangan fisik, ada kemungkinan mengaktifkan skill Charming Wink 
+Saat tempa mencapai lvl 5, Serangan kritikal bertambah sebesar 4%.
+Saat tempa mencapai lvl 7, Serangan kritikal bertambah sebesar 6%.
+Ketika melakukan serangan fisik menggunakan +7 Durga, ada kemungkinan mengabaikan Pertahanan Monster normal selama 3 detik 
+Jenis: ^777777Armor^000000 Pertahanan : ^77777756^000000
+Berat: ^77777790^000000
+Lv Minimum : ^777777105^000000
+Profesi: : ^777777Guillotine Cross^000000
+#
+21013#
+Pedang dua tangan yang dikenal karena digunakan oleh pahlawan kuno. Bilahan pedang tersebut dapat digunakan sebagai perisai
+Counter Attack menggunakan SP -2.
+Parry menggunakan SP -25.
+Ketika digunakan bersama dengan Golem Card, serangan yang diterima dari Monster kecil, sedang dan besar akan berkurang sebanyak 15%.
+Jenis: ^777777Two Handed sword^000000 Serangan : ^777777210^000000
+Berat: ^777777220^000000
+Lv Senjata : ^7777774^000000
+Lv Minimum : ^777777110^000000
+Profesi: : ^777777Rune Knight^000000
+#
+21012#
+Penyihir yang mengagumi ksatria sihir. Tetapi penyihir tidak bisa menggunakannya karena terlalu berat digenggam. 
+MATK +150.
+Serangan fisik menggunakan Deathword Card, ada kemungkinan tertentu mengaktifkan Soul Strike Lv 5. Persentase meningkat setiap level tempa 
+Serangan fisik menggunakan Pitman Card, ada kemungkinan tertentu mengaktifkan Earth Spike Lv 5. Persentase meningkat setiap level tempa 
+Serangan fisik menggunakan Hill Wind Card, ada kemungkinan tertentu mengaktifkan Lightning Bolt Lv 5. Persentase meningkat setiap level tempa 
+Serangan fisik menggunakan Rawrel Card, ada kemungkinan tertentu mengaktifkan Cold Bolt Lv 5. Persentase meningkat setiap level tempa
+Serangan fisik menggunakan Ferus Card, ada kemungkinan tertentu mengaktifkan Fire Bolt Lv 5. Persentase meningkat setiap level tempa
+Jenis: ^777777Two handed sword^000000 Serangan : ^777777200^000000
+Berat : ^777777220^000000
+Lv Senjata : ^7777774^000000
+Lv Minimum : ^777777110^000000
+Profesi: : ^777777Rune Knight^000000
+#
+
+//--------------- Update Erzulie Lucky Egg 20150304 ---------------
+19047#
+Topi Rajutan dengan Angeling di atas nya.  Membuat Anda merasa senang saat  memakainya
+Ketika mengalahkan monster jenis Angel dengan serangan fisik jarak dekat, SP + 5
+Ketika mengalahkan monster dengan serangan fisik jarak dekat, HP +100
+Saat tingkat Tempa mencapai +5, damage yang diterima dari monster jenis Angel -5%
+Saat tingkat Tempa mencapai +7, damage yang diterima dari monster jenis Angel di tambah lagi -5% (menjadi -10%).
+Jenis : ^777777Headgear^000000 Pertahanan : ^7777775^000000
+Lokasi : ^777777Atas ^000000Berat : ^77777730^000000
+Lv Minimum: ^77777720^000000
+Profesi : ^777777Semua^000000
+#
+20155#
+Topi yang disukai oleh para Bangsawan Wanita
+Jenis : ^777777Kostum^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777Atas ^000000Berat : ^7777770^000000
+Lv Minimum: ^7777771^000000
+Profesi : ^777777Semua^000000
+#
+2198#
+Perisai yang disukai oleh prajurit suku Lapine. Terdapat kekuatan magis di perisai tersebut
+MDEF +10.
+Saat tingkat Tempa +7 dari Lapine Shield, MATK +20.
+ika Kamu mengenakan Rafini Staff bersaan dengan Lapine Shield ketika tingkat Tempa dari Lapine Shield lebih dari +9, MATK +15 pada setiap tingkatan tempa dari Rafini Staf
+ketika tingkat Tempa Rafini Staff adalah 10, MATK +50, casting time -10%
+Jenis : ^777777Perisai^000000 Pertahanan : ^77777725^000000
+Berat : ^777777100^000000
+Lv Minimum: ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19048#
+pakaian yang dibuat untuk memaksimalkan kekuatan 4 elemen. 
+Serangan fisik jarak jauh +2%.
+ketika tingkat Tempa +7, Elemental Clothes tidak dapat Rusak
+ketika tingkat Tempa Elemental Clothes mencapai +8, Serangan fisik Jarak jauh ditambah + 2%
+ketika tingkat Tempa Elemental Clothes mencapai +9, Serangan fisik Jarak jauh ditambah + 3%.
+Saat digunakan bersamaan dengan Burning Bow, Fire Arrow, serangan fisik jarak jauh bertambah + 20%, ketahanan terhadap element Api -10%.
+ketika tingkat Tempa Burning Bow mencapai +10, ASPD +1.
+Saat digunakan bersamaan dengan Frozen Bow, Crystal Arrow, serangan fisik jarak jauh bertambah + 20%, Rentan terhadap status freeze
+ketika tingkat Tempa Frozen Bow mencapai +10, ASPD +1.
+Saat digunakan bersamaan dengan Earth Bow, Stone Arrow, serangan fisik jarak jauh bertambah +20%, Rentan terhadap status Stone Cursed
+ketika tingkat Tempa Earth Bow mencapai +10, ASPD +1.
+Saat digunakan bersamaan dengan Gust Bow, Arrow Of Wind, serangan fisik jarak jauh bertambah + 20%, Auto spell [Wind Blade] tidak dapat digunakan.
+ketika tingkat Tempa Gust Bow mencapai +10, ASPD +1.
+Jenis : ^777777Armor^000000 Pertahanan : ^77777745^000000
+Lokasi : ^777777Atas ^000000Berat : ^77777750^000000
+Lv Minimum: ^77777780^000000
+Profesi : ^777777Semua^000000
+#
+17572#
+Erzulie Lucky Egg. Kamu bisa mendapatkan item berharga jika kamu membukanya
+Weight : ^7777771^000000
+#
+
+//--------------- Update Limited Gold Weapon 20150325 ---------------
+1323#
+Kampak emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+STR +8, INT +8.
+Jenis : ^777777One-handed Axe^000000 Serangan: ^777777180^000000
+Berat : ^777777180^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Generic  ^000000
+#
+1937#
+Violin emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+DEX +8, VIT +8.
+Jenis : ^777777Instrument^000000 Serangan: ^777777180^000000
+Berat : ^777777150^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Minstrel ^000000
+#
+1992#
+Cambuk emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+DEX +8, VIT +8.
+Jenis : ^777777Whip^000000 Serangan: ^777777180^000000
+Berat : ^777777150^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Wanderer ^000000
+#
+28104#
+Kampak 2 tangan terbuat dari emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+STR +8, VIT +8.
+Jenis : ^777777Two-handed Axe^000000 Serangan: ^777777330^000000
+Berat : ^777777300^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Mechanic ^000000
+#
+28601#
+Buku yang terbuat dari emas memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+VIT +8, INT +8.
+Jenis : ^777777Book^000000 Serangan: ^777777160^000000
+Berat : ^77777750^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Archbishop ^000000
+#
+1678#
+tongkat sihir yang terbuat dari emas memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+DEX +8, INT +8.
+MATK + 170
+Jenis : ^777777One-handed wand^000000 Serangan: ^77777750^000000
+Berat : ^7777770^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Warlock ^000000
+#
+1442#
+Tombak emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+STR +8, AGI +8.
+Jenis : ^777777One-handed Spear^000000 Serangan: ^777777180^000000
+Berat : ^777777120^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Royal Guard ^000000
+#
+13452#
+Pedang emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+STR +8, AGI +8.
+Jenis : ^777777Sword ^000000 Serangan: ^777777190^000000
+Berat : ^777777120^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Rune Knight ^000000
+#
+18127#
+Busur Panah yang terbuat dari emas memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+AGI +8, DEX +8.
+Jenis : ^777777Bow^000000 Serangan: ^777777150^000000
+Berat : ^777777120^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Ranger ^000000
+#
+16037#
+Gada emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+VIT +8, INT +8.
+Jenis : ^777777Mace^000000 Serangan: ^777777170^000000
+Berat : ^777777150^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Sura ^000000
+#
+28006#
+Katar emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+AGI +8, STR +8.
+Jenis : ^777777Katar^000000 Serangan: ^777777190^000000
+Berat : ^777777120^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Guillotine ^000000
+#
+28700#
+Pisau belati emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+STR +8, INT +8.
+Jenis : ^777777Dagger^000000 Serangan: ^777777160^000000
+Berat : ^777777100^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Shadow Chaser ^000000
+#
+28701#
+Pisau emas yang memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+VIT +8, INT +8.
+Jenis : ^777777Knife^000000 Serangan: ^777777160^000000
+Berat : ^77777750^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Sorcerer ^000000
+#
+28702#
+Ashura yang terbuat dari emas memiliki kekuatan yang luar biasa dan dapat menghancurkan apa saja.
+MATK + 150.
+Jenis : ^777777Dagger^000000 Serangan: ^777777150^000000
+Berat : ^777777100^000000
+Lv Senjata : ^7777773^000000
+Lv Minimum: ^777777120^000000
+Profesi : ^777777Ninja ^000000
+#
+
+//--------------- Update Venus Lucky Egg 20150408 ---------------
+18559#
+Hiasan Telinga yang berbentu sayap, Terbuat dari kulit fafnir. Bahkan jika ada orang yang memakai nya maka dia akan di takuti
+CRI + 3.
+HP tidak pulih secara otomatis.
+Ketika di gunakan bersama  Fafnir Mask, Critical damage +3%.
+Jenis : ^777777Helm^000000Pertahanan : ^7777773^000000
+Lokasi : ^777777Middle ^000000Berat : ^77777710^000000
+Lv Minimum : ^77777750^000000
+Profesi : ^777777Semua^000000
+#
+18560#
+Sebuah topeng, Terbuat dari kulit fafnir. Memberikan kekuatan tambahan bagi yang memakai nya.
+CRI + 2.
+Ketika digunakan bersama Fafnir Skin, Critical damage +3%.
+Jenis : ^777777Helm^000000Pertahanan : ^7777772^000000
+Lokasi : ^777777Lower ^000000Berat : ^77777730^000000
+Lv Minimum : ^77777750^000000
+Profesi : ^777777Semua^000000
+#
+20131#
+Headset, yang selalu dikenakan oleh clock tower manager.
+Jenis : ^777777Costume Armor^000000Pertahanan : ^7777770^000000
+Lokasi : ^777777Middle ^000000Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua^000000
+#
+5562#
+Hiasan kepala legendaris yang diberikan untuk menunjukan cinta sejati mereka.
+MDEF +10.
+Ketika menggunakan skill, Casting time -3%, Konsumsi SP -5%.
+Tidak dapat ditempa.
+Jenis : ^777777Helm^000000Pertahanan : ^7777770^000000
+Lokasi: ^777777Upper-Middle ^000000 Berat : ^77777750^000000
+Lv Minimum : ^77777745^000000
+Profesi : ^777777Semua^000000
+#
+17584#
+Venus Lucky Egg. Kamu bisa mendapatkan item berharga jika kamu membukanya
+Berat : ^7777771^000000
+#
+
+
+
+//---- 14.2 
+6564#
+The Hatchling who ran way from home is back by the kindness hand. There might be good happen if you take him to the Black dragon in Malangdo.
+Weight : ^7777771^000000
+#
+
+2915#
+^ff0000Tidak dapat ditransaksikan^000000
+Sebuah kalung dari Ettlang enek moyang laphine kuno. Kalung yang menunjukkan keinginan untuk membangkitkan kembali Bifrost yang hancur.
+MDEF + 10.
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^7777775^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2916#
+^ff0000tidak dapat ditransaksikan^000000
+Sebuah bros kecil yang dibuat menyerupai sayap Laphine.
+Memberikan kemampuan untuk teleport ke Eclage Ibukota Laphine.
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^7777771^000000
+Lv Minimum : ^77777790^000000
+Profesi : ^777777Semua^000000
+#
+2917#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+ATK +1 diberikan jika status STR karakter +10
+ATK 1% diberikan jika status STR karakter di atas 110 
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2918#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+MATK +1 diberikan jika status INT karakter +10
+MATK 1% diberikan jika status INT karakter di atas 110 
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2919#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+FLEE +1 diberikan jika status AGI karakter +10
+Perfect DODGE +1 diberikan jika status AGI karakter di atas 110 
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2920#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+MHP+50 diberikan jika status VIT karakter +10
+MHP + 1% diberikan jika status VIT karakter diatas 110
+Jenis : ^777777Aksesoris^000000 Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2921#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+HIT+1 diberikan jika status DEX karakter +10
+Range ATK + 1% diberikan jika status DEX karakter di atas 110
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2922#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+CRI+1 diberikan jika status LUK karakter +10
+Serangan kritikal bertambah 1% jika status LUK karakter di atas 110
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2923#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+ATK +1 diberikan jika status STR karakter +10
+ATK 1% diberikan jika status STR karakter di atas 110 
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2924#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+MATK +1 diberikan jika status INT karakter +10
+MATK 1% diberikan jika status INT karakter di atas 110 
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2925#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+FLEE +1 diberikan jika status AGI karakter +10
+Perfect DODGE +1 diberikan jika status AGI karakter di atas 110 
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2926#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+MHP+50 diberikan jika status VIT karakter +10
+MHP + 1% diberikan jika status VIT karakter diatas 110
+Jenis : ^777777Aksesoris^000000 Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2927#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+HIT+1 diberikan jika status DEX karakter +10
+Range ATK + 1% diberikan jika status DEX karakter di atas 110
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+2928#
+Sarung tangan yang bereaksi sesuai dengan kemampuan penggunanya.
+MHP + 100, MSP + 20
+CRI+1 diberikan jika status LUK karakter +10
+Serangan kritikal bertambah 1% jika status LUK karakter di atas 110
+Jenis : ^777777Aksesoris^000000 Pertahanan : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+6081#
+^ff0000tidak dapat ditransaksikan^000000
+Koin suku Laphine yang berarti 'bersinar dengan terang'
+Berat : ^7777770^000000
+#
+6539#
+^ff0000tidak dapat ditransaksikan^000000
+Sebuah perhiasan tua yang berdebu, yang dulu mengkilap dan indah
+Berat : ^7777770^000000
+#
+6540#
+^ff0000tidak dapat ditransaksikan^000000
+Daun keemasan yang jatuh dari Rumah pohon. Tampaknya tidak begitu penting
+Berat : ^7777770^000000
+#
+6541#
+^ff0000tidak dapat ditransaksikan^000000
+Hasil penelitian yang dilakukan oleh ilmuwan gelap Avant. Materi inti penelitian Formula Magic Orb.
+Berat : ^7777770^000000
+#
+6542#
+^ff0000tidak dapat ditransaksikan^000000
+Jamur yang tumbuh lebat di Hutan Alfheim. Dapat digunakan untuk membuat obat-obatan
+Berat : ^77777710^000000
+#
+6545#
+^ff0000tidak dapat ditransaksikan^000000
+Rambut suku Sapha. Terlihat seperti cabang kayu meski itu adalah rambut
+Berat : ^7777770^000000
+#
+6546#
+^ff0000tidak dapat ditransaksikan^000000
+Sebuah surat penuh cinta seorang kakak kepada adiknya
+Berat : ^7777770^000000
+#
+6547#
+^ff0000Tidak dapat ditransaksikan^000000
+Catatan laporan tentang perubahan bentuk. Tampak kotor dan lusuh
+Berat : ^7777770^000000
+#
+6548#
+^ff0000Tidak dapat ditransaksikan^000000
+Bagian sayap Laphine kelas tertinggi. Tampaknya dapat membawamu ke suatu tempat. Tapi sepertinya tidak . .
+Berat : ^7777770^000000
+#
+6552#
+^ff0000Tidak dapat ditransaksikan^000000
+Box yang berisi surat-surat Splendid ke Eclage. Tumpukan surat biasa
+Berat : ^7777770^000000
+#
+6553#
+^ff0000Tidak dapat ditransaksikan^000000
+Potongan besar jembatan yang terbuat dari tumpukan daun dengan berbagai ukuran, it varies 3, 5, 10m
+Berat : ^7777770^000000
+#
+6554#
+^ff0000Tidak dapat ditransaksikan^000000
+Kotak pengiriman untuk Red dan Blue Seeds [Bawa dengan hati-hati]
+Berat : ^7777770^000000
+#
+6555#
+^ff0000Tidak dapat ditransaksikan^000000
+Lilin perayaan ulang tahu. Dapat bertahan paling lama 10 tahun, paling cepat 1 tahun
+Berat : ^7777770^000000
+#
+6557#
+Sayap peri yang besar dan mewah. Tampaknya sangatlah mahal
+Berat : ^7777771^000000
+#
+6558#
+Tumpukan biji yang kecil. Tidak cukup untuk siapapun
+Berat : ^7777771^000000
+#
+6559#
+Obat yang bagus untuk mata yang kering. Ukuran 5ml
+Berat : ^7777771^000000
+#
+6560#
+Sebuah petunjuk yang berdebu dan ditinggalkan dalam waktu yang lama. Sangatlah kering dan mudah rusak
+Berat : ^7777771^000000
+#
+6561#
+debu yang yang tampaknya mengancam kesehatan sehari-hari kita
+Berat : ^7777771^000000
+#
+6562#
+^ff0000Tidak dapat ditransaksikan^000000
+Lempar ini dekat Dominic
+Dia akan takut dengan tikus ini
+Berat : ^7777770^000000
+#
+6563#
+^ff0000Tidak dapat ditransaksikan^000000
+Liar seperti rumput yang bisa tumbuh dimana saja
+Let's plant it near by the bookshelf.
+Berat : ^7777770^000000
+#
+6564#
+hatcling yang lari jauh dari rumah kini kembali karena kebaikan seseorang. Sepertinya akan ada hal baik jika kamu membawanya ke Black Dragon di Malangdo
+Berat : ^7777771^000000
+#
+12812#
+Salju putih yang lebih dingin dari Salju biasa
+memiliki efek khusus terhadap ^000088Ignition, bleeding, Deep sleep, Sleep^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+12813#
+Daun berwarna pink yang hangat. Mengingatkan masa kecilmu bersama ibu
+memiliki efek khusus terhadap ^000088Freeze, Ice, Cold^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+12814#
+bau ramuan yang pekat. Kau mungkin berfikir itu segar, tapi sepertinya tidak
+memiliki efek khusus terhadap ^000088Stun, Horror, Confusion, Illusion^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+12815#
+Debu dari pohon kehidupan suci yang dikenal sebagai Yggdrasil. Bahkan sebagai debu, ini tampaknya menjadi berguna untuk meditasi.
+memiliki efek khusus terhadap ^000088Stone, Dark, Curse, Poison, Decrease Agility, Reverse Orcish^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+19543#
+Hoody berbentuk wajah serigala. Berguna ketika kau tidak bisa tidur dengan nyenyak.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas ^000000 Berat : ^77777730^000000
+Lv Minimum : ^77777770^000000
+Profesi : ^777777Semua^000000
+#
+19545#
+Topi hitam yang buruk untuk anak sekolah.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19546#
+Sebuah Helm yang melambangkan 'Pertempuran Princess' dalam melayani Odin. Dekorasi yang indah dengan sayap yang terbuka lebar.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19547#
+Topi Babe Devil Deviruchi. Dengan desain yang simple dan lucu, topi ini dapat memberikanmu kenyamanan.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19548#
+Sebuah topi yang berbentuk Frog god. Mungkin kau akan mempeertimbangkannya jika ini hanya sebuah Topi Frog biasa.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19549#
+Sebuah helm berbentuk Kambing, memberikan daya tarik bagi yang menggunakannya. Juga memiliki nilai religi yang kuat.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Atas ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19550#
+Kostum yang dibuat untuk terlihat lebih menarik pasangan. Kostum yang cocok untuk pria ataupun wanita.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Middle ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19551#
+Di desain menyerupai telinga para peri, kau dapat merasakan para peri bermain di hutan biru ketika menggunakannya.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Middle ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19552#
+Daun bunga yang kecil. Seluruh dunia tampak cantik dan bahagia.
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Low ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19553#
+Sebuah topeng gelap untuk Assasin. Cukup menenangkanmu dengan baik
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Low ^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+19554#
+Sebuah masker dengan senyuman di wajah khas timur, terpahat dengan baik. Membuatmu merasa seperti di kampung halaman
+Jenis : ^777777Kostum^000000
+Lokasi : ^777777Middle Low^000000 Berat : ^77777710^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua^000000
+#
+
+
+//---- 29042015
+12532#
+Box berisi Royal Jelly. Berhati-hatilah dalam membukanya.
+Berat : ^7777770^000000
+"^ff0000Perhatian : Jika kamu memiliki banyak barang ketika membukanya, Item dapat menghilang!^000000"
+#
+
+12293#
+Sebuah kupasan dried Yggdrasilberry. Memiliki bau yang sedikit aneh
+^000088SP 20% Recovery.^000000
+^ffffff_^000000
+Berat : ^77777720^000000
+#
+
+12292#
+Ini adalah Yggdrasilberry mentah, rasanya sedikit asam.
+^000088HP 20% Recovery.^000000
+^ffffff_^000000
+Berat : ^77777720^000000
+#
+
+12531#
+Sebuah Kotak berisi Potion. Berhati-hatilah ketika membukanya.
+Berat : ^7777770^000000
+"^ff0000Perhatian : Jika kamu memiliki banyak barang ketika membukanya, Item dapat menghilang!^000000"
+#
+
+
+//--------------- Update Amora Lucky Egg 20150506 ---------------
+17588#
+Amora Lucky Egg. Kamu bisa mendapatkan item berharga jika membukanya
+Berat : ^7777771^000000
+#
+18564#
+Sebuah Hati berwarna merah
+Tetap dapat melakukan proses magic walaupun sedang dipukul musuh.
+Ketika menggunakan skill apapun, konsumsi SP akan meningkat sebesar.15%.
+Ketika digunakan bersamaan dengan Heart Wing Hairband, Fixed casting berkurang sebesar 10%
+Jenis : ^777777Helm^000000Pertahanan : ^7777770^000000
+Lokasi : ^777777Lower ^000000Berat : ^77777720^000000
+Lv Minimum : ^77777750^000000
+Profesi : ^777777Semua^000000
+#
+20171#
+Sebuah topi Sepia yang lucu.
+Jenis : ^777777Costume Armor^000000Pertahanan : ^7777770^000000
+Lokasi : ^777777Upper ^000000Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua^000000
+#
+28342#
+CRI +5.
+Ketika digunakan bersama dengan Scarlet_Poncho, CRI +10, Serangan Critical +5%.
+Jika tingkat tempa Scarlet_Poncho diatas 5, ada tambahan serangan Kritikal +3%
+Jika tingkat tempa Scarlet_Poncho diatas 7, ada tambahan serangan Kritikal +4%
+Jenis : ^777777Accessory^000000Pertahanan : ^7777773^000000
+Berat : ^77777720^000000
+Lv Minimum : ^77777750^000000
+Profesi : ^777777Semua^000000
+#
+18563#
+Sebuah Hairband dengan hiasan hati kecil bersayap.
+Mengurangi delay setelah menggunakan skill sebesar 5%. Mengurangi konsumsi SP ketika menggunakan skill sebesar 10%. Ketika digunakan bersamaan dengan Love Piece, Fixed Casting berkurang sebesar 10%.
+Jenis : ^777777Helm^000000Pertahanan : ^7777770^000000
+Lokasi : ^777777Upper ^000000 Berat : ^77777730^000000
+Lv Minimum : ^77777750^000000
+Profesi : ^777777Semua^000000
+
+
+//--------------- Update New Costume 20150603 ---------------
+20130#
+Rather long hat, which looks like Whisper
+Jenis : ^777777Costume^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777Upper ^000000 Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Profesis^000000
+#
+20132#
+Aku merasa lebih Kuat setelah Memakainya.
+Jenis : ^777777Costume^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777Lower ^000000 Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+20154#
+Windblown fallen leaves warrped myself
+Jenis : ^777777Costume^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777Middle ^000000 Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+19910#
+Topi penyihir untuk menyambut perayaan Halloween
+Jenis : ^777777Costume^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777Upper ^000000 Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+20195#
+Kucing yang lucu, bukankah begitu????
+Jenis : ^777777Costume^000000Pertahanan : ^7777770^000000
+Lokasi : ^777777Mid-Lower ^000000 Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
 #

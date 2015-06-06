@@ -2344,7 +2344,7 @@
 
 //----------2006 Christmas----------
 
-12200#Xmas_Cake#
+12200#Christmas_Cake#
 5204#Clown's_Nose#
 5136#Hat#
 12225#Sweet_Candy_Cane#
@@ -4129,7 +4129,6 @@
 6078#Stone_Fragment#
 6079#Flower_Of_Alfheim#
 6080#Manuk_Coin#
-6081#Splandide_Coin#
 6082#Spirit_Of_Alfheim#
 6084#Bradium_Fragments#
 6085#Shaggy_Muffler#
@@ -5093,7 +5092,7 @@
 12361#Delicious_Ice_Flakes#
 12363#Fit_Well_Pipe#
 12370#Gril's_Naivety#
-12739#Flower_Of_Snow#
+12739#Snow_Flower#
 9043#Marionette_Egg#
 9045#Whisper_Egg#
 9052#Incubus_Egg#
@@ -6064,13 +6063,12 @@
 6682#Bag_Of_Goods#
 7909#Stolen_Cookie#
 7910#Stolen_Candy#
-19976#Cat_Santa_Hat#
+19976#Hat#
 22685#Solo_Christmas_Gift#
 6821#Solo_Troops_Badge#
 22686#Solo_Cookie#
 12354#Buche_De_Noel#
 2784#Oh_Holy_Night#
-12200#Event_Cake#
 7908#Lousie_Beauty_coupon#
 5466#Wind_Milestone#
 22018#Shoes_Of_Wise_Man#
@@ -6217,7 +6215,7 @@
 19607#Love_Chick_Hat#
 19649#White_Kitten_Ears#
 19661#Sweet_Bonnet#
-19685#Shiny_Santa_Poring_Hat#
+19685#Helm#
 2190#Ancient_Shield_Of_Aeon#
 18885#Jejecap#
 18887#Aqua_Bunny_Band#
@@ -6383,3 +6381,157 @@
 19031#Helm#
 22064#Shoes#
 17526#Majestic_Lucky_Egg#
+
+//--------------- Update Xmas Event 20141224 ---------------
+19982#Hat#
+19707#Hat#
+20222#Hat#
+19955#Hat#
+19697#Hat#
+11565#White_Potion_B#
+11568#Red_Slim_Potion_B#
+11572#Blue_Potion#
+11573#White_Slim_Potion#
+11575#Lucky_Cookie_B#
+11576#Lucky_Candy_Cane_B#
+11577#Rice_Ball_B#
+11578#Candy_Striper_B#
+11579#Lucky_Candy_B#
+11580#Candy_B#
+11581#Piece_Of_Cake_B#
+11582#Well_Baked_Cookie_B#
+11583#Chocolate_Drink#
+11584#White_Chocolate_B#
+11585#HandMade_Chocolate_B#
+11586#HandMade_Chocolate_B_#
+11587#Chocolate_B#
+11555#Red_Potion_RG#
+22870#Christmas_Package#
+22542#Potion_Concentration#
+22543#Potion_Berserk#
+22544#Potion_Awakening#
+22550#Cookie_Bag#
+22551#Sesame_Pastry_B#
+22552#Honey_Pastry_B#
+22553#Rainbow_Cake_B#
+
+//--------------- Update Blessing Egg 20141224 ---------------
+2196#Shield#
+18937#Accessory#
+18938#Accessory#
+18925#Accessory#
+17532#Blessing_Lucky_Egg#
+
+//--------------- Update Garnet Egg 20150128 ---------------
+17552#Garnet Lucky Egg#
+
+//--------------- Update Item Mall Februari 20150225 ---------------
+28602#Book#
+15123#Suit#
+21013#Two-handed sword#
+21012#Two-handed sword#
+
+//--------------- Update Erzulie Lucky Egg 20150304 ---------------
+19047#Hat#
+20155#Hat#
+2198#Shield#
+19048#Clothes#
+17572#Erzulie_Lucky_Egg#
+
+//--------------- Update Limited Gold Weapon 20150325 ---------------
+1323#Axe#
+1937#Instrument#
+1992#Whip#
+28104#Axe#
+28601#Book#
+1678#Wand#
+1442#Spear#
+13452#Sword#
+18127#Bow#
+16037#Mace#
+28006#Katar#
+28700#Dagger#
+28701#Dagger#
+28702#Dagger#
+
+//--------------- Update Venus Lucky Egg 20150408 ---------------
+18559#Accessory#
+18560#Mask#
+20131#Cap#
+5562#Cap#
+17584#Venus_Lucky_Egg#
+
+
+//---- 14.2
+
+6564#Captive_Hatchling#
+2915#Accssory#
+2916#Accssory#
+2917#Accssory#
+2918#Accssory#
+2919#Accssory#
+2920#Accssory#
+2921#Accssory#
+2922#Accssory#
+2923#Accssory#
+2924#Accssory#
+2925#Accssory#
+2926#Accssory#
+2927#Accssory#
+2928#Accssory#
+6081#Splendide_Coin#
+6539#Old_Left_Lapine#
+6540#Golden_Leaf#
+6541#Avant_Research_Data#
+6542#Star_Shape_Mushroom#
+6545#Firm_Hair#
+6546#Younger_Bro_Letter#
+6547#Stained_Research_Book#
+6548#Piece_Of_Lapine_Wing#
+6552#Mail_Package#
+6553#Leaf_Made_Wood#
+6554#Seed_Box#
+6555#Birthday_Candle#
+6557#Fancy_Fairy_Wing#
+6558#Pile_Of_Acorn#
+6559#Eye_Drops#
+6560#Leaf_Bookmark#
+6561#Dustball#
+6562#Tiny_Mouse_Tail#
+6563#Weeds#
+12812#Snow_Flip#
+12813#Peony_Mommy#
+12814#Slapping_Herb#
+12815#Yggdrasil_Dust#
+19543#Hat#
+19545#Hat#
+19546#Headgear#
+19547#Headgear#
+19548#Hat#
+19549#Headgear#
+19550#Headgear#
+19551#Accssory#
+19552#Accssory#
+19553#Mask#
+19554#Mask#
+
+//---- 29042015
+12532#Royal_Jelly_Box2#
+12293#Dried_Yggdrasilberry#
+12292#Unripe_Yggdrasilberry#
+12531#White_Potion_Box#
+
+
+//--------------- Update Amora Lucky Egg 20150506---------------
+17588#Amora_Lucky_Egg#
+18564#Accessory#
+20171#Hat#
+28342#Accessory#
+18563#Hair band#
+
+//--------------- Update New Costume 20150603---------------
+20130#Hat#
+20132#Hat#
+20154#Hairband#
+19910#Helm#
+20195#Accessory#

@@ -10706,13 +10706,6 @@ Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
  
-12200# 
-Kue khusus di hari natal yang sangat lezat. 
-Kue ini dapat memulihkan sedikit HP dan memberikan skill magnificat lv 3. 
- 
-Berat : ^7777775^000000 
-# 
- 
 12225# 
 Sebuah permen yang sangat manis dan mudah dihancur jika dimakan. Permen ini sangat manis sehingga kurang cocok untuk manusia, tetapi dapat digunakan untuk menjinakkan Santa Goblin. 
 Jenis : ^777777item penjinak^000000 
@@ -20097,12 +20090,7 @@ Sebuah Coin yang bisa digunakan di Manuk.
 ^ffffff_^000000 
 Berat : ^7777770^000000 
 # 
- 
-6081# 
-Sebuah Coin yang bisa digunakan di Splendide. 
-^ffffff_^000000 
-Berat : ^7777770^000000 
-# 
+
  
 6082# 
 Wewangian yang dibuat dari penyulingan bunga Alfheim. Baunya begitu enak dan nyaman. 
@@ -24498,7 +24486,7 @@ Jenis : ^777777Barang Penjinak^000000
 Berat : ^7777775^000000
 #
 12739#
-Bunga langka yang sangat berharga dan hanya dapat diperoleh pada saat musim Natal setiap tahunnya. Walupun terlihat sangat dingin, tetapi dia memiliki effect dapat memulihkan HP/SP. 
+Butiran salju yang sangat berharga, hanya ada pada saat natal. Memberikan HP/SP.
 ^ffffff_^000000
 Berat : ^77777710^000000
 #
@@ -29472,13 +29460,7 @@ Berat : ^7777771^000000
 #
 
 19976#
-Sebuah topi penyihir yang biasa di pakai kucing malangdo dalam acara natal.
-Kecepetan Gerak dan Kecepatan menyerang meningkat selama. Event natal berlangsung.
-(delay setelah menyerang berkurang 10%)
-Class : ^777777Head Gear^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Berat : ^7777770^000000
-Required Level : ^7777771^000000
-Jobs : ^777777All^000000
+Item tidak diketahui, dapat diidenfifikasi menggunakan [Magnifier]
 #
 22685#
 Buka jika sedang sendiri
@@ -29515,8 +29497,8 @@ Berat : ^77777710^000000
 Jobs : ^777777All^000000
 #
 12200#
-Kue yang tersedia hanya pada saat natal.
-ketika di gunakan, memulihkan sejumlah HP, dan memberikan efek level 3 magnificat.
+Kue yang tersedia hanya pada saat natal. Ketika digunakan, memulihkan sejumlah HP, dan memberikan efek level 3 magnificat.
+(Saat event natal berakhir, Item ini akan dihapus.)
 Berat : ^7777775^000000
 #
 7908#
@@ -31292,4 +31274,543 @@ Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 #
 17526#
 Majestic Lucky Egg
+#
+
+//--------------- Update Xmas Event 20141224 ---------------
+19982#
+Item tidak diketahui, dapat diidenfifikasi menggunakan [Magnifier]
+#
+19707#
+Item tidak diketahui, dapat diidenfifikasi menggunakan [Magnifier]
+#
+20222#
+Item tidak diketahui, dapat diidenfifikasi menggunakan [Magnifier]
+#
+19955#
+Item tidak diketahui, dapat diidenfifikasi menggunakan [Magnifier]
+#
+19697#
+Item tidak diketahui, dapat diidenfifikasi menggunakan [Magnifier]
+#
+11565#
+^ff0000tidak dapat ditransaksikan.^000000
+Potion penyembuk yang dibuat dari white herb. Menyembuhjkan ^000088325 HP^000000.
+Berat : ^77777715^000000
+#
+11568#
+^ff0000tidak dapat ditransaksikan.^000000
+Red Potion dengan berat yang sangat ringan.
+^ffffff_^000000
+Berat : ^7777772^000000
+#
+11572#
+^ff0000Tidak dapat di transaksikan.^000000
+Minuman yang mebuat kita terasa segar memberikan^000088SP 60^000000 ramuan nya terbuat dibuat dari blue herb yang dihaluskan.
+^ffffff_^000000
+Berat : ^77777715^000000
+#
+11573#
+^ff0000tidak dapat di transaksikan.^000000
+Mempunya effek yang sama dengan White Potion tapi ini mempunya berat yang lebih ringan.
+^ffffff_^000000
+Berat : ^7777775^000000
+#
+11575#
+Kue keberuntungan yg lezat.
+Berat : ^7777773^000000
+#
+11576#
+Permen lolipop keberuntungan.
+^ffffff_^000000
+Berat : ^7777774^000000
+#
+11577#
+Nasi kepal buatan sendiri untuk anak-anak yang baik!
+^ffffff_^000000
+Berat : ^7777773^000000
+#
+11578#
+Permen batangan yang meyembuhkan ^000088105 HP^000000.
+^ffffff_^000000
+Berat : ^7777774^000000
+#
+11579#
+Sebuah permen keberuntungan
+^ffffff_^000000
+Berat : ^7777773^000000
+#
+11580#
+Permen manis dengan rasa yang lezat, menyembuhkan ^00008845 HP^000000.
+^ffffff_^000000
+Berat : ^7777773^000000
+#
+11581#
+Sepotong kue yang bertekstur lembut dan rasanya manis. Menyembuhkan sedikit HP.
+Berat : ^77777710^000000
+#
+11582#
+Kue yang dipanggang pada acara-acara khusus. Meyembuhkan sedikit HP.
+Berat : ^7777773^000000
+#
+11583#
+Minuman ini terbuat dari cokelat dan susu di masak dengan resep rahasia dan bahan yang sangant langka.
+Manajer istana ingin meminumnya secara perlahan tapi sayang nya minuman ini harus dihabiskan dengan satu tegukan.
+^ffffff_^000000
+Berat : ^77777715^000000
+#
+11584#
+Coklat putih yang dibuat bukan dari cacao. Memiliki rasa yang lebih manis dari coklat biasa.
+^ffffff_^000000
+Berat : ^7777778^000000
+#
+11585#
+Coklat buatan tangan yang terkenal dikalangan para wanita.
+^ffffff_^000000
+Berat : ^7777778^000000
+#
+11586#
+Coklat putih yang sangat cocok untuk mengekspresikan rasa sayangmu pada orang yang kamu cintai.
+^ffffff_^000000
+Berat : ^7777778^000000
+#
+11587#
+Sebuah cokelat yang dibuat dari bubuk kakao panggang yang dicampur dengan susu, sebuah kolaborasi menakjubkan.
+^ffffff_^000000
+Berat : ^7777772^000000
+#
+11555#
+Potion penyembuh yang dibuat dari red herb dan sari Yggdrasil. Menyembuhkan ^000088325 HP^000000.
+Berat : ^7777774^000000
+#
+22870#
+Item tidak diketahui, dapat diidenfifikasi menggunakan [Magnifier]
+#
+22542#
+^ff0000unable to trade with other account.^000000
+Sirup ini meningkatkan daya konsentrasi. Jika kamu meminumnya, kecepatan serangan akan meningkat. Semua job dapat menggunakannya.
+Berat : ^77777710^000000
+#
+22543#
+^ff0000tidak dapat di transaksikan.^000000
+Sirup madu ini akan membuat jiwa kesatria mu bangkit. Jika kau menggunakan nya, menambah kecepatan serang. Hanta karakter yang mempunya lvl  85 ke atas yang dapat menggunakan nya(hanya dapat di gunakan job sword man, Rogue, Wizard, merchant)
+Berat : ^77777720^000000
+#
+22544#
+^ff0000tidak dapat di transaksikan.^000000
+Sirup madu ini akan membuatmu bangkit dan meningkatkan kecepatan serang mu. Hanta karakter yang mempunya lvl 40 ke atas yang dapat menggunakan nya(tidak tersedia untuk  Acolyte, Priest, Bard, Dancer)
+Berat : ^77777715^000000
+#
+22550#
+^ff0000unable to trade with other account.^000000
+Tas ini berisikan berbagai macam snack di sukai anak-anak.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+22551#
+^ff0000tidak dapat ditransaksikan.^000000
+Cemilan lezat yang dibuat dari gandum asli dan bubuk kenari. Melambangkan berkat dalam budaya Asia.
+Meningkatkan Akurasi sebesar 30 untuk sementara waktu.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+22552#
+^ff0000tidak dapat ditransaksikan.^000000
+Cemilan tradisional yang dibuat dari gandum asli.
+Meningkatkan hindaran sebesar 30 untuk sementara waktu.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+22553#
+^ff0000tidak dapat ditransaksikan.^000000
+Sebuah kue beras yang berwarna-warni. Terkenal di negara-negara timur.
+Meningkatkan 10 ATK dan MATK untuk sementara waktu.
+^ffffff_^000000
+Berat : ^7777777^000000
+#
+
+//--------------- Update Blessing Egg 20141224 ---------------
+2196#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+18937#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+18938#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+18925#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+17532#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+
+//--------------- Update Garnet Egg 20150128 ---------------
+17552#
+Garnet Lucky Egg
+#
+
+//--------------- Update Item Mall 20150225 ---------------
+28602#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+15123#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+21013#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+21012#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+
+//--------------- Update Erzulie Lucky Egg 20150304 ---------------
+19047#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+20155#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2198#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+19048#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+17572#
+Erzulie Lucky Egg 
+#
+
+//--------------- Update Limited Gold Weapon 20150325 ---------------
+1323#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+1937#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+1992#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+28104#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+28601#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+1678#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+1442#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+13452#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+18127#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+16037#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+28006#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+28700#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+28701#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+28702#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+
+//--------------- Update Venus Lucky Egg 20150408 ---------------
+18559#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+18560#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+20131#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+5562#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+17584#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]  
+#
+
+
+
+//---- 14.2
+6564#
+The Hatchling who ran way from home is back by the kindness hand. There might be good happen if you take him to the Black dragon in Malangdo.
+Weight : ^7777771^000000
+#
+
+2915#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+2916#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2917#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2918#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2919#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2920#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2921#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2922#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2923#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2924#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2925#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2926#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2927#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+2928#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+6081#
+^ff0000Tidak dapat ditransaksikan^000000
+Koin suku Laphine yang berarti 'bersinar dengan terang'
+Berat : ^7777770^000000
+#
+6539#
+^ff0000Tidak dapat ditransaksikan^000000
+Sebuah perhiasan tua yang berdebu, yang dulu mengkilap dan indah
+Berat : ^7777770^000000
+#
+6540#
+^ff0000Tidak dapat ditransaksikan^000000
+Daun keemasan yang jatuh dari Rumah pohon. Tampaknya tidak begitu penting
+Berat : ^7777770^000000
+#
+6541#
+^ff0000Tidak dapat ditransaksikan^000000
+Hasil penelitian yang dilakukan oleh ilmuwan gelap Avant. Materi inti penelitian Formula Magic Orb.
+Berat : ^7777770^000000
+#
+6542#
+^ff0000Tidak dapat ditransaksikan^000000
+Jamur yang tumbuh lebat di Hutan Alfheim. Dapat digunakan untuk membuat obat-obatan
+Berat : ^77777710^000000
+#
+6545#
+^ff0000Tidak dapat ditransaksikan^000000
+Rambut suku Sapha. Terlihat seperti cabang kayu meski itu adalah rambut
+Berat : ^7777770^000000
+#
+6546#
+^ff0000Tidak dapat ditransaksikan^000000
+Sebuah surat penuh cinta seorang kakak kepada adiknya
+Berat : ^7777770^000000
+#
+6547#
+^ff0000Tidak dapat ditransaksikan^000000
+Catatan laporan tentang perubahan bentuk. Tampak kotor dan lusuh
+Berat : ^7777770^000000
+#
+6548#
+^ff0000Tidak dapat ditransaksikan^000000
+Bagian sayap Laphine kelas tertinggi. Tampaknya dapat membawamu ke suatu tempat. Tapi sepertinya tidak . .
+Berat : ^7777770^000000
+#
+6552#
+^ff0000Tidak dapat ditransaksikan^000000
+Box yang berisi surat-surat Splendid ke Eclage. Tumpukan surat biasa
+Berat : ^7777770^000000
+#
+6553#
+^ff0000Tidak dapat ditransaksikan^000000
+Potongan besar jembatan yang terbuat dari tumpukan daun dengan berbagai ukuran
+Berat : ^7777770^000000
+#
+6554#
+^ff0000Tidak dapat ditransaksikan^000000
+Kotak pengiriman untuk Red dan Blue Seeds [Bawa dengan hati-hati]
+Berat : ^7777770^000000
+#
+6555#
+^ff0000Tidak dapat ditransaksikan^000000
+Lilin perayaan ulang tahu. Dapat bertahan paling lama 10 tahun, paling cepat 1 tahun
+Berat : ^7777770^000000
+#
+6557#
+Sayap peri yang besar dan mewah. Tampaknya sangatlah mahal
+Berat : ^7777771^000000
+#
+6558#
+Tumpukan biji yang kecil. Tidak cukup untuk siapapun
+Berat : ^7777771^000000
+#
+6559#
+Obat yang bagus untuk mata yang kering. Ukuran 5ml
+Berat : ^7777771^000000
+#
+6560#
+Sebuah petunjuk yang berdebu dan ditinggalkan dalam waktu yang lama. Sangatlah kering dan mudah rusak
+Berat : ^7777771^000000
+#
+6561#
+debu yang yang tampaknya mengancam kesehatan sehari-hari kita
+Berat : ^7777771^000000
+#
+6562#
+^ff0000Tidak dapat ditransaksikan^000000
+Lempar ini dekat Dominic
+Dia akan takut dengan tikus ini
+Berat : ^7777770^000000
+#
+6563#
+^ff0000Tidak dapat ditransaksikan^000000
+Liar seperti rumput yang bisa tumbuh dimana saja
+Mari kita tanam dekat Rak buku
+Berat : ^7777770^000000
+#
+6564#
+hatcling yang lari jauh dari rumah kini kembali karena kebaikan seseorang. Sepertinya akan ada hal baik jika kamu membawanya ke Black Dragon di Malangdo
+Berat : ^7777771^000000
+#
+12812#
+Salju putih yang lebih dingin dari Salju biasa
+memiliki efek khusus terhadap ^000088Ignition, bleeding, Deep sleep, Sleep^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+12813#
+Daun berwarna pink yang hangat. Mengingatkan masa kecilmu bersama ibu
+memiliki efek khusus terhadap ^000088Freeze, Ice, Cold^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+12814#
+bau ramuan yang pekat. Kau mungkin berfikir itu segar, tapi sepertinya tidak
+memiliki efek khusus terhadap ^000088Stun, Horror, Confusion, Illusion^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+12815#
+Debu dari pohon kehidupan suci yang dikenal sebagai Yggdrasil. Bahkan sebagai debu, ini tampaknya menjadi berguna untuk meditasi.
+memiliki efek khusus terhadap ^000088Stone, Dark, Curse, Poison, Decrease Agility, Reverse Orcish^000000.
+Cooldown 5 detik.
+Berat : ^7777771^000000
+#
+19543#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19545#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19546#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19547#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19548#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19549#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19550#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19551#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19552#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19553#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19554#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+
+
+//---- 29042015
+12532#
+Box berisi Royal Jelly. Berhati-hatilah dalam membukanya.
+Berat : ^7777770^000000
+"^ff0000Perhatian : Jika kamu memiliki banyak barang ketika membukanya, Item dapat menghilang!^000000"
+#
+
+12293#
+Sebuah kupasan dried Yggdrasilberry. Memiliki bau yang sedikit aneh
+^000088SP 20% Recovery.^000000
+^ffffff_^000000
+Berat : ^77777720^000000
+#
+
+12292#
+Ini adalah Yggdrasilberry mentah, rasanya sedikit asam
+^000088HP 20% Recovery.^000000
+^ffffff_^000000
+Berat : ^77777720^000000
+#
+
+12531#
+Sebuah Kotak berisi Potion. Berhati-hatilah ketika membukanya.
+Berat : ^7777770^000000
+"^ff0000Perhatian : Jika kamu memiliki banyak barang ketika membukanya, Item dapat menghilang!^000000"
+#
+
+
+//--------------- Update Amora Lucky Egg 20150506---------------
+17588#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+18564#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+20171#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+28342#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+18563#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+
+
+//--------------- Update New Costume 20150603---------------
+20130#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+20132#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+20154#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+19910#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+20195#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 #

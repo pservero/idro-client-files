@@ -9189,3 +9189,869 @@ Menginap satu hari#
 14465#Mereka sangat sunyi#SG_FEEL#QUE_NOIMAGE#
 Terima kasih telah membersihkannya sampai selesai.tolong bantu saya besok#
 Menginap satu hari#
+
+//Xmas 20141224
+4357#Burulah Santa Lunatic#SG_FEEL#QUE_NOIMAGE#
+Buru 3 Santa Lunatic di sekitar kota Prontera dan Geffen.#
+#
+4358#Burulah Santa Goblin#SG_FEEL#QUE_NOIMAGE#
+Buru 3 Santa Goblin yang berada di sisi selatan kota geffen Geffen#
+#
+4359#Burulah Santa Orc#SG_FEEL#QUE_NOIMAGE#
+Buru 3 Santa Orc yang berada di Selatan Geffen dan Barat Prontera#
+#
+4360#Burulah Santa Jack#SG_FEEL#QUE_NOIMAGE#
+Buru 3 Santa Jakk yang berada di Menara Geffen lantai 2#
+#
+4361#Santa Lunatic Ditunda#SG_FEEL#QUE_NOIMAGE#
+Quest ini dapat diambil kembali setelah 24 jam#
+#
+4362#Santa Goblin Ditunda#SG_FEEL#QUE_NOIMAGE#
+Quest ini dapat diambil kembali setelah 24 jam#
+#
+4363#Santa Orc Ditunda#SG_FEEL#QUE_NOIMAGE#
+Quest ini dapat diambil kembali setelah 24 jam#
+#
+4364#Santa Jakk Ditunda#SG_FEEL#QUE_NOIMAGE#
+Quest ini dapat diambil kembali setelah 24 jam#
+#
+
+//--------------14.2
+
+//----------EP14.2 Cari Memori Professor Worm
+
+1214#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Cari foto Professor Worm dengan cara menyelidiki rak buku di Menara Bifrost lantai 4.# 
+Selidiki rak buku di Menara Bifrost lantai 4.#
+
+1215#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Telah menemukan foto Professor Worm. Berikan kepada Professor Worm.# 
+Temui Professor Worm di Menara Bifrost lantai 4.#
+
+1216#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Dapatkan Petal dari Dataran Bunga, kumpulkan 20 Stariform Mushroom dan temui Professor Worm.# 
+Temui Professor Worm di Menara Bifrost lantai 4.#
+
+1217#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Selidiki catatan Professor Worm di dinding Menara Bifrost.#
+Temui Professor Worm di Menara Bifrost lantai 4 setelah menyelidiki catatan di 5 dinding.#
+
+1218#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Baca catatan pertama.# 
+Temui Professor Worm di Menara Bifrost lantai 4 setelah menyelidiki catatan di 5 dinding.#
+
+1219#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Baca catatan kedua.# 
+Temui Professor Worm di Menara Bifrost lantai 4 setelah menyelidiki catatan di 5 dinding.#
+
+1220#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Baca catatan ketiga.# 
+Temui Professor Worm di Menara Bifrost lantai 4 setelah menyelidiki catatan di 5 dinding.#
+
+1221#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Baca catatan keempat.# 
+Temui Professor Worm di Menara Bifrost lantai 4 setelah menyelidiki catatan di 5 dinding.#
+
+1222#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Baca catatan kelima.# 
+Temui Professor Worm di Menara Bifrost lantai 4 setelah menyelidiki catatan di 5 dinding.#
+
+1223#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Cari Diary Frog No. 3 di Menara Bifrost lantai 3.# 
+Bicaralah dengan Diary Frog No. 3 di Menara Bifrost lantai 3.#
+
+1224#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Cari Diary Frog No. 6 di Menara Bifrost lantai 1.# 
+Bicaralah dengan Diary Frog No. 6 di Menara Bifrost lantai 1.#
+
+1225#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Kalahkan 15 Lichtern(blue) di Menara Bifrost lantai 1.# 
+Bicaralah dengan Diary Frog No. 6 di Menara Bifrost lantai 1.#
+
+1226#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Cari Diary Frog No. 30 dekat Menara Bifrost.# 
+Bicaralah dengan Diary Frog No. 30 dekat Menara Bifrost.#
+
+1227#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Dapatkan Petal dari Dataran Bunga, kumpulkan 10 Stariform Mushroom.#
+Bicaralah dengan Diary Frog No. 3 dekat Menara Bifrost.#
+
+1228#Kembalikan ingatan Professor Worm#SG_FEEL#QUE_NOIMAGE#
+Berikan laporan akhir kepada Professor Worm.# 
+Temui Professor Worm di Menara Bifrost lantai 4.#
+
+
+//--ep14.2 
+4254#Peri yang sakit perut#SG_FEEL#QUE_NOIMAGE#
+Bahkan peri bisa sakit perut… Bantu perinya# 
+10 Green Herb#
+
+4255#Pembalasan dendam!#SG_FEEL#QUE_NOIMAGE#
+Seorang pencuri di Eclage? Apakah dengan membalas dendam semuanya akan menjadi baik?#
+#
+
+4256#Seorang Kaki Tangan?#SG_FEEL#QUE_NOIMAGE#
+Secara tidak sengaja menjadi kaki tangan. Isi ulang barang yang telah hilang.# 
+Sejumlah acorn, Worn-out bookshelf dan mold powder, masing-masing 10.#
+
+4257#Konspirasi#SG_FEEL#QUE_NOIMAGE#
+Temui dan dengarkan cerita Eirinn dan Bourbon.#
+#
+
+4258#Eirinn#SG_FEEL#QUE_NOIMAGE#
+Temui Eirinn.#
+#
+
+4259#Bourbon#SG_FEEL#QUE_NOIMAGE#
+Temui Bourbon.#
+#
+
+4260#Lebah#SG_FEEL#QUE_NOIMAGE#
+Ada sesuatu yang aneh dengannya. Laporkan ke Cecilia terlebih dahulu.# 
+Cecilia.#
+
+4261#Serangan balik (1)#SG_FEEL#QUE_NOIMAGE#
+Eirinn melakukan serangan balik.# 
+Green Herb, Stem.#
+
+4262#Serangan balik (2)#SG_FEEL#QUE_NOIMAGE#
+Apakah ini bisa digunakan untuk menyerang balik? Tanam sejumlah rumput di dekat rak buku.# 
+Rak buku di plaza.#
+
+4263#Serangan balasan (1)#SG_FEEL#QUE_NOIMAGE#
+Bourbon ingin melakukan serangan balasan.# 
+2 Rat's Tails.#
+
+4264#Serangan balasan (2)#SG_FEEL#QUE_NOIMAGE#
+Apakah ini bisa digunakan untuk serangan balasan? Lepaskan tikusnya disamping Dominic.# 
+Dominic.#
+
+4265#Gunakan rak buku#SG_FEEL#QUE_NOIMAGE#
+Dapatkan izin untuk membaca buku di rak buku.#
+#
+ 
+// ep14.2 Eclage bagian 1 
+
+7411#Cerita dari petualang Pomer#SG_FEEL#QUE_NOIMAGE#
+Dengarkan cerita tentang Laphines dan Eclage.# 
+#
+
+7412#Cerita dari petualang Retrip#SG_FEEL#QUE_NOIMAGE#
+Dengarkan cerita tentang Menara Bifrost.# 
+#
+
+7413#Cerita dari petualang Chiva#SG_FEEL#QUE_NOIMAGE#
+Dengarkan tentang organisasi Laphine dan perannya.# 
+#
+
+7414#Pesan Penjaga Eclage#SG_FEEL#QUE_NOIMAGE#
+Seseorang dari Eclage ingin bertemu. Tanyakan arah pada penjaga yang berada di dekat pintu keluar Eclage plaza.# 
+Bicara dengan penjaga yang berada di dekat pintu keluar Eclage.#
+
+7415#Kepala Staf Laphine#SG_FEEL#QUE_NOIMAGE#
+Berencana untuk bertemu dengan seseorang berdasarkan instruksi dari penjaga Eclage. Jika tersesat, tanyakah arah pada penjaga lagi.#
+Berbicara dengan kepala staf.#
+
+7416#Menunggu untuk bertemu#SG_FEEL#QUE_NOIMAGE#
+Setelah berbicara dengan kepala staf, mintalah bertemu dengan Raja dari Laphine, Mayor Jun. Setelah selesai menunggu, tanyakan arah lagi pada penjaga Eclage.# 
+Menanyakan arah setelah menunggu.#
+
+7417#Permintaan Kardui#SG_FEEL#QUE_NOIMAGE#
+Mayor Jun tidak mendengarkan ceritaku, tapi dia mengatakan bahwa dia akan mendengarkan jika aku berkontribusi lebih banyak untuk Eclage. Ayo bantu Laphines di Eclage yang membutuhkan bantuan.# 
+Bekerja untuk Eclage.#
+
+7418#Demi Eclage 1#SG_FEEL#QUE_NOIMAGE#
+Dapatkan bahan untuk mendekorasi Yai untuk penjaga Eclage yang sedang sibuk. Masing-masing 5 Horns of Hillslion, Mystic Horn dan Horse's Hooves.#
+5 Horns of Hillslion, 5 Mystic Horn, 5 Horse's Hooves.#
+
+7419#Demi Eclage 2#SG_FEEL#QUE_NOIMAGE#
+Memutuskan untuk mengirimkan surat dari Splendide Contact Officer sebagai bantuan untuk Roy yang sedang mendapatkan masalah di tepi Bifrost karena komunikasi telah terputus.# 
+Splendide Contact Officer dan Mailbox.#
+
+7420#Demi Eclage 3#SG_FEEL#QUE_NOIMAGE#
+Untuk Leo yang menyukai permen, bawakan dia Pinguicula Pickled Fruit dan Luciola Honey Jam dari Splendide. Pickled fruit dan honey jam bisa didapat menggunakan koin di advanced base.# 
+3 Pinguicula Pickled Fruits, 3 Luciola Honey Jam.#
+
+7421#Cukup Sudah#SG_FEEL#QUE_NOIMAGE#
+Saat mengerjakan banyak hal, aku mendapatkan kertas halaman dari Kardui. Pergi dan temui Kardui. Kantornya berada di lantai teratas jalan spiral.# 
+Temui Kardui.#
+
+7422#Hadiah Kardui#SG_FEEL#QUE_NOIMAGE#
+Kardui mengatakan dia akan mempersiapkan hadiah yang bisa diambil dari Kepala Staf Shenime. Kira-kira apa hadiahnya..#
+Mendapatkan hadiah dari Shenime.#
+
+7423#Rumor tentang Raja 1#SG_FEEL#QUE_NOIMAGE#
+Saat berbicara dengan Leo, ada hal meresahkan yang dikatakan tentang Kardui. Dia tidak memberikan rinciannya, tapi ini sangat menghawatirkan. # 
+#
+
+7424#Rumor tentang Raja 2#SG_FEEL#QUE_NOIMAGE#
+Pomer memberitahu sesuatu yang tidak terduga. Laphinelah yang tidak menyukai Kardui. Ini mirip dengan apa yang dirahasiakan Leo sebelumnya.# 
+#
+
+7425#Rumor tentang Raja 3#SG_FEEL#QUE_NOIMAGE#
+Menghubungkan antara kesewenangan Cenes dan Kardui bisa dilakukan dengan berbicara pada Laphine. Sebenarnya ini tidak terlalu serius, tapi dapat dipastikan kalau Raja Kardui saat ini sangat mirip dengan Cenes.# 
+#
+ 
+7426#Rumor tentang Raja 4#SG_FEEL#QUE_NOIMAGE#
+Belakangan ini, Kardui seepertinya telah menjadi Mayor Jun di dalam kekacauan yang dihadapi oleh seluruh ras Laphine. Mereka seperti setuju dengan kebijakannya, tapi mereka juga tampak tidak setuju dengannya.# 
+#
+
+7427#Disaat seperti ini, hadapi tanpa ragu!#SG_FEEL#QUE_NOIMAGE# 
+Kebenaran di balik kecemasan dan ketakutan Laphine terhadap Kardui tidak bisa dijelaskan. Bukankah ini sebaiknya disampaikan kepada masing-masing individu? Mungkin kamu bisa mendengar tentang alasan dibalik semuanya..# 
+Bicaralah dengan Kardui.#
+
+7428#Yai dari alam liar#SG_FEEL#QUE_NOIMAGE#
+Dapatkan barang untuk Yai dari penjaga Eclage Minuel yang selalu berdiri di pos setiap hari.# 
+10 Horns of Hillslion, 10 Mystic Horn, 10 Horse Hooves.#
+
+7429#Tren terbaru alam liar!#SG_FEEL#QUE_NOIMAGE#
+Barang yang dikumpulkan oleh Minuel sepertinya telah menciptakan suatu tren diantara dekorasi Yai. Dapatkan barangnya secara teratur untuk menjaga trennya.# 
+Temui Minuel setelah beberapa waktu.#
+
+7430#Kurir yang melalui angkasa#SG_FEEL#QUE_NOIMAGE#
+Kirimkan surat dari Splendide menggantikan Roy yang masih mempunyai masalah di tepi Bifrost.# 
+Splendide Contact Office, Mailbox.#
+
+7431#Pengantar surat tidak pernah istirahat!#SG_FEEL#QUE_NOIMAGE#
+Surat harus dikirim secara berkala. Ayo periksa lagi nanti.# 
+Temui Roy setelah beberapa waktu.#
+
+7432#Pengacau di Dataran Bunga#SG_FEEL#QUE_NOIMAGE#
+Ayo kita tunjukkan siapa yang berkuasa kepada Menblatt dan Petal yang mengganggu penjelajah.# 
+Kalahkan Menblatt dan Petal. #
+
+7433#Membutuhkan bimbingan secara terus-menerus#SG_FEEL#QUE_NOIMAGE#
+Leo sekali lagi meminta untuk mengalahkan Menblatt dan Petal. Temui dia lagi setelah beberapa waktu.# 
+Temui Leo setelah beberapa waktu.#
+
+//--Magic Sikembar dan Scholar 
+
+7434#Kakak Kardui#SG_FEEL#QUE_NOIMAGE#
+Kardui mengirim sebuah surat kepada kakaknya. Kakak Kardui tinggal di atas bunga Menara Bifrost. Kirimkan surat kepada dirinya.# 
+Kirim suratnya.#
+  
+7435#Saatnya membaca surat#SG_FEEL#QUE_NOIMAGE#
+Hisie meminta waktu untuk membaca suratnya. Hanya membutuhkan beberapa menit, sebaiknya kamu tunggu sebentar.# 
+Tunggu sampai dia selesai membaca suratnya.#
+
+7436# Avant sang Magic Scholar#SG_FEEL#QUE_NOIMAGE#
+Dalam surat Kardui, bukan hanya terdapat perkenalan. Tapi juga permintaan untuk mencari ayahnya, Avant sang Magic Scholar. Bantu Hisie untuk mencaritahu tentang scholar itu dari dalam Eclage.# 
+#
+
+7437#Permintaan Shenime#SG_FEEL#QUE_NOIMAGE#
+Tidak bisa mendapatkan informasi tentang Avant tapi sebaliknya mendapatkan permintaan dari Shenime. Dia meminta mengumpulkan bahan eksperimen untuk magic scholar yang dia sponsori. Bahannya adalah 10 Dust Ball, 10 Leaf Bookmark.# 
+10 Dust Ball, 10 Leaf Bookmark.#
+
+7438#Sponsor rahasia#SG_FEEL#QUE_NOIMAGE#
+Shenime tidak memberitahu sedikitpun tentang magic scholar yang dia sponsori, dia juga meminta untuk melupakan pencariannya. Apakah ada orang yang mengetahuinya?# 
+Cari informasi.#
+
+7439#Magic scholar yang disponsori oleh Shenime#SG_FEEL#QUE_NOIMAGE#
+Hisie mengatakan kalau kamu melacak Shenime, mungkin lokasi dari scholar akan diketahui. Cari tahu pekerjaan Shenime.# 
+Cari informasi.#
+
+7440#Kesaksian Minuel#SG_FEEL#QUE_NOIMAGE#
+Penjaga Eclage Minuel mengatakan kalau Shenime sering pergi ke timur, ke arah berlawanan dari Yai. Diskusikan masalah ini dengan Hisie.# 
+Bicaralah dengan Hisie.#
+
+7441#Suratnya sudah tiba!#SG_FEEL#QUE_NOIMAGE#
+Berencana untuk mengunjungi magic scholar Yai seolah-olah Shenime yang mengirim suratnya. Hisie akan memastikan apakah orang itu Avant atau bukan. Hisie akan memberikan informasi di persimpangan jalan di depan Eclage.#
+10 Dustball, 10 Leaf Bookmark#
+ 
+7442#Identitas dari magic scholar#SG_FEEL#QUE_NOIMAGE#
+Magic scholar tersebut ternyata memang Avant. Kamu harus memberitahu hal ini kepada Kardui.# 
+Bicaralah dengan Kardui.#
+
+7443#Mengganggu penelitian!#SG_FEEL#QUE_NOIMAGE# 
+Kardui dan Hisie ingin tahu apa yang diteliti oleh Avant dan ingin mengganggunya. Apakah ini adalah balas dendam dari kedua bersaudara tersebut?# 
+Mengganggu penelitian Avant.#
+
+7444#Yang diteliti oleh Avant#SG_FEEL#QUE_NOIMAGE#
+Avant sedang meneliti metode untuk mengekstrak kekuatan magic Orb. Karena ini adalah informasi berbahaya, materi penelitiannya harus dikembalikan secepatnya kepada Kardui.# 
+Kirimkan materi penelitiannya kepada Kardui.#
+
+//--Orb 
+
+7445#Sosok dibalik Avant#SG_FEEL#QUE_NOIMAGE#
+Cari tahu kekuatan dibalik penelitian Avant tentang Orb. Kemungkinan besar tersangkanya adalah sponsor Avant, sang kepala staf. Temui kepala staf untuk mengungkap kebenarannya.# 
+Bicaralah dengan kepala staf.#
+
+7446#Pembicaraan tanpa hasil#SG_FEEL#QUE_NOIMAGE#
+Setelah berbicara dengan Shenime sang kepala staf, kamu tidak mendapatkan apapun. Dia mengatakan bahwa dia juga mungkin telah ditipu oleh Avant. Kepala staf sebenarnya marah mengetahui Kardui hanya meningkatkan pertahanan disekitar Orb.# 
+Laporkan kepada Kardui.#
+
+7447#Dilema disekitar Orb#SG_FEEL#QUE_NOIMAGE#
+Hanya menegaskan ketidakpercayaan terhadap Kardui bukannya mengungkapkan lebih lanjut tentang penelitian Avant. Kepala staf berharap kalau penilaian Kardui tidak melemah dan meminta agar dia menunjukkannya.# 
+Laporkan kepada Kardui.#
+
+7448#Ada yang tidak beres#SG_FEEL#QUE_NOIMAGE#
+Setelah berdiskusi dengan Kardui dan Hisie, diputuskan bahwa kepala staf adalah orang yang paling mencurigakan. Apa alasan di balik penolakannya terhadap tindakan Kardui kepada Orb?# 
+Awasi kepala staf.#
+
+7449#Godaan terhadap Orb#SG_FEEL#QUE_NOIMAGE#
+Kepala staf memintamu pergi ke ruang cahaya Orb untuk mendiskusikannya. Aku memutuskan untuk membiarkan Kardui tahu tentang ini setelah memintanya untuk memberikan aku waktu untuk berpikir.# 
+Laporkan kepada Kardui.#
+
+7450#Ruang cahaya Orb#SG_FEEL#QUE_NOIMAGE#
+Aku tidak tahu kenapa kepala staf terus memintaku untuk masuk ke ruang cahaya Orb, tapi aku memutuskan masuk ke dalam untuk mencaritahu alasannya. Untuk sementara ini ikuti keinginannya.# 
+Ikuti permintaan kepala staf.#
+
+7451#Penghianatan#SG_FEEL#QUE_NOIMAGE#
+Semuanya sangat membingungkan. Monster yang berada di ruang cahaya bukanlah anak buah dari Raja Iblis. Mereka mengendalikan diriku tanpa aku ketahui. Shenime sang kepala staf telah menghianati semua orang!# 
+Laporkan kepada Kardui.#
+
+7452#Cari kepala staf!#SG_FEEL#QUE_NOIMAGE#
+Shenime sang kepala staf, yang bertanggung jawab atas semua kejadian ini telah bersembunyi. Menurut sumber dari Hisie, terdapat sisa-sisa kekuatan magic di Bifrost.# 
+Periksa Utara Bifrost.#
+
+7453#Kepala staf yang terakhir#SG_FEEL#QUE_NOIMAGE#
+Pergilah dari utara ke selatan di Bifrost. Sebelumnya itu merupakan jalan terbuka, tapi saat ini tertutup oleh celah besar di selatan. Mayat kepala staf telah ditemukan di jalan menuju celah tersebut.# 
+Laporkan kepada Kardui.# 
+ 
+//Korea : 14.2  
+9225#Misteri Insiden Perampokan 1#SG_FEEL#QUE_NOIMAGE#
+Terbangun dari pingsan di rumah seseorang. Bicaralah dengan orang yang sepertinya telah membantu diriku.# 
+#
+
+9226#Misteri Insiden Perampokan 2#SG_FEEL#QUE_NOIMAGE#
+Buatlah catatan dari wawancara dengan korban. Dengarkan pernyataan Ruen.#
+#
+
+9227#Misteri Insiden Perampokan 3#SG_FEEL#QUE_NOIMAGE#
+Buatlah catatan dari wawancara dengan korban. Dengarkan pernyataan Dame.#
+#
+
+9228#Misteri Insiden Perampokan 4#SG_FEEL#QUE_NOIMAGE#
+Buatlah catatan dari wawancara dengan korban. Dengarkan pernyataan Rosa.#
+#
+
+9229#Misteri Insiden Perampokan 5#SG_FEEL#QUE_NOIMAGE#
+Buatlah catatan dari semua wawancara. Buatlah pemikiran dan wawacara saat memeriksa ruangan.#
+#
+
+9230#Misteri Insiden Perampokan 6#SG_FEEL#QUE_NOIMAGE#
+Mulailah pemeriksaan lapangan. Laporkan kepada Ruen tentang temuan dari pemeriksaan Poppy, Ruen Diary, Buku Rusak, wadah untuk kaleng soda, meja yang berantakan dan benda asing yang berserakan di lantai.#
+#
+
+9231#Misteri Insiden Perampokan 7#SG_FEEL#QUE_NOIMAGE#
+Pemeriksaan selesai. Mulai menyelidiki. Temui kekasih Ruen yaitu Kruian.#
+#
+
+9232#Misteri Insiden Perampokan 8#SG_FEEL#QUE_NOIMAGE#
+Penyelidikan dari Kruian telah selesai. Temui teman Dames yaitu Ballumin di Dataran Bunga.#
+#
+
+9233#Misteri Insiden Perampokan 9#SG_FEEL#QUE_NOIMAGE#
+Penyelidikan dari Ballumin telah selesai. Temui Wandering Merchant sejumlah desa di Eclage.#
+#
+
+9234#Misteri Insiden Perampokan 10#SG_FEEL#QUE_NOIMAGE#
+Penyelidikan dari Wandering Merchant telah selesai. Laporkan penyelidikan kepada Ruen karena wawancara, pemeriksaan lapangan dan penyelidikan telah selesai.#
+#
+
+9235#Misteri Insiden Perampokan 11#SG_FEEL#QUE_NOIMAGE#
+Cari tahu siapa pelakunya dengan menggunakan informasi dari wawancara, pemeriksaan lapangan dan penyelidikan.#
+#
+
+9236#Misteri Insiden Perampokan 12#SG_FEEL#QUE_NOIMAGE#
+Kasus telah terpecahkan. Bicaralah dengan Ruen diluar.#
+#
+
+9237#Misteri Insiden Perampokan 13#SG_FEEL#QUE_NOIMAGE#
+Kasus telah terpecahkan. Bicaralah dengan Dames.#
+#
+
+9238#Misteri Insiden Perampokan 14#SG_FEEL#QUE_NOIMAGE#
+Kasus telah terpecahkan. Bicaralah dengan Rosa.#
+#
+
+9239#Misteri Insiden Perampokan 15#SG_FEEL#QUE_NOIMAGE#
+Kasus telah terpecahkan. Bicaralah dengan Kruian.#
+#
+
+9262#Misteri Insiden Perampokan 16#SG_FEEL#QUE_NOIMAGE#
+Kasus telah terpecahkan. Bicaralah dengan Ballumin.#
+#
+
+
+
+9240#<Catatan pernyataan Ruen>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRuen^000000: berjalan-jalan di Dataran Bunga, melihat seseorang dengan rambut merah pendek yang sedang terburu-buru, tidak tahu apa jenis kelaminnya, tidak mengenal karena warna rambutnya langka. Masih berpikir kalau Ruen adalah orang pertama yang menemukanku, tapi sebenarnya ibu Ruen yang menemukannya pertama kali.#
+#
+
+9241#<Catatan pernyataan Ruen>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRuen^000000: berjalan-jalan di Dataran Bunga, melihat seseorang dengan rambut merah pendek yang sedang terburu-buru, tidak mengenal karena warna rambutnya langka. Melihat teman ayahnya, Ballumin lewat didepan rumah. Kenapa dia hanya lewat, padahal dia melihatku.#
+#
+
+9242#<Catatan pernyataan Ruen>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRuen^000000: berjalan-jalan di Dataran Bunga, melihat seseorang dengan rambut merah pendek yang sedang terburu-buru, tidak mengenal karena warna rambutnya langka. Masih berpikir kalau Ruen adalah orang pertama yang menemukanku, tapi sebenarnya ibu Ruen yang menemukannya pertama kali.#
+#
+
+9243#<Catatan pernyataan Ruen>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRuen^000000: berjalan-jalan di Dataran Bunga, melihat seseorang dengan rambut merah pendek yang sedang terburu-buru, tidak mengenal karena warna rambutnya langka. Melihat teman ayahnya, Ballumin lewat didepan rumah. Kenapa dia hanya lewat, padahal dia melihatku.#
+#
+
+9244#<Catatan pernyataan Dames>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFDames^000000: kembali setelah menemui teman, bukan teman yang dewasa tapi cukup baik, mencurigai istrinya karena terus saja mengeluh.#
+#
+
+9245#<Catatan pernyataan Dames>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFDames^000000: kembali setelah menemui teman, bukan teman yang dewasa tapi cukup baik, belakangan ini istrinya meminta kalung baru tapi ditolak dan mencurigainya karena mungkin dia dendam hingga menuntunnya untuk berbuat seperti ini.#
+#
+
+9246#<Catatan pernyataan Dames>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFDames^000000: kembali setelah menemui teman, bukan teman yang dewasa tapi cukup baik, mencurigai istrinya karena terus saja mengeluh.#
+#
+
+9247#<Catatan pernyataan Dames>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFDames^000000: kembali setelah menemui teman, bukan teman yang dewasa tapi cukup baik, belakangan ini istrinya meminta kalung baru tapi ditolak dan mencurigainya karena mungkin dia dendam hingga menuntunnya untuk berbuat seperti ini.#
+#
+
+9248#<Catatan pernyataan Rosa>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRosa^000000: kembali setelah berbelanja, mencoba membantuku di dalam, tapi terlalu takut untuk kembali keluar setelah mengetahui rumahnya berantakan, tidak mencurigai anggota keluarganya.#
+#
+
+9249#<Catatan pernyataan Rosa>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRosa^000000: kembali setelah berbelanja, mencoba membantuku di dalam, tapi terlalu takut untuk kembali keluar setelah mengetahui rumahnya berantakan, bertanya-tanya kenapa kalung itu dicuri jika tidak berharga.#
+#
+
+9250#<Catatan pernyataan Rosa>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRosa^000000: kembali setelah berbelanja, tidak ada yang mencurigakan selain rumahnya berantakan, kalung itu tampaknya sangat penting, tidak mencurigai anggota keluarganya.#
+#
+
+9251#<Catatan pernyataan Rosa>#SG_FEEL#QUE_NOIMAGE#
+Catatan pernyataan ^0000FFRosa^000000: kembali setelah berbelanja, mencoba membantuku di dalam, tapi terlalu takut untuk kembali keluar setelah mengetahui rumahnya berantakan, bertanya-tanya kenapa kalung itu dicuri jika tidak berharga.#
+#
+
+9252#<Mengamati Poppy>#SG_FEEL#QUE_NOIMAGE#
+Catatan pengamatan ^0000FFPoppy^000000: hewan ini ganas terhadap orang asing, anehnya sangat tenang terhadap perampoknya, pelakunya mungkin keluarga sendiri atau seseorang yang bisa menangani hewan dengan baik.#
+#
+
+9253#<Memeriksa rak buku yang berantakan>#SG_FEEL#QUE_NOIMAGE#
+Catatan pengamatan ^0000FFMessy Bookshelf^000000: menemukan buku harian Ruen, membaca kekhawatiran terhadap penolakan ibunya terhadap hubungan dengan kekasihnya dan keinginan kekasihnya untuk mendapatkan kepercayaan sang ibu.#
+#
+
+9254#<Memeriksa buku yang rusak>#SG_FEEL#QUE_NOIMAGE#
+Catatan pengamatan ^0000FFbuku rusak^000000: sepertinya sengaja dirusak, sengaja dibuat untuk terlihat seperti dirampok.#
+#
+
+9255#<Memeriksa wadah untuk kaleng soda>#SG_FEEL#QUE_NOIMAGE#
+Catatan pengamatan ^0000FFwadah untuk kaleng soda^000000: menurut pernyataan Dames, seharusnya ada 15 botol. Tapai hanya ada 13, apakah mungkin pelakunya suka alkohol.#
+#
+
+9256#<Memeriksa meja yang berantakan>#SG_FEEL#QUE_NOIMAGE#
+Catatan pengamatan ^0000FFmeja yang berantakan^000000: menurut pernyataan Rosa, kotak perhiasannya lebih mahal dibanding kalungnya. Penjahatnya mungkin hanya menginginkan kalung tersebut.#
+#
+
+9257#<Memeriksa benda asing>#SG_FEEL#QUE_NOIMAGE#
+Catatan pengamatan ^0000FFbenda asing di lantai^000000: sebuah penemuan penting, kita akan melihat bagaimana semua akan terungkap. Mungkin penyelidikannya akan segera mendapatkan jawaban.#
+#
+
+9258#<Hasil pemeriksaan lapangan>#SG_FEEL#QUE_NOIMAGE#
+Anggota keluarga atau pelatih binatang, kekasih Ruen yang tidak disetujui ibunya. Kemungkinan kalau perampokan sengaja dibuat-buat, kemungkinan kalau pelakunya menyukai alkohol, kemungkinan kalau perampokan ini motifnya bukanlah mendapatkan harta, terus melakukan penyelidikan bersamaan dengan penemuan penting di rumah Ruen.#
+#
+
+9259#<Memastikan pernyataan Kruian>#SG_FEEL#QUE_NOIMAGE#
+Memastikan pernyataan ^0000FFKruian^000000. Harus pergi ke dataran bunga dan kalahkan monster untuk melihat apakah Focus Potion bisa didapatkan. Kalahkan 5 Menblatt, 30 Petal.#
+#
+
+9260#<Catatan penyelidikan>#SG_FEEL#QUE_NOIMAGE#
+Focus Potion dari ^0000FFKruian^000000 tidak bisa didapat dari monster. Alibinya tidak bisa dipastikan. ^0000FFBallumin^000000 tidak mempunyai saksi, tapi sebagian alibinya bisa dipastikan. ^0000FFWandering Merchant^000000 mabuk, dia memberikan Focus Potion sebagai hadiah dari judi penipuannya.# 
+#
+
+//ep14.2 
+11310#Pintu masuk Eclage#SG_FEEL#QUE_NOIMAGE#
+Setelah menulis nama, job dan level. Berikan dokumennya kepada administrator.# 
+Tunggu sampai diterima.#
+
+11311#Pintu masuk Eclage#SG_FEEL#QUE_NOIMAGE#
+Bicaralah kepada penjaga keamanan untuk masuk ke kota.# 
+Bicaralah dengan penjaga keamanan.#
+
+11312#Goliath#SG_FEEL#QUE_NOIMAGE#
+Bicaralah kepada fairy carpenter lagi untuk mendapatkan informasi tentang jembatannya.# 
+Informasi tentang jembatan.#
+
+11313#Goliath#SG_FEEL#QUE_NOIMAGE#
+Dapatkan jembatan dari Golie di menara luar kota.# 
+Go to Golie.#
+
+11314#Goliath#SG_FEEL#QUE_NOIMAGE#
+Kembalilah ke Fon dengan jembatannya.# 
+Kembali ke Carpenter Fon.#
+
+11315#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Katakan pada teman Fon, Glaces yang berada didekat Pintu masuk Eclage bahwa Fon tidak bisa datang hari ini.# 
+Bicaralah dengan Glaces.#
+
+11316#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Cari Yube disuatu tempat di kota.# 
+Cari Yube.#
+
+11317#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Kembali ke Glaces dan tanyakan tentang umur Moreng.# 
+Bicara dengan Glaces.#
+
+11318#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Kembali ke Murah di plaza dan tanyakan tentang umur Moreng.# 
+Bicaralah dengan Murah.#
+
+11319#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Cari Shul di ujung timur kota dan tanyakan tentang umur Moreng.# 
+Bicaralah dengan Shul.#
+
+11320#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Cari Tato di ujung barat kota dan tanyakan tentang umur Moreng.# 
+Bicaralah dengan Tato.#
+
+11321#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Menggunakan informasi yang didapat dari Yube, Glaces, Murah, Shul dan Tato, perkirakan umur Moreng dan beritahu Yube.# 
+Bicaralah dengan Yube.# 
+
+11322#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Bawa Dust Ball sebanyak umur Moreng untuk membuat lilin, sementara Yube akan membuat sumbunya.# 
+Dapatkan Dust Ball.#
+
+11323#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Kirimkan lilin ulang tahun kepada Glaces.# 
+Kirimkan lilin ulang tahunnya.#
+
+11324#Dan waktu terus mengalir#SG_FEEL#QUE_NOIMAGE#
+Tanyakan kepada Moreng ulang tahun siapa yang akan datang.# 
+Bicaralah dengan Moreng.#
+
+11325#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Untuk membuat Yai baru, Moreng menginginkan telur dari burung legendaris. Dengarkan legendanya.# 
+Bicaralah dengan Moreng.#
+
+11326#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Tanyakan kepada orang tua di plaza tentang burung legenda.# 
+Bicaralah dengan orang tua.#
+
+11327#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Tanyakan kepada petualang yang berhubungan dengan bulu yang berada diluar kota.# 
+Bicaralah dengan petualang.#
+
+11328#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Cerita petualang tersebut hanyalah karangan belaka. Cari pedagang di plaza yang menjual bulu kepada petualang tersebut.# 
+Bicaralah dengan pedagang.#
+
+11329#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Informasi berkaitan tentang bulu raksasa telah didapatkan. Temui Moreng.# 
+Bicaralah dengan Moreng.#
+
+11330#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Informasi yang Moreng inginkan telah didapat. Temui Glaces.# 
+Bicaralah dengan Glaces.#
+
+11331#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Glaces ingin bertemu dengan Moreng. Dia menyarankan untuk menemui Yube.# 
+Bicaralah dengan Yube.#
+
+11332#Ayam atau telur#SG_FEEL#QUE_NOIMAGE#
+Ingin mengirim benihnya ke Splendide di dalam kotak benih. Berhati-hatilah, karena prosesnya sulit.# 
+Bicaralah dengan Yube.#
+
+11333#Benih merah dan benih hijau#SG_FEEL#QUE_NOIMAGE#
+Benihnya telah dikemas dengan aman menggunakan wadah benih. Berikan kepada kurir yang menunggu di plaza.# 
+Daftarkan pengiriman.#
+
+11334#Benih merah dan benih hijau#SG_FEEL#QUE_NOIMAGE#
+Kotak benihnya telah diberikan kepada kurir. Kembalilah ke rumah Yube.# 
+Bicaralah dengan Yube.#
+
+11335#Anak Pemimpi#SG_FEEL#QUE_NOIMAGE#
+Oliver sang Anak Pemimpi meminta acorn. Dapatkan acorn.# 
+Sejumlah acorn.#
+
+11336#Anak Pemimpi#SG_FEEL#QUE_NOIMAGE#
+Dengan menghilangnya Oliver sang Anak Pemimpi, kamu harus kembali ke dalam rumah.# 
+Kembali ke dalam rumah.# 
+
+11337#Anak Pemimpi#SG_FEEL#QUE_NOIMAGE#
+Oliver sang Anak Pemimpi tidak bisa ditemukan. Apa yang terjadi Temui kelompok Du.# 
+Bicaralah dengan kelompok Du.#  
+ 
+//-- ep14.2 
+12280#Tahanan Yang Mencurigakan#SG_FEEL#QUE_NOIMAGE#
+Sepertinya ada tahanan yang sedang berada di penjara. Bukankah menyenangkan untuk sekali-kali mendengarkan ceritanya?# 
+Tahanan Yang Mencurigakan.#
+
+12281#Permintaan Yang Tidak Diinginkan#SG_FEEL#QUE_NOIMAGE#
+Clever menginginkan 1 ^000099Grape Extract Herb Tea^000000. Itu adalah permintaan besar bagi seorang tahanan, tapi cobalah dapatkan jika kamu mempunyai waktu.# 
+Permintaan Yang Tidak Diinginkan.#
+
+12282#Raja Gosip Clever#SG_FEEL#QUE_NOIMAGE#
+Clever tahu banyak cerita gosip. Coba dengarkanlah, karena pengetahuannya mungkin berguna untuk petualangan nanti. Mungkin dia bisa memberitahu informasi yang berguna.# 
+Raja Gosip Clever.#
+
+12283#Peneliti Celah#SG_FEEL#QUE_NOIMAGE#
+Ada seorang Dona muda bernama ^000099Hielle^000000 yang diketahui melakukan penelitian yang berhubungan dengan pecahan celah. Cari penelitinya.# 
+Peneliti Celah.#
+
+12284#Sumber Informasi Cat Merchant#SG_FEEL#QUE_NOIMAGE#
+Diantara cat merchant, terdapat seekor kucing yang mengetahui banyak hal tentang penelitian Midgard pada celah. Cari ^000099Midgard Post^000000 yang dikenal dengan aktivitasnya.# 
+Sumber Informasi Cat Merchant.#
+
+12285#Cara Untuk Menenangkan Cat#SG_FEEL#QUE_NOIMAGE#
+Jika para kucing berhenti bertarung, kamu bisa mendapatkan informasi yang berguna. Bagaimana cara menenangkannya? Bukankah mereka mengatakan kalau mereka tidak mendapatkan gaji bulanan mereka yang berupa ^000099Malangdo Canned Specialties^000000?# 
+Cara Untuk Menenangkan Cat.#
+
+12286#Penukaran Informasi Dengan Sejumlah Makanan Kaleng#SG_FEEL#QUE_NOIMAGE#
+Dikatakan kalau ^0000991 Dark Debris, masing-masing 2 red/yellow/blue gemstone^000000 dibutuhkan untuk mengaktifkan pecahan celah. Sepertinya Hiel kesulitan untuk mendapatkannya…# 
+Penukaran Informasi Dengan Sejumlah Makanan Kaleng.#
+
+12287#Pengalaman Yang Aneh#SG_FEEL#QUE_NOIMAGE#
+Bereksperimen dengan Hiel untuk mengetahui apakah pecahan celah cukup untuk memberikan reaksi.# 
+Pengalaman Yang Aneh.#
+
+12288#Pengalaman Yang Berhasil#SG_FEEL#QUE_NOIMAGE#
+Dengan pengaturan Hiel saat ini, sepertinya tidak akan bereaksi dengan baik. Cobalah sentuh experimental setup untuk mengaktifkannya.# 
+Pengalaman Yang Berhasil.#
+
+12289#Kunjungan Selanjutnya#SG_FEEL#QUE_NOIMAGE#
+Identitas yang ditemukan melalui reaksi celah pasti adalah sosok asli dari sejarah. Tanyakan Clever sang sejarawan tentang mereka.# 
+Kunjungan Selanjutnya.#
+
+12290#Dokumen Sejarah Clever#SG_FEEL#QUE_NOIMAGE#
+Ada sosok yang sepertinya adalah Laphine menurut dokumen sejarah Clever. Dengarkan ceritanya.# 
+Dokumen Sejarah Clever.#
+
+12291#Dokumen Sejarah Tersembunyi (?)#SG_FEEL#QUE_NOIMAGE#
+Menurut gambar diagram Clever, dokumen tersebut sepertinya tidak terlalu tersembunyi. Sebaliknya, justru terlihat dengan jelas di rak. Cari tempat dimana buku tersusun rapi di Eclage.# 
+Dokumen Sejarah Tersembunyi (?).#
+
+12292#Sosok Misterius#SG_FEEL#QUE_NOIMAGE#
+Orang yang bertanggung jawab untuk membangun Rumah Pohon dan memperbaiki tanah Bifrost bukanlah Majelis Tetua, tapi ras Dona yang tidak diketahui identitasnya. Tanyakan Clever tentang 2 Dona bernama Etran dan Robert.# 
+Sosok Misterius.#
+
+12293#Sosok Disejarah#SG_FEEL#QUE_NOIMAGE#
+Clever meminta untuk langsung berbicara dengan sosok sejarah melalui alat celah. Tidak yakin apakah ini bisa dilakukan, tapi coba temui Hiel.# 
+Sosok Disejarah.#
+
+12294#Perjalanan Menuju Eclage#SG_FEEL#QUE_NOIMAGE#
+Bawa Robert yang muncul di masa lalu berkeliling ke banyak tempat di Eclage. Bukankah dia akan tersentuh jika melihat Rumah Pohon saat ini?# 
+Perjalanan Menuju Eclage.#
+
+12295#Error#SG_FEEL#QUE_NOIMAGE#
+Robert tiba-tiba menghilang. Kembalilah ke Hiel untuk mencaritahu apa yang terjadi dengan alat celah.# 
+Error.#
+
+12296#Bersenang-senang dengan reaktor#SG_FEEL#QUE_NOIMAGE#
+Gunakan reaktor celah milik Hiel untuk menjelajahi berbagai area di Eclage. Mungkin kamu akan menemukan tempat dimana Etran muncul.# 
+Bersenang-senang dengan reaktor.#
+
+12297#Menghadapi Etran#SG_FEEL#QUE_NOIMAGE#
+Lokasi dimana Etran bisa dicapai telah ditemukan. Ini akan menjadi kesempatan yang baik untuk memastikan apakah dia bertanggung jawab atas perbaikan tanahnya.# 
+Menghadapi Etran.#
+
+12298#2 Keinginan#SG_FEEL#QUE_NOIMAGE#
+Kirimkan kalung Etran kepada Robert. Dapatkan Home Tree's Golden Leaf. Tanyakan pada Hiel tentang metode untuk mendapatkan Daun Rumah Pohon.# 
+2 Keinginan#
+
+12299#Mengunjungi Kembali Robert#SG_FEEL#QUE_NOIMAGE#
+Dilarang melukai Rumah Pohon untuk mendapatkan daunnya. Tapi jika pembuatnya sendiri yang memberikan, itu tidak akan menjadi masalah. Tapi bukankah sebelumnya Robert meninggalkannya di depan Rumah Pohon?# 
+Mengunjungi Kembali Robert.#
+
+12300#Mengunjungi Kembali Etran#SG_FEEL#QUE_NOIMAGE#
+Tunjukkan daun dari beri semangat kepada Etran. Meskipun penolakan Robert terhadap kalungnya juga sama penting...#
+Mengunjungi Kembali Etran.#
+
+12301#2 Teman Tersisa#SG_FEEL#QUE_NOIMAGE#
+Robert dan Etran akan melaksanakan takdir mereka sampai akhir. Sampai tanah masa lalu (meskipun bagi mereka itu masa kini…) menjadi tanah yang subur di saat ini. Bicaralah kepada Hiel dan Clever yang telah membuat pertemuan ini bisa dilakukan.# 
+2 Teman Tersisa.# 
+
+//-- ep14.2 
+13050#Laphine yang amat mencintai tanahnya#SG_FEEL#QUE_NOIMAGE#
+Biarkan para Laphine yang mencintai tanahnya menanam bunga. Katakan pada keempat Laphine.# 
+Umumkan pemberitahuannya.#
+
+13051#Singing Laphine#SG_FEEL#QUE_NOIMAGE#
+Katakan pada singing Laphine bahwa proyeknya akan segera dimulai.# 
+Cari singing Laphine.#
+ 
+13052#Watering Laphine#SG_FEEL#QUE_NOIMAGE#
+Katakan pada watering Laphine bahwa proyeknya akan segera dimulai.# 
+Cari watering Laphine.#
+
+13053#Dancing Laphine#SG_FEEL#QUE_NOIMAGE#
+Katakan pada dancing Laphine bahwa proyeknya akan segera dimulai.# 
+Cari dancing Laphine.#
+ 
+13054#Smiling Laphine#SG_FEEL#QUE_NOIMAGE#
+Katakan pada smiling Laphine bahwa proyeknya akan segera dimulai.# 
+Cari smiling Laphine.#
+
+13055#Lihat apakah semua petualang selamat#SG_FEEL#QUE_NOIMAGE#
+Mereka mengatakan kalau ada 3 petualang.# 
+Periksa keadaan para petualang.#
+
+13056#Reporter Rossi#SG_FEEL#QUE_NOIMAGE#
+Periksa apakah reporter Rossi dari Monthly Brogan baik-baik saja.# 
+Periksa keadaan Rossi.#
+
+13057#Adventurer Euncheong#SG_FEEL#QUE_NOIMAGE#
+Periksa apakah Euncheong sang Raja Petualang dari Masa depan baik-baik saja.# 
+Periksa keadaan Euncheong.#
+
+13058#Troublemaker New Oz#SG_FEEL#QUE_NOIMAGE#
+Periksa apakah New Oz baik-baik saja.# 
+Periksa keadaan New Oz.#
+
+13059#Akhir dari proyek#SG_FEEL#QUE_NOIMAGE#
+Proyek hari ini sudah selesai! Ayo kembali lagi jika kita punya waktu.#
+#
+
+13060#Konfirmasi keamanan selesai!#SG_FEEL#QUE_NOIMAGE#
+Semua orang sepertinya aman. Apakah besok juga mereka baik-baik saja?#
+#
+  
+13061#Bantuan makanan#SG_FEEL#QUE_NOIMAGE#
+Bawakan 10 meat dan 10 acorn kepada New Oz yang kelaparan.# 
+Dapatkan makanan!#
+
+13062#Bantuan makanan - selesai#SG_FEEL#QUE_NOIMAGE#
+Sepertinya untuk saat ini dia tidak akan kelaparan lagi.#
+#
+
+13063#Pembersihan debu#SG_FEEL#QUE_NOIMAGE#
+Kalahkan bola debu untuk membantu New Oz meninggalkan menara. Apakah bola debu benar-benar membuatnya tidak bisa pergi?# 
+Kalahkan 20 Cherene.#
+
+13064#Pembersihan debu - selesai#SG_FEEL#QUE_NOIMAGE#
+New Oz seharusnya sudah bisa pergi. Meskipun masih ada kemungkinan yang tidak pasti..#
+#
+
+13065#Pengumpulan suvenir#SG_FEEL#QUE_NOIMAGE#
+Untuk teman New Oz. Carilah suvenir yang bisa digunakan untuk mengingat pertemanan mereka.# 
+Dapatkan 20 Leaf Bookmark.#
+
+13066#Suvenirnya sudah cukup#SG_FEEL#QUE_NOIMAGE#
+Yang bisa kita lakukan saat ini adalah berdoa kalau pembuat onar itu bisa melarikan diri dengan selamat.# 
+#
+
+//-ep14.2 
+14118#Kekhawatiran Wuhari#SG_FEEL#QUE_NOIMAGE#
+Wuhari sangat menghawatirkan kabar saudaranya di penjara. Berikan surat Wuhari kepada saudaranya di penjara.# 
+Kirimkan surat pada Wuhuru.#
+
+14119#Ujian kesabaran#SG_FEEL#QUE_NOIMAGE#
+Tahanannya tidak merespon pembicaraan. Sepertinya dia sedang menguji kesabaranku.# 
+Bicaralah dengan tahanannya.#
+
+14120#Ujian kesabaran 2#SG_FEEL#QUE_NOIMAGE#
+Tahanannya masih tidak merespon meskipun sudah diajak bicara berkali-kali. Ayo kita coba lagi.# 
+Bicaralah dengan tahanannya.#
+
+14121#Ujian kesabaran 3#SG_FEEL#QUE_NOIMAGE#
+Orang itu tampaknya tetap tidak mau berbicara. Apakah ada cara lain untuk berbicara dengannya.# 
+Bicaralah dengan tahanannya.#
+
+14122#Waktu untuk berdua#SG_FEEL#QUE_NOIMAGE#
+Surat dari Wuhari telah diberikan kepada Wuhuru. Dia meminta waktu untuk membaca suratnya. Jangan ganggu saat dia membaca suratnya.# 
+Berikan dia waktu untuk membaca suratnya.#
+
+14123#Permintaan Wuhuru#SG_FEEL#QUE_NOIMAGE#
+Setelah membaca surat dari saudaranya, Wuhuru mulai membagi ceritanya dan memintamu untuk mengirimkan salam untuk saudaranya. Kembalilah ke Wuhari dan berikan salam dari saudaranya.# 
+Berikan salam untuk Wuhari.#
+
+14125#Memeriksa area#SG_FEEL#QUE_NOIMAGE#
+Wuhari sedang mencari cara untuk memulihkan tubuh Wuhuru. Tapi, dia tidak tahu caranya. Apakah orang yang tinggal di sekitar area tersebut tahu sesuatu? Periksa daerah sekitar.# 
+Bicaralah kepada penduduk dikota.#
+ 
+14126#Pencarian Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
+Mr. Masione mengatakan kalau tidak mengetahuinya. Tapi menunjuk Ms. Goatie yang lebih mengerti tentang hal seperti ini…# 
+Cari Ms. Goatie.#
+
+14127#Pencarian suami Ms. Goatie#SG_FEEL#QUE_NOIMAGE#
+Ms. Goatie membicarakan betapa senangnya Wuhuru sambil menggoyangkan secarik kertas diudara. Saat menanyakan tentang kertasnya, dia mengatakan kalau suaminya lebih tahu tentang hal itu.# 
+Cari suami Ms. Goatie.#
+
+14128#Laporan penelitian#SG_FEEL#QUE_NOIMAGE#
+Mr. Svery yang selalu dekat dengan Wuhuru tahu lebih banyak. Isi dari surat yang ditinggalkan Wuhuru adalah laporan penelitiannya. Berikan kepada Wuhari.# 
+Kirimkan Laporannya.#
+
+14131#Saatnya analisa#SG_FEEL#QUE_NOIMAGE#
+Wuhari mendapatkan laporannya, tapi menyebut akan membutuhkan waktu untuk menganalisa laporannya. Cobalah bicara dengannya lagi nanti. Jangan ganggu orang yang sedang mempelajarinya.# 
+Saatnya analisa.#
+
+14133#Permintaan lain#SG_FEEL#QUE_NOIMAGE#
+Wuhari telah menganalisa laporannya, tapi masih belum yakin bagaimana cara memulihkan tubuh saudaranya. Coba cari dan tanyakan Laphine yang meminta Wuhuru berpartisipai dalam penelitian ini.# 
+Dapatkan buktinya.#
+ 
+14134#Ms. Goatie yang pintar#SG_FEEL#QUE_NOIMAGE#
+Meskipun mengunjungin Mr. Svery untuk mendapatkan informasi, dia mengatakan tidak tahu tentang Laphine level tinggi. Tapi, dia menyarankan untuk menemui istrinya yang lebih tahu tentang hal ini.# 
+Menuju ke Ms. Goatie.#
+
+14135#Pencarian Mr. Pompe#SG_FEEL#QUE_NOIMAGE#
+Saat menanyakan keberadaan Laphine level tinggi, Ms. Goatie tidak tahu banyak informasinya. Tapi tetangganya di kota Mr. Pompe, mengatakan dia melihat Laphine di dataran yang kemudian menghilang. Ayo tanyakan Mr. Pompe untuk lebih detailnya.# 
+Mendengarkan cerita dari Mr. Pompe.#
+
+14136#Sebuah peristiwa mengerikan di dataran#SG_FEEL#QUE_NOIMAGE#
+Mr. Pompe sangat takut untuk pergi ke dataran. Dia mengatakan betapa besar mayat yang telah berbaring disana, karena Laphine level tinggi mengalami kematian yang mengerikan. Selidiki datarannya.# 
+Penyelidikan lapangan.#
+
+14137#Tawaran yang menarik#SG_FEEL#QUE_NOIMAGE#
+Salah satu Laphine perempuan memberikan penawaran menarik. Sepertinya Laphine yang memberikan laporan penelitian kepada Wuhuru adalah orang yang sama seperti ayahnya yang hilang. Ayo cari dia bersama-sama.# 
+Penyelidikan lapangan.#
+
+14138#Mayat yang besar#SG_FEEL#QUE_NOIMAGE#
+Ada sebuah mayat besar yang telah berbaring disana cukup lama. Dia adalah Laphine yang semua orang cari. Kita harus memberitahu perempuan tersebut tentang berita buruk ini.# 
+Laporkan kepada Giranni.#
+
+14139#Temui Wuhuru#SG_FEEL#QUE_NOIMAGE#
+Perempuan itu memastikan kalau mayat tersebut adalah ayahnya. Aku harus kembali menemui Wuhari dengan tangan kosong karena Laphine yang dicari telah mati. Sebelum itu, ayo temui Wuhuru untuk memberitahu tentang Laphine yang telah bekerja untuknya.# 
+Temui Wuhuru.#
+
+14140#Temui Wuhari#SG_FEEL#QUE_NOIMAGE#
+Wuhuru mengatakan semua ceritanya, tapi dia tidak memberitahukan seluruhnya kepada Wuhari. Temui Wuhari untuk paling tidak memberitahu tentang kematian Laphine.# 
+Laporkan kepada Wuhari.#
+
+14141#Bahan untuk penelitian#SG_FEEL#QUE_NOIMAGE#
+Wuhari meminta bahan yang bisa dia gunakan untuk penelitiannya. Berikan Wuhari bahan yang dia butuhkan. (1 Wing piece, 1 sturdy hair, 1 Bradium, 1 rune of darkness, 1 rune of blood).# 
+Dapatkan bahan-bahannya!#
+
+//나이트메어
+2289#Suspicious Cat: musuh#SG_FEEL#QUE_NOIMAGE#
+Permintaan dari Suspicious Cat untuk memburu 20 Verit#
+#
+2290#Suspicious Cat: musuh(Tunggu)#SG_FEEL#QUE_NOIMAGE#
+Bisa diambil kembali setelah beberapa waktu#
+#
+
+2291#Suspicious Cat: Teman Yang Mengganggu(Tunggu)#SG_FEEL#QUE_NOIMAGE#
+Bisa diambil kembali setelah beberapa waktu#
+#
+
+2292#Suspicious Cat: Teman Yang Mengganggu#SG_FEEL#QUE_NOIMAGE#
+Permintaan dari Suspicious Cat untuk memburu 20 Ancient Mummy#
+#
+
+2293#Teman berpetualang#SG_FEEL#QUE_NOIMAGE#
+Bicaralah dengan Advanced Adventurer dari Akademi Kritura#
+#
+
+2294#Teman berpetualang#SG_FEEL#QUE_NOIMAGE#
+Dengarkan pembicaraan dari Poring di Taman Akademi Kritura#
+#
+
+2295#Teman berpetualang#SG_FEEL#QUE_NOIMAGE#
+Dengarkan pembicaraan dari Poring di Taman Akademi Kritura#
+#
+
+2296#Teman berpetualang#SG_FEEL#QUE_NOIMAGE#
+Jinakkan Novice Poring dengan Green Apple#
+Novice Poring Egg#
+
+2297#Teman berpetualang#SG_FEEL#QUE_NOIMAGE#
+Bicaralah dengan Advanced Adventurer#
+#
+
+2298#Teman berpetualang#SG_FEEL#QUE_NOIMAGE#
+Bicaralah dengan Poring#
+#
+
+2299#Property experience#SG_FEEL#QUE_NOIMAGE#
+Serang telur tipe api#
+Attack Lv10 (Fire)#
+

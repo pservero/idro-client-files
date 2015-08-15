@@ -6465,3 +6465,16 @@
 20154#C_Maple_Which_Falls#
 19910#C_Halloween_Hat#
 20195#C_Scratching_Cat#
+
+
+//--------------- Update Sograt Lucky Egg 20150617---------------
+20099#Flying_Ljosalfar#
+19024#Protect_Feathers#
+17598#Sograt_Lucky_Scroll#
+
+//--------------- Update Sanctuary Lucky Egg 20150715---------------
+22072#Hikingboots#
+20218#C_Spell_Circuit#
+21019#Onimaru#
+17607#Sanctuary_Lucky_Egg#
+16043#Meteor_Strike#

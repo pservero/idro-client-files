@@ -6535,3 +6535,15 @@
 20154#Hairband#
 19910#Helm#
 20195#Accessory#
+
+//--------------- Update Sograt Lucky Egg 20150617---------------
+20099#Hairband#
+19024#Hairband#
+17598#Sograt_Lucky_Scroll#
+
+//--------------- Update Sanctuary Lucky Egg 20150715---------------
+22072#Shoes#
+20218#Helm#
+21019#Two-handed sword#
+17607#Sanctuary_Lucky_Scroll#
+16043#Blunt#

@@ -24298,7 +24298,7 @@ Indonesia
 Berat : ^7777770^000000
 #
 7958#
-ke 68 
+ke 70 
 Berat : ^7777770^000000
 #
 16266#
@@ -42453,4 +42453,93 @@ Jenis : ^777777Costume^000000Pertahanan : ^7777770^000000
 Lokasi : ^777777Mid-Lower ^000000 Berat : ^7777770^000000
 Lv Minimum : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
+#
+
+//--------------- Update Sograt Lucky Egg 20150617 ---------------
+20099#
+Flying Ljosalfar.
+Jenis : ^777777Custome Armor^000000 Pertahanan: ^7777770^000000
+Lokasi: ^777777Upper ^000000 Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+19024#
+Protect Feather
+Resis terhadap serangan demi human +2%, ASPD -5%
+Jika VIT Murni lebih dari 108, tambahan Resist terhadap serangan demi human +3%, ASPD -5% .
+Jika VIT Murni lebih dari 120, MaxHP +3%, MDEF +3. 
+Ketika digunakan bersama dengan Feather Beret, ASPD +5%
+Jika tingkat tempa Feather Beret lebih dari +7 ada tambahan ASPD +5%.
+Jika tingkat tempa Feather Beret lebih dari +9 tambahan MaxHP +5%.
+Jenis: ^777777Helm^000000 Pertahanan: ^7777770^000000
+Lokasi : ^777777Mid ^000000 Berat : ^77777750^000000
+Lv Minimum : ^77777770^000000
+Job : ^777777Semua Profesi^000000
+#
+17598#
+Sograt_Lucky_Scroll
+Dapatkan Flying Ljosalfar, Protect Feather, Sound Amplifier, C_Halloween_Hat dan Item Item Special lainnya
+Berat : ^7777771^000000
+#
+
+//--------------- Update Sanctuary Lucky Egg 20150715---------------
+22072#
+MaxHP +4%, MaxSP +4%
+Jika tingkat tempa +3, 
+MaxHP +3%, MaxSP +3%
+Jika tingkat tempa +10, 
+Akan meningkatkan kecepatan gerakan saat dipakai
+Jenis : ^777777Shoe^000000 Pertahanan : ^77777710^0007955000
+Berat : ^77777750^000000
+Lv Minimum : ^777777100^000000
+Profesi : ^777777Semua Job^000000
+#
+
+20218#
+Spell Circuit
+Lingkaran Spell yang bereaksi dengan setiap gerakan
+Jenis : ^777777Costume^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777Upper ^000000Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Job^000000
+#
+
+21019#
+Salah satu dari Pedang legendaris
+ATK +1 setiap 1 poin STR. Maksimal hingga 120
+Jika base STR 95, ATK +40. 
+Jika base STR 120, ATK +80.
+Jika base STR 108, ATK +160
+Jika tingkat tempa +7, senjata tidak bisa dihancurkan
+Saat melakukan serangan fisik ada kemungkinan memberikan Curse dalam area 11x11 kotak disekitar player
+Jika tingkat tempa +9 , saat menggunakan Frenzy ada kemungkinan memberikam Over thrust Lv5
+Jenis : ^777777Double hand sword^000000 Serangan : ^77777775^000000
+Berat : ^777777420^000000
+Senjata Level : ^7777774^000000
+Lv Minimum: ^777777130^000000
+Profesi : ^777777Rune knight^000000
+#
+
+17607#
+Sanctuary Lucky Egg
+Dapatkan Spell Circuit, Meteor Strike, Onimaru, Hiiking Boots dan Item Item Special lainnya
+Berat : ^7777771^000000
+#
+
+16043#
+Sebuah senjata yang sangatlah berat bahkan tidak bisa dikendalikan oleh orang kuat sekalipun
+Tidak akan memberikan suara yang konyol saat memukul objek
+ATK +10 Setiap poin skill weapon research.
+ATK +30 Setiap poin skill Iron Hand
+ATK +7, HIT +5. Setiap poin skill Axe Mastery
+Setiap tingkat tempa Meteor Strike ATK +10
+Jika skill Push Cart Lv 10, Akan mendapatkan Skill Cart Revolution Lv 1
+Mempelajari Skill Sword Mastery akan mendapatkan Skill Bowling Bash.
+Jika Status STR Murni 108, konsumsi SP berkurang sebanyak 20%
+Jika Status STR Murni 120, konsumsi SP berkurang sebanyak 30%
+Jenis :^777777 Blunt ^000000Serangan:^7777771^000000
+Berat: ^7777772000^000000
+Senjata Level:^7777774^000000
+Lv Minimum: ^777777110^000000
+Equip: ^ 777777 ^000000 Super novice^000000
 #

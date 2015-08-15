@@ -31814,3 +31814,31 @@ Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 20195#
 Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 #
+
+//--------------- Update Sograt Lucky Egg 20150617---------------
+20099#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+19024#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+17598#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+
+//--------------- Update Sanctuary Lucky Egg 20150715---------------
+22072#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+20218#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+21019#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+17607#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+16043#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#

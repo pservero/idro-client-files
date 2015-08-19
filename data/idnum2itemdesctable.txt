@@ -42485,7 +42485,7 @@ Berat : ^7777771^000000
 //--------------- Update Sanctuary Lucky Egg 20150715---------------
 22072#
 MaxHP +4%, MaxSP +4%
-Jika tingkat tempa +3, 
+Disetiap tingkat tempa +3, 
 MaxHP +3%, MaxSP +3%
 Jika tingkat tempa +10, 
 Akan meningkatkan kecepatan gerakan saat dipakai
@@ -42542,4 +42542,56 @@ Berat: ^7777772000^000000
 Senjata Level:^7777774^000000
 Lv Minimum: ^777777110^000000
 Equip: ^ 777777 ^000000 Super novice^000000
+#
+
+//--------------- Update Chronosian Lucky Egg 20150819---------------
+17613#
+Chronosian Lucky Egg.
+Kamu bisa mendapatkan C Dark Night Veil, Owlviscount Silk Hat, ShadowStaff, Trumpet Shell dan item item spesial lain nya.
+Weight : ^7777771^000000
+#
+20220#
+Hiasan kepala yang biasa di pakai oleh Dark Night
+Jenis : ^777777Costume^000000Pertahanan : ^7777770^000000
+Lokasi : ^777777Upper Middle ^000000Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Profesi^000000
+#
+5943#
+INT +2.
+Kecepatan serang +10%.
+setiap tingkat tempa akan menambah MATK +7
+Ketika kamu menyerang dengan kekuatan magic, mempunyai kemungkinan meningkatkan attack speed selama  30 detik,
+jika tingkat tempa Mencapai +5, attack speed +5%.
+jika tingkat tempa Mencapai +7, attack speed +10%.
+jika tingkat tempa di atas +9, attack speed +40%.
+Jenis : ^777777Helm^000000 Pertahanan : ^77777715^000000
+Lokasi : ^777777Upper ^000000Berat : ^77777750^000000
+Lv Minimum : ^77777770^000000
+Profesi : ^777777Semua Profesi^000000
+#
+1682#
+Ketika kamu mempelajari Hell Inferno sampai Lv5,
+Kekuatan serang dari skill Hell Inferno +100%,
+Setiap tingkat tempa, kekuatan serang dari skill Hell Inferno akan bertambah 10%,
+Ketika menyerang dengan magic attack, akan mengabaikan magic defense dari musuh sebesar 5%.
+Ketika menggunakan skill Hell Inferno, mempunyai kemungkinan mengurangi casting dari skill Hell Inferno's sebesar 30% selama 5 detik.
+kemungkinan akan bertambah berdasarkan pada tingkat level tempa.
+MATK + 130
+Jenis : ^777777one-handed staff^000000 Serangan : ^7777770^000000
+Berat : ^77777760^000000
+Senjata level : ^7777774^000000
+Lv Minimum : ^77777790^000000
+Profesi : ^777777Warlock Class^000000
+#
+1940#
+Setiap tingkat tempat akan menambah, DEX +1, INT +1.
+Ketika tingkat tempat di atas +5, kekuatan serang dari skill Reverberation  bertambah 10%, dan casting dari skill Reverberation berkurang 10%.
+Ketika tingkat tempat di atas +7, kekuatan serang dari skill Reverberation  bertambah 20%, dan casting dari skill Reverberation berkurang 20%.
+Ketika tingkat tempat di atas +9, kekuatan serang dari skill Reverberation  bertambah 40%, dan casting dari skill Reverberation berkurang 40%.
+Jenis : ^777777Instrument^000000 Serangan : ^777777125^000000
+Berat : ^77777760^000000
+Senjata Level : ^7777774^000000
+Lv Minimum : ^777777130^000000
+Profesi : ^777777Ministrel Class^000000
 #

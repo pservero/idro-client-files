@@ -31842,3 +31842,21 @@ Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 16043#
 Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 #
+
+//--------------- Update Chronosian Lucky Egg 20150819---------------
+17613#
+Chronosian_Lucky_Scroll
+#
+20220#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+5943#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+1682#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
+#
+1940#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+

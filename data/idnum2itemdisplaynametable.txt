@@ -6478,3 +6478,10 @@
 21019#Onimaru#
 17607#Sanctuary_Lucky_Egg#
 16043#Meteor_Strike#
+
+//--------------- Update Chronosian Lucky Egg 20150819---------------
+17613#Chronosian_Lucky_Eggl#
+20220#C_Dark_Night_Veil#
+5943#Owl_viscount_Silk_Hat#
+1682#Shadow_Staff#
+1940#Trumpet_Shell#

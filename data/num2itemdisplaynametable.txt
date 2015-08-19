@@ -6547,3 +6547,10 @@
 21019#Two-handed sword#
 17607#Sanctuary_Lucky_Scroll#
 16043#Blunt#
+
+//--------------- Update Chronosian Lucky Egg 20150819---------------
+17613#Chronosian_Lucky_Scroll#
+20220#Helm#
+5943#Hat#
+1682#One-handed staff#
+1940#Instrument#

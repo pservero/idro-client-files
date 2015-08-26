@@ -1605,6 +1605,7 @@ Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
 1124#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
+#
 1126#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
@@ -4134,7 +4135,8 @@ Berat : ^7777770^000000
 Tiket masuk untuk duel kehormatan.
 ^ffffff_^000000
 Berat : ^7777770^000000
-#19998#
+#
+19998#
 // ---- EP 2.0 Pet System Item -----------
 #
 
@@ -4590,7 +4592,6 @@ Kue dengan krim yang manis di atasnya, terbagi sepotong-sepotong. Memberikan sej
 Berat : ^77777710^000000
 #
 // ---- Ep 3.0 Comodo ----------------
-#
 
 7038#
 Pintalan benang berwarna putih dan sangat halus.
@@ -4769,7 +4770,7 @@ Kue yang terbuat dari nasi dengan 3 warna, yaitu merah, putih, dan hijau.
 Berat : ^7777771^000000
 #
 // ---- EP 4.0 Turtle Island -----------
-#
+
 
 544#
 Sepotong daging ikan yang sangat segar, rasanya pun seperti laut.
@@ -5125,7 +5126,6 @@ Berat : ^7777772^000000
 #
 // --------- For 2005 Valentine Day Event ----------
 
-#
 573#
 Cairan yang terbuat dari coklat yang ditaruh dalam wadah berbentuk hati.
 Biasanya barang ini diberikan kepada seseorang yang kamu sayang atau bisa juga kamu minum sendiri. 
@@ -5151,7 +5151,6 @@ Berat : ^7777772^000000
 #
 
 // ---- EP 5.0 ?? - ???? ??? ?? -----------
-#
 
 2110#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
@@ -5965,7 +5964,7 @@ Obat bulat berwarna hitam. Dengan melihatnya saja, sudah dapat diketahui seberap
 Berat : ^7777771^000000
 #
 // ----------- X-mas event -----------------------
-#
+
 7174#
 Pita berwarna merah yang sepertinya berguna untuk mengikat kotak hadiah.
 ^ffffff_^000000
@@ -6007,7 +6006,7 @@ Kotak seperti hadiah natal. Tidak ada yang tahu isinya.
 Berat : ^77777720^000000
 #
 //------------------------new hat---------------------
-#
+
 5057#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
@@ -6123,7 +6122,7 @@ Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
 //------------------??? ???-------------
-#
+
 574#
 Telur yang berasal dari burung yang mengandung protein tinggi dan sangat sehat untuk dikonsumsi. ^000088Memberikan sejumlah HP^000000.
 ^ffffff_^000000
@@ -6135,20 +6134,20 @@ Telur yang biasanya dihias oleh anak-anak untuk merayakan hari Paskah. ^000088Bi
 Berat : ^77777715^000000
 #
 // ---- New Novice training ground(2) =====
-#
+
 569#
 Hanya untuk Novice, ramuan yang mengembalikan ^000088sedikit HP^000000.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 // --- Jawaii ------------------------------
-#
+
 681#
 Album foto yang menyimpan kenangan bulan madu kalian. Kamu akan merasakan kehangatan pada saat membukanya kembali.
 (hanya dipakai oleh orang yang sudah menikah.)
 #
 // ------???????------
-#
+
 7252#
 Obat dari daratan primitif timur, terbuat dari ramuan tumbuhan dan daging binatang yang telah disesuaikan dengan konsep harmoni.
 ^ffffff_^000000
@@ -6165,7 +6164,7 @@ Obat yang terkenal khasiatnya selama beribu-ribu tahun di daratan timur.
 Berat : ^77777730^000000
 #
 // ------???????2------
-#
+
 7262#
 Peralatan sederhana yang dapat menimbulkan angin. Sangat berguna apabila dipakai di musim panas.
 ^ffffff_^000000
@@ -6305,7 +6304,7 @@ Type : ^777777Pet Egg^000000
 Berat : ^7777770^000000
 #
 //--------------2?? RO ???-----------------
-#
+
 575#
 Potongan kue Ulang Tahun. Dapat menyembuhkan sedikit HP.
 Berat : ^77777710^000000
@@ -6314,7 +6313,7 @@ Berat : ^77777710^000000
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
 //--------------RBO ???-----------------
-#
+
 5102#
 Barang tidak diketahui, Bisa dispesifikasi dengan [Magnifier].
 #
@@ -6560,7 +6559,7 @@ Quiver yang berisi 500 rusty arrow.
 Berat : ^77777725^000000
 #
 //-------2005 Indonesia Independence Event --------
-#
+
 7399#
 Sebuah potongan kartu ucapan yang bertuliskan kata 'selamat'.
 ^ffffff_^000000
@@ -6592,7 +6591,7 @@ Sebuah potongan kartu ucapan yang bertuliskan kata 'ke-63'.
 Berat : ^7777771^000000
 #
 //-------O/X Quiz Event --------
-#
+
 7280#
 Tiket pertama agar bisa mengikuti Quiz.
 ^ffffff_^000000
@@ -6619,14 +6618,14 @@ Tiket kelima agar bisa mengikuti Quiz.
 Berat : ^7777771^000000
 #
 //------------????? MVP summon event----------------
-#
+
 7415#
 Suatu benda yang memiliki kekuatan sihir yang biasanya dipakai untuk upacara ritual tertentu.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 //------------2005 ??? event----------------
-#
+
 5134#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
@@ -6715,7 +6714,7 @@ Jika kamu memakannya akan meningkatkan ATK dan MATK sebesar 10 untuk sementara w
 Berat : ^7777777^000000
 #
 //------------2005 ??? event----------------
-#
+
 7459#
 Sebuah kartu yang unik yang biasanya digunakan untuk memberikan Ucapan selamat hari raya idul fitri.
 ^ffffff_^000000
@@ -6727,8 +6726,6 @@ Masakan tradisional yang terbuat dari ketupat yang dihidangkan untuk merayakan h
 Berat : ^77777715^000000
 #
 //hallowen spesial
-// hallowen spesial
-#
 560#
 Sebuah kue Tart yang bertuliskan kata cinta ditengahnya, sangat romantis dan cocok untuk diberikan pada kekasihmu.
 Berat : ^77777780^000000
@@ -6754,7 +6751,7 @@ Berat : ^77777730^000000
 #
 
 // ------- Mother's Day Indonesia --------
-#
+
 2646#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]
 #
@@ -8526,7 +8523,7 @@ Berat : ^7777771^000000
 ?? ???? ???? ?? ??? ?? ??? ???? ????. 
 ^ffffff_^000000 
 ?? : ^7777775^000000 
- 
+# 
 // white day 2006 
  
 7432# 
@@ -11855,8 +11852,7 @@ Sebuah quiver yang berisikan
 500 Holy Arrows. 
 ^ffffff_^000000 
 beratt: ^77777725^000000 
-# 
-1772# 
+#
 1772# 
 Sebuah panah yang telah 
 diberkati dengan holy water. 
@@ -15180,7 +15176,6 @@ Berat : ^7777771^000000
 # 
  
 //---------- Update Item Mall Headgears 2 Juli 2008 ---------- 
-# 
 5233# 
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
@@ -17009,14 +17004,14 @@ Item tidak diketahui, bisa dikenali dengan menggunakan [Magnifier].
  
 2430# 
 Item tidak diketahui, bisa dikenali dengan menggunakan [Magnifier]. 
- 
+# 
 5243# 
 Topi yang terbuat dari bulu hewan. Dapat berfungsi untuk menghangatkan kepala dan telingamu di musim dingin. 
 Sebaiknya digunakan pada daerah yang dingin. Meningkatkan toleransi terhadapat status Freeze sebesar 10%. 
 Jenis : ^777777Headgear^^000000 
 Tk Def ^7777772^000000      Berat : ^77777780^000000 
 Profesi: ^777777Semua^000000 
- 
+#
  
 //----update Headgear IM/KS dec08--------------- 
 5189# 
@@ -19969,9 +19964,9 @@ Profesi : ^777777Semua Profesi^000000
 Item Penjualan Splendide 
 ^ffffff_^000000 
 Berat : ^7777771^000000 
-# 
+ 
 //book Folder Translated 
-%f5f5dc 
+//%f5f5dc 
 ^000088Item Penjualan Splendide^000000 
  
 Kamu bisa membeli beberapa item berikut menggunakan Splandide Coin. 
@@ -19996,14 +19991,15 @@ Ketika dipakai, meningkatkan serangan Magic terhadap monster yang ada diarea Spl
 ^000088(Pinguicula, Luciola Vespa, Cornus, Naga, Tendrillion)^000000 
 ^ffffff_^000000 
 Berat : ^7777775^000000 
+#
  
 11019# 
 Item Penjualan Manuk 
 ^ffffff_^000000 
 Berat : ^7777771^000000 
-# 
+
 //book Folder Translated 
-%f5f5dc 
+//%f5f5dc 
 ^000088Item Penjualan Manuk^000000 
  
 Kamu bisa membeli beberapa item berikut menggunakan Manuk Coin. 
@@ -20028,6 +20024,7 @@ Sebuah suplemen yang dibuat oleh Laboratorium Manuk dan dianjurkan secara resmi.
 ^000088(Nepenthes, Centipede, Centipede Larva, Hilsrion, Tatacho, Hardrock Mammoth)^000000 
 ^ffffff_^000000 
 Berat : ^7777775^000000 
+#
  
 6073# 
 Helai bulu misterius berwarna biru dari Naga. Dengan warnanya yang cantik dan lembut seperti sutra digunakan sebagai dekorasi. 
@@ -21130,7 +21127,7 @@ Item tidak diketahui, dapat diidentifikasi dengan [Magnifier].
 5528# 
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
-5500 
+5500#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]. 
 # 
 5667# 
@@ -22890,8 +22887,7 @@ posisi: ^777777Mid-Lower ^000000 Berat : ^77777710^000000
 Level Persyaratan : ^777777100^000000 
 Jobs : ^777777Guillotine cross^000000 
 # 
- 
-# 
+
 5756# 
 Topi untuk upacara ritual yang dibuat dari bulu burung suci 
 INT + 1, DEX + 1, MDEF + 5. 
@@ -22909,6 +22905,7 @@ Bila INT asli mencapai 120, MATK + 10, DEF + 5.
 Jenis : ^777777Headgear^000000 Defense : ^77777717^000000 
 posisi: ^777777Atas-Tengah^000000 Berat 
 Jobs : ^777777Royal guard^000000 
+#
  
 5758# 
 Hiasan kepala seorang ballerina. 
@@ -27955,6 +27952,7 @@ Kelas : ^777777Helm^000000 Pertahanan : ^7777772^000000
 À§Ä¡: ^777777Middle high ^000000 Berat : ^77777750^000000
 Membutuhkan Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
+#
 
 2985#
 Cincin emas, yang memiliki daya magis untuk menyembunyikan penampilan seseorang. Sheepkeeper, Gyges, membunuh raja dan mengambil ratu dari dia dengan menggunakan cincin ini.
@@ -29038,6 +29036,7 @@ Jenis : ^777777Helm^000000 Defense : ^7777773^000000
 Digunakan di: ^777777Upper ^000000 Berat : ^77777730^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
+#
 
 19752#
 Aksesoris dengan mawar ungu
@@ -30813,7 +30812,6 @@ Berat : ^777777120^000000
 Senjata Lv. : ^7777773^000000
 Dibutuhkan Lv.: ^777777100^000000
 Profesi : ^777777Guilontine Cross Type^000000
-#
 #
 28600#
 Busur Biru yang mempunyai kekuatan menghancurkan. Agi +5, Dex +5.

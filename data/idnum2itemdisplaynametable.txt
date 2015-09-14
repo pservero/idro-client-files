@@ -6485,3 +6485,10 @@
 5943#Owl_viscount_Silk_Hat#
 1682#Shadow_Staff#
 1940#Trumpet_Shell#
+
+//--------------- Update Cyborg Lucky Egg 20150909---------------
+20315#C_Analyze_Eye#
+20316#C_Seraph_Wing_Helm#
+22082#Polyhedron_Shoes#
+28372#Imperial_Ring#
+17628#Cyborg_Lucky_Egg#

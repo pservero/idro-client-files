@@ -41584,3 +41584,49 @@ Senjata Level : ^7777774^000000
 Lv Minimum : ^777777130^000000
 Profesi : ^777777Ministrel Class^000000
 #
+
+//--------------- Update Cyborg Lucky Egg 20150909 ---------------
+20315#
+Item kombinasi antara teknologi misterius dan magic
+Tak ada yang tau bagaimana cara kerjanya
+Jenis : ^777777Costume ^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777Lower ^000000Berat : ^7777770^000000
+Lv Minimum: ^7777771^000000
+Profesi : ^777777Semua Job^000000
+#
+20316#
+Costume Seraph Wing Helm
+Jenis : ^777777Costume ^000000 Pertahanan : ^7777770^000000
+Lokasi : ^777777High ^000000Berat : ^7777770^000000
+Lv Minimum : ^7777771^000000
+Profesi : ^777777Semua Job^000000
+#
+22082#
+Serangan yang diterima dari serangan netral, Elemen api, air, angin dan tanah berkurang -5%
+Saat tingkat tempat mencapai +5, 
+Serangan magic terhadap monster meningkat sebesar 5% (Netral, Api, Air, Angin & Tanah) 
+Saat tingkat tempat mencapai +7, 
+Serangan magic terhadap monster meningkat sebesar 10% (Netral, Api, Air, Angin & Tanah) 
+Jenis : ^777777Shoes^000000 Pertahanan : ^77777712^000000
+Weight : ^77777750^000000
+Lv Minimum : ^77777790^000000
+Profesi : ^777777Semua Job^000000
+#
+28372#
+STR + 1, INT + 1.
+MHP + 3%, MSP + 3%.
+Jika digunakan bersamaan dengan Imperial Spear, setiap 2 tingkat tempa Imperial Spear, kekuatan serang Cannon Spear dan Banishing point meningkat sebesar 7%
+Jika digunakan bersamaan dengan Imperial Guard, saat tingkat tempa Imperial Guard +6, attack power dari Shield Press meningkat sebesar 8%.
+Jika digunakan bersamaan dengan Imperial Feather,
+Setiap 1 Base Level, kekuatan serang dari Grand Cross meningkat 1% dan waktu casting berkurang 2 detik
+Setiap 30 Base level, Kekuatan serang Genesis Ray meningkat 1% , dan konsumsi SP berkurang 10
+Jenis : ^777777Accessory^000000 Pertahanan : ^7777773^000000
+Berat : ^77777750^000000
+Lv Minimum  : ^77777750^000000
+Profesi : ^777777Semua Job^000000
+#
+17628#
+Cyborg_Lucky_Egg
+Kamu bisa mendapatkan C Analyze Eye, C Seraph Wing Helm, Polyhedron Shoes, Imperial Ring dan item item Spesial lain nya.
+Weight : ^7777771^000000
+#

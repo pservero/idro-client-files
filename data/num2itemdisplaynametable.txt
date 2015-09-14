@@ -6554,3 +6554,10 @@
 5943#Hat#
 1682#One-handed staff#
 1940#Instrument#
+
+//--------------- Update Cyborg Lucky Egg 20150909---------------
+20315#Mask#
+20316#Hat#
+22082#Shoes#
+28372#Accessory#
+17628#Cyborg_Lucky_Scroll#

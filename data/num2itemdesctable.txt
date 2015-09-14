@@ -31858,3 +31858,19 @@ Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
 #
 
+//--------------- Update Cyborg Lucky Egg 20150909---------------
+20315#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+20316#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+22082#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+28372#
+Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier] 
+#
+17628#
+Cyborg_Lucky_Egg
+#

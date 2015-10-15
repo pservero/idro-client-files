@@ -2471,3 +2471,4 @@ Ranking Type#
 %d%% ( Basic 100%% + Premium %d%% + PCCafe %d%% + %s Server %d%% )#
 1#
 1#
+/monsterhp : Menunjukkan Informasi HP Monster yang diserang. On Off#

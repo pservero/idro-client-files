@@ -10055,3 +10055,266 @@ Bicaralah dengan Poring#
 Serang telur tipe api#
 Attack Lv10 (Fire)#
 
+
+//WoE TE
+
+7501#Suspicious Babe 1#SG_FEEL#QUE_NOIMAGE#
+A request to eliminate Suspicious Babes that appear during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 1 Babee.#
+Suspicious Babee eliminated#
+
+7502# 10 Suspicious Babes#SG_FEEL#QUE_NOIMAGE#
+A request to eliminate Suspicious Babes that appear during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 10 Babees.#
+Suspicious Babes eliminated#
+
+7503# 30 Suspicious Babes#SG_FEEL#QUE_NOIMAGE#
+A request to eliminate Suspicious Babes that appear during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 30 Babees.#
+Suspicious Babes eliminated#
+
+7504# Destroy 1 Emperium#SG_FEEL#QUE_NOIMAGE#
+Emperium destroying, the flower of Multiplayer Battle Arena! Destroy at least 1 Emperium appearing at the fortresses in Gloria and Kafragaten in Multiplayer Battle Arena. Target number: 1 Emperium#
+Emperium destroyed#
+
+7505# Destroy 3 Emperiums#SG_FEEL#QUE_NOIMAGE#
+Emperium destroying, the flower of Multiplayer Battle Arena! Destroy at least 3 Emperiums appearing at the fortresses in Gloria and Kafragaten in Multiplayer Battle Arena. Target number: 3 Emperiums#
+Emperiums destroyed#
+
+7506# Destroy 5 Emperiums#SG_FEEL#QUE_NOIMAGE#
+Emperium destroying, the flower of Multiplayer Battle Arena! Destroy at least 5 Emperiums appearing at the fortresses in Gloria and Kafragaten in Multiplayer Battle Arena. Target number: 5 Emperiums#
+Emperiums destroyed#
+
+7507# 10 Small Wooden Boxes#SG_FEEL#QUE_NOIMAGE#
+Suspicious Babes have stolen many small wooden boxes at the fortress in Gloria. Collect 10 wooden boxes during Multiplayer Battle Arena TE hours.#
+10 Small Wooden Boxes#
+
+7508# 20 Small Wooden Boxes#SG_FEEL#QUE_NOIMAGE#
+Suspicious Babes have stolen many small wooden boxes at the fortress in Gloria. Collect 20 wooden boxes during Multiplayer Battle Arena TE hours.#
+20 Small Wooden Boxes#
+
+7509# 30 Small Wooden Boxes#SG_FEEL#QUE_NOIMAGE#
+Suspicious Babes have stolen many small wooden boxes at the fortress in Gloria. Collect 30 wooden boxes during Multiplayer Battle Arena TE hours.#
+30 Small Wooden Boxes#
+
+7510# Fight Off a Thief#SG_FEEL#QUE_NOIMAGE#
+A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 1 Poring.#
+Poring the Thief eliminated#
+
+7511# Fight Off 10 Thieves#SG_FEEL#QUE_NOIMAGE#
+A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 10 Porings.#
+Porings eliminated#
+
+7512# Fight Off 30 Thieves#SG_FEEL#QUE_NOIMAGE#
+A request to fight off Poring the Thief that appears during Multiplayer Battle Arena hours at the fortress in Gloria in Multiplayer Battle Arena TE. Target number: 30 Porings.#
+Porings eliminated#
+
+7513# 10 Paychecks#SG_FEEL#QUE_NOIMAGE#
+Looks like Poring the Thief stole paychecks from the Kafra shop. Find paychecks back. Target number: 10 paychecks#
+10 paychecks from the Kafra shop#
+
+7514# 20 Paychecks#SG_FEEL#QUE_NOIMAGE#
+Looks like Poring the Thief stole paychecks from the Kafra shop. Find paychecks back. Target number: 20 paychecks#
+20 paychecks from the Kafra shop#
+
+7515# 30 Paychecks#SG_FEEL#QUE_NOIMAGE#
+Looks like Poring the Thief stole paychecks from the Kafra shop. Find paychecks back. Target number: 30 paychecks#
+30 paychecks from the Kafra shop#
+
+7516# a Break for Commercial Development#SG_FEEL#QUE_NOIMAGE#
+Destroying Emperiums repeatedly staggers commercial development. Give it some time to maintain its commercial development.#
+20-minute Break#
+
+//-- Guild Quest Valkyrie Realm, Britoniah, Luina, Greenwood Lake
+
+7517# Occupy Valkyrie Realm#SG_FEEL#QUE_NOIMAGE# 
+Occupation of a fortress in Valkyrie Realm has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+7518# Occupy Luina#SG_FEEL#QUE_NOIMAGE#
+Occupation of a fortress in Luina has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+7519# Occupy Britoniah#SG_FEEL#QUE_NOIMAGE#
+Occupation of a fortress in Britoniah has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+7520# Occupy Greenwood Lake#SG_FEEL#QUE_NOIMAGE#
+Occupation of a fortress in Greenwood Lake has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+7521# Occupy Nidabehl#SG_FEEL#QUE_NOIMAGE#
+Occupation of a fortress in Nidabehl has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+7522# Occupy Valfreyja#SG_FEEL#QUE_NOIMAGE#
+Occupation of a fortress in Valfreyja has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+7523# Occupy Gloria#SG_FEEL#QUE_NOIMAGE#
+Occupation of a fortress in Gloria has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+7524# Occupy Kafragaten#SG_FEEL#QUE_NOIMAGE#
+Occupation of a fortress in Kafragaten has been reported. Next report can be made after 1 hour.#
+1-hour Standby#
+
+//-- Guild Dungeon Daily Quest
+
+7525# Valkyrie Realm Challenge 1#SG_FEEL#QUE_NOIMAGE#
+On the first floor of Valkyrie Realm guild dungeon, fight off 50 Caterpillars and Creamy Fears respectively.#
+Monsters eliminated from the first floor of guild dungeon#
+
+7526# Valkyrie Realm Challenge 2#SG_FEEL#QUE_NOIMAGE# 
+On the second floor of Valkyrie Realm guild dungeon, fight off 3 types of Abysmal Kobold (30 of each type).#
+Monsters eliminated from the second floor of guild dungeon#
+
+7527# Valkyrie Realm Challenge 3#SG_FEEL#QUE_NOIMAGE#
+Fight off Pyuriel the Furious Outcast and Lora the Warrior in the Road of Warriors in Corridor of the Abyss in Valkyrie Realm.#
+Battle in Corridor of the Abyss#
+
+7528# Luina Challenge 1#SG_FEEL#QUE_NOIMAGE#
+On the first floor of Luina guild dungeon, fight off 50 Giant Hornets and Ancient Worms respectively.#
+Monsters eliminated from the first floor of guild dungeon#
+
+7529# Luina Challenge 2#SG_FEEL#QUE_NOIMAGE#
+On the second floor of Luina guild dungeon, fight off 40 Killer Mantises and 50 Angra Mantises.#
+Monsters eliminated from the second floor of guild dungeon#
+
+7530# Luina Challenge 3#SG_FEEL#QUE_NOIMAGE#
+Fight off Gioia and Elvira in Hero¡¯s Tear in Corridor of the Abyss in Luina.#
+Battle in Corridor of the Abyss#
+
+7531# Britoniah Challenge 1#SG_FEEL#QUE_NOIMAGE#
+On the first floor of Britoniah guild dungeon, fight off 50 Zombie Masters and Wraith Deads respectively.#
+Monsters eliminated from the first floor of guild dungeon#
+
+7532# Britoniah Challenge 2#SG_FEEL#QUE_NOIMAGE#
+On the second floor of Britoniah guild dungeon, fight off 20 Abysmal Dark Frames, 20 Abysmal Dark Priests, 50 Abysmal Dark Shadows.#
+Monsters eliminated from the second floor of guild dungeon#
+
+7533# Britoniah Challenge 3#SG_FEEL#QUE_NOIMAGE#
+Fight off Kades and Rudo, the guardians of the dead, in the Dead Man¡¯s Hill in Corridor of the Abyss in Britoniah.#
+Battle in Corridor of the Abyss#
+
+7534# Greenwood Lake Challenge 1#SG_FEEL#QUE_NOIMAGE#
+On the first floor of Greenwood Lake guild dungeon, fight off 50 Gullinbrustis and Leib Olmais respectively.#
+Monsters eliminated from the first floor of guild dungeon#
+
+7535# Greenwood Lake Challenge 2#SG_FEEL#QUE_NOIMAGE#
+On the second floor of Greenwood Lake guild dungeon, fight off 45 Skeleton Generals, 20 Am Muts, and 25 Gajomarts.#
+Monsters eliminated from the second floor of guild dungeon#
+
+7536# Greenwood Lake Challenge 3#SG_FEEL#QUE_NOIMAGE#
+Fight off General Daehyeon and Warrior Soheon in the Ancient Wind in in Corridor of the Abyss in Greenwood Lake.#
+Battle in Corridor of the Abyss#
+
+7537# Nidabehl Challenge 1#SG_FEEL#QUE_NOIMAGE#
+Fight off 50 Hell Apocalypses and Zakudams respectively in Nidabehl guild dungeon.#
+Monsters eliminated from guild dungeon 1#
+
+7538# Nidabehl Challenge 2#SG_FEEL#QUE_NOIMAGE#
+Fight off 35 Heavy Metalings and 35 Cobalt Minerals in Nidabehl guild dungeon.#
+Monsters eliminated from guild dungeon 2#
+
+7539# Valfreyja Challenge 1#SG_FEEL#QUE_NOIMAGE#
+Fight off 50 Banshee Masters and 30 Beholder Masters in Valfreyja guild dungeon.#
+Monsters eliminated from guild dungeon 1#
+
+7540# Valfreyja Challenge 2#SG_FEEL#QUE_NOIMAGE#
+Fight off 50 Aunoes and 20 Fanats in Valfreyja guild dungeon.#
+Monsters eliminated from guild dungeon 2#
+
+7541# Gloria Challenge 1#SG_FEEL#QUE_NOIMAGE#
+Fight off 30 Knights, Assassins, and Blacksmiths respectively in Gloria guild dungeon.#
+Monsters eliminated from guild dungeon 1# 
+
+7542# Gloria Challenge 2#SG_FEEL#QUE_NOIMAGE#
+Fight off 30 Wizards, Priests, and Hunters respectively in Gloria guild dungeon.#
+Monsters eliminated from guild dungeon 2#
+
+//-- Guild Quest Standby Time
+7543# Standby for Valkyrie Realm Challenge 1#SG_FEEL#QUE_NOIMAGE#
+You have completed Valkyrie Realm Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7544# Standby for Valkyrie Realm Challenge 2#SG_FEEL#QUE_NOIMAGE#
+You have completed Valkyrie Realm Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7545# Standby for Valkyrie Realm Challenge 3#SG_FEEL#QUE_NOIMAGE#
+You have completed Valkyrie Realm Challenge 3 already. To challenge again, come back after 1 week.#
+See you next week!#
+
+7546# Standby for Luina Challenge 1#SG_FEEL#QUE_NOIMAGE#
+You have completed Luina Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7547# Standby for Luina Challenge 2#SG_FEEL#QUE_NOIMAGE#
+You have completed Luina Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7548# Standby for Luina Challenge 3#SG_FEEL#QUE_NOIMAGE#
+You have completed Luina Challenge 3 already. To challenge again, come back after 1 week.#
+See you next week!#
+
+7549# Standby for Britoniah Challenge 1#SG_FEEL#QUE_NOIMAGE#
+You have completed Britoniah Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7550# Standby for Britoniah Challenge 2#SG_FEEL#QUE_NOIMAGE#
+You have completed Britoniah Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7551# Standby for Britoniah Challenge 3#SG_FEEL#QUE_NOIMAGE#
+You have completed Britoniah Challenge 3 already. To challenge again, come back after 1 week.#
+See you next week!#
+
+7552# Standby for Greenwood Lake Challenge 1#SG_FEEL#QUE_NOIMAGE#
+You have completed Greenwood Lake Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7553# Standby for Greenwood Lake Challenge 2#SG_FEEL#QUE_NOIMAGE#
+You have completed Greenwood Lake Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7554# Standby for Greenwood Lake Challenge 3#SG_FEEL#QUE_NOIMAGE#
+You have completed Greenwood Lake Challenge 3 already. To challenge again, come back after 1 week.#
+See you next week!#
+
+7555# Standby for Nidabehl Challenge 1#SG_FEEL#QUE_NOIMAGE#
+You have completed Nidabehl Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7556# Standby for Nidabehl Challenge 2#SG_FEEL#QUE_NOIMAGE#
+You have completed Nidabehl Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7557# Standby for Valfreyja Challenge 1#SG_FEEL#QUE_NOIMAGE#
+You have completed Valfreyja Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7558# Standby for Valfreyja Challenge 2#SG_FEEL#QUE_NOIMAGE#
+You have completed Valfreyja Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7559# Standby for Gloria Challenge 1#SG_FEEL#QUE_NOIMAGE#
+You have completed Gloria Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7560# Standby for Gloria Challenge 2#SG_FEEL#QUE_NOIMAGE#
+You have completed Gloria Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7561# Kafragaten Challenge 1#SG_FEEL#QUE_NOIMAGE#
+Fight off 30 Crusaders, Rogues, and Alchemists respectively in Kafragaten guild dungeon.#
+Monsters eliminated from guild dungeon 1#
+
+7562# Kafragaten Challenge 2#SG_FEEL#QUE_NOIMAGE#
+Fight off 30 Sages, Monks, and Bards respectively in Kafragaten guild dungeon.#
+Monsters eliminated from guild dungeon 2#
+
+7563#Standby for Kafragaten Challenge 1#SG_FEEL#QUE_NOIMAGE# 
+You have completed Kafragaten Challenge 1 already. To challenge again, come back after 1 day.#
+Take a day off.#
+
+7564# Standby for Kafragaten Challenge 2#SG_FEEL#QUE_NOIMAGE# 
+You have completed Kafragaten Challenge 2 already. To challenge again, come back after 1 day.#
+Take a day off.#

@@ -1397,5 +1397,9 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Silversniper_Doll] = "_실버스나이퍼인형",
 	[ACCESSORY_IDs.ACCESSORY_Magicdecoy_Doll] = "_매직데코이인형",
 	[ACCESSORY_IDs.ACCESSORY_Noble_Mask] = "_귀족의가면",
-	[ACCESSORY_IDs.ACCESSORY_PurpleCrystal_Tiara] = "_보라색수정티아라"
+	[ACCESSORY_IDs.ACCESSORY_PurpleCrystal_Tiara] = "_보라색수정티아라",
+	[ACCESSORY_IDs.ACCESSORY_Pumpkin_Cock_Hat] = "_펌킨요리사모자",
+	[ACCESSORY_IDs.ACCESSORY_Kings_Crown] = "_고대왕의왕관",
+	[ACCESSORY_IDs.ACCESSORY_YDragon_SkyWing] = "_황룡의하늘날개",
+	[ACCESSORY_IDs.ACCESSORY_Explosion_Gum] = "_익스플로젼껌"
 }

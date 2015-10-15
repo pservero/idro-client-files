@@ -1401,5 +1401,9 @@ ACCESSORY_IDs = {
 	ACCESSORY_Silversniper_Doll = 1407,
 	ACCESSORY_Magicdecoy_Doll = 1408,
 	ACCESSORY_Noble_Mask = 1409,
-	ACCESSORY_PurpleCrystal_Tiara = 1410
+	ACCESSORY_PurpleCrystal_Tiara = 1410,
+	ACCESSORY_Pumpkin_Cock_Hat = 1411,
+	ACCESSORY_Kings_Crown = 1412,
+	ACCESSORY_YDragon_SkyWing = 1413,
+	ACCESSORY_Explosion_Gum = 1414
 }

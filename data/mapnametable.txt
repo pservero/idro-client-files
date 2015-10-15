@@ -1,3 +1,20 @@
+//공성전 TE 복사맵 
+te_prt_gld.rsw#Gloria#
+te_prtcas01.rsw#Gaebolg#
+te_prtcas02.rsw#Richard#
+te_prtcas03.rsw#Wigner#
+te_prtcas04.rsw#Heine#
+te_prtcas05.rsw#Nerious#
+teg_dun01.rsw#Subterranean Dungeon of Guild#
+te_alde_gld.rsw#Kafragaten#
+te_aldecas1.rsw#Glaris#
+te_aldecas2.rsw#Defolty#
+te_aldecas3.rsw#Sorin#
+te_aldecas4.rsw#Bennit#
+te_aldecas5.rsw#W#
+teg_dun02.rsw#Subterranean Dungeon of Guild#
+
+
 gefenia04.rsw#Geffenia #
 gefenia03.rsw#Geffenia #
 gefenia02.rsw#Geffenia #

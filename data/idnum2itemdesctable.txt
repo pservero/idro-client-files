@@ -42537,3 +42537,29 @@ Job: ^777777All Jobs^000000
 Kamu bisa mendapatkan Bio Protector, Scutum, Little Aquarium, Pigeon Hat dan item item Spesial lain nya.
 Weight : ^7777771^000000
 #
+
+//--------------- Update halloween 20151028 ---------------
+20397#
+Headgear ini dapat merubahmu menjadi Jack.
+Bahkan teman-temannya pun tak akan menyadarinya.
+Ini rahasia..
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Middle Lower ^000000Berat : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+25132#
+Bagian dekorasi Halloween yang terkenal!
+Membuat Make the candle stuffing inside for freaky Halloween spirit.
+Berat : ^7777770^000000
+#
+25133#
+Sebuah batang yang kering.
+Sangat sempurna untuk dekorasi Halloween!!
+Berat : ^7777770^000000
+#
+11605#
+Kue mentega gurih dengan cokelat tebal yang manis di dalamnya.
+Jangan biarkan ia terbang begitu saja.
+Berat : ^7777775^000000
+#

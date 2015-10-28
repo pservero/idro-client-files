@@ -6661,3 +6661,9 @@
 28903#Shield#
 19082#Glasses#
 17633#Undine_Lucky_Scroll#
+
+//--------------- Update Halloween 20151028--------------
+20397#Mask#
+25132#Pumpkin_Deco#
+25133#Dried_White_Stem#
+11605#Cookie_Bat#

@@ -32582,3 +32582,23 @@ Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 17633#
 Undine_Lucky_Egg
 #
+
+//--------------- Update Halloween 20151028--------------
+20397#
+Unknown item. Can be identified by Magnifier.
+#
+25132#
+Famous Halloween decoration part!
+Make the candle stuffing inside for freaky Halloween spirit.
+Berat : ^7777770^000000
+#
+25133#
+Well dried stem.
+Perfect match for Halloween decoration!!
+Berat : ^7777770^000000
+#
+11605#
+Crisp buttery cookie with sweet chunky chocolates inside.
+Try not to let it fly away.
+Berat : ^7777775^000000
+#

@@ -1405,5 +1405,6 @@ ACCESSORY_IDs = {
 	ACCESSORY_Pumpkin_Cock_Hat = 1411,
 	ACCESSORY_Kings_Crown = 1412,
 	ACCESSORY_YDragon_SkyWing = 1413,
-	ACCESSORY_Explosion_Gum = 1414
+	ACCESSORY_Explosion_Gum = 1414,
+	ACCESSORY_Jakk_Head = 1415
 }

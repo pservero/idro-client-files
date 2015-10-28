@@ -10318,3 +10318,29 @@ Take a day off.#
 7564# Standby for Kafragaten Challenge 2#SG_FEEL#QUE_NOIMAGE# 
 You have completed Kafragaten Challenge 2 already. To challenge again, come back after 1 day.#
 Take a day off.#
+
+//----------Event Halloween 2015
+
+11446#Jack and Jack's Jacky days#SG_FEEL#QUE_NOIMAGE#
+Terbangun karena bisikan hantu, sekarang kita tiba di kota kematian Nifelheim. Ayo kita dengarkan cerita para hantu.#
+Berbicaralah dengan Hororong#
+
+11447#Jack and Jack's Jacky days#SG_FEEL#QUE_NOIMAGE#
+Mereka mengatakan bahwa Jack di pusat Kota mungkin mengetahui sesuatu. Berbicaralah dengan Jack di Pusat Kota.#
+Berbicaralah dengan Jack#
+
+11448#Jack and Jack's Jacky days#SG_FEEL#QUE_NOIMAGE#
+Jack menceritakan tentang tempat yang pernah ia kunjungi. Berbicaralah kembali dengan Hororong.#
+Berbicaralah dengan Hororong#
+
+11449#Jack and Jack's Jacky days#SG_FEEL#QUE_NOIMAGE#
+Kalahkan 10 runaway Jacks di field map atau dungeon, kumpulkan 10 Pumpkin Decorations dan 20 Dried white stems kepada Hororong.#
+Kirimkan Jack ke Nifelheim#
+
+11450#Jack and Jack's Jacky days#SG_FEEL#QUE_NOIMAGE#
+Kau membawa Jack ke Nifleheim. You've brought Jack to Nifelheim. Para hantu mengatakan Jack tidak dapat tinggal terlalu lama di tempat manusia. Mari beristirahat.#
+Jack beristirahat#
+
+11451#Jack and Jack's Jacky days#SG_FEEL#QUE_NOIMAGE#
+Kalahkan 10 runaway Jacks di field map atau dungeon, kumpulkan 10 Pumpkin Decorations dan 20 Dried white stems kepada Hororong..#
+Kirimkan Jack ke Nifelheim#

@@ -1401,5 +1401,6 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Pumpkin_Cock_Hat] = "_펌킨요리사모자",
 	[ACCESSORY_IDs.ACCESSORY_Kings_Crown] = "_고대왕의왕관",
 	[ACCESSORY_IDs.ACCESSORY_YDragon_SkyWing] = "_황룡의하늘날개",
-	[ACCESSORY_IDs.ACCESSORY_Explosion_Gum] = "_익스플로젼껌"
+	[ACCESSORY_IDs.ACCESSORY_Explosion_Gum] = "_익스플로젼껌",
+	[ACCESSORY_IDs.ACCESSORY_Jakk_Head] = "_잭머리"
 }

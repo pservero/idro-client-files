@@ -6593,3 +6593,9 @@
 28903#Scutum#
 19082#Bio_Protector#
 17633#Undine_Lucky_Egg#
+
+//--------------- Update halloween 20151028---------------
+20397#Jakk#
+25132#Pumpkin_Deco#
+25133#Dried_White_Stem#
+11605#Cookie_Bat#

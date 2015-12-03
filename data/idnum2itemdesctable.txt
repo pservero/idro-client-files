@@ -42563,3 +42563,93 @@ Kue mentega gurih dengan cokelat tebal yang manis di dalamnya.
 Jangan biarkan ia terbang begitu saja.
 Berat : ^7777775^000000
 #
+
+//--------------- Update Smithy Lucky Egg 20151118---------------
+17648#
+Smithy Lucky Egg. Kamu bisa mendapatkan item berharga jika membukanya
+Weight : ^7777771^000000
+#
+
+//--------------- Update Costume December 20151202---------------
+17461#
+Belum diketahui apa yang ada di dalam scroll. Tapi kamu pasti akan terkejut
+Weight : ^7777771^000000
+#
+19780#
+Topi lucu untuk kamu pakai setiap hari
+Topi berbentuk telinga kelinci ini sangat lucu
+Class : ^777777Costume^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19826#
+Sebuah anting yang dibuat dari es dan campuran kimia. Membuatmu menggigil setiap kali kamu mengenakannya!
+Class : ^777777Costume^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19985#
+Mahkota yang dibuat dengan kristal spesial.
+
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19986#
+Topi yang berbentuk seperti Fluppy Lunatic
+
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19987#
+Topi yang hangat. Terkadang orang memakainya hanya untuk penampilannya.
+
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19988#
+Mahkota yang dibuat dengan Elder's branch.
+
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19989#
+Sebuah bandana yang terbuat dari bulu domba dan tanduk.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19990#
+Sebuah topi replika Telinga kelinci. 
+mengingatkanmu pada Kelinci Salju.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19991#
+Sebuah armor yang terbuat dari bunga putih yang murni.
+Orang bilang bunga itu adalah pesan dari musim Semi.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19992#
+Sangat dingin, bahkan nafasmu juga dingin.
+
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#

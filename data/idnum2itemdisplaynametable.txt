@@ -6599,3 +6599,19 @@
 25132#Pumpkin_Deco#
 25133#Dried_White_Stem#
 11605#Cookie_Bat#
+
+//--------------- Update Smithy Lucky Egg 20151118---------------
+17648#Smithy_Lucky_Egg#
+
+//--------------- Update Costume December 20151202---------------
+17461#Frozen Egg Costume#
+19780#Costume_Rabbit_Ear_Knit_Hat#
+19826#Costume_Ice_Wing_Ear#
+19985#Costume_Aura_Quartz_Crown#
+19986#Costume_Lunatic_Hat#
+19987#Costume_Blue_Fur_Hat#
+19988#Costume_Elder_Crown#
+19989#Costume_Mouton_Life#
+19990#Costume_Snow_Rabbit_Knit_Hat#
+19991#Costume_Galanthus_Guard#
+19992#Costume_Chilly_Breath#

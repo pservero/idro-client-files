@@ -6683,3 +6683,10 @@
 19990#Hat#
 19991#Hat#
 19992#Accessary#
+
+//--------------- Update Ganymede Lucky Egg 20151216---------------
+20033#Accessory#
+20783#Mantle#
+28377#Accessory#
+5973#Accessory#
+17659#Ganymede_Lucky_Scroll#

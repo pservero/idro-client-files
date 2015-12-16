@@ -32643,3 +32643,21 @@ Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 19992#
 Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
 #
+
+//--------------- Update Smithy Lucky Egg 20151216---------------
+20033#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20783#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+28377#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+5973#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+17659#
+Ganymede_Lucky_Egg
+weight : ^7777771^000000
+#

@@ -6615,3 +6615,10 @@
 19990#Costume_Snow_Rabbit_Knit_Hat#
 19991#Costume_Galanthus_Guard#
 19992#Costume_Chilly_Breath#
+
+//--------------- Update Ganymede Lucky Egg 20151216---------------
+20033#C_Buddhist_Priest_Crown#
+20783#Hero_Cape#
+28377#Magical_Ring#
+5973#Ancient_Elven_Ear_J#
+17659#Ganymede_Lucky_Egg#

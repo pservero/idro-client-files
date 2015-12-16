@@ -42653,3 +42653,45 @@ Location : ^777777Lower ^000000Weight : ^7777770^000000
 Required lvl : ^7777771^000000
 Job : ^777777All^000000
 #
+
+//--------------- Update Ganymede Lucky Egg 20151216---------------
+20033#
+Mahkota yang sering di pakai oleh Pendeta Buddha
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv: ^7777771^000000
+Job : ^777777All jobs^000000
+#
+20783#
+Seorang anak berjalan di lapangan polos memakai mantel ini
+tidak seperti tampilannya, kekuatan perlindungannya sangat baik.
+Netral resistance 1%, Flee +1.
+Pada setiap 3 tingkat tempa, Netral resistance +3%, Flee +3 akan ditambahkan
+jika tingkat tempa diatas 10, Netral resistance +20%, Flee +20 akan ditambahkan.
+Class : ^777777Garment^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Lv: ^77777710^000000
+Job : ^777777All jobs^000000
+#
+28377#
+Magician yang Mengagumi ksatria magis membuat cincin ajaib ini untuk meningkatkan kekuatan sihirnya.
+Ini sukses meningkatkan kekuatan sihir.
+magic attack damage +5% kepada Fire, Water, Earth, Wind properti 
+Setiap 5 base level, skill damage of Fire, Cold, Lightning Bolt, Earth Spike akan di tambahkan 1%
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Lv: ^77777720^000000
+Job : ^777777All jobs^000000
+#
+5973#
+Anda akan merasa seperti peri tua yang mencintai Alam
+LUK 10, MDEF 10 Perfect Dodge 2.
+Class : ^777777Helm^000000 Defense : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^77777720^000000
+Required Lv: ^77777770^000000
+Job : ^777777All jobs^000000
+#
+17659#
+Kamu bisa mendapatkan Magical Ring , Hero Cape , Ancient Elven Ear,Buddhist Priest Crown Hat dan item item Spesial lain nya.
+weight : ^7777771^000000
+#

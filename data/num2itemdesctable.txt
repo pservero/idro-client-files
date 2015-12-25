@@ -32661,3 +32661,55 @@ Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 Ganymede_Lucky_Egg
 weight : ^7777771^000000
 #
+
+
+//--------------- Update Christmas 20151223---------------
+20798#
+Unidentified. Use [Spectacles] to identify it.
+#
+25143#
+A stuffed doll prepared as a Christmas present.
+Weight: ^7777770^000000
+#
+25144#
+A doll with a bridge posture seeming to do exercise.
+The doll's supple body stands out.
+Weight: ^7777770^000000
+#
+25145#
+A doll burnt black and shrunken.
+Dunno the reason but little ghosts loves it.
+Weight: ^7777770^000000
+#
+25146#
+A doll assuming a cold-hearted queen.
+If pressed, it would make laughter like "Ohohoho~".
+Weight: ^7777770^000000
+#
+25147#
+A lovely rabbit doll.
+It seems to have eaten something with relish.
+Weight: ^7777770^000000
+#
+25148#
+A doll modeled after a starving ghost as if I feel stuffed, seeing it.
+Its bulging belly seems cute.
+Weight: ^7777770^000000
+#
+25149#
+A doll with a warm scarf as if it was in a cold place.
+Weight: ^7777770^000000
+#
+25150#
+Fluffy and comfy long pilow.
+Covered with Alice character face.
+Suits best when sleeping while hugging it..
+Weight : ^7777770^000000
+#
+11567#
+^ff0000Not able to trade with others.^000000
+Potion for Novice! ^000088 Small amount of HP will be^000000 recovered
+^ffffff_^000000
+Weight: ^7777771^000000
+Price  0
+#

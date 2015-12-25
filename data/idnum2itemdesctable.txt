@@ -42666,7 +42666,7 @@ Job : ^777777All jobs^000000
 Seorang anak berjalan di lapangan polos memakai mantel ini
 tidak seperti tampilannya, kekuatan perlindungannya sangat baik.
 Netral resistance 1%, Flee +1.
-Pada setiap 3 tingkat tempa, Netral resistance +3%, Flee +3 akan ditambahkan
+Pada setiap 3 tingkat tempa, Netral resistance +1%, Flee +1 akan ditambahkan
 jika tingkat tempa diatas 10, Netral resistance +20%, Flee +20 akan ditambahkan.
 Class : ^777777Garment^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -42694,4 +42694,60 @@ Job : ^777777All jobs^000000
 17659#
 Kamu bisa mendapatkan Magical Ring , Hero Cape , Ancient Elven Ear,Buddhist Priest Crown Hat dan item item Spesial lain nya.
 weight : ^7777771^000000
+#
+
+//--------------- Update Christmas 20151223--------------
+20798#
+The Grim Reaper menanti jiwa disekitar pemakainya untuk diambil.
+Jika kau mengijinkan ia berada selama musim Natal. Ini adalah pemberian Antonio.
+Type: ^777777Costume Equipment^000000 DEF: ^7777770^000000
+Location: ^777777Lower ^000000 Weight: ^7777770^000000
+Lv. req: ^7777771^000000
+Class: ^777777All classes^000000
+#
+25143#
+Sebuah boneka yang dipersiapkan sebagai hadiah Natal.
+Weight: ^7777770^000000
+#
+25144#
+Sebuah boneka dengan postur yang tampak ingin melakukan suatu latihan.
+Bagian tubuh boneka ini sangatlah kenyal.
+Weight: ^7777770^000000
+#
+25145#
+Sebuah boneka yang terbakar dan menyusut
+Tak tahu alasannya, tapi hantu kecil sangat menyukainya.
+Weight: ^7777770^000000
+#
+25146#
+Sebuah boneka yang berhati dingin
+Jika ditekan, ia akan tertawa seperti "Ohohoho~".
+Weight: ^7777770^000000
+#
+25147#
+Sebuah Boneka kelinci yang menyeramkan.
+Tampaknya ia senang memakan sesuatu.
+Weight: ^7777770^000000
+#
+25148#
+Sebuah boneka hantu yang kelaparan. Melihatnya membuatku merasa seperti boneka tersebut
+Tampak lucu dengan perutnya yang menggembung. 
+Weight: ^7777770^000000
+#
+25149#
+Sebuah boneka dengan syal hangat seolah-olah itu berada di tempat yang dingin.
+Weight: ^7777770^000000
+#
+25150#
+Bantal yang lembut dan nyaman
+Ditutupi dengan wajah karakter Alice.
+Setelan terbaik ketika tidur sambil memeluk itu ..
+Weight : ^7777770^000000
+#
+11567#
+^ff0000Tidak dapat ditransaksikan.^000000
+Potion untuk Novice! ^000088 Sejumlah kecil HP akan^000000 dipulihkan
+^ffffff_^000000
+Weight: ^7777771^000000
+Price: 0
 #

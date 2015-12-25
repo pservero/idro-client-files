@@ -888,3 +888,6 @@ mal_dun01.rsw#bgm\\146.mp3#
 lhz_dun04.rsw#bgm\\92.mp3#
 que_lhz.rsw#bgm\\92.mp3#
 1@lhz.rsw#bgm\\92.mp3#
+
+//-크리스마스 이벤트 신규 추가 맵 BGM
+niflxmas.rsw#bgm\\54#

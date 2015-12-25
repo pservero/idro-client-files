@@ -6690,3 +6690,15 @@
 28377#Accessory#
 5973#Accessory#
 17659#Ganymede_Lucky_Scroll#
+
+//--------------- Update Christmas 20151223---------------
+20798#Garment#
+25143#Gift_Stuffed_Doll#
+25144#Bridge_Postured_Doll#
+25145#Burnt_Spector_Doll#
+25146#Cold_Blooded_Queen_Doll#
+25147#Well_Eatenl_Rabbit_Doll#
+25148#Cute_Starved_Demon_Doll#
+25149#Doll_With_Warm_Scarf#
+25150#Hugging_Alice_Pilow#
+11567#Novice_Potion_B#

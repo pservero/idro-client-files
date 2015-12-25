@@ -10344,3 +10344,16 @@ Jack beristirahat#
 11451#Jack and Jack's Jacky days#SG_FEEL#QUE_NOIMAGE#
 Kalahkan 10 runaway Jacks di field map atau dungeon, kumpulkan 10 Pumpkin Decorations dan 20 Dried white stems kepada Hororong..#
 Kirimkan Jack ke Nifelheim#
+
+// 2015 Christmas
+9432#Antonio's Proposal#SG_FEEL#QUE_NOIMAGE#
+People are saying Antonio is looking for an Adventurer at Prontera. Sounds like a secret mission will be there....#
+Talk to Antonio at Niffelheim#
+
+9433#Collecting Gift Doll#SG_FEEL#QUE_NOIMAGE#
+Hunt down Mystcase inside the Lutie Toy Factory, collect 'Gift Stuffed Doll' for people of Niffelheim.#
+Collect 7 dolls, remodel them, return to Jakk#
+
+9434#One at a time#SG_FEEL#QUE_NOIMAGE#
+Doll collecting quest can be performed only once a day.#
+Quest resets 04:00 each day#

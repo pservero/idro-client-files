@@ -32713,3 +32713,160 @@ Potion for Novice! ^000088 Small amount of HP will be^000000 recovered
 Weight: ^7777771^000000
 Price  0
 #
+
+//--------------- Update Costume Seaside 20160106---------------
+17497#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20105#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20106#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20107#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20108#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20109#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20112#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20113#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20115#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20116#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+20117#
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+#
+
+//--------------- Update Last Angel Lucky Egg 20160120---------------
+5980#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+18867#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+5971#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+5972#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+17665#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+
+
+//--------------- Update Headgear Costume 20160210---------------
+17470#
+^ff0000This item cannot be traded with others.^000000
+Weight : ^7777771^000000
+#
+19584#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+19884#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20005#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20006#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20007#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20008#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20009#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20010#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20011#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20012#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+
+//--------------- Update Valentine 20160217---------------
+20470#
+Unknown item. Can be identified by using a [Magnifier] 
+#
+6345#
+Lovely light have been gathered with various colors.
+weight: ^7777770^000000
+#
+
+//--------------- Update grandprize Costume 20160217---------------
+5914#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+5979#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+
+//--------------- Update Valkyrie Lucky Egg 20160224---------------
+16051#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+5985#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+28386#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20797#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+17671#
+Valkyrie_Lucky_Scroll.
+#
+
+//--------------- Update Costume March 20160310---------------
+17481#
+#
+20039#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20040#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20041#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20042#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20043#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20044#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20045#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20046#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20047#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20048#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#

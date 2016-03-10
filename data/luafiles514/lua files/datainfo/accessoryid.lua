@@ -1452,5 +1452,11 @@ ACCESSORY_IDs = {
 	ACCESSORY_Republic_Hat = 1458,
 	ACCESSORY_C_Combat_Vestige = 1460,
 	ACCESSORY_C_Feather_Fluttering = 1461,
-	ACCESSORY_Youinone_Mask = 1462
+	ACCESSORY_Youinone_Mask = 1462,
+	ACCESSORY_RED_BABY_DRAGON = 1463,
+	ACCESSORY_Cat_Ears_Cape = 1464,
+	ACCESSORY_Two_Tone_Beret = 1465,
+	ACCESSORY_Monochrome_RibbonHat = 1466,
+	ACCESSORY_Glasses_Without_Lens = 1467,
+	ACCESSORY_Crimson_Ribbon = 1468
 }

@@ -6634,3 +6634,64 @@
 25149#Doll_With_Warm_Scarf#
 25150#Hugging_Alice_Pilow#
 11567#Novice_Potion_B#
+
+//--------------- Update Costume Seaside 20160106---------------
+17497#Seaside_Costume_Scroll#
+20105#Costume_Fish_Head_Hat#
+20106#Costume_Classic_Hat#
+20107#Costume_Fish_In_Mouth#
+20108#Costume_Blind_Glasses#
+20109#Costume_Jolly_Roger#
+20112#Aqua_Ten_Gallon_Hat#
+20113#Star_Reading_Hat#
+20115#Under_Rim_Glasses#
+20116#Mermaid_Headphone#
+20117#Raspberry_Mousse_Hat#
+
+//--------------- Update Last Angel Lucky Egg 20160120---------------
+5980#C_Classical_Fhat#
+18867#Vajra#
+5971#Moon_Eyepatch#
+5972#Chatty_Parrot#
+17665#LastAngel_LuckyScroll#
+
+//--------------- Update Headgear Costume 20160210---------------
+17470#Headgear Costume Scroll#
+19584#Costume_Pirate_Dagger#
+19884#Costume_Vanargandr_Helm#
+20005#Costume_Pegasus_Wing_Ears#
+20006#Costume_Dark_Knight_Mask#
+20007#Costume_Bullock_Helm_J#
+20008#Costume_General_Helmet#
+20009#Costume_Dragon_Skull#
+20010#Costume_Rainbow_Wing_Ears#
+20011#Costume_Lightning_Speed#
+20012#Costume_Double_Horn_Helm#
+
+//--------------- Update Valentine 20160217---------------
+20470#C_SweetChocolate_Hat#
+6345#Love_Ball#
+
+//--------------- Update Costume grandprize 20160217---------------
+5914#C_Flutter_Butterfly#
+5979#C_Angel_Fluttering#
+
+//--------------- Update Valkyrie Lucky Egg 20160224---------------
+16051#Valkyrie_Hammer#
+5985#Noble_Mask#
+28386#Fallen_Monk_Rosary#
+20797#Etran_Shirt#
+17671#Valkyrie_Lucky_Egg#
+
+//--------------- Update Costume March 20160310---------------
+17481#Flower Blossom Scroll#
+20039#C_Butterfly_Wing_Ear_J#
+20040#C_Rose_Crown#
+20041#C_Earth_Goddess_Flower#
+20042#C_Hermose_Cap#
+20043#C_Red_Cherry_Blossom#
+20044#C_Carmen_Miranda_Hat#
+20045#C_Samambaia#
+20046#C_Decoration_bluerose#
+20047#C_Pray_Cherry_Blossom#
+20048#C_Wind_Of_The_Prairie#

@@ -1448,5 +1448,11 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Republic_Hat] = "_공화국의모자",
 	[ACCESSORY_IDs.ACCESSORY_C_Combat_Vestige] = "_C전투의흔적",
 	[ACCESSORY_IDs.ACCESSORY_C_Feather_Fluttering] = "_C흩날리는깃털",
-	[ACCESSORY_IDs.ACCESSORY_Youinone_Mask] = "_유인원가면"
+	[ACCESSORY_IDs.ACCESSORY_Youinone_Mask] = "_유인원가면",
+	[ACCESSORY_IDs.ACCESSORY_RED_BABY_DRAGON] = "_레드베이비드래곤",
+	[ACCESSORY_IDs.ACCESSORY_Cat_Ears_Cape] = "_고양이귀케이프",
+	[ACCESSORY_IDs.ACCESSORY_Two_Tone_Beret] = "_투톤베레모",
+	[ACCESSORY_IDs.ACCESSORY_Monochrome_RibbonHat] = "_모노크롬리본햇",
+	[ACCESSORY_IDs.ACCESSORY_Glasses_Without_Lens] = "_렌즈없는패션안경",
+	[ACCESSORY_IDs.ACCESSORY_Crimson_Ribbon] = "_진홍색리본"
 }

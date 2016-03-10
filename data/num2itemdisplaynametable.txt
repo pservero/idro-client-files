@@ -6702,3 +6702,64 @@
 25149#Doll_With_Warm_Scarf#
 25150#Hugging_Alice_Pilow#
 11567#Novice_Potion_B#
+
+//--------------- Update Costume Seaside 20160106---------------
+17497#Costama_Seaside#
+20105#Hat#
+20106#Hat#
+20107#Accessory#
+20108#Hat#
+20109#Hat#
+20112#Hat#
+20113#Hat#
+20115#Hat#
+20116#Hat#
+20117#Hat#
+
+//--------------- Update Last Angel Lucky Egg 20160120---------------
+5980#Hat#
+18867#Mask#
+5971#Helm#
+5972#Hat#
+17665#LastAngel_LuckyScroll#
+
+//--------------- Update Headgear Costume 20160210--------------
+17470#Costume_Helm_Set#
+19584#Accessary#
+19884#Hat#
+20005#Accessary#
+20006#Helm#
+20007#Helm#
+20008#Helm#
+20009#Helm#
+20010#Accessary#
+20011#Helm#
+20012#Helm#
+
+//--------------- Update valentine 20160217-------------
+20470#Hat#
+6345#Love_Ball#
+
+//--------------- Update Costume 20160210--------------
+5914#Accessory#
+5979#Accessory#
+
+//--------------- Update Valkyrie Lucky Egg 20160224---------------
+16051#Blunt weapon#
+5985#Accessory#
+28386#Accessory#
+20797#Robe#
+17671#Valkyrie_Lucky_Scroll#
+
+//--------------- Update Costume March  20160310---------------
+17481#Costama_Egg21#
+20039#Hat#
+20040#Helm#
+20041#Hairband#
+20042#Hat#
+20043#Accessory#
+20044#Hat#
+20045#Hat#
+20046#Hairband#
+20047#Hairband#
+20048#Hairband#

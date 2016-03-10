@@ -33430,7 +33430,7 @@ Untuk Profesi: Swordman
 Tongkat sihir yang sangat manis,Kamu akan merasa senang dengan hanya memegangnya.
 #
 18873#
-Topi berbentuk hati yang berwarna kuning untuk merayakan hari Valentine 2013.
+Topi berbentuk hati yang berwarna kuning untuk merayakan hari Valentine 2016.
 MHP + 7% MSP + 7%
 Auto casting Blessing 10Lv ketika menerima serangan fisik (Efek ini hanya berlaku pada saat periode event.)
 Jenis : ^777777Headgear^000000 Def : ^7777771^000000
@@ -42750,4 +42750,384 @@ Potion untuk Novice! ^000088 Sejumlah kecil HP akan^000000 dipulihkan
 ^ffffff_^000000
 Weight: ^7777771^000000
 Price: 0
+#
+
+//--------------- Update Costume Seaside 20160106---------------
+17497#
+Tak ada yang tau apa yang ada didalamnya. Namun kamu pasti akan terkejut ketika membukanya.
+Weight : ^7777771^000000
+#
+20105#
+Sebuh topi dengan bentuk kepala ikan yang selalu membuka dan menutup mulutnya.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20106#
+Sebuah Topi Classic yang unik.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777770^000000
+Job : ^777777All^000000
+#
+20107#
+Sebuah ikan yang bisa di gigit dimulut. Berbau tidak sedap dan bisa bertahan untuk beberapa hari.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20108#
+Ini adalah suatu bentuk mode fashion yang kuat. Jangan pedulikan apa yang dipikirkan oranglain. 
+jadilah seorang Fashion Leader!
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Mid ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20109#
+Topi dengan simbol bajak laut. Simbol dari keangkuhan laut.
+Class : ^777777Costume Equipment^000000 Defense : ^77777710^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20112#
+Ten Gallon Hat dengan pola renda biru.
+ini akan membuatmu berpikir musim panas telah tiba.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20113#
+Sebuah Topi peramal bintang.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20115#
+Sebuah kacamata berbingkai classy.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Mid ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20116#
+Sebuah Headphone berbentuk insang Mermaid.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Mid ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+20117#
+Sebuah topi Raspberry yang terlihat lembut dan lezat.
+membuat air liurmu menetes.
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv. : ^7777771^000000
+Job : ^777777All^000000
+#
+
+//--------------- Update Last Angel Lucky Egg 20160118---------------
+5980#
+Hiasan kepala berwarna hitam dengan pemanis pita dan bulu putih
+Jenis : ^777777Costume Armor^000000 Pertahanan : ^7777770^000000
+Dikenakan : ^777777Upper ^000000Berat : ^7777770^000000
+Level Dibutuhkan : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+18867#
+This is owned by Rudra, sang dewa badai Kekuatan
+serangan jarak jauh bertambah sebesar 2%
+DEX + 1.
+Ketika memakai Bow of Rudra, memberikan tambahan serangan jarak jauh sebesar 3%
+Jika level tempa Bow of Rudra lebih dari 7, serangan jarak jauh akan bertambah lagi sebesar 5%
+Jenis : ^777777Helm^000000 Pertahanan : ^7777770^000000
+Dikenakan : ^777777Lower ^000000Berat : ^77777730^000000
+Level Dibutuhkan : ^77777748^000000
+Job : ^777777All jobs^000000
+#
+5971#
+Sebuah penutup mata dengan kekuatan Garm
+Pertahanan terhadap elemen air bertambah sebesar 5%
+Jenis : ^777777Helm^000000 Pertahanan : ^7777770^000000
+Dikenakan : ^777777Tengah ^000000Berat : ^77777710^000000
+Level Dibutuhkan : ^77777710^000000
+Job : ^777777All Jobs^000000
+#
+5972#
+Kakaktua yang bisa bicara
+dapat membantu bagi yang menggunakannya
+Tiap BaseLv50, Matk 1%
+Tiap INT 30, waktu cast berkurang sebesar 1%
+Jenis : ^777777Helm^000000 Pertahanan : ^7777770^000000
+Dikenakan : ^777777Bawah ^000000Berat : ^77777710^000000
+Level Dibutuhkan : ^77777780^000000
+Job : ^777777All Jobs^000000
+#
+17665#
+Kamu bisa mendapatkan C Classical Fhat, Vajra, Moon Eyepatch, Chatty Parrot dan item item Spesial lain-nya
+Berat : ^7777771^000000
+#
+
+//--------------- Update Headgear costume 20160210---------------
+17470#
+Kamu bisa mendapatkan C Rainbow Wing Ears, C Lightning Speed dan banyak Costume special lainnya. 
+Jika kamu beruntung, kamu bisa mendapatkan Costume Special C Aura Of Thought. 
+^ff0000Item ini tidak bisa di transaksikan.^000000
+Weight : ^7777771^000000
+#
+19584#
+Sebuah Dagger kecil dimulut. Kedua tanganmu kini bebas untuk bertarung.
+Class : ^777777Costume^000000
+Location : ^777777Lower ^000000 Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+19884#
+Sebuah kostum Vanargandr Helm.  Sepertinya memiliki kemampuan untuk memakan segalanya.
+Class : ^777777Costume^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20005#
+Sebuah kostum sayap pegasus	 di telinga.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20006#
+Sebuah Kostum Dark Knight Mask.
+Class : ^777777Costume^000000Def : ^7777770^000000
+Location : ^777777UpperMiddleLower ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20007#
+Sebuah kostum Horned Helm.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20008#
+Sebuah kostum General Helm.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20009#
+Sebuah kostum Dragon's skull.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20010#
+Versi kostum dari Rainbow Wing Ears.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20011#
+Versi kostum dari Lightning Speed.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+20012#
+Versi kostum dari double bone helm.
+Class : ^777777Costume^000000 Def : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required lvl : ^7777771^000000
+Job : ^777777All^000000
+#
+
+
+//--------------- Update event Valentine 20160217---------------
+20470#
+Topi Cokelat yang besar. Ketika kamu menggunakannya, seluruh perhatian akan tertuju padamu.
+Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777 All Jobs^000000
+#
+6345#
+Lovely lights have been gathered with various colors
+Weight :^7777770^000000
+Price: 0
+#
+
+//--------------- Update Costume Grandprize 20160217---------------
+5914#
+kupu-kupu berkilau yang terbang disekitarmu.
+Sepertinya mereka akan membawamu ke dunia yang fantastis.
+Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+5979#
+Slightly fluttering wing
+It seems like god blesses you
+Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+
+//--------------- Update valkyrie Lucky Egg 20160224--------------
+16051#
+Jika gunakan oleh job Novice, meningkatkan ATK +150, MATK +200, Hit + 10, MHP + 500, MSP + 400,
+konsumsi sp -5% saat menggunakan skill.
+Tiap level tempa meningkatkan Vit +1, MHP + 200, Perfect Dodge +1, Kecepatan Serangan +1%
+Tiap 2 level tempa mengurangi waktu Cast sebesar -1%.
+----------------------------------------------
+Jika digunakan oleh job Swordsman, MHP +500, MSP +100.
+Tiap level tempa meningkatkan Vit +1.
+----------------------------------------------
+Jika digunakan oleh job Priest  Atk +50, Matk +100.
+Tiap level tempa Kecepatan Serangan +1%.
+----------------------------------------------
+Jika digunakan oleh job Monk, MSP + 200, mengurangi konsumsi SP-5% saat menggunakan skill
+Tiap level tempa Perfect Dodge +1.
+----------------------------------------------
+Ketika digunakan oleh job Merchant Atk +100, Hit +10.
+Tiap 2 level tempa mengurangi Waktu Cast sebesar -1%.
+Class : ^777777Blunt weapon^000000 Attack : ^77777750^000000
+Weight : ^77777710^000000
+Weapon Lv. : ^7777774^000000
+Required Lv. : ^77777770^000000
+Equip : ^777777Swordman Class,Novice Class,Acolyte Class,Merchant Class^000000
+#
+5985#
+Sebuah Topeng perak yang digunakan oleh para ksatria
+Setiap 1 Base Level Serangan Skill Martyr bertambah 2% 
+waktu casting Gloria Domini berkurang 2 detik.
+waktu casting Sacrifice berkurang 2 detik.
+MHP + 1%, ASPD +1%.
+Di atas level 100 akan ada tambahan MaxHP +1%, ASPD +1% 
+Di atas level 150 akan ada tambahan MaxHP +1%, ASPD +1% 
+Class : ^777777Helmet^000000 Defense : ^7777770^000000
+Location : ^777777Top^000000 Weight : ^77777720^000000
+Required Lv. : ^77777730^000000
+Equip : ^777777All class^000000
+#
+28386#
+ASPD +5%, CRI +5.
+Konsumsi SP Zen berkurang -5.
+Setiap 15 Base level, Damage Dragon Combo Skill +2%
+Setiap 20 Base level, Knuckle Arrow Skill +2%
+Setiap 30 Base level, Sky Net Blow Skill +2%
+Class : ^777777Accessory^000000 Defense : ^7777770^000000
+Weight : ^77777710^000000
+Required Lv. : ^77777720^000000
+Equip : ^777777All class^000000
+#
+20797#
+MDEF+10, MHP+2%.
+Saat level tempa +7, MHP +4%.
+Saat level tempa +8, MHP +6%.
+Saat level tempa +9, MHP +8%.
+Saat level tempa +10 Anti knocked back
+----------------------------------------------
+Ketika digunakan bersamaan dengan Item pantie,
+INT+15, MHP+5%, MSP+5%.
+Tetap dapat melakukan proses magic walaupun sedang dipukul musuh jika Level tempa Pantie +7
+----------------------------------------------
+Ketika digunakan bersamaan dengan deviling card, memberikan toleransi terhadap serangan semua element (selain netral) sebesar 50%
+Class : ^777777Robe^000000 Defense : ^7777770^000000
+Weight : ^77777715^000000
+Required Lv. : ^7777771^000000
+Equip : ^777777All class^000000
+#
+17671#
+Valkyrie Lucky Egg
+Kamu bisa mendapatkan Valkyrie Hammer, Noble Mask, Fallen Monk Rosary, Etran Shirt & item item spesial lain nya.
+Weight : ^7777771^000000
+#
+
+//--------------- Update Costume March 20160310--------------
+17481#
+Kamu bisa mendapatkanC_Decoration_bluerose, C_Pray_Cherry_Blossom dan banyak Costume special lainnya. 
+Weight : ^7777771^000000
+#
+20039#
+Beautiful wing of butterfly with powerful magical power. It has rather higher resistance against magic.
+Class : ^777777Costume Gear^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20040#
+Historic ceremonial coronet with big rose on it, which was used by a royal princess
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20041#
+Flower decoration with power of great mother earth. It has power to protect wearer from Earth property attack
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20042#
+Hermose Cap Costume
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20043#
+Red cherry tree branch that flame has been sleeping 
+Class : ^777777Costume Gear^000000
+Location : ^777777Lower ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20044#
+Hat made of fresh tropical fruits. It would be good to take any fruit from the hat when you are hungry
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20045#
+Circlet made of Samambaia leaf.
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper-Middle ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20046#
+Cute hairband with blue lace.
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20047#
+A good-luck charm with cherry blossom on it.
+All state +1£¬Acquired EXP +10%.
+Class : ^777777Costume Gear^000000
+Location : ^777777Middle ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
+#
+20048#
+Hairpin decorated with flower looks like breeze blowing from grassland.
+Class : ^777777Costume Gear^000000
+Location : ^777777Upper ^000000Weight : ^7777770^000000
+Required Lv : ^7777771^000000
+Job : ^777777All Jobs^000000
 #

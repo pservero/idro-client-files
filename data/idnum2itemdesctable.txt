@@ -7388,7 +7388,7 @@ Melee Physical attacks have a high chance of auto-casting Level 10 Thunderstorm.
 Melee Physical attacks have a high chance of inflicting Splashed damage for 10 seconds.
 Indefinitely accelerates Attack Speed.
 Tidak dapat dihancurkan.
-Jenis: ^777777Blunt Weapon^000000 Serangan : ^777777350^000000
+Jenis: ^777777Mace^000000 Serangan : ^777777350^000000
 Berat : ^777777600^000000
 Weapon Level: ^7777774^000000
 Level Dibutuhkan : ^77777795^000000
@@ -19364,7 +19364,7 @@ Destroys enemy weapon or armor by a low chance.
 When equipped with Mastersmith card, high chance to destroy opponent's equipments.
 Wearer's equipment can be destroyed by a low chance.
 ATK + 44 when STR is 44 or above.
-Jenis : ^777777Blunt weapon^000000    Serangan : ^7777774^000000
+Jenis : ^777777Mace^000000    Serangan : ^7777774^000000
 Berat : ^77777744^000000
 Senjata Level : ^7777774^000000
 Level Persyaratan : ^77777744^000000
@@ -37222,8 +37222,8 @@ Job: ^777777Semua job^000000
 
 20737#
 Sayap dari binatang kuno yang berasal dari Asia
-Class : ^777777Costume armor^000000
-Location : ^777777Costume Type ^0000
+Class : ^777777Costume^000000
+Location : ^777777Robe^000000
 Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job: ^777777Semua job^000000
@@ -37260,7 +37260,7 @@ Berat : ^7777771^000000
 19917#
 Penutup Kepala berbentuk labu dengan suasana hati yang suram.
 Selama periode event, akan meningkatkan movement speed.
-Jenis : ^777777Costume Armor^000000
+Jenis : ^777777Costume^000000
 Location : ^777777Upper ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job: ^777777Semua Job^000000
@@ -37268,7 +37268,7 @@ Job: ^777777Semua Job^000000
 19918#
 Topeng Lude, yang merupakan maskot dari Niflheim
 Selama periode event,  meningkatkan efek dari Heal dan efek dari pemulihan item sebesar 20%.
-Jenis : ^777777Costume Armor^000000
+Jenis : ^777777Costume^000000
 Location : ^777777Middle Low ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job: ^777777Semua Job^000000
@@ -37286,7 +37286,7 @@ Berat : ^7777771^000000
 19919#
 Topeng Cube, yang merupakan maskot dari Niflheim
 Selama periode event, attack speed akan meningkat (mengurangi delay setelah menyerang sebesar 10%)
-Jenis : ^777777Costume Armor^000000
+Jenis : ^777777Costume^000000
 Location : ^777777Middle-low ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job: ^777777Semua Job^000000
@@ -37294,7 +37294,7 @@ Job: ^777777Semua Job^000000
 19920#
 Whisper's mask. Sudah lebih kuat dari sebelumnya
 Selama periode event,  FLEE + 20.
-Jenis : ^777777Costume Armor^000000
+Jenis : ^777777Costume^000000
 Location : ^777777Upper-Middle-Low ^000000 Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job: ^777777Semua Job^000000
@@ -37387,7 +37387,7 @@ Profesi : ^777777Semua Profesi^000000
 #
 18741#
 Penomena supranatural menakutkan. Itu membuat orang merasa takut
-Jenis : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Jenis : ^777777Costume^000000 Defense : ^7777770^000000
 Digunakan di : ^777777Upper ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -37419,7 +37419,7 @@ Profesi : ^777777Semua Profesi^000000
 
 19752#
 Aksesoris dengan mawar ungu
-Jenis : ^777777Costume Armor^000000
+Jenis : ^777777Costume^000000
 Digunakan di : ^777777Mid ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -37895,14 +37895,14 @@ Profesi : ^777777Semua Profesi^000000
 #
 19750#
 Pita putih besar.
-Jenis : ^777777Costume Armor^000000
+Jenis : ^777777Costume^000000
 Digunakan di : ^777777Upper ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
 #
 19751#
 The crown, which is designed white wing on the left side and black wing on the right side
-Jenis : ^777777Costume Armor^000000
+Jenis : ^777777Costume^000000
 Digunakan di : ^777777Upper ^000000Berat : ^7777770^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
@@ -38120,7 +38120,7 @@ Job: ^777777Knight / Magician / Merchant / Theif / Soul Linker / Ninja^000000
 #
 19677#
 Cincin misterius di atas kepala. Ini mungkin terasa seperti kamu tidak memiliki jiwa saat kamu memakainya.
-Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job: ^777777Semua Job^000000
@@ -40981,7 +40981,7 @@ Profesi : ^777777Semua^000000
 #
 20131#
 Headset, yang selalu dikenakan oleh clock tower manager.
-Jenis : ^777777Costume Armor^000000Pertahanan : ^7777770^000000
+Jenis : ^777777Costume^000000Pertahanan : ^7777770^000000
 Lokasi : ^777777Middle ^000000Berat : ^7777770^000000
 Lv Minimum : ^7777771^000000
 Profesi : ^777777Semua^000000
@@ -41396,7 +41396,7 @@ Profesi : ^777777Semua^000000
 #
 20171#
 Sebuah topi Sepia yang lucu.
-Jenis : ^777777Costume Armor^000000Pertahanan : ^7777770^000000
+Jenis : ^777777Costume^000000Pertahanan : ^7777770^000000
 Lokasi : ^777777Upper ^000000Berat : ^7777770^000000
 Lv Minimum : ^7777771^000000
 Profesi : ^777777Semua^000000
@@ -42834,8 +42834,8 @@ Job : ^777777All^000000
 //--------------- Update Last Angel Lucky Egg 20160118---------------
 5980#
 Hiasan kepala berwarna hitam dengan pemanis pita dan bulu putih
-Jenis : ^777777Costume Armor^000000 Pertahanan : ^7777770^000000
-Dikenakan : ^777777Upper ^000000Berat : ^7777770^000000
+Jenis : ^777777Costume^000000 Pertahanan : ^7777770^000000
+Dikenakan di : ^777777Upper ^000000Berat : ^7777770^000000
 Level Dibutuhkan : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
@@ -42846,7 +42846,7 @@ DEX + 1.
 Ketika memakai Bow of Rudra, memberikan tambahan serangan jarak jauh sebesar 3%
 Jika level tempa Bow of Rudra lebih dari 7, serangan jarak jauh akan bertambah lagi sebesar 5%
 Jenis : ^777777Helm^000000 Pertahanan : ^7777770^000000
-Dikenakan : ^777777Lower ^000000Berat : ^77777730^000000
+Dikenakan di : ^777777Lower ^000000Berat : ^77777730^000000
 Level Dibutuhkan : ^77777748^000000
 Job : ^777777All jobs^000000
 #
@@ -42854,7 +42854,7 @@ Job : ^777777All jobs^000000
 Sebuah penutup mata dengan kekuatan Garm
 Pertahanan terhadap elemen air bertambah sebesar 5%
 Jenis : ^777777Helm^000000 Pertahanan : ^7777770^000000
-Dikenakan : ^777777Tengah ^000000Berat : ^77777710^000000
+Dikenakan di : ^777777Tengah ^000000Berat : ^77777710^000000
 Level Dibutuhkan : ^77777710^000000
 Job : ^777777All Jobs^000000
 #
@@ -42864,7 +42864,7 @@ dapat membantu bagi yang menggunakannya
 Tiap BaseLv50, Matk 1%
 Tiap INT 30, waktu cast berkurang sebesar 1%
 Jenis : ^777777Helm^000000 Pertahanan : ^7777770^000000
-Dikenakan : ^777777Bawah ^000000Berat : ^77777710^000000
+Dikenakan di : ^777777Bawah ^000000Berat : ^77777710^000000
 Level Dibutuhkan : ^77777780^000000
 Job : ^777777All Jobs^000000
 #
@@ -42955,7 +42955,7 @@ Job : ^777777All^000000
 //--------------- Update event Valentine 20160217---------------
 20470#
 Topi Cokelat yang besar. Ketika kamu menggunakannya, seluruh perhatian akan tertuju padamu.
-Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777 All Jobs^000000
@@ -42970,7 +42970,7 @@ Price: 0
 5914#
 kupu-kupu berkilau yang terbang disekitarmu.
 Sepertinya mereka akan membawamu ke dunia yang fantastis.
-Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
@@ -42978,7 +42978,7 @@ Job : ^777777All Jobs^000000
 5979#
 Slightly fluttering wing
 It seems like god blesses you
-Class : ^777777Costume Armor^000000 Defense : ^7777770^000000
+Class : ^777777Costume^000000 Defense : ^7777770^000000
 Location : ^777777Lower ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
@@ -43002,11 +43002,11 @@ Tiap level tempa Perfect Dodge +1.
 ----------------------------------------------
 Ketika digunakan oleh job Merchant Atk +100, Hit +10.
 Tiap 2 level tempa mengurangi Waktu Cast sebesar -1%.
-Class : ^777777Blunt weapon^000000 Attack : ^77777750^000000
+Class : ^777777Mace^000000 Attack : ^77777750^000000
 Weight : ^77777710^000000
 Weapon Lv. : ^7777774^000000
 Required Lv. : ^77777770^000000
-Equip : ^777777Swordman Class,Novice Class,Acolyte Class,Merchant Class^000000
+Job : ^777777Swordman Class,Novice Class,Acolyte Class,Merchant Class^000000
 #
 5985#
 Sebuah Topeng perak yang digunakan oleh para ksatria
@@ -43019,7 +43019,7 @@ Di atas level 150 akan ada tambahan MaxHP +1%, ASPD +1%
 Class : ^777777Helmet^000000 Defense : ^7777770^000000
 Location : ^777777Top^000000 Weight : ^77777720^000000
 Required Lv. : ^77777730^000000
-Equip : ^777777All class^000000
+Job : ^777777All class^000000
 #
 28386#
 ASPD +5%, CRI +5.
@@ -43030,7 +43030,7 @@ Setiap 30 Base level, Sky Net Blow Skill +2%
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
 Required Lv. : ^77777720^000000
-Equip : ^777777All class^000000
+Job : ^777777All class^000000
 #
 20797#
 MDEF+10, MHP+2%.
@@ -43047,7 +43047,7 @@ Ketika digunakan bersamaan dengan deviling card, memberikan toleransi terhadap s
 Class : ^777777Robe^000000 Defense : ^7777770^000000
 Weight : ^77777715^000000
 Required Lv. : ^7777771^000000
-Equip : ^777777All class^000000
+Job : ^777777All class^000000
 #
 17671#
 Valkyrie Lucky Egg
@@ -43141,7 +43141,7 @@ MDEF +20
 Class : ^777777Helmet^000000 Defense : ^7777770^000000
 Location : ^777777Top ^000000Weight : ^777777100^000000
 Required Level : ^77777750^000000
-Equip : ^777777All Class^000000
+Job : ^777777All Class^000000
 #
 22069#
 Sepatu dengan kekuatan misterius.
@@ -43155,7 +43155,7 @@ Untuk setiap tingkat tempa dari Lian Robe, MAXHP +1%, MAXSP +1%.
 Class : ^777777Shoes^000000 Defense : ^77777712^000000
 Weight : ^77777725^000000
 Required Level : ^77777790^000000
-Equip : ^777777All Class^000000
+Job : ^777777All Class^000000
 #
 2195#
 Mengurangi Damage yang diterima dari element Netral sebesar 5%
@@ -43165,17 +43165,17 @@ Untuk setiap tingkat tempa Lian Robe, akan mengurangi 1% serangan dari monster j
 Class : ^777777Shield^000000 Defense : ^77777750^000000
 Weight : ^777777130^000000
 Required Level : ^77777765^000000
-Equip : ^777777All Class^000000
+Job : ^777777All Class^000000
 #
 20753#
 Mengurangi Damage yang diterima dari element Netral sebesar 5%
 menerima 5% tambahan damage dari monster jenis formless.
 Jika digunakan bersamaan dengan Lian Shield untuk setiap tingkat tempa Lian Shield Memberikan 1% serangan fisik kepada monster berelemen netral.
 Untuk setiap tingkat tempa Lian Robe, akan mengurangi 1% serangan dari monster jenis formless.
-Class : ^777777Shirt^000000 Defense : ^77777720^000000
+Class : ^777777Garment^000000 Defense : ^77777720^000000
 Weight : ^77777770^000000
 Required Level : ^77777765^000000
-Equip : ^777777All Class^000000
+Job : ^777777All Class^000000
 #
 17674#
 Splash Rainbow Lucky Egg

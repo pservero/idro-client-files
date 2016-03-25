@@ -42630,7 +42630,7 @@ Required lvl : ^7777771^000000
 Job : ^777777All^000000
 #
 19990#
-Sebuah topi replika Telinga kelinci. 
+Sebuah topi replika Telinga kelinci.
 mengingatkanmu pada Kelinci Salju.
 Class : ^777777Costume^000000 Def : ^7777770^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
@@ -42676,7 +42676,7 @@ Job : ^777777All jobs^000000
 28377#
 Magician yang Mengagumi ksatria magis membuat cincin ajaib ini untuk meningkatkan kekuatan sihirnya.
 Ini sukses meningkatkan kekuatan sihir.
-magic attack damage +5% kepada Fire, Water, Earth, Wind properti 
+magic attack damage +5% kepada Fire, Water, Earth, Wind properti
 Setiap 5 base level, skill damage of Fire, Cold, Lightning Bolt, Earth Spike akan di tambahkan 1%
 Class : ^777777Accessory^000000 Defense : ^7777770^000000
 Weight : ^77777710^000000
@@ -42731,7 +42731,7 @@ Weight: ^7777770^000000
 #
 25148#
 Sebuah boneka hantu yang kelaparan. Melihatnya membuatku merasa seperti boneka tersebut
-Tampak lucu dengan perutnya yang menggembung. 
+Tampak lucu dengan perutnya yang menggembung.
 Weight: ^7777770^000000
 #
 25149#
@@ -42779,7 +42779,7 @@ Required Lv. : ^7777771^000000
 Job : ^777777All^000000
 #
 20108#
-Ini adalah suatu bentuk mode fashion yang kuat. Jangan pedulikan apa yang dipikirkan oranglain. 
+Ini adalah suatu bentuk mode fashion yang kuat. Jangan pedulikan apa yang dipikirkan oranglain.
 jadilah seorang Fashion Leader!
 Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Mid ^000000Weight : ^7777770^000000
@@ -42875,8 +42875,8 @@ Berat : ^7777771^000000
 
 //--------------- Update Headgear costume 20160210---------------
 17470#
-Kamu bisa mendapatkan C Rainbow Wing Ears, C Lightning Speed dan banyak Costume special lainnya. 
-Jika kamu beruntung, kamu bisa mendapatkan Costume Special C Aura Of Thought. 
+Kamu bisa mendapatkan C Rainbow Wing Ears, C Lightning Speed dan banyak Costume special lainnya.
+Jika kamu beruntung, kamu bisa mendapatkan Costume Special C Aura Of Thought.
 ^ff0000Item ini tidak bisa di transaksikan.^000000
 Weight : ^7777771^000000
 #
@@ -43010,12 +43010,12 @@ Equip : ^777777Swordman Class,Novice Class,Acolyte Class,Merchant Class^000000
 #
 5985#
 Sebuah Topeng perak yang digunakan oleh para ksatria
-Setiap 1 Base Level Serangan Skill Martyr bertambah 2% 
+Setiap 1 Base Level Serangan Skill Martyr bertambah 2%
 waktu casting Gloria Domini berkurang 2 detik.
 waktu casting Sacrifice berkurang 2 detik.
 MHP + 1%, ASPD +1%.
-Di atas level 100 akan ada tambahan MaxHP +1%, ASPD +1% 
-Di atas level 150 akan ada tambahan MaxHP +1%, ASPD +1% 
+Di atas level 100 akan ada tambahan MaxHP +1%, ASPD +1%
+Di atas level 150 akan ada tambahan MaxHP +1%, ASPD +1%
 Class : ^777777Helmet^000000 Defense : ^7777770^000000
 Location : ^777777Top^000000 Weight : ^77777720^000000
 Required Lv. : ^77777730^000000
@@ -43057,7 +43057,7 @@ Weight : ^7777771^000000
 
 //--------------- Update Costume March 20160310--------------
 17481#
-Kamu bisa mendapatkanC_Decoration_bluerose, C_Pray_Cherry_Blossom dan banyak Costume special lainnya. 
+Kamu bisa mendapatkanC_Decoration_bluerose, C_Pray_Cherry_Blossom dan banyak Costume special lainnya.
 Weight : ^7777771^000000
 #
 20039#
@@ -43089,7 +43089,7 @@ Required Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
 20043#
-Red cherry tree branch that flame has been sleeping 
+Red cherry tree branch that flame has been sleeping
 Class : ^777777Costume Gear^000000
 Location : ^777777Lower ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
@@ -43118,7 +43118,7 @@ Job : ^777777All Jobs^000000
 #
 20047#
 A good-luck charm with cherry blossom on it.
-All state +1£¬Acquired EXP +10%.
+All state +1. Acquired EXP +10%.
 Class : ^777777Costume Gear^000000
 Location : ^777777Middle ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
@@ -43130,4 +43130,55 @@ Class : ^777777Costume Gear^000000
 Location : ^777777Upper ^000000Weight : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
+#
+
+//--------------- Update Splash Rainbow Lucky Egg 20160323--------------
+5919#
+Aksesoris yang sangat indah, semua pandangan akan tertuju padamu.
+auto casting Pneuma Lv1 Saat melakukan serangan fisik.
+Kemungkinan Pneuma Lv1 akan meningkat sesuai dengan tingkat tempa Camellia Hair Pin.
+MDEF +20
+Class : ^777777Helmet^000000 Defense : ^7777770^000000
+Location : ^777777Top ^000000Weight : ^777777100^000000
+Required Level : ^77777750^000000
+Equip : ^777777All Class^000000
+#
+22069#
+Sepatu dengan kekuatan misterius.
+MDEF +3.
+Toleransi serangan netral + 5%.
+Untuk setiap tingkat tempa MAXHP +1%, MAXSP +1% .
+Jika digunakan dengan Lian Shield, Damage yang diterima dari monster berelemen Netral berkurang -5%.
+Untuk setiap tingkat tempa Lian Shield, toleransi serangan netral +1% disetiap tingkat tempa Lian Shield
+Jika digunakan bersamaan dengan Lian Robe, Meningkatan serangan yang diberikan kepada monster berelemen Netral sebesar 5%
+Untuk setiap tingkat tempa dari Lian Robe, MAXHP +1%, MAXSP +1%.
+Class : ^777777Shoes^000000 Defense : ^77777712^000000
+Weight : ^77777725^000000
+Required Level : ^77777790^000000
+Equip : ^777777All Class^000000
+#
+2195#
+Mengurangi Damage yang diterima dari element Netral sebesar 5%
+menerima 5% tambahan damage dari monster jenis formless.
+Jika digunakan bersamaan dengan Lian Robe untuk setiap tingkat tempa Lian Shield Memberikan 1% serangan fisik kepada monster berelemen netral.
+Untuk setiap tingkat tempa Lian Robe, akan mengurangi 1% serangan dari monster jenis formless.
+Class : ^777777Shield^000000 Defense : ^77777750^000000
+Weight : ^777777130^000000
+Required Level : ^77777765^000000
+Equip : ^777777All Class^000000
+#
+20753#
+Mengurangi Damage yang diterima dari element Netral sebesar 5%
+menerima 5% tambahan damage dari monster jenis formless.
+Jika digunakan bersamaan dengan Lian Shield untuk setiap tingkat tempa Lian Shield Memberikan 1% serangan fisik kepada monster berelemen netral.
+Untuk setiap tingkat tempa Lian Robe, akan mengurangi 1% serangan dari monster jenis formless.
+Class : ^777777Shirt^000000 Defense : ^77777720^000000
+Weight : ^77777770^000000
+Required Level : ^77777765^000000
+Equip : ^777777All Class^000000
+#
+17674#
+Splash Rainbow Lucky Egg
+Kamu bisa mendapatkan Lian Shield, Lian Shoes, Lian Robe, Camellia Hair Pin & item item spesial lain nya.
+Weight : ^7777771^000000
 #

@@ -6763,3 +6763,10 @@
 20046#Hairband#
 20047#Hairband#
 20048#Hairband#
+
+//--------------- Update Splash Rainbow Lucky Egg 20160323---------------
+5919#Hat#
+22069#Shoes#
+2195#Shield#
+20753#Robe#
+17674#Rainbow_Lucky_Scroll#

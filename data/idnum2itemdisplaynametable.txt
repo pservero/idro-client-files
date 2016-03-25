@@ -6695,3 +6695,10 @@
 20046#C_Decoration_bluerose#
 20047#C_Pray_Cherry_Blossom#
 20048#C_Wind_Of_The_Prairie#
+
+//--------------- Update Splash Rainbow Lucky Egg 20160323---------------
+5919#Camellia_Hair_Pin#
+22069#Lian_Shoes#
+2195#Lian_Shield#
+20753#Lian_Robe#
+17674#Splash_Rainbow_Lucky_Egg#

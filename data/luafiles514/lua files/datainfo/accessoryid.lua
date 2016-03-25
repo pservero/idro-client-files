@@ -1458,5 +1458,14 @@ ACCESSORY_IDs = {
 	ACCESSORY_Two_Tone_Beret = 1465,
 	ACCESSORY_Monochrome_RibbonHat = 1466,
 	ACCESSORY_Glasses_Without_Lens = 1467,
-	ACCESSORY_Crimson_Ribbon = 1468
+	ACCESSORY_Crimson_Ribbon = 1468,
+	ACCESSORY_SweetChocolate_Hat = 1469,
+	ACCESSORY_PureWhite_Marching_Hat = 1470,
+	ACCESSORY_Necklace_Rosary = 1471,
+	ACCESSORY_C_Twin_Margaret = 1472,
+	ACCESSORY_C_Floral_Waltz = 1473,
+	ACCESSORY_C_Pope_Ribbon = 1474,
+	ACCESSORY_C_Pope_Crown = 1475,
+	ACCESSORY_C_Full_Bloom_Hp_Blue = 1476,
+	ACCESSORY_Cylinder_Hairband = 1477,
 }

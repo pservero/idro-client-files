@@ -32870,3 +32870,20 @@ Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 20048#
 Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
 #
+
+//--------------- Update Splash Rainbow Lucky Egg 20160323---------------
+5919#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+22069#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+2195#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+20753#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+17674#
+Rainbow_Lucky_Scroll.
+#

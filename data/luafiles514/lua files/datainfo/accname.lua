@@ -1454,5 +1454,14 @@ AccNameTable = {
 	[ACCESSORY_IDs.ACCESSORY_Two_Tone_Beret] = "_투톤베레모",
 	[ACCESSORY_IDs.ACCESSORY_Monochrome_RibbonHat] = "_모노크롬리본햇",
 	[ACCESSORY_IDs.ACCESSORY_Glasses_Without_Lens] = "_렌즈없는패션안경",
-	[ACCESSORY_IDs.ACCESSORY_Crimson_Ribbon] = "_진홍색리본"
+	[ACCESSORY_IDs.ACCESSORY_Crimson_Ribbon] = "_진홍색리본",
+	[ACCESSORY_IDs.ACCESSORY_SweetChocolate_Hat] = "_달콤한초콜릿모자",
+	[ACCESSORY_IDs.ACCESSORY_PureWhite_Marching_Hat] = "_순백의마칭햇",
+	[ACCESSORY_IDs.ACCESSORY_Necklace_Rosary] = "_로자리오목걸이",
+	[ACCESSORY_IDs.ACCESSORY_C_Twin_Margaret] = "_C트윈마가레트",
+	[ACCESSORY_IDs.ACCESSORY_C_Floral_Waltz] = "_C꽃의왈츠",
+	[ACCESSORY_IDs.ACCESSORY_C_Pope_Ribbon] = "_C교황의리본",
+	[ACCESSORY_IDs.ACCESSORY_C_Pope_Crown] = "_C교황의관",
+	[ACCESSORY_IDs.ACCESSORY_C_Full_Bloom_Hp_Blue] = "_C앵화난만의비녀파랑",
+	[ACCESSORY_IDs.ACCESSORY_Cylinder_Hairband] = "_시험관헤어밴드",
 }

@@ -1225,7 +1225,7 @@
 12018#Kembang_Api#
 
 // ---- For 2005 Valentine Day Event -------
- 
+
 573#Chocolate_Drink#
 7182#Cacao#
 558#Chocolate#
@@ -1846,7 +1846,7 @@
 7329#Old_Bronze_Key#
 5104#Headgear#
 
-// test item 
+// test item
 12021#Animal_Meat#
 12022#Galbi#
 // ------- 중국1주년,2주년 이벤트 아이템  Chinese item --------
@@ -2088,7 +2088,7 @@
 7351#Friend's_Diary#
 2658#Nile_Rose#
 
-// -------- Ancient Relics, Juperos ---------- 
+// -------- Ancient Relics, Juperos ----------
 
 7352#Transparent_Plate#
 7353#Transparent_Plate#
@@ -2116,7 +2116,7 @@
 2662#Accessory#
 12040#Stone_of_Sage#
 
-// -- Jewel MOnster 
+// -- Jewel MOnster
 7575#Red_Jewel#
 7576#Blue_Jewel#
 7577#Golden_Jewel#
@@ -2329,7 +2329,7 @@
 
 7483#Key_of_the_Seal#
 
-// ----------monster hunter---------- 
+// ----------monster hunter----------
 
 7618#Monster_Crystal#
 2676#Accessory#
@@ -3141,39 +3141,39 @@
 5356#Cap#
 //----------- 2007 Remembrance Day ------
 7906#Poppy_Wreath#
-// -------- 2007 일본 연말 캐쉬아이템 ----------				
-5380#Cap#				
-5381#Cap#				
-5382#Ribbon#				
-13902#Fish_Head_Hat_Box#				
-13903#Santa_Poring_Box#				
-13904#Bell_Ribbon_Box#	
-//----- Russian Items -----------			
-591#Caviar_Pancake#		
-592#Jam_Pancake#		
-593#Honey_Pancake#		
-594#Sour-Cream_Pancake#		
-595#Mushroom_Pancake#	
-// ----- 크리스마스 이벤트 산타 수염 --------			
-5811#Santa_Beard#			
-7908#Louise's_Beauty_Coupon#			
-7909#Stolen_Cookie#			
-7910#Stolen_Candy#			
-7911#Yulia's_Hat#	
-12702#Old_Navy_Box#		
+// -------- 2007 일본 연말 캐쉬아이템 ----------
+5380#Cap#
+5381#Cap#
+5382#Ribbon#
+13902#Fish_Head_Hat_Box#
+13903#Santa_Poring_Box#
+13904#Bell_Ribbon_Box#
+//----- Russian Items -----------
+591#Caviar_Pancake#
+592#Jam_Pancake#
+593#Honey_Pancake#
+594#Sour-Cream_Pancake#
+595#Mushroom_Pancake#
+// ----- 크리스마스 이벤트 산타 수염 --------
+5811#Santa_Beard#
+7908#Louise's_Beauty_Coupon#
+7909#Stolen_Cookie#
+7910#Stolen_Candy#
+7911#Yulia's_Hat#
+12702#Old_Navy_Box#
 //-------- 2008 USA Jan event -------
-7912#Portable_Snowman_Machine#	
+7912#Portable_Snowman_Machine#
 //--------- 2008 Lunar New Year Event -----------
-// ----------- 대만 펫 추가 ------------------				
-9038#New_Year_Doll_Egg#				
-7869#Rice_Pouch#				
-554#Mojji#				
-663#Korean Rice Cake#								
-7770#Sweet_Rice#				
-12195#Plain_Rice_Cake#				
-12196#Hearty_Rice_Cake#				
-12197#Salty_Rice_Cake#				
-12198#Lucky_Rice_Cake#				
+// ----------- 대만 펫 추가 ------------------
+9038#New_Year_Doll_Egg#
+7869#Rice_Pouch#
+554#Mojji#
+663#Korean Rice Cake#
+7770#Sweet_Rice#
+12195#Plain_Rice_Cake#
+12196#Hearty_Rice_Cake#
+12197#Salty_Rice_Cake#
+12198#Lucky_Rice_Cake#
 
 // ---------------------- 용병소환서 -------------------------------
 
@@ -3351,11 +3351,11 @@
 4440#Necromancer_Card#
 4441#Fallen_Bishop_Card#
 
-//----------------- Indonesia Mercenary contract document ----------------			
-14293#Bodyguard_Contract_Box#			
-14294#Bodyguard_Contract_5Box#			
-14295#Bodyguard_Contract_10Box#			
-6050#Bodyguard_Contract#			
+//----------------- Indonesia Mercenary contract document ----------------
+14293#Bodyguard_Contract_Box#
+14294#Bodyguard_Contract_5Box#
+14295#Bodyguard_Contract_10Box#
+6050#Bodyguard_Contract#
 
 
 //--------- Rental Items Agustus 2008 ----------------
@@ -4733,7 +4733,7 @@
 5558#Hat#
 5554#Hat#
 
-// --------- Dewata (Indonesia Localizing) -------------	
+// --------- Dewata (Indonesia Localizing) -------------
 15032#Armor#
 18520#Hat#
 13067#Dagger#
@@ -5936,7 +5936,7 @@
 13085#Volcano_Knife#
 17435#Legend_Hero_Lucky_Egg#
 
-//소켓 아이템 데이터 
+//소켓 아이템 데이터
 
 1317#One-handed Axe#
 18105#Bow #
@@ -6296,7 +6296,6 @@
 5422#Hat#
 
 //--------------- Update Cashitem 20140917 ---------------
-5918#Accessory#
 5920#Shoes#
 18934#Hairband#
 2597#Costume#
@@ -6556,6 +6555,7 @@
 28372#Accessory#
 17628#Cyborg_Lucky_Scroll#
 
+
 //--------------- Update WOE TE 20151007--------------
 1299#TE_Woe_Katarr#
 1319#TE_Woe_Axe#
@@ -6770,3 +6770,79 @@
 2195#Shield#
 20753#Robe#
 17674#Rainbow_Lucky_Scroll#
+
+//--------------- Update Animal Costume Scroll 20160413---------------
+17517#Animal Costume Scroll#
+19842#Headgear#
+20190#Hat#
+20191#Hairband#
+20192#Accessory#
+20193#Accessory#
+20194#Mask#
+20196#Hat#
+20197#Hat#
+20198#Hairband#
+
+//--------------- Update Limited Elemental Shield 20160427---------------
+28906#Shield#
+28907#Shield#
+28908#Shield#
+28909#Shield#
+2998#Accessory#
+
+//--------------- Update Midgard Lucky Scroll20160504---------------
+5918#Accessory#
+20404#Hairband#
+20407#Hat#
+17681#Midgard Scroll#
+
+//--------------- Update Shapeshifter Costume Scroll 20160517---------------
+14735#Costama_Egg22#
+19827#Hat#
+19831#Hat#
+19835#Hat#
+19839#Hat#
+19853#Hat#
+20065#Hairband#
+20066#Hairband#
+20069#Hairband#
+20070#Hat#
+20071#Accessory#
+
+//--------------- Update Feather Costume Scroll 20160531---------------
+17493#Costama_Egg23#
+20075#Hat#
+20076#Accessory#
+20077#Hat#
+20078#Hat#
+20079#Helm#
+20080#Hat#
+20098#Hair Band#
+20100#Hat#
+20101#Accessory#
+
+//--------------- Update Blessing Scarlet Scroll 20160607--------------
+20405#Accessory#
+20406#Accessory#
+19109#Accessory#
+19111#Hairband#
+17692#Lucky Scroll#
+
+//--------------- Update limited item mall june 20160621--------------
+5917#Accessory#
+28410#Accessory#
+28411#Accessory#
+28358#Accessory#
+18575#Hat#
+18521#Hat#
+
+//--------------- Update limited item mall Juli 20160719------------
+20268#Hat#
+20240#Accessory#
+20285#Accessory#
+20312#Glasses#
+
+//--------------- Update July Lucky Scroll 20160726------------
+19116#Cap#
+22103#Shoes#
+14805#July Lucky Scroll#

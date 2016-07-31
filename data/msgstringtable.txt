@@ -1463,7 +1463,7 @@ Penghapusan tidak bisa untuk level diatas %d#
 Tidak bisa dipakai bersama Magic Armor#
 Dragon telah dilepas#
 Magic Armor telah dilepas#
-Barang#
+Item#
 Item Mall#
 Armor#
 Senjata#
@@ -1909,7 +1909,7 @@ akan ditutup karena nomor pin yang salah masukan untuk 3 kali #
 ITEM#
 SKILL#
 TAKTIK#
-Dll#
+Etc#
 BERTEMPUR#
 DAMAI#
 BUFF#
@@ -2048,9 +2048,9 @@ Silahkan Menuliskan grup kedalam Memo.#
 Hanya ketua grup yang dapat menambahkan iklan grup.#
 Hal ini sudah ditambahkan kedalam iklan grup.#
 isi#
-Equip.#
-Indi.#
-Mengunci item yang dilempar#
+Equip#
+Fav#
+Lock Item#
 Notifikasi untuk mencari bagian grup#
 Mengorganisasikan sebuah grup#
 Keluar grup#
@@ -2161,9 +2161,9 @@ Tanpa batasan#
 [Anda harus bergabung kedalam guild.]#
 [hanya ketua guild yang bisa mendaftar.]#
 [terlalu banyak anggota guild yang login.]#
-book the transfer#
-transfer#
-Perubahan nama#
+Move character slot#
+Move#
+Ubah nama karakter#
 Membuat karakter#
 http://ro.tahadi.com/en/game-guide#
 %s Server#

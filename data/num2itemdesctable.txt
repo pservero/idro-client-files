@@ -4592,7 +4592,6 @@ Kue dengan krim yang manis di atasnya, terbagi sepotong-sepotong. Memberikan sej
 Berat : ^77777710^000000
 #
 // ---- Ep 3.0 Comodo ----------------
-
 7038#
 Pintalan benang berwarna putih dan sangat halus.
 Berat : ^7777771^000000
@@ -4770,8 +4769,6 @@ Kue yang terbuat dari nasi dengan 3 warna, yaitu merah, putih, dan hijau.
 Berat : ^7777771^000000
 #
 // ---- EP 4.0 Turtle Island -----------
-
-
 544#
 Sepotong daging ikan yang sangat segar, rasanya pun seperti laut.
 Berat : ^7777775^000000
@@ -5113,7 +5110,6 @@ Dengan barang ini,kamu bisa memeriahkan suasana dalam satu perayaan gembira. Bar
 Berat : ^7777772^000000
 #
 // --------- For 2005 Valentine Day Event ----------
-
 573#
 Cairan yang terbuat dari coklat yang ditaruh dalam wadah berbentuk hati.
 Biasanya barang ini diberikan kepada seseorang yang kamu sayang atau bisa juga kamu minum sendiri.
@@ -5139,7 +5135,6 @@ Berat : ^7777772^000000
 #
 
 // ---- EP 5.0 ?? - ???? ??? ?? -----------
-
 2110#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
@@ -5952,7 +5947,6 @@ Obat bulat berwarna hitam. Dengan melihatnya saja, sudah dapat diketahui seberap
 Berat : ^7777771^000000
 #
 // ----------- X-mas event -----------------------
-
 7174#
 Pita berwarna merah yang sepertinya berguna untuk mengikat kotak hadiah.
 ^ffffff_^000000
@@ -5994,7 +5988,6 @@ Kotak seperti hadiah natal. Tidak ada yang tahu isinya.
 Berat : ^77777720^000000
 #
 //------------------------new hat---------------------
-
 5057#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
@@ -6110,7 +6103,6 @@ Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
 //------------------??? ???-------------
-
 574#
 Telur yang berasal dari burung yang mengandung protein tinggi dan sangat sehat untuk dikonsumsi. ^000088Memberikan sejumlah HP^000000.
 ^ffffff_^000000
@@ -6122,20 +6114,17 @@ Telur yang biasanya dihias oleh anak-anak untuk merayakan hari Paskah. ^000088Bi
 Berat : ^77777715^000000
 #
 // ---- New Novice training ground(2) =====
-
 569#
 Hanya untuk Novice, ramuan yang mengembalikan ^000088sedikit HP^000000.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 // --- Jawaii ------------------------------
-
 681#
 Album foto yang menyimpan kenangan bulan madu kalian. Kamu akan merasakan kehangatan pada saat membukanya kembali.
 (hanya dipakai oleh orang yang sudah menikah.)
 #
 // ------???????------
-
 7252#
 Obat dari daratan primitif timur, terbuat dari ramuan tumbuhan dan daging binatang yang telah disesuaikan dengan konsep harmoni.
 ^ffffff_^000000
@@ -6152,7 +6141,6 @@ Obat yang terkenal khasiatnya selama beribu-ribu tahun di daratan timur.
 Berat : ^77777730^000000
 #
 // ------???????2------
-
 7262#
 Peralatan sederhana yang dapat menimbulkan angin. Sangat berguna apabila dipakai di musim panas.
 ^ffffff_^000000
@@ -6292,7 +6280,6 @@ Type : ^777777Pet Egg^000000
 Berat : ^7777770^000000
 #
 //--------------2?? RO ???-----------------
-
 575#
 Potongan kue Ulang Tahun. Dapat menyembuhkan sedikit HP.
 Berat : ^77777710^000000
@@ -6301,7 +6288,6 @@ Berat : ^77777710^000000
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
 //--------------RBO ???-----------------
-
 5102#
 Barang tidak diketahui, Bisa dispesifikasi dengan [Magnifier].
 #
@@ -6547,7 +6533,6 @@ Quiver yang berisi 500 rusty arrow.
 Berat : ^77777725^000000
 #
 //-------2005 Indonesia Independence Event --------
-
 7399#
 Sebuah potongan kartu ucapan yang bertuliskan kata 'selamat'.
 ^ffffff_^000000
@@ -6579,7 +6564,6 @@ Sebuah potongan kartu ucapan yang bertuliskan kata 'ke-63'.
 Berat : ^7777771^000000
 #
 //-------O/X Quiz Event --------
-
 7280#
 Tiket pertama agar bisa mengikuti Quiz.
 ^ffffff_^000000
@@ -6606,14 +6590,12 @@ Tiket kelima agar bisa mengikuti Quiz.
 Berat : ^7777771^000000
 #
 //------------????? MVP summon event----------------
-
 7415#
 Suatu benda yang memiliki kekuatan sihir yang biasanya dipakai untuk upacara ritual tertentu.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 //------------2005 ??? event----------------
-
 5134#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier].
 #
@@ -6702,7 +6684,6 @@ Jika kamu memakannya akan meningkatkan ATK dan MATK sebesar 10 untuk sementara w
 Berat : ^7777777^000000
 #
 //------------2005 ??? event----------------
-
 7459#
 Sebuah kartu yang unik yang biasanya digunakan untuk memberikan Ucapan selamat hari raya idul fitri.
 ^ffffff_^000000
@@ -6713,7 +6694,7 @@ Masakan tradisional yang terbuat dari ketupat yang dihidangkan untuk merayakan h
 ^ffffff_^000000
 Berat : ^77777715^000000
 #
-//hallowen spesial
+// hallowen spesial
 560#
 Sebuah kue Tart yang bertuliskan kata cinta ditengahnya, sangat romantis dan cocok untuk diberikan pada kekasihmu.
 Berat : ^77777780^000000
@@ -6739,7 +6720,6 @@ Berat : ^77777730^000000
 #
 
 // ------- Mother's Day Indonesia --------
-
 2646#
 Barang tidak diketahui, bisa dispesifikasi dengan [Magnifier]
 #
@@ -15305,7 +15285,7 @@ Sebuah kotak yang berisi 1 Unholy Touch. Hati-hati dalam memakainya!
 Berat : ^7777771^000000
 #
 13778#
-Sebuah kotak yang berisi 1 Orc Hero’s Helm. Hati-hati dalam memakainya!
+Sebuah kotak yang berisi 1 Orc Hero? Helm. Hati-hati dalam memakainya!
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
@@ -16993,6 +16973,7 @@ Item tidak diketahui, bisa dikenali dengan menggunakan [Magnifier].
 2430#
 Item tidak diketahui, bisa dikenali dengan menggunakan [Magnifier].
 #
+
 5243#
 Topi yang terbuat dari bulu hewan. Dapat berfungsi untuk menghangatkan kepala dan telingamu di musim dingin.
 Sebaiknya digunakan pada daerah yang dingin. Meningkatkan toleransi terhadapat status Freeze sebesar 10%.
@@ -19954,7 +19935,7 @@ Item Penjualan Splendide
 Berat : ^7777771^000000
 
 //book Folder Translated
-//%f5f5dc
+%f5f5dc
 ^000088Item Penjualan Splendide^000000
 
 Kamu bisa membeli beberapa item berikut menggunakan Splandide Coin.
@@ -19987,7 +19968,7 @@ Item Penjualan Manuk
 Berat : ^7777771^000000
 
 //book Folder Translated
-//%f5f5dc
+%f5f5dc
 ^000088Item Penjualan Manuk^000000
 
 Kamu bisa membeli beberapa item berikut menggunakan Manuk Coin.
@@ -22874,8 +22855,8 @@ Jenis : ^777777Headgear^000000 Defense : ^7777776^000000
 posisi: ^777777Mid-Lower ^000000 Berat : ^77777710^000000
 Level Persyaratan : ^777777100^000000
 Jobs : ^777777Guillotine cross^000000
-#
 
+#
 5756#
 Topi untuk upacara ritual yang dibuat dari bulu burung suci
 INT + 1, DEX + 1, MDEF + 5.
@@ -28590,6 +28571,8 @@ Profesi: ^777777Semua Job^000000
 Berat : ^7777771^000000
 #
 
+
+
 18570#
 Sebuah hiasan rambut yang memiliki kekuatan ancient magic dan terbuat dari emas. Kekuatan nya dapat berubah tergantung dengan Profesi si pengguna
 jika base level 150, maka akan menambahkan seluruh Stat + 2
@@ -30976,9 +30959,6 @@ Item tidak diketahui. Dapat diidentifikasi menggunakan [Magnifier]
 #
 
 //--------------- Update Cashitem 20140917 ---------------
-5918#
-Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
-#
 5920#
 Item tidak diketahui. Dapat diidentifikasikan menggunakan [Magnifier]
 #
@@ -32210,379 +32190,6 @@ Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 Undine_Lucky_Egg
 #
 
-//--------------- Update WOE TE 20151007 ---------------
-1299#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1319#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1399#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1437#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1495#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1530#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1591#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1667#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1834#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1932#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-1987#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2019#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2020#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2021#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2178#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2179#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2180#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2181#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2182#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2410#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2496#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2497#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2498#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2629#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2630#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2944#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2945#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2946#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-6592#
-Sebuah kotak kayu kecil yang ditemukan di Markas Guild. Berisi sesuatu yang sangat berharga bagi seseorang.
-Berat: ^7777771^000000
-#
-6594#
-Sebuah bronze ingot  berisi sihir Rune yang kuat.
-Berat: ^777777100^000000
-#
-6595#
-Palu Blacksmith Velund
-Peluh keringat menunjukkan seringnya digunakan
-Berat: ^77777750^000000
-#
-6596#
-Anvil Blacksmith Velund
-Semua senjata legendaris dan armor yang dibuat oleh Velund tercipta di Anvil ini
-Berat: ^777777200^000000
-#
-6597#
-Velund membuat gelang indah ini untuk istri tercinta.
-Berat: ^77777750^000000
-#
-6598#
-ib ini diambil dari ular raksasa, Jormungand,  menawarkan ukuran yang luar biasa dan daya tahan.
-Berat: ^7777771000^000000
-#
-6599#
-The spirit of Hugin, Odin's familiar crow yang mengatur ingatan dan memberi bentuk
-Ini memiliki kemampuan untuk menekan kekuatan magis Jormungand.
-Berat: ^77777710^000000
-#
-6600#
-The spirit of Hugin, Odin's familiar crow yang mengatur ingatan dan memberi bentuk
-Ini memiliki kemampuan untuk menekan kekuatan magis Jormungand.
-Berat: ^77777710^000000
-#
-6601#
-Pahat ini dapat mengukir dan membentuk bahkan untuk batu terkuat. Terlalu besar untuk tangan yang lebih kecil daripada raksasa.
-Berat: ^777777100^000000
-#
-6602#
-Buku tua ini diisi dengan berbagai mantra Rune yang dapat memanggil Odin.
-Berat: ^77777710^000000
-#
-6603#
-Sebuah memo dari bulu tebal yang terputus dari burung raksasa.
-Ini memiliki kemampuan untuk menekan kekuatan magis Jormungand
-Berat: ^77777750^000000
-#
-6604#
-Inti dari mana Rune yang diekstrak dari batu Rune.
-Hanya gemcutter berbakat yang dapat mengeluarkan kekuatan murninya
-Berat: ^7777770^000000
-#
-6605#
-Mineral terkuat Midgard  dimurnikan dan menyatu ke dalam zat ini.
-Ini sangat tahan terhadap api, tetapi sangat sulit untuk proses.
-Berat: ^7777770^000000
-#
-7056#
-Kafra employee's paycheck stub.
-Berat: ^7777775^000000
-#
-11557#
-Hanya dapat digunakan di zona WOE TE
-Sebuah ramuan kesehatan yang terbuat dari white herbs. Restores ^000088325 HP^000000.
-^ffffff_^000000
-Berat: ^77777730^000000
-#
-11558#
-Hanya dapat digunakan di zona WOE TE
-Memiliki efek yang sama dengan TE White Potionm akan tetapi  potion ini sedikit lebih ringan.
-^ffffff_^000000
-Berat: ^77777710^000000
-#
-13083#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-13117#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-13184#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-13185#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-13186#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-13187#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-13317#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-13439#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-15062#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-15063#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-15064#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-16025#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-18118#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-18732#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-18733#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-18734#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-18736#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-20702#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-20703#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-20704#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-21006#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2950#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2951#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2952#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2953#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-2954#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-6615#
-Koin ini dibuat untuk mengingat semua yang telah dicapai oleh guild yang memiliki kastil di Benua midgard.
-Kumpulkan koin ini dan tukar dengan hadiah spesial.
-Berat: ^7777771^000000
-#
-12873#
-^ff0000Tidak dapat ditransaksikan.^000000
-Berisi 10 TE White Slim Potion.
-"^ff0000Peringatan: Isi akan menghilang jika kamu melewati batas berat atau batas jumlah barang pada saat membuka kotak ini.^000000"
-Berat: ^77777710^000000
-#
-12874#
-Dikembangkan oleh Alchemy Union dari Three Countries, obat baru ini memberikan kekuatan super, meski hanya untuk sementara waktu.
-Mengambil 3,000 HP kamu dan sebagai gantinya, meningkatkan serangan Fisik/Magic pada musuh sebesar 100% selama 10 detik.
-Berat: ^77777710^000000
-Membutuhkan level : ^77777780^000000
-#
-12875#
-Dikembangkan oleh Alchemy Union dari Three Countries, obat baru ini memberikan kekuatan super, meski hanya untuk sementara waktu.
-Mengambil 3,000 SP kamu dan sebagai gantinya, mengurangi serangan diterima sebesar 50% selama 10 detik.
-Berat: ^7777771^000000
-Membutuhkan level : ^77777780^000000
-#
-12876#
-Ahli obat kelas satu Vincent yang membuat potion ini.
-Memberikan kekuatan manusia super, meski hanya sementara.
-Mengambil 3,000 HP kamu dan sebagai gantinya, membuat kamu kebal terhadap Stun selama 10 detik.
-Berat: ^7777771^000000
-#
-12877#
-Ahli obat kelas satu Vincent yang membuat potion ini.
-Memberikan kekuatan manusia super, meski hanya sementara.
-Mengambil 3,000 HP kamu dan sebagai gantinya, membuat kamu kebal terhadap Petrification selama 10 detik.
-Berat: ^7777771^000000
-#
-12878#
-Ahli obat kelas satu Vincent yang membuat potion ini.
-Memberikan kekuatan manusia super, meski hanya sementara.
-Mengambil 3,000 HP kamu dan sebagai gantinya, membuat kamu kebal terhadap Frost selama 10 detik.
-Berat: ^7777771^000000
-#
-12879#
-Ahli obat kelas satu Vincent yang membuat potion ini.
-Memberikan kekuatan manusia super, meski hanya sementara.
-Mengambil 3,000 HP kamu dan sebagai gantinya,membuat kamu kebal terhadap Sleep selama 10 detik.
-Berat: ^7777771^000000
-#
-12880#
-Ahli obat kelas satu Vincent yang membuat potion ini.
-Memberikan kekuatan manusia super, meski hanya sementara.
-Mengambil 3,000 HP kamu dan sebagai gantinya,membuat kamu kebal terhadap Curse selama 10 detik.
-Berat: ^7777771^000000
-#
-12881#
-Ahli obat kelas satu Vincent yang membuat potion ini.
-Memberikan kekuatan manusia super, meski hanya sementara.
-Mengambil 3,000 HP kamu dan sebagai gantinya,membuat kamu kebal terhadap Silence selama 10 detik.
-Berat: ^7777771^000000
-#
-12882#
-Ahli obat kelas satu Vincent yang membuat potion ini.
-Memberikan kekuatan manusia super, meski hanya sementara.
-Mengambil 3,000 HP kamu dan sebagai gantinya,membuat kamu kebal terhadap Blind selama 10 detik.
-Berat: ^7777771^000000
-#
-12888#
-^ff0000Tidak dapat ditransaksikan.^000000
-Kotak ini memberikan banyak barang yang berguna bagi guild secara acak.
-"^ff0000Peringatan: Isi akan menghilang jika kamu melewati batas berat atau batas jumlah barang pada saat membuka kotak ini.^000000"
-Berat: ^77777710^000000
-#
-15067#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-18755#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-19585#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-20709#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-22012#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-12399#WOE Treasure Box.
-Weight : ^777777100^000000
-#
-
-//--------------- Update CASH ITEM 20151007 ---------------
-5966#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-5967#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-5968#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-5969#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-
-28321#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-4876#
-When doing magical attack, you will get "Runaway_Magic" energy with a low probability for 10 seconds but you will consum 200 SP at every second.
-When you choose not to wear it, you will lose SP 2000.
-#
-4517#
-INT + 2, if you are magician, INT +1 will be given at every 3 refine level
-Class : ^777777Card^000000
-Class : ^777777Helm^000000
-Weight : ^7777771^000000
-#
-
-//--------------- Update Undine Lucky Scroll 20151013---------------
-20324#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-20325#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-28903#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-19082#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
-#
-17633#
-Undine_Lucky_Egg
-#
-
 //--------------- Update Halloween 20151028--------------
 20397#
 Unknown item. Can be identified by Magnifier.
@@ -32614,54 +32221,53 @@ Belum diketahui apa yang ada di dalam scroll. Tapi kamu pasti akan terkejut
 Weight : ^7777771^000000
 #
 19780#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19826#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19985#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19986#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19987#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19988#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19989#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19990#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19991#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 19992#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 
 //--------------- Update Smithy Lucky Egg 20151216---------------
 20033#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20783#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 28377#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 5973#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 17659#
 Ganymede_Lucky_Egg
 weight : ^7777771^000000
 #
-
 
 //--------------- Update Christmas 20151223---------------
 20798#
@@ -32710,43 +32316,43 @@ Weight : ^7777770^000000
 ^ff0000Not able to trade with others.^000000
 Potion for Novice! ^000088 Small amount of HP will be^000000 recovered
 ^ffffff_^000000
-Weight: ^7777771^000000
-Price  0
+weight : ^7777771^000000
+Price : 0
 #
 
 //--------------- Update Costume Seaside 20160106---------------
 17497#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20105#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20106#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20107#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20108#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20109#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20112#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20113#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20115#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20116#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 20117#
-Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier 
+Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 #
 
 //--------------- Update Last Angel Lucky Egg 20160120---------------
@@ -32754,16 +32360,16 @@ Tidak diketahui. Dapat diidentifikasi menggunakan Magnifier
 Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 18867#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 5971#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 5972#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 17665#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 
 
@@ -32773,39 +32379,39 @@ Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 Weight : ^7777771^000000
 #
 19584#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 19884#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20005#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20006#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20007#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20008#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20009#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20010#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20011#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20012#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 
 //--------------- Update Valentine 20160217---------------
 20470#
-Unknown item. Can be identified by using a [Magnifier] 
+Unknown item. Can be identified by using a [Magnifier]
 #
 6345#
 Lovely light have been gathered with various colors.
@@ -32814,24 +32420,24 @@ weight: ^7777770^000000
 
 //--------------- Update grandprize Costume 20160217---------------
 5914#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 5979#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 
 //--------------- Update Valkyrie Lucky Egg 20160224---------------
 16051#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 5985#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 28386#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20797#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 17671#
 Valkyrie_Lucky_Scroll.
@@ -32841,49 +32447,248 @@ Valkyrie_Lucky_Scroll.
 17481#
 #
 20039#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20040#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20041#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20042#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20043#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20044#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20045#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20046#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20047#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20048#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 
 //--------------- Update Splash Rainbow Lucky Egg 20160323---------------
 5919#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 22069#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 2195#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 20753#
-Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 #
 17674#
 Rainbow_Lucky_Scroll.
+#
+
+//--------------- Update Animal Costume Scroll 20160413---------------
+17517#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19842#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20190#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20191#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20192#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20193#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20194#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20195#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20196#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20197#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20198#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+
+//--------------- Update Limited Elemental Shield 20160427---------------
+28906#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+28907#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+28908#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+28909#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+2998#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+
+//--------------- Update Midgard Lucky Scroll 20160504--------------
+5918#
+Unable to appraise. Able to appraise with [Magnifying Glass]
+#
+20404#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20407#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+17681#
+Midgard Lucky Egg
+Weight : ^7777771^000000
+#
+
+//--------------- Update Shapeshifter Costume Scroll 20160517---------------
+14735#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19827#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19831#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19835#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19839#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19853#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20065#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20066#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20069#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20070#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20071#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+
+//--------------- Update Feather Costume Scroll 20160531---------------
+17493#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20075#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20076#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20077#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20078#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20079#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20080#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20098#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20100#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20101#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+
+
+//--------------- Update Blessing Scarlet Scroll 20160607---------------
+20405#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+20406#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19109#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+19111#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+17692#
+Weight : ^7777771^000000
+#
+
+//--------------- Update limited item mall june 20160621---------------
+5917#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+28410#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+28411#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+28358#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+18575#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+18521#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
+#
+
+//--------------- Update limited item mall July 20160719---------------
+20268#
+Unable to appraise. Able to appraise with [Magnifying Glass]
+#
+20240#
+Unable to appraise. Able to appraise with [Magnifying Glass]
+#
+20285#
+Unable to appraise. Able to appraise with [Magnifying Glass]
+#
+20312#
+Unable to appraise. Able to appraise with [Magnifying Glass]
+#
+
+//--------------- Update July Lucky Egg 20160722---------------
+19116#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+22103#
+Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier] 
+#
+14805#
+^ff0000Unable to exchange the item with other user^000000
+Almighty Lucky Scroll
+Weight : ^7777771^000000
 #

@@ -6846,3 +6846,14 @@
 19116#Cap#
 22103#Shoes#
 14805#July Lucky Scroll#
+
+//--------------- Update August Costume Scroll 20160809------------
+17523#Costama_Mystic#
+19615#Mask#
+20213#Glasses#
+20214#Headgear#
+20215#Glasses#
+20216#Hat#
+20217#Headgear#
+20219#Headgear#
+20221#Hat#

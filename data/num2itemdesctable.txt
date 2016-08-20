@@ -32692,3 +32692,34 @@ Item tidak diketahui. Dapat di identifikasi menggunakan [Magnifier]
 Almighty Lucky Scroll
 Weight : ^7777771^000000
 #
+
+//--------------- Update August Costume Scroll 20160809---------------
+17523#
+You will never know what's in it, but there is something amazing.
+^ff0000It cannot be traded with other accounts.^000000
+Weight : ^7777771^000000
+#
+19615#
+Unidentiy. it can be identifed with [Magnifier].
+#
+20213#
+Unidentiy. it can be identifed with [Magnifier].
+#
+20214#
+Unidentiy. it can be identifed with [Magnifier].
+#
+20215#
+Unidentiy. it can be identifed with [Magnifier].
+#
+20216#
+Unidentiy. it can be identifed with [Magnifier].
+#
+20217#
+Unidentiy. it can be identifed with [Magnifier].
+#
+20219#
+Unidentiy. it can be identifed with [Magnifier].
+#
+20221#
+Unidentiy. it can be identifed with [Magnifier].
+#

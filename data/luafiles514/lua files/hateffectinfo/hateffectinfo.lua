@@ -132,5 +132,3 @@ GetHatEffectID = function(index)
   end
   return -1
 end
-
-

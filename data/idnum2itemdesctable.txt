@@ -44302,14 +44302,14 @@ Job : ^777777All classes^000000
 20404#
 Kostum malaikat yang bercahaya
 Cahayanya terasa sangat nyaman
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Mid ^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All classes^000000
 #
 20407#
 Tubuh seperti terselimuti kekuatan misterius.
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Bottom ^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All classes^000000
@@ -44471,14 +44471,14 @@ Job : ^777777All Jobs^000000
 20405#
 Ripped red scarf
 It seems like Eremes Guile's who is observed in biological engineering lab.
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Bottom ^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All class^000000
 #
 20406#
 Commandments Of Chain
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Mid ^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All class^000000
@@ -44575,14 +44575,14 @@ Job : ^777777All class^000000
 20268#
 Costume with sleeping Lunatic and Eclipse rag doll
 It makes you feel sleepy since it warms your head
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Top^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All class^000000
 #
 20240#
 Gift of Snow
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Bottom ^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All class^000000
@@ -44590,14 +44590,14 @@ Job : ^777777All class^000000
 20285#
 Windblown cherry blossoms are surrounding bodies.
 You can enjoy cherry blossoms for a year with it.
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777Bottom ^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All class^000000
 #
 20312#
 Eye patch copied of Mine Baron's  saddle
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
 Location : ^777777stop ^000000Weight : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All class^000000
@@ -44608,7 +44608,7 @@ Job : ^777777All class^000000
 Seekor Naga merah kecil di kepala.
 MaxHP & Max SP +5%.
 Serangan [Dragon Breath] akan meningkat sebesar 5%
-Class : ^777777Equipment^000000 Defense : ^7777770^000000
+Class : ^777777Headgear^000000 Defense : ^7777770^000000
 Location : ^777777Top ^000000Weight : ^77777770^000000
 Required Lv.: ^77777790^000000
 Job : ^777777All class^000000
@@ -44617,7 +44617,7 @@ Job : ^777777All class^000000
 MHP & MSP +5%.
 Jika  BaseLv 130 akan menambahkan MHP & MSP +4%
 Setiap 3 tingkat tempa akan menambahkan MHP & MSP +3%
-Class :  ^777777Shoes^000000 Defense : ^77777713^000000
+Class : ^777777Shoes^000000 Defense : ^77777713^000000
 Weight : ^77777750^000000
 Required Lv. : ^777777100^000000
 Job : ^777777All class^000000

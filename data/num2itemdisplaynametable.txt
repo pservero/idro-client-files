@@ -6857,3 +6857,10 @@
 20217#Headgear#
 20219#Headgear#
 20221#Hat#
+
+//--------------- Update September Lucky Scroll 20160831------------
+19139#ribbon#
+22106#Sandal#
+20815#hoodie#
+19140#cap#
+23196#Shining_Blue_Lucky_Egg#

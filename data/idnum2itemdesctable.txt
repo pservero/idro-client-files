@@ -44705,7 +44705,7 @@ Waktu cast -3%
 
 Jenis : ^777777Helmet^000000 Tk Def : ^7777770^000000
 Posisi : ^777777Bottom ^000000Berat : ^77777730^000000
-Min Lv : ^77777750^000000
+Required Lv : ^77777750^000000
 Job : ^777777Semua Job^000000
 #
 22106#
@@ -44734,7 +44734,7 @@ Serangan dari monster besar -2%
 Serangan dari boss -2%
 Jenis : ^777777Shoes^000000 Tk Def : ^77777713^000000
 Berat : ^77777750^000000
-Min Lv : ^77777785^000000
+Required Lv : ^77777785^000000
 Job : ^777777Semua Job^000000
 #
 20815#
@@ -44759,7 +44759,7 @@ sekaligus maka kamu bisa mengupgrade setiap level dengan
 Serangan dari berelement Holy +3%
 Jenis : ^777777Robe^000000 Tk Def : ^77777718^000000
 Berat : ^77777730^000000
-Min Lv : ^77777790^000000
+Required Lv : ^77777790^000000
 Job : ^777777Semua Job^000000
 #
 19140#
@@ -44793,7 +44793,7 @@ Serangan kritikal +100%
 
 Jenis : ^777777Helmet^000000 Tk Def : ^77777710^000000
 Posisi : ^777777Top ^000000Berat : ^77777720^000000
-Min Lv : ^777777100^000000
+Required Lv : ^777777100^000000
 Job : ^777777Semua Job^000000
 #
 23196#
